@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "E60-200511-00029",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.6.1.1",
+    "loText": "Define 'wind shear' (horizontal or vertical)",
+    "question": "Striženje vetra je...",
+    "answers": [
+      "sprememba hitrosti vetra za več kot 15 kt.",
+      "vertikalno ali horizontalno spreminjanje jakosti in smeri vetra.",
+      "počasno naraščanje hitrosti vetra na višinah nad 13000 ft.",
+      "meteorološki pojav vetra, ki piha navzdol po alpskih dolinah."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00030",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.6.1.2",
+    "loText": "Describe typical meteorological situations in which 'wind shear' may occur",
+    "question": "Kateri vremenski pojav je običajno povezan s striženjem vetra?",
+    "answers": [
+      "Stabilna področja visokega tlaka",
+      "Zimske tople fronte",
+      "Nevihtne zračne mase",
+      "Megla"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00031",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.6.1.2",
+    "loText": "Describe typical meteorological situations in which 'wind shear' may occur",
+    "question": "Kdaj lahko pričakujemo striženje vetra?",
+    "answers": [
+      "Ko prečkamo toplo fronto.",
+      "V rahlem vetru v mrzlem vremenu.",
+      "Na poletni dan v rahlem vetru.",
+      "Med inverzijo."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00032",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.6.1.5",
+    "loText": "Describe the effects of wind shear during final approach with regard to speed and variation from the intended glide path",
+    "question": "Letalo izvaja prilet, ko se pojavi striženje vetra s čelnim vetrom, ki slabi.\nKako se bosta spremenili priletna pot in indicirana hitrost (IAS), če pilot ne bo izvedel nobenega popravka?",
+    "answers": [
+      "Pot bo višja in IAS manjša.",
+      "Pot bo nižja in IAS manjša.",
+      "Pot bo nižja in IAS večja.",
+      "Pot bo višja in IAS večja."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00034",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.6.1.5",
+    "loText": "Describe the effects of wind shear during final approach with regard to speed and variation from the intended glide path",
+    "question": "Letalo izvaja prilet, ko se pojavi striženje vetra s hrbtnim vetrom, ki slabi.\nKako se bosta spremenili priletna pot in indicirana hitrost (IAS), če pilot ne bo izvedel nobenega popravka?",
+    "answers": [
+      "Pot bo višja in IAS večja.",
+      "Pot bo nižja in IAS manjša.",
+      "Pot bo višja in IAS manjša.",
+      "Pot bo nižja in IAS večja."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00041",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.6.2.1",
+    "loText": "Describe flight procedures that can be applied when experiencing strong wind shear during approach and landing",
+    "question": "Kaj lahko storimo, da se izognemo striženju vetra v letu?",
+    "answers": [
+      "Izognemo se vzletanju in pristajanju v goratih območjih in se vedno držimo ravnin, ko je to mogoče.",
+      "Izognemo se območjem padavin, zlasti pozimi, in letimo na majhnih višinah.",
+      "Izognemo se vzletanju in pristajanju med prehodom močnega naliva ali nevihte.",
+      "Izognemo se termično aktivnim območjem, zlasti poleti, ali pa letimo pod njimi."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00051",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.11.1.1",
+    "loText": "Describe the correct procedure when encountering meteorological conditions coming below VMC minima",
+    "question": "Med preletom se vizualni meteorološki pogoji poslabšajo pod minimalne pogoje.\nDa bi nadaljeval let v skladu z minimalnimi vizualnimi pogoji, se pilot odloči...",
+    "answers": [
+      "obrniti in leteti po prejšnji poti, kjer so bili vizualni meteorološki pogoji zadostni.",
+      "nadaljevati let, pri čemer se opira na vremenske napovedi.",
+      "nadaljevati let in med potjo uporabljati radionavigacijske funkcije.",
+      "nadaljevati let, pri čemer si pomaga z navigacijsko podporo, ki mu jo nudi kontrola zračnega prometa."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00060",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.7.3.3",
+    "loText": "Describe procedures to handle wake turbulence at takeoff and landing (e.g. higher approach, later touch down)",
+    "question": "Katera nevarnost obstaja, če ob rahlem bočnem vetru vzletamo, potem ko je pred nami odletelo težko letalo?",
+    "answers": [
+      "Brazdna turbulenca na vzletno-pristajalni stezi ali v njeni bližini.",
+      "Brazdna turbulenca, ki se vrtinči hitreje in višje.",
+      "Brazdna turbulenca, ki postane okrepljena in popačena.",
+      "Brazdna turbulenca, ki zavija prečno na vzletno-pristajalno stezo."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00066",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.4.2.1",
+    "loText": "Describe properties of an outlanding site that should be checked for suitability",
+    "question": "Kakšen teren je najbolj primeren za izvenletališki pristanek?",
+    "answers": [
+      "Jasa z visoko suho travo",
+      "Požeto koruzno polje",
+      "Športno igrišče v vasi",
+      "Zorano polje"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00070",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "61.2.9.1.1",
+    "loText": "Define and explain the differences between 'precautionary landing' and 'emergency landing'",
+    "question": "Previdnostni pristanek je pristanek, ki ga izvedemo...",
+    "answers": [
+      "z uvlečenimi zakrilci.",
+      "brez moči motorja.",
+      "ob nastopu okoliščin, zaradi katerih je zrakoplov prisiljen pristati.",
+      "da bi ohranili varnost leta."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00071",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.4.2.1",
+    "loText": "Describe properties of an outlanding site that should be checked for suitability",
+    "question": "Kateri od naštetih terenov je najprimernejši za izvenletališki pristanek?",
+    "answers": [
+      "Jezero z mirno gladino",
+      "Pašnik brez živine",
+      "Rjavo polje z nizkimi posevki",
+      "Polje z zrelim žitom"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00112",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.4.1.1",
+    "loText": "Explain the concept of 'safe landing option'",
+    "question": "Izvenletališki pristanek je lahko neuspešen, če...",
+    "answers": [
+      "se odločitev sprejme nad minimalno varno višino.",
+      "se prilet izvede na požeto koruzno polje.",
+      "se odločitev za tak pristanek sprejme prepozno.",
+      "se prilet izvede po ustaljenih fazah pristanka."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00113",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.2.1.2",
+    "loText": "Explain the procedures for joining thermals and giving way",
+    "question": "Med kroženjem v termičnih vzgornikih se trkom izognemo...",
+    "answers": [
+      "s hitrim priletom v vzgornik in hitrim potegom višinskega krmila, da zmanjšamo hitrost.",
+      "z izmeničnim kroženjem v nasprotno smer na različnih višinah.",
+      "tako da usklajujemo premike letala z ostalimi zrakoplovi, ki krožijo v istem vzgorniku.",
+      "s posnemanjem premikov jadralnega letala pred sabo."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00158",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.1.3.1",
+    "loText": "Describe a safe and adequate procedure for airtow, and how to perform corrections",
+    "question": "Jadralno letalo v zapregi se med letom dvigne previsoko nad vlečno letalo.\nKaj lahko stori pilot jadralnega letala, da situacija ne bo več tvegana?",
+    "answers": [
+      "Preide v bočno drsenje in tako doseže zmanjšanje višine.",
+      "Previdno odkloni zračne zavore in usmeri jadralno letalo nazaj v normalni položaj.",
+      "Močno povleče, da se jadralno letalo vrne v normalni položaj.",
+      "Močno potegne in odklopi vrv."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00159",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.1.2.3",
+    "loText": "Explain how to react in case of a cable break or launch failure during a winch launch with regard to: cable release, height, length of airfield, obstacles in turning area",
+    "question": "Če se med vzletom z vitlom strga vrv, kako in v kakšnem vrstnem redu ukrepamo?",
+    "answers": [
+      "Vlečemo višinsko krmilo, ustalimo letalo na minimalni hitrosti in pristanemo na preostalem delu steze.",
+      "Odklopimo vrv, nato potisnemo nos navzdol, na višini do 150 m nad tlemi pristanemo naravnost naprej in s povečano hitrostjo.",
+      "Nos potisnemo ostro navzdol, odklopimo vrv in se odvisno od terena in vetra odločimo ali za kratek letališki krog ali pristanemo naravnost naprej.",
+      "Preidemo v 180° zavoj in pristanemo v nasprotni smeri vzletno-pristajalne steze ter odklopimo vrv, preden se letalo dotakne tal."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00162",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.1.2.2",
+    "loText": "Describe the release procedure for winch launch",
+    "question": "Med začetkom vzleta z vitlom se eno od kril jadralnega letala dotakne tal.\nKako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Smerno krmilo mora odkloniti v nasprotno smer.",
+      "Povleči mora višinsko krmilo.",
+      "Takoj mora odklopiti vrv.",
+      "Krilca mora odkloniti v nasprotno smer."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00165",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.1.3.1",
+    "loText": "Describe a safe and adequate procedure for airtow, and how to perform corrections",
+    "question": "Med letom v zapregi jadralno letalo prekorači največjo dovoljeno hitrost.\nKako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Potegniti mora višinsko krmilo, da zmanjša hitrost.",
+      "Takoj mora odklopiti vrv.",
+      "Po radijski povezavi mora to sporočiti letališkemu kontrolorju.",
+      "Odkloniti mora zračne zavore."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00168",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.1.3.1",
+    "loText": "Describe a safe and adequate procedure for airtow, and how to perform corrections",
+    "question": "Med letom v zapregi vlečno letalo izgine iz vidnega polja pilota jadralnega letala.\nKako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Takoj mora odklopiti vrv.",
+      "Izmenoma mora obračati levo in desno.",
+      "Izmenoma mora potisniti in potegniti višinsko krmilo.",
+      "Odkloniti mora zakrilca in se vrniti na normalno višino."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00181",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.4.3.3",
+    "loText": "Describe techniques how to perform an outlanding on sloped sites",
+    "question": "Pilot jadralnega letala mora izvesti izvenletališki pristanek v goratem območju. Edino razpoložljivo pristajalno mesto ima zelo velik naklon.\nKako naj izvede pristanek?",
+    "answers": [
+      "Prilet izvede navzdol po slemenu s povečano hitrostjo in med pristajanjem potisne višinsko krmilo glede na nagib tal.",
+      "Prilet izvede z minimalno hitrostjo in previdno poravna, ko doseže pristajalno mesto.",
+      "Prilet izvede s povečano hitrostjo in hitro poravna, da se prilagodi nagibu terena.",
+      "Glede na prevladujoč veter izvede prilet in pristane vzporedno s slemenom z vetrom v čelo."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00186",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.3.1.5.1",
+    "loText": "State the color used for handles to release the canopy for emergency evacuation",
+    "question": "Kakšne barve je ročaj za odmetavanje kabine v sili?",
+    "answers": [
+      "Rumene",
+      "Zelene",
+      "Rdeče",
+      "Modre"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00193",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.3.1.2.1",
+    "loText": "Describe how to proceed in case of airspeed indicator failure during launch",
+    "question": "Ko jadralno letalo med vzletom z vitlom doseže stabilno vzpenjanje, odpove merilnik hitrosti.\nKako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Poskuša ponovno vzpostaviti kazanje zračne hitrosti s hitrimi spremembami hitrosti med vzletom.",
+      "Nadaljuje z vzletom do običajne višine, nato sledi položaju glede na horizont in jakost piša zraka ter gre takoj na pristanek.",
+      "Potisne višinsko krmilo, odklopi vrv in naredi kratek letališki krog z minimalno hitrostjo.",
+      "Nadaljuje z vzletom do običajne višine, nato sledi položaju glede na horizont in jakost piša zraka ter izvede let po načrtu."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00198",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.3.1.3.1",
+    "loText": "Describe the landing procedure in case a retractable landing gear cannot be extended",
+    "question": "Navkljub več poskusom nam uspe izvleči pristajalno podvozje, a se ne zaklene.\nKako naj izvedemo pristanek?",
+    "answers": [
+      "Podvozje pustimo odklenjeno in normalno pristanemo.",
+      "Uvlečemo pristajalno podvozje in z minimalno hitrostjo pristanemo na trebuh.",
+      "Med normalnim pristankom čvrsto držimo ročico podvozja.",
+      "Uvlečemo podvozje in s povečano hitrostjo pristanemo na trebuh."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00200",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.4.3.4",
+    "loText": "Describe techniques how to perform an outlanding with tailwind",
+    "question": "Neizogiben je izvenletališki pristanek s hrbtnim vetrom.\nKako izvedemo pristanek?",
+    "answers": [
+      "Normalno izvedemo prilet, ko dosežemo pristajalno mesto, pa izvlečemo zakrilca in potisnemo višinsko krmilo navzdol.",
+      "Prilet izvedemo z normalno hitrostjo, pričakujemo daljše ravnanje in daljšo pristajalno razdaljo.",
+      "Prilet izvedemo z zmanjšano hitrostjo, pričakujemo krajše ravnanje in krajšo pristajalno razdaljo.",
+      "Prilet izvedemo s povečano hitrostjo brez uporabe zakrilc."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00201",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.3.2.3",
+    "loText": "Describe how approach speed (IAS) should be adjusted in case of gusts and downdrafts",
+    "question": "Ko pristaja z vetrom, mora pilot...",
+    "answers": [
+      "izvesti prilet z normalno hitrostjo in pod majhnim kotom.",
+      "povečati priletno hitrost.",
+      "pristajati z uvlečenim podvozjem, da skrajša pristajalno razdaljo.",
+      "hrbtni veter kompenzirati z glisado."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00203",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.2.2.4",
+    "loText": "Describe the hazard of wind shear during ridge flying",
+    "question": "Kako naj ukrepa pilot, ko med pobočnim jadranjem prileti v območje močnega vzdolnika?",
+    "answers": [
+      "Nadaljuje naj let, vzdolniki se v gorah pojavijo le za kratek čas.",
+      "Poveča naj hitrost in se usmeri stran od slemena.",
+      "Poveča naj hitrost in pristane vzporedno s slemenom.",
+      "Poveča naj hitrost in se približa slemenu."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00207",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.3.1.1.2",
+    "loText": "State the resonsibility of every pilot to keep the cabin clear of loose or lost objects that may lead to blockage of rudder",
+    "question": "Po pristanku ugotovite, da ste v kabini jadralnega letala morda izgubili pisalo.\nKaj je treba storiti?",
+    "answers": [
+      "Pred naslednjim letom je treba pilotsko kabino natančno pregledati in preveriti, da v njej ni nepritrjenih predmetov.",
+      "Ne smemo leteti brez pisala pri roki.",
+      "O tem je treba obvestiti pilote, ki bodo leteli za nami.",
+      "Lažji nepritrjeni predmeti v trupu niso nevarni."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00209",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.3.2.4",
+    "loText": "Describe how to perform the final approach in case of strong crosswind",
+    "question": "Če izvajamo prilet za pristanek v močnem bočnem vetru, kako izvedemo četrti zavoj (v končni prilet)?",
+    "answers": [
+      "Izvedemo zavoj z največ 30° nagibom, pozorno spremljamo hitrost in nitko ter popravljamo smer zaradi zanosa.",
+      "Nagib največ 30°, samo s smernim krmilom jadralno letalo takoj poravnamo v smer steze.",
+      "Izvedemo zavoj z največ 60° nagibom, pozorno spremljamo hitrost in nitko ter popravljamo smer zaradi zanosa.",
+      "Nagib največ 60°, samo s smernim krmilom jadralno letalo takoj poravnamo v smer steze."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00213",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.3.1.2",
+    "loText": "State the importance to proceed with base leg and final approach when altitude comes below a preselected, safe value for landing",
+    "question": "Katere višine uporabljamo za faze pristanka z jadralnim letalom?",
+    "answers": [
+      "150 - 200 m vzporedno s pragom steze in 100 m po zavoju v končni prilet",
+      "500 m vzporedno s pragom steze in 50 m po zavoju v končni prilet",
+      "300 m vzporedno s pragom steze in 150 m po zavoju v končni prilet",
+      "100 m vzporedno s pragom steze in 50 m po zavoju v končni prilet"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00222",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.2.1.3",
+    "loText": "Describe the 'lookout procedure' during thermalling",
+    "question": "Kaj je treba med jadranjem preveriti pred kakršnokoli spremembo smeri?",
+    "answers": [
+      "Preveriti je treba, ali je v želeni smeri zračni prostor prost.",
+      "Preveriti je treba, ali so vsi predmeti varno pritrjeni.",
+      "Preveriti je treba, ali so tam prisotni termični oblaki.",
+      "Preveriti je treba, ali bo zavoj koordiniran."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E60-200511-00225",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "62.2.1.2.1",
+    "loText": "Describe a safe and adequate profile of winch launch, and explain its limitations",
+    "question": "Pred vzletom z vitlom ugotovimo šibek hrbtni veter.\nKaj lahko pričakujemo?",
+    "answers": [
+      "Vožnja do vzleta bo krajša, saj nas hrbtni veter potiska od zadaj.",
+      "Vožnja do vzleta bo trajala nekoliko dlje, spremljati moramo hitrost.",
+      "Da bi dosegli večjo višino, moramo po vzletu do konca potegniti višinsko krmilo.",
+      "Uporabimo lahko šibki člen manjše nosilnosti, saj bo obremenitev manjša."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K60-2025-006",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Letalo izvaja prilet, ko se pojavi striženje vetra s čelnim vetrom, ki se jača. Kako se bosta spremenili priletna pot in indicirana hitrost (IAS), če pilot ne bo izvedel nobenega popravka?",
+    "answers": [
+      "Pot bo nižja in IAS manjša.",
+      "Pot bo višja in IAS večja.",
+      "Pot bo nižja in IAS večja.",
+      "Pot bo višja in IAS manjša."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-008",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Letalo izvaja prilet, ko se pojavi striženje vetra s hrbtnim vetrom, ki se jača. Kako se bosta spremenili priletna pot in indicirana hitrost (IAS), če pilot ne bo izvedel nobenega popravka?",
+    "answers": [
+      "Pot bo nižja in IAS manjša.",
+      "Pot bo višja in IAS večja.",
+      "Pot bo nižja in IAS večja.",
+      "Pot bo višja in IAS manjša."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-010",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Dva zrakoplova istega tipa z enako skupno maso in konfiguracijo letita z različnima hitrostma. Kateri zrakoplov bo povzročil močnejšo brazdno turbulenco?",
+    "answers": [
+      "Zrakoplov, ki leti z manjšo hitrostjo.",
+      "Zrakoplov, ki leti z večjo hitrostjo.",
+      "Zrakoplov, ki leti na večji višini.",
+      "Zrakoplov, ki leti na manjši višini."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-013",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Ko priletimo v močno sneženje, največjo nevarnost predstavlja...",
+    "answers": [
+      "nenadno povečanje zaledenitve ogrodja.",
+      "nenadno povečanje mase letala.",
+      "nenadno blokiranje Pitot-statičnega sistema.",
+      "nenadna izguba vidljivosti."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-014",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Na kaj je treba pomisliti med preletom gorskih grebenov?",
+    "answers": [
+      "Na turbulenco, zato je treba nekoliko povečati hitrost.",
+      "Iščemo ptice, ki krožijo, ter tako najdemo termične vzgornike.",
+      "Na turbulenco, zato hitrost zmanjšamo na minimum.",
+      "Prepovedano je leteti nad nacionalnimi parki."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Čemu so namenjeni šibki členi na vrvi vitla?",
+    "answers": [
+      "Preprečujejo preobremenitev jadralnega letala.",
+      "Uporabljajo se za samodejno odpetje vrvi po vzletu z vitlom.",
+      "Uporabljajo se za omejevanje hitrosti vzpenjanja med vzletom z vitlom.",
+      "Ščitijo vitel pred nadletom jadralnega letala."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-016",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med zadnjo fazo vzleta z vitlom pilot jadralnega letala ne popusti višinskega krmila. Avtomatska vlečna kljuka odpne vrv pri veliki obremenitvi kril. Kaj to pomeni?",
+    "answers": [
+      "S to tehniko lahko dosežemo večjo višino.",
+      "S to tehniko lahko nadoknadimo nezadostne popravke zaradi vetra.",
+      "Tak nenaden sunek je edini način, da se vrv zagotovo odpne.",
+      "To predstavlja izjemno veliko obremenitev za strukturo jadralnega letala."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-017",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Jadralno letalo, ki ima vlečno kljuko na spodnji strani trupa, bo v aerozapregi...",
+    "answers": [
+      "imelo tendenco dviganja nosu.",
+      "izvedlo hiter zasuk okrog vzdolžne osi.",
+      "kazalo posebno stabilne letalne lastnosti.",
+      "imelo tendenco zavijanja vstran."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-018",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Na kateri višini smemo med vzletom z vitlom preiti na največji naklon?",
+    "answers": [
+      "Pri približno 50 m, pri čemer moramo ohranjati varno hitrost za vzletanje z vitlom.",
+      "Kmalu po vzletu, če imamo dovolj močen čelni veter.",
+      "Pri 15 m, če smo dosegli hitrost vsaj 90 km/h.",
+      "Pri 150 m ali več, kadar pristanek naravnost naprej v primeru pretrganja vrvi ni več mogoč."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-020",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Pred vzletom z vitlom z dvema vrvema pilot jadralnega letala opazi, da druga vrv leži blizu njegovega jadralnega letala, ki je tik pred vzletom. Kako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Takoj odklopi vrv in po radijski povezavi obvesti letališkega kontrolorja.",
+      "Nadaljuje s postopkom vzleta, tako da odkloni smerno krmilo v nasprotno smer od druge vrvi.",
+      "Normalno nadaljuje z vzletom, po pristanku pa o tem pove letališkemu kontrolorju.",
+      "Opazuje drugo vrv in če je potrebno, odklopi vrv po vzletu."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-022",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med vzletom z vitlom se vlek vitla nenadoma ustavi tik zatem, ko je bilo doseženo stabilno vzpenjanje. Kako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Rahlo potisne višinsko krmilo in počaka, da se ponovno vzpostavi vlek na vrvi.",
+      "Povleče višinsko krmilo, da poveča napetost vrvi.",
+      "Upravitelja z vitlo o tem obvesti, tako da izmenično maha s krilci.",
+      "Energično potisne višinsko krmilo in takoj odklopi vrv."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-025",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med letom v zapregi jadralno letalo sledi na zunanji strani zavoja. Kako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Kot nagiba uskladimo z nagibom vlečnega letala in vrnemo jadralno letalo v lego za vlečnim letalom z uporabo pedalov smernega krmila.",
+      "Jadralno letalo vrnemo v lego za vlečnim letalom grobimi popravki smernega krmila, tako da zmanjšamo radij zavoja.",
+      "Vzpostavimo glisado, s čimer povzročimo večji zračni upor in zaustavljamo vlečno letalo, s tem pa ga poravnamo pred jadralno letalo.",
+      "Jadralno letalo povrnemo nazaj v položaj, tako da uporabljamo smer in nagib ter izvlečemo zakrilca, da zmanjšamo hitrost."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-028",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med letom v zapregi se strga vrv in daljši del vrvi ostane pritrjen na jadralno letalo. Kako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Ko je na varni višini, odvrže vrv nad praznim ozemljem ali letališčem.",
+      "Takoj odklopi vrv in nadaljuje z odprto kljuko.",
+      "Izvede prilet in letališkega kontrolorja prosi, naj preveri dolžino vrvi, nato jo po potrebi odklopi.",
+      "Izvede normalen prilet in odklopi vrv takoj po stiku s tlemi."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-030",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Jadralno letalo leti pod obsežnim kumulusom, ki se razvija v nevihto, in se hitro približuje bazi oblaka. Kako mora ukrepati pilot jadralnega letala?",
+    "answers": [
+      "Izvleče zračne zavore znotraj omejitev hitrosti in z največjo dovoljeno hitrostjo zapusti območje termičnega dviganja.",
+      "Vzpenja v nevihtni oblak in let nadaljuje instrumentalno.",
+      "Pripne si varnostni pas in se pripravi na močne sunke med letenjem v termiki.",
+      "Zmanjša hitrost na minimum in zapusti območje termičnega dviganja v zavoju z majhnim nagibom."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-031",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med termičnim jadranjem nedaleč za nami leti drugo jadralno letalo. Kaj moramo storiti, da se izognemo trku?",
+    "answers": [
+      "Zmanjšamo hitrost in pustimo, da drugo jadralno letalo leti mimo nas.",
+      "Zmanjšamo nagib, da dosežemo večji radij zavoja.",
+      "Povečamo nagib, da nas drugo jadralno letalo bolje vidi.",
+      "Povečamo hitrost, da se v krogu premaknemo na nasprotno stran."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-033",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Na kaj mora paziti pilot, ko začenja ostri zavoj?",
+    "answers": [
+      "Zavoj mora začeti s povečano hitrostjo skladno z želenim kotom nagiba.",
+      "Zavoj mora začeti z zmanjšano hitrostjo skladno z želenim kotom nagiba.",
+      "Ko doseže kot nagiba, potisne višinsko krmilo, da poveča hitrost.",
+      "Ko doseže kot nagiba, zmanjša smer z nasprotnim pedalom."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-035",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med letom na veliki višini (6000 m MSL) pilot jadralnega letala ugotovi, da bo kisik pošel v nekaj minutah. Kako naj ukrepa pilot jadralnega letala?",
+    "answers": [
+      "Odkloniti mora zračne zavore in spuščati z največjo dovoljeno hitrostjo.",
+      "Zmanjšati mora pretok kisika, tako da začne počasneje dihati.",
+      "Ko zmanjka kisika, lahko na tej višini ostane še največ 30 min.",
+      "Ob prvih znakih hipoksije mora začeti spuščati z največjo dovoljeno hitrostjo."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-038",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med priletom iz kontrolnega stolpa sporočijo naslednje podatke: \"Veter 15 vozlov, sunki 25 vozlov\". Kako izvedemo pristanek?",
+    "answers": [
+      "Prilet izvedemo s povečano hitrostjo, spremembe položaja popravljamo z odločnimi premiki smernega krmila.",
+      "Prilet izvedemo z minimalno hitrostjo, spremembe položaja popravljamo s previdnimi premiki smernega krmila.",
+      "Prilet izvedemo z normalno hitrostjo, hitrost vzdržujemo z uporabo zračnih zavor.",
+      "Prilet izvedemo s povečano hitrostjo, izogibamo se uporabi zračnih zavor."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-039",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med letom blizu letališča na višini približno 250 m nad tlemi priletite v močan vzdolnik, kar zahteva takojšen pristanek. S kakšno hitrostjo je treba leteti, ko se usmerite proti letališču?",
+    "answers": [
+      "Z najboljšo drsno hitrostjo",
+      "Z minimalno hitrostjo spuščanja",
+      "Z maksimalno manevrirno hitrostjo VA",
+      "Z najboljšo drsno hitrostjo s pribitkom za vzdolnik in veter"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-041",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Kako parkiramo jadralno letalo v močnem vetru?",
+    "answers": [
+      "Krilo na privetrni strani je na tleh, krilo obtežimo, blokiramo smerno krmilo.",
+      "Krilo na zavetrni strani je na tleh, krilo obtežimo, blokiramo smerno krmilo.",
+      "Z nosom v veter, izvlečemo zračno zavoro, blokiramo smerno krmilo.",
+      "Z nosom v veter, rep na tleh in obtežen."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-042",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Kako se lahko izognemo nevarnim situacijam, ko se z jadralnim letalom med preletom približamo minimalni višini letališkega kroga?",
+    "answers": [
+      "Tako da ohranjamo radijsko komunikacijo vse do popolne zaustavitve po izvenletališkem pristanku.",
+      "Tako da poiščemo termične vzgornike na zavetrni strani izbranega pristajalnega mesta.",
+      "Tako da poskušamo doseči kumulusne oblake, ki so vidni na oddaljenem horizontu, in izkoristiti njihove termične vzgornike.",
+      "Tako da se navkljub načrtovanemu letu odločimo za izvenletališki pristanek."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-046",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Kako lahko ugotovimo smer vetra med izvenletališkim pristankom?",
+    "answers": [
+      "Opazujemo dim, vetrnice ali zastave.",
+      "Spomnimo se vetra, ki ga je kazala vetrna vreča na odletnem letališču.",
+      "Pozanimamo se pri drugih pilotih, ki jih prikličemo po radijski zvezi.",
+      "Preberemo vremensko poročilo za letalce."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-047",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med končnim priletom pilot jadralnega letala opazi, da je na izbranem mestu za izvenletališki pristanek površina izrazito groba. Katera tehnika se priporoča za pristajanje?",
+    "answers": [
+      "Pristanemo z minimalno hitrostjo, višinsko krmilo vlečemo do popolne zaustavitve.",
+      "Prilet izvedemo s povečano hitrostjo in ob prvem stiku s tlemi potisnemo višinsko krmilo.",
+      "Pristanemo z minimalno hitrostjo in različne nivoje podlage kompenziramo z ročico za plin.",
+      "Prilet izvedemo s povečano hitrostjo in po možnosti ne uporabimo kolesnih zavor."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-049",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšna tehnika pristajanja se priporoča za pristanek na travnatem pobočju?",
+    "answers": [
+      "Na splošno v hrib",
+      "Polne zračne zavore, uvlečeno podvozje",
+      "Z zaviranjem kolesa, brez zračnih zavor",
+      "Prečno po bregu navzdol"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K60-2025-055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 60,
+    "subjectName": "Operational Procedures",
+    "lo": "",
+    "loText": "",
+    "question": "Med končnim priletom tik pred pristankom ugotovite, da ste pozabili izvleči podvozje. Kako boste izvedli pristanek?",
+    "answers": [
+      "Takoj izvlečem podvozje in pristanem kot običajno.",
+      "Pristanem brez podvozja in z večjo hitrostjo kot običajno.",
+      "Uvlečem zakrilca, izvlečem podvozje in pristanem kot običajno.",
+      "Pristanem brez podvozja, previdno in z minimalno hitrostjo."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

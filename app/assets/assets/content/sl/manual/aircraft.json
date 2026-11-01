@@ -1,0 +1,567 @@
+[
+  {
+    "id": "ask21mi",
+    "name": "ASK 21 Mi",
+    "category": "glider",
+    "licences": [
+      "SPL"
+    ],
+    "units": {
+      "speed": "km/h",
+      "mass": "kg",
+      "height": "m",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "",
+        "speeds": {
+          "vne": 280,
+          "vra": 180,
+          "va": 180,
+          "airbrakes": 180,
+          "vw": 150,
+          "vt": 180,
+          "vmin": 71,
+          "approach": 98,
+          "vy": 100,
+          "vpoMin": 90,
+          "vpoMax": 120,
+          "vpe": 160
+        },
+        "performance": {
+          "bestGlideSpeed": 92,
+          "bestGlideRatio": 34,
+          "minSinkSpeed": 82,
+          "minSinkRate": 0.75,
+          "crosswind": 20
+        },
+        "turn": {
+          "bank": 30,
+          "speed": 80
+        },
+        "masses": {
+          "empty": null,
+          "mtow": 705,
+          "pilotMin": 70,
+          "pilotMax": 170,
+          "maxNonLifting": 510
+        },
+        "limits": {
+          "loadFactorPos": 5.3,
+          "loadFactorNeg": -2.65
+        },
+        "geometry": {
+          "span": 17.0,
+          "wingArea": 17.95
+        }
+      }
+    ],
+    "launch": {
+      "weakLinkWinch": 1000,
+      "weakLinkAerotow": 850
+    },
+    "notes": [
+      "Priročnik: zavore se smejo izvleči do VNE, v rumenem področju samo pri pozitivni obremenitvi in največ 3,5 g. Vrednost 180 km/h je z obrazca – preveri, ali je klubska omejitev.",
+      "Priročnik: hitrost prevleka 72 km/h solo (570 kg) in 80 km/h v dvoje (705 kg); z izvlečenimi zavorami približno 3 km/h več. Vrednost 71 km/h z obrazca ustreza letalu brez motorja (545 kg).",
+      "Polara v priročniku je izmerjena za ASK 21 brez motorja (DFVLR-Idaflieg): E = 33,5; najmanjše propadanje 0,68 m/s pri 76 km/h (469 kg) in 0,75 m/s pri 82 km/h (563 kg).",
+      "Vzletna vrv za aerozaprego: tekstilna, 40–60 m.",
+      "Gorivo: 23,0 l uporabnega (rezervoar 23,2 l), brez primešanega olja; olje 0,70 l.",
+      "Prtljaga v korenu krila: največ 10 kg na vsaki strani.",
+      "Pri letu v dvoje je PIC v sprednjem sedežu; solo samo sprednji sedež."
+    ],
+    "source": "Flight Manual ASK 21 Mi, izdaja 01.12.2007 (S5-KAC), oddelki 2, 4, 5, 6; obrazec »Eksploatacija jadralnih letal«, revizija 1",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "dg101g",
+    "name": "DG-101G Elan",
+    "category": "glider",
+    "licences": [
+      "SPL"
+    ],
+    "units": {
+      "speed": "km/h",
+      "mass": "kg",
+      "height": "m",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "",
+        "speeds": {
+          "vne": 260,
+          "va": 165,
+          "vt": 165,
+          "vw": 130,
+          "vlo": 165
+        },
+        "masses": {
+          "mtow": 418,
+          "mtowDry": 385,
+          "maxNonLifting": 265
+        },
+        "geometry": {
+          "span": 15.0,
+          "wingArea": 11.0
+        }
+      }
+    ],
+    "launch": {
+      "weakLinkWinch": 500,
+      "weakLinkAerotow": 500
+    },
+    "notes": [
+      "EASA TCDS navaja Elanovo izvedbo s fiksnim stabilizatorjem kot »DG-100 G ELAN«; DG-101G Elan se tam ne pojavi posebej. Preveri v priročniku letala.",
+      "Vodni balast: največja masa z balastom 418 kg, brez balasta 385 kg.",
+      "Vrednosti: VLO = največja hitrost za izvlek/uvlek podvozja."
+    ],
+    "source": "EASA TCDS EASA.A.239 (DG single seaters), izdaja 11, 20. 11. 2025, oddelek D (DG-100 G ELAN)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "dg300elan",
+    "name": "DG-300 Elan",
+    "category": "glider",
+    "licences": [
+      "SPL"
+    ],
+    "units": {
+      "speed": "km/h",
+      "mass": "kg",
+      "height": "m",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "",
+        "speeds": {
+          "vne": 270,
+          "va": 200,
+          "vra": 200,
+          "vt": 200,
+          "vw": 130,
+          "vlo": 200
+        },
+        "masses": {
+          "mtow": 525,
+          "maxNonLifting": 246
+        },
+        "geometry": {
+          "span": 15.0,
+          "wingArea": 10.27
+        }
+      }
+    ],
+    "launch": {
+      "weakLinkWinch": 680,
+      "weakLinkAerotow": 680
+    },
+    "notes": [
+      "Po AD 2007-0100 in TN 359/24 veljajo do opravljenega pregleda kril znižane omejitve: VNE 250 km/h, VA/VRA/VT 175 km/h, največja masa 450 kg, nenosilni deli 240 kg (vir: BGA podatkovni list). Preveri stanje svojega letala.",
+      "Vodni balast v krilih, po izbiri tudi v smerniku."
+    ],
+    "source": "EASA TCDS EASA.A.239 (DG single seaters), izdaja 11, 20. 11. 2025, oddelek I (DG-300 ELAN)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "duodiscus",
+    "name": "Duo Discus",
+    "category": "glider",
+    "licences": [
+      "SPL"
+    ],
+    "units": {
+      "speed": "km/h",
+      "mass": "kg",
+      "height": "m",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "",
+        "speeds": {
+          "vne": 250,
+          "va": 180,
+          "vra": 180,
+          "vt": 150,
+          "vw": 150,
+          "vlo": 180
+        },
+        "masses": {
+          "mtow": 700,
+          "maxNonLifting": 440
+        },
+        "geometry": {
+          "span": 20.0,
+          "wingArea": 16.4
+        }
+      }
+    ],
+    "launch": {
+      "weakLinkWinch": 910,
+      "weakLinkAerotow": 910
+    },
+    "notes": [
+      "VT 180 km/h velja s Pitotovo cevjo v smerniku (TCDS A.V.6 in A.V.7), sicer 150 km/h.",
+      "Z modifikacijo AV.12: VNE 262,8 km/h; z AV.9/AV.12 največja masa 750 kg in šibka vez 950 daN (vitel) / 850 daN (aerozaprega).",
+      "Velja za osnovni Duo Discus; Duo Discus T, XL in X imajo drugačne podatke."
+    ],
+    "source": "EASA TCDS EASA.A.025 (Duo Discus), izdaja 08, 10. 9. 2013, oddelek A",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "discus2c",
+    "name": "Discus-2c",
+    "category": "glider",
+    "licences": [
+      "SPL"
+    ],
+    "units": {
+      "speed": "km/h",
+      "mass": "kg",
+      "height": "m",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "15m",
+        "label": "15 m",
+        "speeds": {
+          "vne": 280,
+          "va": 190,
+          "vra": 190,
+          "vt": 180,
+          "vw": 150,
+          "vlo": 180
+        },
+        "masses": {
+          "mtow": 525,
+          "maxNonLifting": 280
+        },
+        "geometry": {
+          "span": 15.0,
+          "wingArea": 10.58
+        }
+      },
+      {
+        "id": "18m",
+        "label": "18 m",
+        "speeds": {
+          "vne": 280,
+          "va": 190,
+          "vra": 190,
+          "vt": 180,
+          "vw": 150,
+          "vlo": 180
+        },
+        "masses": {
+          "mtow": 565,
+          "maxNonLifting": 280
+        },
+        "geometry": {
+          "span": 18.0,
+          "wingArea": 11.39
+        }
+      }
+    ],
+    "launch": {
+      "weakLinkWinch": 735,
+      "weakLinkAerotow": 735
+    },
+    "notes": [
+      "Oblačno letenje in osnovna akrobatika samo z zmanjšano največjo maso, brez vodnega balasta (glej priročnik)."
+    ],
+    "source": "EASA TCDS EASA.A.049 (Discus), izdaja 03, oddelek E (Discus-2c)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "arcusm",
+    "name": "Arcus M",
+    "category": "glider",
+    "licences": [
+      "SPL"
+    ],
+    "units": {
+      "speed": "km/h",
+      "mass": "kg",
+      "height": "m",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "",
+        "speeds": {
+          "vne": 280,
+          "va": 180,
+          "vra": 180,
+          "vt": 180,
+          "vw": 150,
+          "vlo": 180,
+          "vfe": 180,
+          "vpoMin": 90,
+          "vpoMax": 120,
+          "vpe": 180
+        },
+        "masses": {
+          "mtow": 800,
+          "maxNonLifting": 550
+        },
+        "geometry": {
+          "span": 20.0,
+          "wingArea": 15.59
+        }
+      }
+    ],
+    "launch": {
+      "weakLinkWinch": 1000,
+      "weakLinkAerotow": 850
+    },
+    "notes": [
+      "Samovzletni motorni jadralec (motor SOLO 2625-02i, 50 kW).",
+      "Zakrilca: v položajih 0, −1, −2, S do 280 km/h; v položajih +1, +2, L največ 180 km/h.",
+      "Z modifikacijo BV.4: največja masa 850 kg, nenosilni deli 560 kg.",
+      "Gorivo: rezervoar v trupu 15,9 l; po izbiri še 13 l v vsakem krilu."
+    ],
+    "source": "EASA TCDS EASA.A.532 (Arcus), izdaja 06, oddelek B (Arcus M)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "pa38",
+    "name": "Piper PA-38-112 Tomahawk",
+    "category": "aeroplane",
+    "licences": [
+      "PPL"
+    ],
+    "units": {
+      "speed": "kt",
+      "mass": "lb",
+      "height": "ft",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "",
+        "speeds": {
+          "vne": 138,
+          "vno": 110,
+          "va": 103,
+          "vfe": 89,
+          "vs0": 47,
+          "vs1": 48,
+          "vx": 61,
+          "vy": 70,
+          "approach": 62
+        },
+        "performance": {
+          "bestGlideSpeed": 70,
+          "crosswind": 15
+        },
+        "masses": {
+          "mtow": 1670
+        },
+        "limits": {
+          "loadFactorPos": 3.8
+        }
+      }
+    ],
+    "notes": [
+      "Hitrosti so KIAS. VA 103 kt velja pri 1670 lb, pri 1277 lb je 90 kt.",
+      "VS0 in VS1 sta spodnja meja belega in zelenega loka (letalo z zunanjimi trakovi na krilu); z dodatnimi notranjimi trakovi 49 kt in 52 kt.",
+      "Prilet s polnimi zakrilci 62 KIAS, z notranjimi trakovi 67 KIAS.",
+      "Obremenilni faktor: normalna kategorija +3,8 g, utility +4,4 g (zakrilca uvlečena); hrbtni leti niso dovoljeni.",
+      "Gorivo: 30 US gal uporabnega (32 skupaj)."
+    ],
+    "source": "Piper PA-38-112 Tomahawk Pilot's Operating Handbook, Report 2126 (izdaja 20. 1. 1978, rev. 10. 5. 1982), oddelki 1–4",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "c172",
+    "name": "Cessna 172 Skyhawk",
+    "category": "aeroplane",
+    "licences": [
+      "PPL"
+    ],
+    "units": {
+      "speed": "kt",
+      "mass": "lb",
+      "height": "ft",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "172n",
+        "label": "172N",
+        "speeds": {
+          "vne": 160,
+          "vno": 128,
+          "va": 97,
+          "vfe": 85
+        },
+        "masses": {
+          "mtow": 2300
+        }
+      },
+      {
+        "id": "172p",
+        "label": "172P",
+        "speeds": {
+          "vne": 158,
+          "vno": 127,
+          "va": 99,
+          "vfe": 85
+        },
+        "masses": {
+          "mtow": 2400
+        }
+      },
+      {
+        "id": "172r",
+        "label": "172R",
+        "speeds": {
+          "vne": 163,
+          "vno": 129,
+          "va": 99,
+          "vfe": 85
+        },
+        "masses": {
+          "mtow": 2450
+        }
+      },
+      {
+        "id": "172s",
+        "label": "172S",
+        "speeds": {
+          "vne": 163,
+          "vno": 129,
+          "va": 105,
+          "vfe": 85
+        },
+        "masses": {
+          "mtow": 2550
+        }
+      }
+    ],
+    "notes": [
+      "172N in 172P: hitrosti so v KCAS (TCDS). 172N letnik 1980: VNE 158 kt, VNO 127 kt.",
+      "172R in 172S: hitrosti so v KIAS. 172R z modifikacijo MK172-72-01: VA 105 kt, največja masa 2550 lb.",
+      "Utility kategorija: največja masa 2000 lb (N), 2100 lb (P, R), 2200 lb (S).",
+      "Gorivo: 172N/P 40 US gal uporabnega, 172R/S 53 US gal uporabnega.",
+      "Hitrosti za vzpenjanje, prilet in drsenje so v POH posameznega letala – tu jih še ni."
+    ],
+    "source": "FAA TCDS 3A12, revizija 69 (31. 3. 2003)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "pa18",
+    "name": "Piper PA-18-150 Super Cub",
+    "category": "aeroplane",
+    "licences": [
+      "PPL"
+    ],
+    "units": {
+      "speed": "kt",
+      "mass": "lb",
+      "height": "ft",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "",
+        "speeds": {
+          "vne": 133,
+          "vno": 105,
+          "va": 83,
+          "vfe": 74
+        },
+        "masses": {
+          "mtow": 1750
+        }
+      }
+    ],
+    "notes": [
+      "Hitrosti iz TCDS (IAS): VNE 153 mph, VNO 121 mph, VA 96 mph, VFE 85 mph.",
+      "Utility kategorija: največja masa 1500 lb.",
+      "Gorivo: 36 US gal (dva rezervoarja v krilih).",
+      "Omejitve za vleko jadralnih letal niso v TCDS – glej dodatek POH za vlečno kljuko."
+    ],
+    "source": "FAA TCDS 1A2, revizija 38, oddelek III (PA-18 \"150\")",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "pa25",
+    "name": "Piper PA-25 Pawnee",
+    "category": "aeroplane",
+    "licences": [
+      "PPL"
+    ],
+    "units": {
+      "speed": "kt",
+      "mass": "lb",
+      "height": "ft",
+      "length": "m",
+      "force": "daN"
+    },
+    "variants": [
+      {
+        "id": "235",
+        "label": "PA-25-235",
+        "speeds": {
+          "vne": 135,
+          "vno": 108,
+          "va": 104,
+          "vfe": 95
+        },
+        "masses": {
+          "mtow": 2900
+        }
+      },
+      {
+        "id": "260",
+        "label": "PA-25-260",
+        "speeds": {
+          "vne": 135,
+          "vno": 108,
+          "va": 104,
+          "vfe": 95
+        },
+        "masses": {
+          "mtow": 2900
+        }
+      }
+    ],
+    "notes": [
+      "Hitrosti so KCAS (TCDS): VNE 156 mph, VNO 124 mph, VA 120 mph, VFE 109 mph.",
+      "Gorivo: 36–42 US gal, odvisno od serijske številke (glej TCDS).",
+      "Omejitve za vleko jadralnih letal niso v TCDS – glej dodatek POH za vlečno kljuko."
+    ],
+    "source": "FAA TCDS 2A8, revizija 22 (25. 3. 2008), oddelka II in III",
+    "checked": "",
+    "reviewedBy": ""
+  }
+]

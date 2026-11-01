@@ -1,0 +1,1724 @@
+[
+  {
+    "id": "E10-200511-00031",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.4.2.3.13",
+    "loText": "State the flight experience required for a pilot to act as a PIC",
+    "question": "Imetnik licence SPL je v zadnjih 24 mesecih opravil skupaj 9 vzletov z vitlom, 4 vzlete z aerozaprego in 2 vzleta z napeto elastiko.\nKateri način vzleta lahko pilot kot PIC opravi danes?",
+    "answers": [
+      "Z vitlom, napeto elastiko in aerozaprego",
+      "Z vitlom in napeto elastiko",
+      "Z aerozaprego in napeto elastiko",
+      "Z vitlom in aerozaprego"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00033",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.2.1.2.6",
+    "loText": "State which documents must be carried on board an aircraft during a local - and a X-country flight.",
+    "question": "Kateri izmed naslednjih dokumentov mora biti na krovu mednarodnega leta? a) Potrdilo o registraciji zrakoplova b) Spričevalo o plovnosti c) Potrdilo o pregledu plovnosti zrakoplova (ARC) d) EASA Obrazec-1 e) Knjiga zrakoplova f) Ustrezni dokumenti",
+    "answers": [
+      "a, b, e, g",
+      "b, c, d, e, f, g",
+      "a, b, c, e, f",
+      "d, f, g"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00042",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.8.2.1.2",
+    "loText": "Name and explain the contents of the different parts of the AIP",
+    "question": "Kje je mogoče najti vrsto omejitve v omejenem območju?",
+    "answers": [
+      "NOTAM",
+      "AIC",
+      "ICAO karta 1:500000",
+      "AIP"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.1.2.1.2",
+    "loText": "State that EU regulations are binding throughout all EU member states without prior national legal translation",
+    "question": "Kakšen je status pravil in predpisov, ki jih je izdelala EASA?\n(npr. Del-SFCL, Del FCL, Del-BFCL, Del-MED)",
+    "answers": [
+      "So pravno zavezujoči po ratifikaciji posamezne države članice EU.",
+      "Niso pravno zavezujoči, služijo le kot nasveti.",
+      "Imajo enak status kot Priloge (Aneksi) ICAO.",
+      "So del zakonodaje EU in so pravno zavezujoči v državah članicah EU."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00061",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.2.1.2.3",
+    "loText": "Describe how a CofA can be renewed or may remain valid",
+    "question": "Kakšna je veljavnost \"Spričevala o plovnosti\"?",
+    "answers": [
+      "6 mesecev",
+      "Neomejeno",
+      "12 mesecev",
+      "12 let"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00062",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.2.1.1.1",
+    "loText": "Define 'Certificate of Airworthiness' (CofA) and 'Airworthyness Review Certificate' (ARC)",
+    "question": "Kaj pomeni kratica \"ARC (ang.)\" oziroma \"PPP (sl.)\"?",
+    "answers": [
+      "Kriteriji za restrikcijo zračnega prostora",
+      "Periodični nadzor plovnosti",
+      "Potrdilo o pregledu plovnosti",
+      "Odbor za oblikovanje predpisov o zračnem prostoru"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00063",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.2.1.2.1",
+    "loText": "State the issuing authority of a CofA",
+    "question": "\"Spričevalo o plovnosti\" izda država…",
+    "answers": [
+      "v kateri je zrakoplov registriran.",
+      "prebivališča lastnika.",
+      "v kateri je zrakoplov zgrajen.",
+      "v kateri je opravljen pregled plovnosti."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.3.1.2.1",
+    "loText": "State the location of nationality- and registration marks, and when they must be carried",
+    "question": "V katerih pogojih morajo biti zrakoplovi obvezno opremljeni z državno zastavo?",
+    "answers": [
+      "Na vsakem letu.",
+      "To ni potrebno.",
+      "Samo na letih zunaj držav Evropske unije.",
+      "Samo na mednarodnih letih."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00083",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.4.2.3.6",
+    "loText": "State the period of validity of a PPL, SPL or BPL",
+    "question": "Kakšna je veljavnost licence športnega pilota (PPL)?",
+    "answers": [
+      "48 mesecev",
+      "Neomejeno",
+      "60 mesecev",
+      "24 mesecev"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00086",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.3.2",
+    "loText": "State the requirements to acquire a rating for VFR night flights",
+    "question": "Kaj so med drugim minimalne zahteve za pridobitev ratinga za nočno letenje VFR?",
+    "answers": [
+      "Najmanj 5 dodatnih ur letenja ponoči, tri izmed njih z inštruktorjem letenja ter najmanj enourni prelet plus 10 samostojnih vzletov in pristankov.",
+      "Najmanj 10 dodatnih ur letenja ponoči, tri izmed njih z inštruktorjem letenja ter najmanj enourni prelet in 5 samostojnih vzletov in pristankov.",
+      "Najmanj 4 dodatnih ur letenja ponoči, štiri izmed njih z inštruktorjem letenja ter najmanj enourni prelet plus 5 samostojnih vzletov in pristankov.",
+      "Najmanj 5 dodatnih ur letenja ponoči, tri izmed njih z inštruktorjem letenja ter najmanj enourni prelet in 5 samostojnih vzletov in pristankov."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00088",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.4.2.2.3",
+    "loText": "State the period of validity of a Medical class 2 for a pilot with given age",
+    "question": "Veljavnost zdravniškega spričevala 2. razreda 62-letnega pilota je …",
+    "answers": [
+      "24 mesecev.",
+      "60 mesecev.",
+      "12 mesecev.",
+      "48 mesecev."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00097",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.1.1.2",
+    "loText": "Define the term 'SERA'",
+    "question": "Kaj pomeni kratica \"SERA\"?",
+    "answers": [
+      "Standardizirana evropska pravila letenja",
+      "Specializiran radarski prilet",
+      "Standardne evropske zračne poti",
+      "Selektiven radarski višinomer"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00098",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.7.1.3.12",
+    "loText": "Describe the characteristics of a Temporary Reserved Area (TRA), a Temporary Segregated Area (TSA) and the pilot's obigations before/at entering a TRA or TSA",
+    "question": "Kaj pomeni kratica \"TRA\"?",
+    "answers": [
+      "Območje transponderja",
+      "Začasno rezervirano območje",
+      "Začasno območje radarskega usmerjanja",
+      "Terminalno območje"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00100",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.7.1.3.10",
+    "loText": "Describe the characteristics of a Transponder Mandatory Zone (TMZ) and the pilot's obigations before/at entering a TMZ",
+    "question": "Kaj je potrebno upoštevati, ko vstopamo v RMZ?",
+    "answers": [
+      "Ves čas je potrebno poslušati radio in, če je mogoče, vzpostaviti radijsko zvezo.",
+      "Vklopiti je potrebno transponder in aktivirati način C ter nastaviti squawk 7000",
+      "Pridobiti je potrebno dovoljenje za vstop v to območje.",
+      "Pridobiti je potrebno dovoljenje lokalnega letalskega organa."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00103",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.2.2",
+    "loText": "State the restrictions and minimum weather conditions for Special VFR (SVFR) flights",
+    "question": "Kateri pogoji morajo biti izpolnjeni med Posebnim VFR letom?",
+    "answers": [
+      "Oddaljenost od oblakov najmanj 2000 m",
+      "Vizualni stik s terenom",
+      "Hitrost največ 115 vozlov IAS",
+      "Vidnost na tleh najmanj 500 m"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00104",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.7.1.3.11",
+    "loText": "Describe the characteristics of a Radio Mandatory Zone (RMZ) and the pilot's obigations before/at entering a RMZ",
+    "question": "Kaj je potrebno storiti pred vstopom v TMZ?",
+    "answers": [
+      "Vklopiti transponder in aktivirati način A , ter squawk \"IDENT\"",
+      "Vklopiti transponder in aktivirati načina A in C ali način S",
+      "Pred vstopom zaprositi za dovoljenje",
+      "Pred letom oddati načrt leta"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00113",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.1.1.4",
+    "loText": "Explain the terms 'VMC', 'IMC' and 'VFR' / 'IFR' flights",
+    "question": "Let poimenujemo \"vizualni let\", če...",
+    "answers": [
+      "je vidnost med letom večja kot 5 km.",
+      "je vidnost med letom večja kot 8 km.",
+      "je izveden v vizualnih meteoroloških razmerah.",
+      "je izveden v skladu s pravili vizualnega letenja."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00122",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.3",
+    "loText": "Apply the right-of-way- and collision aviodance rules to given examples",
+    "question": "Dve motorni letali letita na isti višini na poteh, ki se križata.\nKatero letalo mora spremeniti smer?",
+    "answers": [
+      "Lažje letalo mora vzpenjati.",
+      "Obe letali morata zaviti desno.",
+      "Obe letali morata zaviti levo.",
+      "Težje letalo mora vzpenjati."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00124",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.3",
+    "loText": "Apply the right-of-way- and collision aviodance rules to given examples",
+    "question": "Dve letali letita na poteh, ki se križata.\nKatero letalo mora spremeniti smer?",
+    "answers": [
+      "Obe letali morata zaviti levo.",
+      "Letalo, ki leti z leve proti desni, ima prednost.",
+      "Letalo, ki leti z desne proti levi, ima prednost.",
+      "Obe letali morata zaviti desno."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00130",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.3.1.6",
+    "loText": "List example cases in which the minimum flight altitude does not apply",
+    "question": "Katera izmed naslednjih možnosti NI zadosten razlog za letenje pod zahtevano najnižjo višino?",
+    "answers": [
+      "Prilet na letališče brez pristanka",
+      "Odmet vlečenega predmeta na letališču",
+      "Slabe vremenske razmere v bližini letališča",
+      "Vzlet in pristanek na letališču"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00138",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.1",
+    "loText": "State the flight visibility to be maintained during VFR flight in a given airspace",
+    "question": "Kakšno oddaljenost od oblakov je treba vzdrževati med VFR letom v zračnem prostoru razredov C, D in E?",
+    "answers": [
+      "1500 m horizontalno, 1000 m vertikalno",
+      "1000 m horizontalno, 1500 čevljev vertikalno",
+      "1500 m horizontalno, 1000 čevljev vertikalno",
+      "1000 m horizontalno, 300 m vertikalno"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00144",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.1",
+    "loText": "State the flight visibility to be maintained during VFR flight in a given airspace",
+    "question": "Kolikšna je najmanjša vidljivost v zračnem prostoru razreda \"E\" za VFR let zrakoplova na nivoju FL75?",
+    "answers": [
+      "8000 m",
+      "5000 m",
+      "3000 m",
+      "1500 m"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00145",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.1",
+    "loText": "State the flight visibility to be maintained during VFR flight in a given airspace",
+    "question": "Kolikšna je najmanjša vidljivost v zračnem prostoru razreda \"C\" za VFR let zrakoplova na nivoju FL110?",
+    "answers": [
+      "8000 m",
+      "3000 m",
+      "5000 m",
+      "1500 m"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00147",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.1",
+    "loText": "State the flight visibility to be maintained during VFR flight in a given airspace",
+    "question": "Kolikšna je najmanjša vidljivost v zračnem prostoru razreda \"C\" za VFR let zrakoplova na nivoju FL125?",
+    "answers": [
+      "5000 m",
+      "8000 m",
+      "1500 m",
+      "3000 m"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00149",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.2",
+    "loText": "State the horizontal and vertical distance to clouds to be maintained during VFR flight in a given airspace",
+    "question": "Kolikšna je najmanjša oddaljenost od oblakov za VFR let v zračnem proctoru razreda \"B\"?",
+    "answers": [
+      "1000 m horizontalno, 1500 čevljev vertikalno",
+      "1500 m horizontalno, 300 m vertikalno",
+      "1000 m horizontalno, 300 m vertikalno",
+      "1500 m horizontalno, 1000 m vertikalno"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00151",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.1",
+    "loText": "State the flight visibility to be maintained during VFR flight in a given airspace",
+    "question": "Kolikšna je najmanjša vidljivost v zračnem prostoru razreda \"C\" pod FL 100 za letalo, ki leti v skladu z VFR?",
+    "answers": [
+      "10 km",
+      "1.5 km",
+      "5 km",
+      "8 km"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00156",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.1.1.5",
+    "loText": "Define the term 'ceiling'",
+    "question": "Izraz \"baza oblakov\" (ang. ceiling) je opredeljen kot...",
+    "answers": [
+      "relativna višina baze najvišjega sloja oblakov, ki prekriva več kot polovico neba pod 20000 čevlji.",
+      "nadmorska višina baze najnižjega sloja oblakov, ki prekriva več kot polovico neba pod 20000 čevlji.",
+      "relativna višina baze najnižjega sloja oblakov, ki prekriva več kot polovico neba pod 10000 čevlji.",
+      "relativna višina baze najnižjega sloja oblakov, ki prekriva več kot polovico neba pod 20000 čevlji."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00162",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.5.1.1",
+    "loText": "State what primary action should be carried out by an intercepted aircraft",
+    "question": "Če vas podnevi prestreže vojaško letalo, kaj pomeni naslednji signal: izmenjajoče premikanje krilc, ponavadi levo od prestrezenega letala, ki mu sledi blag zavoj v levo?",
+    "answers": [
+      "Ste izven katerega koli omejenega ali rezerviranega zračnega prostora, lahko nadaljujejte v svoji smeri",
+      "Sledite mi.",
+      "Vstopate na omejeno območje, takoj zapustite ta zračni prostor.",
+      "Pripravite se na varnostni pristanek, vstopili ste v prepovedano območje."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00163",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.5.1.4",
+    "loText": "Recall the interception signals and phrases",
+    "question": "Če vas podnevi prestreže vojaško letalo, kaj pomeni naslednji signal: nenadna sprememba smeri za 90 stopinj ali več in dvig letala brez prečkanja poti prestreženega zrakoplova?",
+    "answers": [
+      "Lahko nadaljujete let.",
+      "Sledite mi, pripeljal vas bom do ustreznega pristajališča.",
+      "Vstopate na omejeno območje, takoj zapustite ta zračni prostor",
+      "Pripravite se na varnostni pristanek, vstopili ste v prepovedano območje."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00166",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.6.1.2.2",
+    "loText": "Explain when a flight altitude should be selected in terms of ALT and when in terms of FLs, and when to switch between ALT and FL",
+    "question": "Med letom na nivoju FL 80 je višinomer nastavlje na...",
+    "answers": [
+      "1030.25 hPa.",
+      "lokalni QFE.",
+      "lokalni QNH.",
+      "1013.25 hPa."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00167",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.6.1.2.3",
+    "loText": "Explain the purpose of 'semi-circular rules'",
+    "question": "Kakšen namen ima \"polkrožno\" pravilo?",
+    "answers": [
+      "Preprečevanje trkov z zmanjševanjem pojavnosti nasproti letečega prometa na isti višini",
+      "Izogibanje trkov z začasno prekinitvijo zavijanja",
+      "Letenje brez oddanega načrta leta v predpisanih conah, objavljenih v AIP",
+      "Omogočiti varno vzpenjanje ali spuščanje v zanki čakanja"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00174",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.6.2.1.3",
+    "loText": "Explain the available modes (Mode A / C / S) and their use, and when the pilot shall operate the transponder",
+    "question": "Transponder, ki lahko pošilja trenutno tlačno višino, je...",
+    "answers": [
+      "dekodirnik tlaka.",
+      "transponder z zmogljivostjo Mode A.",
+      "transponder, potrjen za zračni prostor razreda \"B\".",
+      "transponder z zmogljivostjo Mode C ali Mode S."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00177",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.6.2.1.5",
+    "loText": "Explain the use of the codes 7500, 7600, 7700",
+    "question": "Katera koda transponderja ponazarja izgubo radijske zveze?",
+    "answers": [
+      "7000",
+      "7700",
+      "2000",
+      "7600"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00181",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.7.1.8.3",
+    "loText": "State the mode and code of SSR equipment a pilot might operate in a state of emergency",
+    "question": "Katero kodo transponderja je potrebno samoiniciativno nastaviti med nevarnostjo (ang. emergency)?",
+    "answers": [
+      "7500",
+      "7600",
+      "7000",
+      "7700"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00190",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.7.1.2.1",
+    "loText": "State the objectives of ATS",
+    "question": "Katera služba izvaja kontrolo zračnega prometa?",
+    "answers": [
+      "ALR (alarmna služba)\nSAR (služba iskanja in reševanja)\nTWR (letališka kontrola zračnega prometa)",
+      "FIS (služba informacij za letenje)\nAIS (služba letalskih informacij)\nAFS (stacionarna letalska služba)",
+      "APP (priletna kontrola zračnega prometa)\nACC (območna kontrola zračnega prometa)\nFIS (služba informacij za letenje)",
+      "TWR (letališka kontrola zračnega prometa)\nAPP (priletna kontrola zračnega prometa)\nACC (območna kontrola zračnega prometa)"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00193",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.7.1.3.4",
+    "loText": "Describe specialities and associated dangers of airspace ECHO (collision avoidance, transponder mandatory, IFR and VFR traffic)",
+    "question": "Kateri odgovor je pravilen glede razdvajanja v zračnem prostoru razreda \"E\"?",
+    "answers": [
+      "VFR promet se razdvaja od VFR in IFR prometa.",
+      "VFR promet se ne razdvaja od katerega koli drugega prometa.",
+      "IFR promet se razdvaja le od VFR prometa.",
+      "VFR promet se razdvaja le od IFR prometa."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00200",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.7.1.7.1",
+    "loText": "State for which aircraft FIS shall be provided",
+    "question": "Katere službe zračnega prometa lahko pričakujemo znotraj FIR (območje z informacijami za letenje)?",
+    "answers": [
+      "ATC (kontrola zračnega prometa)\nAIS (služba letalskih informacij)",
+      "ATC (kontrola zračnega prometa)\nFIS (služba informacij za letenje)",
+      "AIS (služba letalskih informacij)\nSAR (iskanje in reševanje)",
+      "FIS (služba informacij za letenje)\nALR (alarmna služba)"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00201",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.7.1.7.1",
+    "loText": "State for which aircraft FIS shall be provided",
+    "question": "Pilot lahko kontaktira FIS (službo informacij za letenje)...",
+    "answers": [
+      "z obiskom.",
+      "preko interneta.",
+      "preko telefona.",
+      "preko radijske zveze."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00207",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.8.2.1.2",
+    "loText": "Name and explain the contents of the different parts of the AIP",
+    "question": "Katere informacije so zagotovljene v delu\"GEN\" Zbornika letalskih informacij AIP?",
+    "answers": [
+      "Omejitev dostopa do letališča, kontrole potnikov, zahteve za pilote, primeri licenc in obdobja veljavnosti",
+      "Vsebina, klasifikacija letališč z ustreznimi zemljevidi, priletne karte, karte za vožnjo, omejena in nevarna območja",
+      "Znaki na kartah, seznam radijskih nav. pripomočkov, čas sončnega vzhoda in zahoda, letališke takse, takse kontrole zračnega prometa",
+      "Opozorila za letalstvo, zračni prostori in poti ATS, omejena in nevarna območja"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00208",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.8.2.1.2",
+    "loText": "Name and explain the contents of the different parts of the AIP",
+    "question": "Katere dele ima Zbornik letalskih informacij (AIP)?",
+    "answers": [
+      "GEN\nENR\nAD",
+      "GEN\nCOM\nMET",
+      "GEN\nAGA\nCOM",
+      "GEN\nMET\nRAC"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00210",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.8.2.1.2",
+    "loText": "Name and explain the contents of the different parts of the AIP",
+    "question": "Katere informacije so zagotovljene v delu\"AD\" Zbornika letalskih informacij AIP?",
+    "answers": [
+      "Znaki na kartah, seznam radijskih nav. pripomočkov, čas sončnega vzhoda in zahoda, letališke takse, takse kontrole zračnega prometa",
+      "Vsebina, klasifikacija letališč z ustreznimi zemljevidi, priletne karte, karte za vožnjo, omejena in nevarna območja",
+      "Omejitev dostopa do letališča, kontrole potnikov, zahteve za pilote, primeri licenc in obdobja veljavnosti",
+      "Opozorila za letalstvo, zračni prostori in poti ATS, omejena in nevarna območja"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00211",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.8.2.2.3",
+    "loText": "Read and interpret information from NOTAMs goven by example",
+    "question": "NOTAM:\nA1024/13 A) LOWW B) 1305211200 C) 1305211400\nE) STOCKERAU VOR STO 113.00 UNSERVICEABLE je veljaven do:",
+    "answers": [
+      "21/05/2014 13:00 UTC.",
+      "21/05/2013 14:00 UTC.",
+      "13/05/2013 12:00 UTC.",
+      "13/10/2013 00:00 UTC."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00220",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.1.1.1",
+    "loText": "Define the terms 'aerdrome traffic', 'aerodrome elevation', 'runway', 'taxi holding point'",
+    "question": "Izraz \"vzletno-pristajalna steza\" je opredeljen kot…",
+    "answers": [
+      "okroglo območje na letališču, namenjeno vzletanju in pristajanju zrakoplovov.",
+      "pravokotno območje na kopenskem letališču, namenjeno vzletanju in pristajanju zrakoplovov.",
+      "pravokotno območje na kopenskem letališču ali letališču na vodi, namenjeno vzletanju in pristajanju zrakoplovov.",
+      "pravokotno območje na kopenskem letališču, namenjeno vzletanju in pristajanju helikopterjev."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00224",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.2.1.1",
+    "loText": "Describe the different types of water deposit on RWYs (DAMP, WET, STANDING WATER)",
+    "question": "Kaj pomeni \"WET (moker)\" v sporočilu o stanju steze?",
+    "answers": [
+      "Velik del površine je poplavljen",
+      "Površina vzletno-pristajalne steze je mokra, vendar brez večjih luž",
+      "Na vzletno-pristajalni stezi ni vode, ledu in snega",
+      "Vidnih je nekaj luž"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00227",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.2.1.1",
+    "loText": "Describe the different types of water deposit on RWYs (DAMP, WET, STANDING WATER)",
+    "question": "Kaj pomeni \"WATER PATCHES (luže)\" v sporočilu o stanju steze?",
+    "answers": [
+      "Velik del površine je poplavljen",
+      "Površina je mokra, vendar ni vidnih večjih luž",
+      "Vidne so luže",
+      "Na vzletno-pristajalni stezi ni vode, ledu in snega"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00230",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.1.3",
+    "loText": "Explain the use and capabilities of a signalling lamp, and state the meaning of various light signals from TWR to aircraft on ground and in flight",
+    "question": "Kaj pomeni na kontroliranem letališču serija rdečih bliskov, usmerjenih v zrakoplov v letu?",
+    "answers": [
+      "Lahko pristanete",
+      "Letališče ni varno, ne pristajajte",
+      "Prednost dajte drugim zrakoplovom in nadaljujte kroženje",
+      "Vrnite se za pristanek; sledi mu stalni zeleni signal ob ustreznem času"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00231",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.1.3",
+    "loText": "Explain the use and capabilities of a signalling lamp, and state the meaning of various light signals from TWR to aircraft on ground and in flight",
+    "question": "Kaj pomeni na kontroliranem letališču serija zelenih bliskov, usmerjenih v zrakoplov v letu?",
+    "answers": [
+      "Lahko pristanete",
+      "Vrnite se za pristanek; sledi mu stalni zeleni signal ob ustreznem času",
+      "Letališče ni varno, ne pristajajte",
+      "Prednost dajte drugim zrakoplovom in nadaljujte kroženje"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00232",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.1.3",
+    "loText": "Explain the use and capabilities of a signalling lamp, and state the meaning of various light signals from TWR to aircraft on ground and in flight",
+    "question": "Kaj pomeni na kontroliranem letališču stalni zeleni signal, usmerjen v zrakoplov v letu?",
+    "answers": [
+      "Lahko pristanete",
+      "Prednost dajte drugim zrakoplovom in nadaljujte kroženje",
+      "Vrnite se za pristanek; sledi mu stalni zeleni signal ob ustreznem času",
+      "Letališče ni varno, ne pristajajte"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00235",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.1.3",
+    "loText": "Explain the use and capabilities of a signalling lamp, and state the meaning of various light signals from TWR to aircraft on ground and in flight",
+    "question": "Kaj pomeni na kontroliranem letališču serija rdečih bliskov, usmerjenih v zrakoplov na tleh?",
+    "answers": [
+      "Dovoljena vožnja",
+      "Takoj vozi vstran od aktivne steze",
+      "Lahko vzletite",
+      "Vrnite se na začetno točko na letališču"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00238",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.1.5",
+    "loText": "Interpret indications and signals that may be used in a signal area",
+    "question": "Kakšne oblike je znak, ki označuje smer, ki jo mora uporabiti zrakoplov za pristajanje?",
+    "answers": [
+      "Puščica pod kotom",
+      "Ravna puščica",
+      "L",
+      "T"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00239",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.1.5",
+    "loText": "Interpret indications and signals that may be used in a signal area",
+    "question": "Kakšen pomen ima signalno območje na letališču?",
+    "answers": [
+      "Je osvetljeno območje, na katerem so parkirana vozila za iskanje in reševanje ter gašenje požarov",
+      "Vsebuje posebne vizualne signale, ki predstavljajo zrakoplovom v preletu stanje na latališču",
+      "Zrakoplovi vozijo do območja, kjer dobijo s pomočjo svetlobnih signalov navodila za vožnjo in dovoljenje za vzlet",
+      "Je posebej označeno območje za dvig ali odmet vlečnih predmetov"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00244",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.2.1",
+    "loText": "Name the colours used for the various markings (RWY, TWY, aircraft stands)",
+    "question": "Kakšne barve je, skladno z ICAO Prilogo 14, oznaka vzletno-pristajalne steze?",
+    "answers": [
+      "Modre",
+      "Rumene",
+      "Bele",
+      "Zelene"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00245",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.5.1.2",
+    "loText": "Describe the pre-THR marking (including colours) when the surface before the THR should not be used",
+    "question": "Kaj predstavljajo vzdolžne proge enakih dimenzij, postavljene simetrično od središčne črte vzletno-pristajalne steze?",
+    "answers": [
+      "Ne dotaknite se steze pred njimi",
+      "Na tej točki drsna pot ILS zadene stezo",
+      "Ne dotaknite se steze za njimi",
+      "S te točke je mogoče pričeti vzletni zalet"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00246",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.2.2",
+    "loText": "State where a RWY designation marking shall be provided and describe the different layouts (excluding dimensions)",
+    "question": "Katera označba dveh vzporednih vzletno-pristajalnih stez je pravilna?",
+    "answers": [
+      "\"18\" in \"18-2\"",
+      "\"06L\" in \"06R\"",
+      "\"26\" in \"26R\"",
+      "\"24\" in \"25\""
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00249",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.3.3",
+    "loText": "Describe the characteristics of an 'Aerodrome Beacon'",
+    "question": "Letališki svetilnik (ABN) je...",
+    "answers": [
+      "stalni svetilnik, nameščen na letališču in namenjen lociranju letališča pilotov zrakoplovov iz zraka.",
+      "utripajoč svetilnik, nameščen na letališču in namenjen lociranju letališča pilotov zrakoplovov s tal.",
+      "utripajoč svetilnik, nameščen na začetku končnega prileta in namenjen lociranju letališča pilotov zrakoplovov iz zraka.",
+      "utripajoč svetilnik, nameščen na letališču in namenjen lociranju letališča pilotov zrakoplovov iz zraka."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00254",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.4.2",
+    "loText": "Describe and identify a intersection take-off sign at a TWY/RWY intersection, indicating the remaining runway length available",
+    "question": "Kaj predstavlja prikazani znak?\nGlej sliko (ALW-020)",
+    "answers": [
+      "Dolžina celotne steze v navedeni smeri je 2500 m",
+      "Od tega križišča je razpoložljiva dolžina vzletno-pristajalne steze v navedeni smeri 2500 m",
+      "2500 m v navedeni smeri dokler ne dosežete parkirnega območja",
+      "2500 m v navedeni smeri dokler ne dosežete točke odhoda na vzletno-pristajalni stezi"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E10-200511-00254_alw-020.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00256",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.1.5",
+    "loText": "Interpret indications and signals that may be used in a signal area",
+    "question": "(Glej prilogo ALW-010)\nKaj na letališcu pomeni talna oznacba v obliki rumenega križa na rdeci podlagi?",
+    "answers": [
+      "Po vzletu in pred pristankom se vsi zavoji izvajajo v desno.",
+      "Pozor, manevrska površina je v slabem stanju.",
+      "Premiki na zemlji omejeni na utrjene površine.surfaces.",
+      "Dolgotrajnejša prepoved pristajanja."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E10-200511-00256_alw-010.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00259",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.9.3.1.5",
+    "loText": "Interpret indications and signals that may be used in a signal area",
+    "question": "Kaj predstavlja ta znak na letališču?\nGlej sliko (ALW-011)",
+    "answers": [
+      "Po vzletu in pred pristankom morajo biti vsi zavoji desni",
+      "Prepoved pristajanja za daljše obdobje",
+      "Previdno, manevrsko območje je slabo",
+      "Odvija se jadralno letenje"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E10-200511-00259_alw-011.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00267",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.10.1.1.2",
+    "loText": "Recall the definitions of the following terms: INCERFA, ALERFA, DETRESFA",
+    "question": "Kaj pomeni \"DETRESFA\"?",
+    "answers": [
+      "Faza reševanja",
+      "Faza negotovosti",
+      "Faza stiske",
+      "Faza alarmiranja"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00282",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.10.3.1.3",
+    "loText": "Describe how an aircraft should confirm to have received the information from ground-air signals",
+    "question": "Kako pilot med letom potrdi prejeti signal iskanja in reševanja na tleh?",
+    "answers": [
+      "Večkrat izvede parabolični let",
+      "Nekajkrat izvleče in uvleče zakrilca",
+      "Pomaha s krili",
+      "Smerno krmilo nekajkrat premakne v obe smeri"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00285",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.12.1.1.1",
+    "loText": "Recall the definitions of the following terms: accident, incident, investigation, serious incident, serious injury",
+    "question": "Z ozirom na preiskovanje letalskih nesreč in incidentov, katere tri kategorije dogodkov poznamo?",
+    "answers": [
+      "Incident\nResni incident\nNesreča",
+      "Dogodek\nResni dogodek\nNesreča",
+      "Dogodek\nTrk\nKatasrofa",
+      "Pripetjaj\nDogodek\nResni dogodek"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00292",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.3.1.4",
+    "loText": "State the minimum flight altitude with regard to SERA, for flights over populated and unpopulated areas",
+    "question": "Kaj je treba upoštevati v zvezi z mostovi in podobnimi zgradbami?",
+    "answers": [
+      "Pod temi zgradbami lahko letimo, ce je višina leta vsaj 150 m AGL.",
+      "Pod temi zgradbami v nobenem primeru ne smemo leteti.",
+      "Pod temi zgradbami lahko letimo, ce sta stranska in navpicna razdalja vsaj 20 m.",
+      "Pod temi zgradbami lahko letimo, ce so ustrezno oznacene."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E10-200511-00295",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "10.5.4.1.3",
+    "loText": "Apply the right-of-way- and collision aviodance rules to given examples",
+    "question": "Med jadranjem na pobočju imate hrib na vaši levi strani, drugo jadralno letalo pa se vam približuje iz nasprotne strani na isti višini.\nKako se odzovete?",
+    "answers": [
+      "Spremenim smer v desno",
+      "Spremenim smer v desno in pričakujem, da bo jadralno letalo, ki mi leti naproti, storilo enako",
+      "Pričakujem, da bo jadralno letalo, ki mi leti naproti, spremenilo smer",
+      "Potegnem krmilo za dvig in spremenim višino"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K10-2025-002",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Kdo zagotovi službe iskanja in reševanja?",
+    "answers": [
+      "Samo vojaške organizacije.",
+      "Samo civilne organizacije.",
+      "Tako civilne kot vojaške organizacije.",
+      "Potrjene mednarodne organizacije."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-006",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj je osnovni namen preiskovanja letalskih nesreč?",
+    "answers": [
+      "Določiti krivce in izvesti pravne posledice.",
+      "Delati z javnim tožilcem in mu pomagati pri nadaljnjih aktivnostih v zvezi z letalskimi nesrečami.",
+      "Razjasniti vprašanja o odgovornosti v smislu odškodnine potnikom.",
+      "Ugotoviti razloge in izdelati varnostna priporočila."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj pomeni kratica \"VMC\"?",
+    "answers": [
+      "Vizualne meteorološke razmere.",
+      "Pravila vizualnega letenja.",
+      "Spremenljive meteorološke razmere.",
+      "Instrumentalne razmere za letenje."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-023",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Kolikšna je najmanjša vidljivost v zračnem prostoru razreda \"C\" na ali pod nivojem leta FL 100 za letalo, ki leti po pravilih VFR?",
+    "answers": [
+      "8 km",
+      "5 km",
+      "1.5 km",
+      "10 km"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-026",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Skupaj z drugimi jadralnimi letali krožite v vzgorniku. Kdo določi smer kroženja?",
+    "answers": [
+      "Jadralno letalo, ki je prvo vstopilo v vzgornik.",
+      "Kroženje je na splošno v levo.",
+      "Jadralno letalo, ki je najvišje.",
+      "Jadralno letalo z največjim kotom nagiba"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-027",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Dve jadralni letali letita na isti višini na poteh, ki se križata. Katero letalo mora spremeniti smer?",
+    "answers": [
+      "Obe letali morata zaviti desno.",
+      "Težje letalo mora vzpenjati.",
+      "Obe letali morata zaviti levo.",
+      "Lažje letalo mora vzpenjati."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-035",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Katera služba zračnega prometa je odgovorna za varno izvedbo leta?",
+    "answers": [
+      "ATC (kontrola zračnega prometa).",
+      "FIS (služba informacij za letenje).",
+      "ALR (služba alarmiranja).",
+      "AIS (služba letalskih informacij)."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-037",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Ali lahko jadralno letalo vstopi v zračni prostor razreda C?",
+    "answers": [
+      "Da, vendar le z odobritvijo zadevne enote ATC.",
+      "Da, vendar le z aktiviranim transponderjem.",
+      "Ne.",
+      "Z omejitvami, ko je manj zračnega prometa."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-039",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Katero območje je mogoče preleteti z določenimi omejitvami?",
+    "answers": [
+      "Prepovedano območje.",
+      "Omejeno območje.",
+      "Nevarno območje.",
+      "Območje prepovedi letenja."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-041",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšen je pomen območja z oznako \"TMZ\"?",
+    "answers": [
+      "Območje obvezne rabe transponderja.",
+      "Cona z upravljanjem prometa.",
+      "Cona za motorna jadralna letala.",
+      "Cona upravljanja prevoza."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-045",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Katero kodo transponderja je potrebno samoiniciativno nastaviti ob okvari radijske postaje?",
+    "answers": [
+      "7600",
+      "7500",
+      "7700",
+      "7000"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-051",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Predpoletno poročilo (PIB) predstavlja trenutne...",
+    "answers": [
+      "pomembne operativne informacije AIP, pripravljene pred letom.",
+      "pomembne operativne informacije NOTAM, pripravljene pred letom.",
+      "pomembne operativne informacije AIC, pripravljene pred letom.",
+      "pomembne operativne informacije ICAO, pripravljene pred letom."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-054",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Izraz \"nadmorska višina letališča\" je opredeljen kot...",
+    "answers": [
+      "najvišja točka ploščadi.",
+      "najvišja točka pristajalnega območja.",
+      "najnižja točka pristajalnega območja.",
+      "srednja vrednost višine manevrskega območja."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Kako lahko označimo kazalnik smeri vetra za lažjo prepoznavnost?",
+    "answers": [
+      "Kazalnik smeri vetra naj bo narejen iz zelelenga materiala.",
+      "Kazalnik smeri vetra se naj postavi na vrh kontrolnega stolpa.",
+      "Kazalnik smeri vetra lahko obkroža beli krog.",
+      "Kazalnik smeri vetra se postavi na veliki črni podlagi."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K10-2025-060",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 10,
+    "subjectName": "Air Law",
+    "lo": "",
+    "loText": "",
+    "question": "Kako so označene vzporedne vzletno-pristajalne steze?",
+    "answers": [
+      "Leva steza dobi pripono \"-1\", desna steza pa \"-2\".",
+      "Leva steza dobi pripono \"L\", desna steza je nespremenjena.",
+      "Leva vzletno-pristajalna steza ostane nespremenjena, označba desne steze se poveča za 1.",
+      "Leva steza dobi pripono \"L\", desna steza pa \"R\"."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

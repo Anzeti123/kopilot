@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "E40-200511-00188",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.6",
+    "loText": "Describe the procedure for 'blind transmissions'",
+    "question": "V kakšnih razmerah naj pilot \"slepo oddaja\"?",
+    "answers": [
+      "Kadar ni mogoče vzpostaviti radijske komunikacije z ustrezno letalsko postajo in obstajajo znaki, da enota na tleh sporočila sprejema.",
+      "Kadar je potrebno pomembne navigacijske ali tehnične podatke poslati večim postajam hkrati.",
+      "Ko prometne razmere na letališču omogočajo prenos informacij, ki jih postaja na tleh ne rabi potrditi.",
+      "Ko pilot nehote zaide v oblak in želi zaprositi enoto na tleh za pomoč pri navigaciji."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00197",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.2.1",
+    "loText": "Define commonly used ATS abbreviations: flight conditions, airspace, services, time, VFRrelated terms",
+    "question": "Katera kratica se uporablja za izraz \"pravila vizualnega letenja\"?",
+    "answers": [
+      "VFS",
+      "VFR",
+      "VMC",
+      "VRU"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00199",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.2.1",
+    "loText": "Define commonly used ATS abbreviations: flight conditions, airspace, services, time, VFRrelated terms",
+    "question": "Katera kratica se uporablja za izraz \"ovira\" (angl. obstacle)?",
+    "answers": [
+      "OBTC",
+      "OBST",
+      "OBS",
+      "OST"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00204",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.1.1",
+    "loText": "Define commonly used air traffic services (ATS) terms for stations",
+    "question": "Kaj pomeni kratica \"FIS\"?",
+    "answers": [
+      "Služba informacij za letenje",
+      "Sistem informacij za letenje",
+      "Sistem utripajočih informacij",
+      "Služba bliskovitih informacij"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00205",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.1.1",
+    "loText": "Define commonly used air traffic services (ATS) terms for stations",
+    "question": "Kaj pomeni kratica \"FIR\"?",
+    "answers": [
+      "Zahtevana integriteta pretoka",
+      "Sprejemnik podatkov o integriteti leta",
+      "Območje z informacijami za letenje",
+      "Radar pretoka informacij"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00210",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.2.1",
+    "loText": "Define commonly used ATS abbreviations: flight conditions, airspace, services, time, VFRrelated terms",
+    "question": "Kaj pomeni kratica \"H24\"?",
+    "answers": [
+      "Od sončnega zahoda do sončnega vzhoda.",
+      "24-urna služba",
+      "Čas začetka ni določen.",
+      "Od sončnega vzhoda do sončnega zahoda."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00211",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.2.1",
+    "loText": "Define commonly used ATS abbreviations: flight conditions, airspace, services, time, VFRrelated terms",
+    "question": "Kaj pomeni kratica \"HX\"?",
+    "answers": [
+      "Od sončnega vzhoda do sončnega zahoda.",
+      "Od sončnega zahoda do sončnega vzhoda.",
+      "24-urna služba",
+      "Brez določenega delovnega časa."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00213",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.3.1",
+    "loText": "Define Qcode groups commonly used in RT airground communications: pressure settings (QNH, QFE, Standard)",
+    "question": "Na katero vrednost je potrebno nastaviti višinomer, da na tleh kaže nič?",
+    "answers": [
+      "QFE",
+      "QNE",
+      "QNH",
+      "QTE"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00219",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.3.1",
+    "loText": "Define Qcode groups commonly used in RT airground communications: pressure settings (QNH, QFE, Standard)",
+    "question": "Katero absolutno višino kaže višinomer, ki ga nastavimo na določen QFE?",
+    "answers": [
+      "Absolutno višino z ozirom na zračni tlak na referenčnem letališču.",
+      "Absolutno višino z ozirom na standardni zračni tlak 1013.25 hPa.",
+      "Absolutno višino z ozirom na najvišjo točko znotraj 10 km.",
+      "Absolutno višino z ozirom na srednjo morsko gladino."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00241",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.1.4.1",
+    "loText": "Name different categories of radio messages",
+    "question": "Kateri izraz ponazarja sporočilo, ki se uporablja za vodenje zračnega prometa?",
+    "answers": [
+      "Sporočilo o varnosti leta",
+      "Sporočilo o poteku leta",
+      "Sporočilo v zvezi z iskanjem smeri",
+      "Meteorološko sporočilo"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00245",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.5.1.1",
+    "loText": "Define 'DISTRESS'",
+    "question": "Sporočila v nevarnosti (distress messages) so sporočila...",
+    "answers": [
+      "v zvezi z delovanjem ali vzdrževanjem naprav in storitev, ki so pomembne za varnost in rednost letalskih operacij.",
+      "ki jih pošlje pilot ali operator zrakoplova in imajo takojšen pomen za zrakoplov med letom.",
+      "v zvezi z zrakoplovom in potniki, ki jim grozi resna in/ali neposredna nevarnost in potrebujejo takojšnjo pomoč.",
+      "v zvezi z varnostjo zrakoplova, plovila ali drugega vozila ali osebe na vidiku."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00247",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.5.2.1",
+    "loText": "Define 'URGENCY'",
+    "question": "Sporočila v sili (urgency messages) so sporočila ...",
+    "answers": [
+      "v zvezi z delovanjem ali vzdrževanjem naprav in storitev, ki so kjučne za varnost in rednost operacij zrakoplovov.",
+      "v zvezi z varnostjo zrakoplova, plovila ali drugega vozila ali osebe na vidiku.",
+      "v zvezi z zrakoplovom in potniki, ki jim grozi resna in/ali neposredna nevarnost in potrebujejo takojšnjo pomoč.",
+      "ki jih pošlje pilot ali operator zrakoplova in imajo takojšen pomen za zrakoplov med letom."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00255",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.7.1",
+    "loText": "Describe the composition and transmission of an aircraft call sign",
+    "question": "Katera oddaja klicnega znaka HB-YKM je pravilna?",
+    "answers": [
+      "Home Bravo Yankee Kilo Mikro",
+      "Home Bravo Yuliett Kilo Mike",
+      "Hotel Bravo Yankee Kilo Mike",
+      "Hotel Bravo Yuliett Kilo Mikro"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00258",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.7.1",
+    "loText": "Describe the composition and transmission of an aircraft call sign",
+    "question": "Katera oddaja klicnega znaka OE-JVK je pravilna?",
+    "answers": [
+      "Omega Echo Juliett Victor Kilogramm",
+      "Oscar Echo Jankee Victor Kilogramm",
+      "Oscar Echo Juliett Victor Kilo",
+      "Omega Echo Jankee Victor Kilo"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00261",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.2.3",
+    "loText": "State how to transmit altitudes, flight levels and heights correctly",
+    "question": "Nadmorska višina 4500 čevljev se odda kot...",
+    "answers": [
+      "štiri pet nič nič.",
+      "štiri tisoč petsto.",
+      "štiri tisoč pet nič nič.",
+      "štiri pet tisoč."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00262",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.2.4",
+    "loText": "State how to transmit headings and bearings correctly",
+    "question": "Smer 285 stopinj se pravilno odda kot...",
+    "answers": [
+      "dva osem pet.",
+      "dvesto osem pet.",
+      "dva osem petsto.",
+      "dvesto petinosemdeset."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00266",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.2.5",
+    "loText": "State how to transmit frequencies correctly",
+    "question": "Frekvenca 119.500 MHz se pravilno odda kot...",
+    "answers": [
+      "ena ena devet cela pet.",
+      "ena ena devet cela pet nič.",
+      "ene ena devet cela pet nič nič.",
+      "ena ena devet tisoč cela pet nič."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00267",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.2",
+    "loText": "Recognise, describe and use the correct standard phraseology for each phase of a VFR flight: before taxi,  taxi, departure,  en route, circuit, final, landing, after landing",
+    "question": "Podatek o smeri \"v 12 uri\" se pravilno odda kot...",
+    "answers": [
+      "ena dvesto.",
+      "v smeri dvanajste ure.",
+      "ena dva.",
+      "v smer ena dve ure."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00268",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.3.1",
+    "loText": "State that UTC is used as standard time reference in RT",
+    "question": "Čas se prenaša kot...",
+    "answers": [
+      "čas časovnega pasu.",
+      "UTC.",
+      "Čas se prenaša kot...",
+      "standardni čas."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00272",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.3.2",
+    "loText": "Describe the ways of transmitting time: using only minutes, or minutes and hours, when required",
+    "question": "Če bi lahko prišlo do nesporazuma, se čas 1620 odda kot...",
+    "answers": [
+      "dva nič.",
+      "ena šest dva nič.",
+      "šestnajst dvajset.",
+      "dva tisoč šeststo dva nič."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00276",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.1",
+    "loText": "Define the meaning of standard words and phrases",
+    "question": "Kaj pomeni fraza \"razumem/roger\"?",
+    "answers": [
+      "Dovoljeno ti je, kot si zahteval.",
+      "Sprejel sem celotno tvoje zadnje sporočilo.",
+      "Razumem tvoje sporočilo in ga bom upošteval.",
+      "Oddano sporočilo je napačno. Pravilna različica je..."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00279",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.1",
+    "loText": "Define the meaning of standard words and phrases",
+    "question": "Kaj pomeni fraza \"dovoljeno/approved\"?",
+    "answers": [
+      "Razumem tvoje sporočilo in ga bom upošteval.",
+      "Oddano sporočilo je napačno. Pravilna različica je...",
+      "Dovoljeno ti je, kot si zahteval.",
+      "Sprejel sem celotno tvoje zadnje sporočilo."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00283",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.9.1",
+    "loText": "Explain how to test radio transmission and reception",
+    "question": "Katero frazo uporabi pilot, če želi preveriti kakovost slišnosti svojega prenosa?",
+    "answers": [
+      "Kako me slišiš?",
+      "Kako kakovostna je komunikacija?",
+      "Slišiš me za 5",
+      "Prosim kakovost slišnosti"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00286",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.1",
+    "loText": "Define the meaning of standard words and phrases",
+    "question": "Katero frazo uporabi pilot, ko želi leteti skozi kontroliran zračni prostor?",
+    "answers": [
+      "Želim",
+      "Prosim",
+      "Izvedem",
+      "Rad bi"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00290",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.3",
+    "loText": "State how to affirm or negate questions correctly",
+    "question": "Katero frazo uporabi pilot, če pritrdi vprašanju kontrolorja zračnega prometa?",
+    "answers": [
+      "Pritrjujem",
+      "Razumem",
+      "Da",
+      "Tako je"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00292",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.3",
+    "loText": "State how to affirm or negate questions correctly",
+    "question": "Katero frazo uporabi pilot, če sporočilo kontrolorja zračnega prometa ni pravilno?",
+    "answers": [
+      "Ne",
+      "Zaključi",
+      "To ni pravilno",
+      "Napačno"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00293",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.2",
+    "loText": "Recognise, describe and use the correct standard phraseology for each phase of a VFR flight: before taxi,  taxi, departure,  en route, circuit, final, landing, after landing",
+    "question": "Katero frazo uporabi pilot, ko želi obvestiti stolp, da je pripravljen na vzlet?",
+    "answers": [
+      "Prosim vzlet",
+      "Pripravljen",
+      "Pripravljen za odlet",
+      "Pripravljen na start motorjev"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00298",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.2",
+    "loText": "Recognise, describe and use the correct standard phraseology for each phase of a VFR flight: before taxi,  taxi, departure,  en route, circuit, final, landing, after landing",
+    "question": "What phrase is used by a pilot to inform the tower about a go-around?",
+    "answers": [
+      "Going around",
+      "No landing",
+      "Pulling up",
+      "Approach canceled"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00303",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.6.2",
+    "loText": "Identify the callsign suffixes for aeronautical stations",
+    "question": "Kakšen klicni znak ima služba informacij za letenje (FIS)?",
+    "answers": [
+      "Informacije",
+      "Nasveti",
+      "Info",
+      "Letalske informacije"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00310",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.7.4",
+    "loText": "State that an abbreviated call sign must only be used if it was already abbreviated by the ground station",
+    "question": "Kdaj lahko pilot skrajša klicni znak svojega zrakoplova?",
+    "answers": [
+      "Ko preleti prvo točko javljanja",
+      "Če je v šolskem krogu malo prometa",
+      "V kontroliranem zračnem prostoru",
+      "Ko skrajšano obliko uporabi postaja na tleh"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00311",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.7.3",
+    "loText": "State that upon initial contact all characters of an aircraft have to be transmitted",
+    "question": "Kateri način uporabe klicnega znaka zrakoplova v prvem klicu je pravilen?",
+    "answers": [
+      "Uporaba prvih treh enot klicnega znaka",
+      "Uporaba prvih dveh enot klicnega znaka",
+      "Uporaba zadnjih dveh enot klicnega znaka",
+      "Uporaba vseh enot klicnega znaka"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00318",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.9.2",
+    "loText": "State the readability scale and explain its meaning",
+    "question": "Kakšen je prenos, če je kakovost slišnosti 1?",
+    "answers": [
+      "Prenos je nerazumljiv.",
+      "Prenos je s težavo razumljiv.",
+      "Prenos je odlično razumljiv.",
+      "Prenos je razumljiv od časa do časa."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00320",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.9.2",
+    "loText": "State the readability scale and explain its meaning",
+    "question": "Kakšen je prenos, če je kakovost slišnosti 2?",
+    "answers": [
+      "Prenos je razumljiv od časa do časa.",
+      "Prenos je nerazumljiv.",
+      "Prenos je s težavo razumljiv.",
+      "Prenos je odlično razumljiv."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00321",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.9.2",
+    "loText": "State the readability scale and explain its meaning",
+    "question": "Kakšen je prenos, če je kakovost slišnosti 3?",
+    "answers": [
+      "Prenos je nerazumljiv.",
+      "Prenos je s težavo razumljiv.",
+      "Prenos je razumljiv od časa do časa.",
+      "Prenos je odlično razumljiv."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00324",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.9.2",
+    "loText": "State the readability scale and explain its meaning",
+    "question": "Kakšen je prenos, če je kakovost slišnosti 5?",
+    "answers": [
+      "Prenos je razumljiv od časa do časa.",
+      "Prenos je nerazumljiv.",
+      "Prenos je odlično razumljiv.",
+      "Prenos je s težavo razumljiv."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00327",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.10.4",
+    "loText": "Give examples of data that shall NOT be read back (e.g. wind, traffic information, etc.)",
+    "question": "Katere informacije zemeljske postaje ni potrebno ponoviti?",
+    "answers": [
+      "Koda SSR",
+      "Steza v uporabi",
+      "Veter",
+      "Nadmorska višina"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00329",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.10.4",
+    "loText": "Give examples of data that shall NOT be read back (e.g. wind, traffic information, etc.)",
+    "question": "Katere informacije zemeljske postaje ni potrebno ponoviti?",
+    "answers": [
+      "Navodila za vožnjo",
+      "Podatki o prometu",
+      "Smer",
+      "Nastanitev višinomera"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00334",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.10.3",
+    "loText": "Give examples of how to correctly read back ATC instructions",
+    "question": "Kateri način potrditve navodila\n\"DZF po vzletu nadaljuj v smeri steze, vzpenjaj do 2500 čevljev preden zaviješ desno smer 220, veter 090 stopinj, 5 vozlov, steza 12, prost vzlet\" je pravilen?",
+    "answers": [
+      "po vzletu nadaljuj v smeri steze, vzpenjaj do 2500 čevljev,bom upošteval, smer 220, 090 stopinj 5 vozlov, prost vzlet DZF",
+      "DZF po vzletu nadaljuj v smeri steze, vzpenjaj do 2500 čevljev preden zaviješ desno smer 220, veter 090 stopinj, 5 vozlov, prost vzlet",
+      "po vzletu nadaljuj v smeri steze, vzpenjaj do 2500 čevljev, nato zavij desno smer 220, steza 12 prost vzlet DZF",
+      "DZF po vzletu nadaljuj v smeri steze, vzpenjaj do 2500 čevljev preden zaviješ desno smer 220, veter 090 stopinj, 5 vozljev"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00340",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.10.3",
+    "loText": "Give examples of how to correctly read back ATC instructions",
+    "question": "Kateri način potrditve navodila \"Vstopate v zračni prostor Delta\" je pravilen?",
+    "answers": [
+      "Bom upošteval",
+      "Razumem",
+      "Vstopam",
+      "Zračni prostor Delta"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00343",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.3.1.2",
+    "loText": "Define meteorological terms used with aviation weather messages (e.g. 'ceiling', 'CAVOK', 'FEW', 'SCT', 'BKN', 'OVC')",
+    "question": "Kaj pomeni pokritost z oblaki \"FEW\" v vremenskem sporočilu METAR?",
+    "answers": [
+      "8 osmin",
+      "5 do 7 osmin",
+      "1 do 2 osmini",
+      "3 od 4 osmine"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00345",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.3.1.2",
+    "loText": "Define meteorological terms used with aviation weather messages (e.g. 'ceiling', 'CAVOK', 'FEW', 'SCT', 'BKN', 'OVC')",
+    "question": "Kaj pomeni pokritost z oblaki \"SCT\" v vremenskem sporočilu METAR?",
+    "answers": [
+      "8 osmin",
+      "3 do 4 osmine",
+      "1 do 2 osmini",
+      "5 do 7 osmin"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00354",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.2.7",
+    "loText": "State how to transmit visibility correctly, and which units used",
+    "question": "V katerem primeru se vidnost odda v metrih?",
+    "answers": [
+      "Če je večja kot 5 km",
+      "Do 5 km",
+      "Do 10 km",
+      "Če je večja kot 10 km"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00356",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.2.7",
+    "loText": "State how to transmit visibility correctly, and which units used",
+    "question": "V katerem primeru se vidnost odda v kilometrih?",
+    "answers": [
+      "Do 5 km",
+      "Do 10 km",
+      "Če je večja kot 5 km",
+      "Če je večja kot 10 km"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00357",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.3.2.3",
+    "loText": "Explain the terms 'ATIS' and 'VOLMET' and their relevant content",
+    "question": "Katera sporočila se oddajajo na frekvenci VOLMET?",
+    "answers": [
+      "Tekoče informacije",
+      "NOTAM-i",
+      "Meteorološki podatki",
+      "Navigacijske informacije"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00361",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.3.2.2",
+    "loText": "Describe situations in which a pilot can obtain weather broadcasts",
+    "question": "Kje lahko dobite meteorološke podatke v zvezi z letališči med rutnim letom?",
+    "answers": [
+      "GAMET",
+      "VOLMET",
+      "METAR",
+      "AIRMET"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00363",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.4.1.4",
+    "loText": "State the SSR code that may be used to indicate communication failure",
+    "question": "Katera koda transponderja kaže okvaro radijske postaje?",
+    "answers": [
+      "7700",
+      "7600",
+      "7500",
+      "7000"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00365",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.6",
+    "loText": "Describe the procedure for 'blind transmissions'",
+    "question": "S katero frazo začnemo slepo oddajo?",
+    "answers": [
+      "Poslušaj",
+      "Slepo",
+      "Brez prejema",
+      "Slepo oddajanje"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00369",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.6",
+    "loText": "Describe the procedure for 'blind transmissions'",
+    "question": "Na kateri frekvenci oddajamo slepo?",
+    "answers": [
+      "Na radarski frekvenci nižjega zračnega prostora",
+      "Na ustrezni frekvenci službe informacij za letenje (FIS)",
+      "Na frekvenci, ki jo trenutno uporabljamo",
+      "Na frekvenci stolpa"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00372",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.2.5.6",
+    "loText": "Describe the procedure for 'blind transmissions'",
+    "question": "Kolikokrat oddamo sporočilo slepo?",
+    "answers": [
+      "Štirikrat",
+      "Trikrat",
+      "Dvakrat",
+      "Enkrat"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00375",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.4.1.4",
+    "loText": "State the SSR code that may be used to indicate communication failure",
+    "question": "V katerih situacijah je potrebno na transpoderju nastaviti kodo 7600?",
+    "answers": [
+      "Let v oblake",
+      "Nevarnost",
+      "Izguba radijske zveze",
+      "Ugrabitev"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00378",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.4.1.2",
+    "loText": "Describe procedures in case of communication failure when approaching or in controlled airspace (e.g. CTR)",
+    "question": "Kakšen je pravilen potek ukrepanja, če pride do odpovedi radijske zveze v zračnem prostoru razreda D?",
+    "answers": [
+      "Let se nadaljuje v skladu z zadnjim navodilom ob upoštevanju pravil VFR ali pa je zračni prostor potrebno zapustiti po najkrašji poti.",
+      "Let se nadaljuje nad 5000 čevlji ob upoštevanju pravil VFR ali pa je zračni prostor potrebno zapustiti po standardni poti",
+      "Let se nadaljuje v skladu z zadnjim navodilom ob upoštevanju pravil VFR ali pa je zračni prostor potrebno zapustiti po standardni poti.",
+      "Let se nadaljuje nad 5000 čevlji ob upoštevanju pravil VFR ali pa je zračni prostor potrebno zapustiti po najkrajši poti"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00380",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.4.1.2",
+    "loText": "Describe procedures in case of communication failure when approaching or in controlled airspace (e.g. CTR)",
+    "question": "V katerih primeri je mogoče vstopiti v zračni prostor razreda D brez radijske zveze?",
+    "answers": [
+      "Če gre za namembno letališče",
+      "Če je bilo dovoljenje dano pred tem.",
+      "Če so v šolskem krogu drugi zrakoplovi",
+      "Če gre za odhodno letališče"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00382",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.5.2.2",
+    "loText": "State the wording used with urgency messages ('PAN PAN')",
+    "question": "Katero frazo ponovimo trikrat na začetku sporočila v sili (urgency message)?",
+    "answers": [
+      "Mayday",
+      "Nujno",
+      "Pan Pan",
+      "Na pomoč"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00390",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.5.1.3",
+    "loText": "State the frequencies that should be used by aircraft in DISTRESS",
+    "question": "Na kateri frekvenci se odda sporočilo v nevarnosti?",
+    "answers": [
+      "Na frekvenci, ki jo trenutno uporabljamo",
+      "Na frekvenci za primere nevarnosti",
+      "Na frekvenci radarske službe",
+      "Na frekvenci službe informacij za letenje (FIS)"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00394",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.5.2.7",
+    "loText": "List the correctly sequenced elements of an URGENCY signal/message and describe the message content",
+    "question": "Katere podatke je potrebno vključiti v sporočilo v sili?",
+    "answers": [
+      "Vzrok problema ali opažanja, pomembne informacije za pomoč, odhodno letališče, podatke o položaju, smer in višino",
+      "Nameravano pot, pomembne informacije za pomoč, namen vodje zrakoplova, odhodno letališče, namembno letališče, smer in višino",
+      "Nameravano pot, pomembne informacije za pomoč, namen vodje zrakoplova, podatki o poziciji, odhodno letališče, smer in višino",
+      "Vzrok problema ali opažanja, pomembne informacije za pomoč, namen vodje zrakoplova, podatke o poziciji, smeri in višini"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00398",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.5.1.4",
+    "loText": "State the SSR codes that may be used by aircraft in emergency",
+    "question": "Pravilna koda transponderja za nevarnost je...",
+    "answers": [
+      "7700.",
+      "7600.",
+      "7500.",
+      "7000."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00404",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.6.1.3",
+    "loText": "State the frequency range of the VHF band, and identify frequency used for VHF voice communication",
+    "question": "Katera označba frekvenčnega pasu od 118.000 do 136.975 MHz, ki se uporablja za glasovne komunikacije, je pravilna?",
+    "answers": [
+      "HF",
+      "MF",
+      "LF",
+      "VHF"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00410",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.6.1.1",
+    "loText": "State the properties of electromagnetic waves (e.g. frequency, wavelength, speed of propagation)",
+    "question": "Kakšna je približna hitrost širjenja elektromagnetnih valov?",
+    "answers": [
+      "123,000 km/s",
+      "300,000 km/s",
+      "300,000 m/s",
+      "123,000 m/s"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E40-200511-00413",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "40.1.3.2.3",
+    "loText": "Explain the terms 'ATIS' and 'VOLMET' and their relevant content",
+    "question": "ATIS je veljaven...",
+    "answers": [
+      "60 minut.",
+      "30 minut.",
+      "10 minut.",
+      "45 minut."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K40-2025-004",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Katera kratica se uporablja za izraz \"bočno od\" (angl. abeam)?",
+    "answers": [
+      "ABE",
+      "ABB",
+      "ABM",
+      "ABA"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-009",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Katero absolutno višino kaže višinomer, ki ga nastavimo na določen QNH?",
+    "answers": [
+      "Absolutno višino z ozirom na standardni zračni tlak 1013.25 hPa",
+      "Absolutno višino z ozirom na zračni tlak na referenčnem letališču.",
+      "Absolutno višino z ozirom na srednjo morsko gladino",
+      "Absolutno višino z ozirom na najvišjo točko znotraj 10 km"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-012",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Sporočila o poteku leta so sporočila...",
+    "answers": [
+      "v zvezi z zrakoplovom in potniki, ki jim grozi resna in/ali neposredna nevarnost in potrebujejo takojšnjo pomoč.",
+      "v zvezi z varnostjo zrakoplova, plovila ali drugega vozila ali osebe na vidiku.",
+      "ki jih pošlje pilot ali operator zrakoplova in imajo takojšen pomen za zrakoplov med letom.",
+      "v zvezi z delovanjem ali vzdrževanjem naprav in storitev, ki so kjučne za varnost in rednost operacij zrakoplovov."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-021",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj pomeni fraza \"popravljam/correction\"?",
+    "answers": [
+      "Razumem tvoje sporočilo in ga bom upošteval.",
+      "Sprejel sem celotno tvoje zadnje sporočilo.",
+      "Oddano sporočilo je napačno. Pravilna različica je...",
+      "Dovoljeno ti je, kot si zahteval."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-024",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Katera izmed možnosti predstavlja pravilno poročilo o položaju?",
+    "answers": [
+      "S5ABC, \"N\", 2500 čevljev",
+      "S5ABC nad \"N\" na nivoju leta 2500 čevljev",
+      "S5ABC dosegel \"N\"",
+      "S5ABC over \"N\" ob 35"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-025",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Katera fraza, povezana z vrtinčno sledjo, je pravilna, če želimo povedati, da lahko letalo sledi letalu z višjim razredom vrtinčne sledi?",
+    "answers": [
+      "Nevarnost curka reaktivnega motorja",
+      "Pozor, spiralne tokovnice propelerja",
+      "Pozor, vrtinčna sled",
+      "Pazi, vetrovne sledi"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-026",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri način vzpostavitve radijske komunikacije med D-EAZF in Dusseldorf Stolp je pravilen?",
+    "answers": [
+      "Stolp od D-EAZF",
+      "Dusseldorf Stolp odgovori",
+      "DEAZF kliče Dusseldorf Stolp",
+      "Dusseldorf Stolp D-EAZF"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-028",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Katero frazo uporabi pilot, da stolpu sporoči o pričetku \"go-around-a\"?",
+    "answers": [
+      "Ni pristanka",
+      "Prekinjam prileta",
+      "Vlečem navzgor",
+      "Going around"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-036",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšen klicni znak ima kontrola gibanja zrakoplovov po tleh?",
+    "answers": [
+      "Stolp",
+      "Tla",
+      "Zemlja",
+      "Kontrola"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-038",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšen klicni znak ima letališka kontrola zračnega prometa?",
+    "answers": [
+      "Stolp",
+      "Letališče",
+      "Zemeljska postaja",
+      "Kontrola"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-041",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšna je pravilna okrajšava klicnega znaka D-EAZF?",
+    "answers": [
+      "DZF",
+      "DEA",
+      "AZF",
+      "DEF"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-050",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri način potrditve navodila \"Naslednje poročilo PAH\" je pravilen?",
+    "answers": [
+      "Razumem",
+      "Sporoči PAH",
+      "Da",
+      "Bom upošteval"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-051",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri način potrditve navodila \"Squawk 4321, preklopi na Bremen Radar 131.325\" je pravilen?",
+    "answers": [
+      "Squawk 4321, 131.325",
+      "Razumem",
+      "Squawk 4321, bom upošteval",
+      "Bom upošteval"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-057",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj pomeni pokritost z oblaki \"BKN\" v vremenskem sporočilu METAR?",
+    "answers": [
+      "1 do 2 osmini",
+      "3 do 4 osmine",
+      "5 do 7 osmin",
+      "8 osmin"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Sporočila v sili (urgency messages) so...",
+    "answers": [
+      "sporočila v zvezi nujnimi rezervnimi deli, ki so potrebni za nadaljevanje leta in ki jih je potrebno naročiti vnaprej.",
+      "sporočila v zvezi z zrakoplovom in potniki, ki jim grozi resna in/ali neposredna nevarnost in potrebujejo takojšnjo pomoč.",
+      "sporočila v zvezi z varnostjo zrakoplova, plovila ali drugega vozila ali osebe na vidiku.",
+      "informacije v zvezi z osebjem na ploščadi, ki nakazujejo na pretečo nevarnost zrakoplovom v pristanku."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K40-2025-074",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 40,
+    "subjectName": "Communication",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri izmed naslednjih dejavnikov vplivajo na sprejem VHF oddaj?",
+    "answers": [
+      "Višina",
+      "Višina ionosfere",
+      "Napaka večera",
+      "Vpliv obale"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

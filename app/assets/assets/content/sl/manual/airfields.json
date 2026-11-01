@@ -1,0 +1,1395 @@
+[
+  {
+    "id": "ljcl",
+    "name": "Letališče Celje",
+    "icao": "LJCL",
+    "arp": {
+      "lat": "N 46° 14′ 44,69″",
+      "lon": "E 015° 13′ 20,93″"
+    },
+    "elevationM": 243.8,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "11/29",
+        "lengthM": 900,
+        "widthM": 100,
+        "surface": "Utrjena travnata površina",
+        "strength": "5700 kg MTOM",
+        "thresholds": [
+          {
+            "designator": "11",
+            "elevationM": 244.8
+          },
+          {
+            "designator": "29",
+            "elevationM": 242.7
+          }
+        ],
+        "note": "Na 29 prestavljen prag za pristajanje motornih letal. Jadralna letala uporabljajo celotno dolžino."
+      }
+    ],
+    "radio": [
+      {
+        "service": "AFIS LJCL",
+        "callsign": "Letališče Celje",
+        "frequency": "128,805 MHz"
+      },
+      {
+        "service": "FIS Ljubljana",
+        "callsign": "",
+        "frequency": "118,480 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Navpične meje",
+            "GND – 5200 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G, E, D"
+          ],
+          [
+            "Javljanje",
+            "5 min pred vhodno točko na 128,805 MHz"
+          ],
+          [
+            "Vhodne točke",
+            "N1 Nova Cerkev · E1 Štore · S1 Laško · W1 Šempeter v Savinjski dolini"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR, najmanj 2 uri pred prihodom: +386 30 608 850"
+          ],
+          [
+            "Gorivo",
+            "Samo za letala Aerokluba letalske šole Celje"
+          ],
+          [
+            "Zaprtost",
+            "Ob snegu ali razmočeni stezi (NOTAM)"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "V letališkem priročniku je bočna meja cone navedena dvakrat različno: 5 km (točka 2.10) in 5 NM (točka 3.1). Preveri v AIP.",
+      "Koordinate vhodnih točk v priročniku vsebujejo napake, zato niso prenesene."
+    ],
+    "source": "Letališki priročnik LJCL, revizija 05 (30. 10. 2023), Aeroklub letalska šola Celje",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljaj",
+    "name": "Letališče Ajdovščina",
+    "icao": "LJAJ",
+    "arp": {
+      "lat": "N 45° 53′ 21″",
+      "lon": "E 013° 53′ 09″"
+    },
+    "elevationM": 116,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "08/26",
+        "lengthM": 1000,
+        "widthM": 67,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "08",
+            "elevationM": null
+          },
+          {
+            "designator": "26",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 082° / 262°. 08: TORA 1000 m, LDA 1000 m; 26: TORA 1000 m, LDA 880 m (premaknjen prag)."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Ajdovščina Aerodrome",
+        "frequency": "123,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 2300 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR (predhodna najava)"
+          ],
+          [
+            "Upravljavec",
+            "Aeroklub Josip Krizaj Ajdovscina · Goriska c.50 · SI-5270 Ajdovscina · +386 5 3689 192 · +386 31 555 315 (mobile) · ak-josip.krizaj@siol.net · http://www.aeroklub-jk-ajdovscina.si"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Ovire: svetilni drogovi višine 22 m na nogometnem igrišču v bližini (JV) praga 26."
+    ],
+    "source": "AIP Slovenija, AD 4 LJAJ, AIRAC AMDT 06/2025 (30 OCT 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljbo",
+    "name": "Letališče Bovec",
+    "icao": "LJBO",
+    "arp": {
+      "lat": "N 46° 19′ 44″",
+      "lon": "E 013° 32′ 56″"
+    },
+    "elevationM": 431,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "07/25",
+        "lengthM": 850,
+        "widthM": 40,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "07",
+            "elevationM": null
+          },
+          {
+            "designator": "25",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 068° / 248°. 07: TORA 850 m, LDA 850 m; 25: TORA 850 m, LDA 850 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Bovec Aerodrome",
+        "frequency": "123,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 3400 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR (predhodna najava)"
+          ],
+          [
+            "Upravljavec",
+            "Aviofun, d.o.o. · Gorče 12a · SI-2372 Libeliče · +386 51 661 003 (mobile) · +386 5 9940 847 · info@bovec-airport.com · https://www.bovec-airport.com"
+          ]
+        ]
+      }
+    ],
+    "notes": [],
+    "source": "AIP Slovenija, AD 4 LJBO, AIRAC AMDT 03/2025 (15 MAY 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljce",
+    "name": "Letališče Cerklje ob Krki",
+    "icao": "LJCE",
+    "arp": {
+      "lat": "N 45° 54′ 00″",
+      "lon": "E 015° 31′ 49″"
+    },
+    "elevationM": 153,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "IFR/VFR",
+    "runways": [
+      {
+        "designator": "08/26",
+        "lengthM": 3000,
+        "widthM": 45,
+        "surface": "Asfalt, beton",
+        "strength": "PCN 54/F/A/W/T (asfalt), 57/R/A/W/T (beton)",
+        "thresholds": [
+          {
+            "designator": "08",
+            "elevationM": 155.3
+          },
+          {
+            "designator": "26",
+            "elevationM": 152.1
+          }
+        ],
+        "note": "Magnetna smer 084° / 264°. 08: TORA 3000 m, LDA 3000 m; 26: TORA 3000 m, LDA 2750 m (premaknjen prag)."
+      },
+      {
+        "designator": "08/26",
+        "lengthM": 1100,
+        "widthM": 30,
+        "surface": "Trava",
+        "strength": "5700 kg",
+        "thresholds": [
+          {
+            "designator": "08",
+            "elevationM": 153.5
+          },
+          {
+            "designator": "26",
+            "elevationM": 152.3
+          }
+        ],
+        "note": "Samo za VFR lete. TORA in LDA 1100 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "TWR",
+        "callsign": "Cerklje Tower",
+        "frequency": "118,555 MHz"
+      },
+      {
+        "service": "APP",
+        "callsign": "Cerklje Approach",
+        "frequency": "118,555 MHz"
+      },
+      {
+        "service": "MILOPS",
+        "callsign": "Cerklje Military",
+        "frequency": "120,630 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Kontrolirana cona",
+        "rows": [
+          [
+            "Oznaka",
+            "CERKLJE CTR"
+          ],
+          [
+            "Navpične meje",
+            "GND – 3100 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "D (glej opombe v AIP)"
+          ],
+          [
+            "Prehodna višina",
+            "10500 ft MSL"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Delovni čas TWR",
+            "Pon–sre, pet–ned 07:30–19:00, čet 11:00–21:00 (UTC, poletni čas v AIP)"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Vojaško-civilno letališče. Status cone izven delovnega časa TWR preveri v NOTAM (serije B in C)."
+    ],
+    "source": "AIP Slovenija, AD 2 LJCE, AIRAC AMDT 07/2026 (06 AUG 2026)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljdi",
+    "name": "Letališče Divača",
+    "icao": "LJDI",
+    "arp": {
+      "lat": "N 45° 40′ 59″",
+      "lon": "E 014° 00′ 10″"
+    },
+    "elevationM": 423,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "13/31",
+        "lengthM": 774,
+        "widthM": 18,
+        "surface": "Asfalt",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "13",
+            "elevationM": null
+          },
+          {
+            "designator": "31",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 127° / 307°. 13: TORA 774 m, LDA 774 m; 31: TORA 774 m, LDA 774 m."
+      },
+      {
+        "designator": "11/29",
+        "lengthM": 750,
+        "widthM": 40,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "11",
+            "elevationM": null
+          },
+          {
+            "designator": "29",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 113° / 293°. 11: samo pristanek, LDA 750 m; 29: TORA 750 m, LDA 750 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Divača Aerodrome",
+        "frequency": "123,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Opomba",
+            "Dve coni (DIVACA1 in DIVACA2)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 3400 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR, najmanj 2 uri prej"
+          ],
+          [
+            "Upravljavec",
+            "Klub Kraski letalski center · Kraska cesta 67 · SI-6215 Divaca · +386 31 885 857 (mobile-primary) · +386 51 623 497 (mobile-secondary) · +386 41 601 143 (mobile-secondary) · letaliscedivaca@gmail.com · http://www.letaliscedivaca.si"
+          ]
+        ]
+      }
+    ],
+    "notes": [],
+    "source": "AIP Slovenija, AD 4 LJDI, AIRAC AMDT 03/2025 (15 MAY 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljbl",
+    "name": "Letališče Lesce-Bled",
+    "icao": "LJBL",
+    "arp": {
+      "lat": "N 46° 21′ 23″",
+      "lon": "E 014° 10′ 28″"
+    },
+    "elevationM": 504,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "14/32",
+        "lengthM": 1130,
+        "widthM": 23,
+        "surface": "Asfalt",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "14",
+            "elevationM": null
+          },
+          {
+            "designator": "32",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 139° / 319°. 14: TORA 1130 m, LDA 955 m (premaknjen prag); 32: TORA 1130 m, LDA 1130 m."
+      },
+      {
+        "designator": "14/32",
+        "lengthM": 600,
+        "widthM": 30,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "14",
+            "elevationM": null
+          },
+          {
+            "designator": "32",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 139° / 319°. 14 in 32: TORA 600 m, LDA 600 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Lesce Bled Aerodrome",
+        "frequency": "122,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 3600 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR (predhodna najava)"
+          ],
+          [
+            "Upravljavec",
+            "Obcina Radovljica · Rezijski obrat Alpski letalski center · Begunjska 10 · SI-4248 Lesce · +386 4 5320 100 · +386 4 5320 101 · info@lesce-airport.si · https://lesce-airport.si/"
+          ]
+        ]
+      }
+    ],
+    "notes": [],
+    "source": "AIP Slovenija, AD 4 LJBL, AMDT 029/2025 (24 JUL 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljlj",
+    "name": "Letališče Jožeta Pučnika Ljubljana",
+    "icao": "LJLJ",
+    "arp": {
+      "lat": "N 46° 13′ 28″",
+      "lon": "E 014° 27′ 22″"
+    },
+    "elevationM": 388,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "IFR/VFR",
+    "runways": [
+      {
+        "designator": "12/30",
+        "lengthM": 3300,
+        "widthM": 45,
+        "surface": "Asfalt",
+        "strength": "PCN 110/F/B/X/T",
+        "thresholds": [
+          {
+            "designator": "12",
+            "elevationM": 388.3
+          },
+          {
+            "designator": "30",
+            "elevationM": 362.9
+          }
+        ],
+        "note": "Magnetna smer 122° / 302°. 12 in 30: TORA 3300 m, LDA 3300 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "TWR",
+        "callsign": "Ljubljana Tower",
+        "frequency": "118,005 MHz"
+      },
+      {
+        "service": "APP",
+        "callsign": "Ljubljana Radar",
+        "frequency": "135,280 MHz"
+      },
+      {
+        "service": "GND",
+        "callsign": "Ljubljana Ground",
+        "frequency": "121,930 MHz"
+      },
+      {
+        "service": "ATIS",
+        "callsign": "",
+        "frequency": "128,175 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Kontrolirana cona",
+        "rows": [
+          [
+            "Oznaka",
+            "LJUBLJANA CTR"
+          ],
+          [
+            "Navpične meje",
+            "GND – 4000 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "D"
+          ],
+          [
+            "Prehodna višina",
+            "10500 ft MSL"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Delovni čas TWR",
+            "H24"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Mednarodno letališče s kontrolo zračnega prometa; za VFR let potrebno dovoljenje kontrole."
+    ],
+    "source": "AIP Slovenija, AD 2 LJLJ, AIRAC AMDT 09/2026 (01 OCT 2026)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljmb",
+    "name": "Letališče Edvarda Rusjana Maribor",
+    "icao": "LJMB",
+    "arp": {
+      "lat": "N 46° 28′ 48″",
+      "lon": "E 015° 41′ 10″"
+    },
+    "elevationM": 267,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "IFR/VFR",
+    "runways": [
+      {
+        "designator": "14/32",
+        "lengthM": 2500,
+        "widthM": 45,
+        "surface": "Asfalt",
+        "strength": "PCN 86/F/A/X/T",
+        "thresholds": [
+          {
+            "designator": "14",
+            "elevationM": 266.8
+          },
+          {
+            "designator": "32",
+            "elevationM": 261.0
+          }
+        ],
+        "note": "Magnetna smer 141° / 321°. 14 in 32: TORA 2500 m, LDA 2500 m."
+      },
+      {
+        "designator": "14/32",
+        "lengthM": 1200,
+        "widthM": 60,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "14",
+            "elevationM": null
+          },
+          {
+            "designator": "32",
+            "elevationM": null
+          }
+        ],
+        "note": "Travnata steza ob asfaltni."
+      }
+    ],
+    "radio": [
+      {
+        "service": "TWR",
+        "callsign": "Maribor Tower",
+        "frequency": "119,205 MHz"
+      },
+      {
+        "service": "APP",
+        "callsign": "Maribor Approach",
+        "frequency": "119,205 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Kontrolirana cona",
+        "rows": [
+          [
+            "Oznaka",
+            "MARIBOR CTR"
+          ],
+          [
+            "Navpične meje",
+            "GND – 3500 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "D"
+          ],
+          [
+            "Prehodna višina",
+            "10500 ft MSL"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Delovni čas TWR/APP",
+            "Vsak dan 07:30–17:00 UTC (poleti 06:30–18:00 UTC)"
+          ]
+        ]
+      }
+    ],
+    "notes": [],
+    "source": "AIP Slovenija, AD 2 LJMB, AIRAC AMDT 09/2026 (01 OCT 2026)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljms",
+    "name": "Letališče Murska Sobota",
+    "icao": "LJMS",
+    "arp": {
+      "lat": "N 46° 37′ 47″",
+      "lon": "E 016° 10′ 32″"
+    },
+    "elevationM": 184,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "36/18",
+        "lengthM": 850,
+        "widthM": 56,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "36",
+            "elevationM": null
+          },
+          {
+            "designator": "18",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 004° / 184°. 36: TORA 850 m, LDA 850 m; 18: TORA 850 m, LDA 850 m."
+      },
+      {
+        "designator": "08/26",
+        "lengthM": 1050,
+        "widthM": 76,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "08",
+            "elevationM": null
+          },
+          {
+            "designator": "26",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 085° / 265°. 08: TORA 1050 m, LDA 1050 m; 26: TORA 1050 m, LDA 1050 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Murska Sobota Aerodrome",
+        "frequency": "123,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Opomba",
+            "Dve coni (MURSKA SOBOTA1 in MURSKA SOBOTA2)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 2600 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR, najmanj 2 uri pred letom; potrebna odobritev"
+          ],
+          [
+            "Upravljavec",
+            "Aeroklub Murska Sobota · Muzge 2 · SI-9000 Murska Sobota · info@aeroklub-ms.si · https://aeroklub-ms.si"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Ovire: visoka drevesa predirajo prilazne, vzletne in bočne ravnine steze 18/36 ter bočne ravnine steze 08/26."
+    ],
+    "source": "AIP Slovenija, AD 4 LJMS, AIRAC AMDT 03/2025 (15 MAY 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljnm",
+    "name": "Letališče Novo mesto",
+    "icao": "LJNM",
+    "arp": {
+      "lat": "N 45° 48′ 09″",
+      "lon": "E 015° 06′ 22″"
+    },
+    "elevationM": 169,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "05/23",
+        "lengthM": 1200,
+        "widthM": 50,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "05",
+            "elevationM": null
+          },
+          {
+            "designator": "23",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 046° / 226°. 05: TORA 1200 m, LDA 1200 m; 23: TORA 1200 m, LDA 1200 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Novo mesto Aerodrome",
+        "frequency": "123,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 2500 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR (predhodna najava)"
+          ],
+          [
+            "Upravljavec",
+            "Aeroklub Novo mesto · Precna 46 · SI-8000 Novo mesto · +386 41 987 123 · info@aknm.si · https://www.aknm.si"
+          ]
+        ]
+      }
+    ],
+    "notes": [],
+    "source": "AIP Slovenija, AD 4 LJNM, AIRAC AMDT 03/2025 (15 MAY 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljpz",
+    "name": "Letališče Portorož",
+    "icao": "LJPZ",
+    "arp": {
+      "lat": "N 45° 28′ 24″",
+      "lon": "E 013° 36′ 54″"
+    },
+    "elevationM": 2,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "IFR/VFR",
+    "runways": [
+      {
+        "designator": "15/33",
+        "lengthM": 1200,
+        "widthM": 30,
+        "surface": "Asfalt",
+        "strength": "PCN 35/F/C/X/T",
+        "thresholds": [
+          {
+            "designator": "15",
+            "elevationM": 1.6
+          },
+          {
+            "designator": "33",
+            "elevationM": 1.9
+          }
+        ],
+        "note": "Magnetna smer 147° / 327°. 15: TORA 1200 m, LDA 1200 m; 33: TORA 1200 m, LDA 970 m (premaknjen prag)."
+      }
+    ],
+    "radio": [
+      {
+        "service": "TWR",
+        "callsign": "Portorož Tower",
+        "frequency": "124,880 MHz"
+      },
+      {
+        "service": "APP",
+        "callsign": "Portorož Approach",
+        "frequency": "124,880 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Kontrolirana cona",
+        "rows": [
+          [
+            "Oznaka",
+            "PORTOROŽ CTR (krog 5 NM, del nad Hrvaško)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 4000 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "D"
+          ],
+          [
+            "Prehodna višina",
+            "10500 ft MSL"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Delovni čas TWR/APP",
+            "Vsak dan 07:30–16:00 UTC (poleti 08:00–16:30 UTC, kot v AIP)"
+          ],
+          [
+            "Izven delovnega časa",
+            "Ljubljana APP 135,280 MHz ali Ljubljana FIC 118,480 MHz"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Del cone leži v hrvaškem zračnem prostoru (FIR Zagreb)."
+    ],
+    "source": "AIP Slovenija, AD 2 LJPZ, AIRAC AMDT 05/2026 (11 JUN 2026)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljpo",
+    "name": "Letališče Postojna",
+    "icao": "LJPO",
+    "arp": {
+      "lat": "N 45° 45′ 14″",
+      "lon": "E 014° 11′ 45″"
+    },
+    "elevationM": 530,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "02/20",
+        "lengthM": 750,
+        "widthM": 60,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "02",
+            "elevationM": null
+          },
+          {
+            "designator": "20",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 019° / 199°. 02: TORA 750 m, LDA 650 m (premaknjen prag); 20: TORA 750 m, LDA 750 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Postojna Aerodrome",
+        "frequency": "123,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 3700 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR (predhodna najava)"
+          ],
+          [
+            "Upravljavec",
+            "Aeroklub Postojna · Rakitnik 1a · SI-6258 Prestranek · +386 5 7264 151 · +386 5 7264 151 · aeroklub.postojna@gmail.com"
+          ]
+        ]
+      }
+    ],
+    "notes": [],
+    "source": "AIP Slovenija, AD 4 LJPO, AIRAC AMDT 03/2025 (15 MAY 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljpt",
+    "name": "Letališče Ptuj",
+    "icao": "LJPT",
+    "arp": {
+      "lat": "N 46° 25′ 35″",
+      "lon": "E 015° 59′ 20″"
+    },
+    "elevationM": 213,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "10/28",
+        "lengthM": 1100,
+        "widthM": 100,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "10",
+            "elevationM": null
+          },
+          {
+            "designator": "28",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 104° / 284°. 10: TORA 1100 m, LDA 1100 m; 28: TORA 1100 m, LDA 1100 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Ptuj Aerodrome",
+        "frequency": "122,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 2700 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR (predhodna najava)"
+          ],
+          [
+            "Upravljavec",
+            "Aeroklub Ptuj · Moskanjci 95a · SI-2272 Gorisnica · +386 2 7408 302 · +386 2 7408 206 · info@ak-ptuj.com · http://www.ak-ptuj.com"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Ovire: drevesa višine 15 m predirajo prilazno ravnino steze 28 z desne strani (središče 462530N 0155947E, polmer 20 m)."
+    ],
+    "source": "AIP Slovenija, AD 4 LJPT, AIRAC AMDT 04/2026 (14 MAY 2026)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljsg",
+    "name": "Letališče Slovenj Gradec",
+    "icao": "LJSG",
+    "arp": {
+      "lat": "N 46° 28′ 18″",
+      "lon": "E 015° 07′ 03″"
+    },
+    "elevationM": 501,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "14/32",
+        "lengthM": 1200,
+        "widthM": 23,
+        "surface": "Asfalt",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "14",
+            "elevationM": null
+          },
+          {
+            "designator": "32",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 138° / 318°. 14: TORA 1200 m, LDA 1100 m (premaknjen prag); 32: TORA 1200 m, LDA 1200 m."
+      },
+      {
+        "designator": "14/32",
+        "lengthM": 650,
+        "widthM": 30,
+        "surface": "Trava",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "14",
+            "elevationM": null
+          },
+          {
+            "designator": "32",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 138° / 318°. 14 in 32: TORA 650 m, LDA 650 m."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Slovenj Gradec Aerodrome",
+        "frequency": "123,505 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 3600 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR (predhodna najava)"
+          ],
+          [
+            "Upravljavec",
+            "Aerodrom Slovenj Gradec d.o.o. · Mislinjska Dobrava 110 · SI-2383 Smartno pri Slovenj Gradcu · +386 5 9937 315 · ljsg.info@gmail.com"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Ovire: visoka drevesa predirajo severno bočno ravnino ob stezi 14/32."
+    ],
+    "source": "AIP Slovenija, AD 4 LJSG, AIRAC AMDT 03/2025 (15 MAY 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljsk",
+    "name": "Letališče Slovenske Konjice",
+    "icao": "LJSK",
+    "arp": {
+      "lat": "N 46° 18′ 38″",
+      "lon": "E 015° 29′ 31″"
+    },
+    "elevationM": 275,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "16/34",
+        "lengthM": 769,
+        "widthM": 18,
+        "surface": "Asfalt",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "16",
+            "elevationM": null
+          },
+          {
+            "designator": "34",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 155° / 335°. 16: TORA 769 m, LDA 769 m; 34: TORA 769 m, LDA 769 m (samo vzlet)."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Slovenske Konjice Aerodrome",
+        "frequency": "123,555 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 2700 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR, najmanj 24 ur prej; potrebno posebno dovoljenje upravljavca"
+          ],
+          [
+            "Upravljavec",
+            "Pico d.o.o. · Žiče 107 · SI-3215 Loče · +386 41 620 971 · +386 3 7592 030 · +386 3 7592 031 · pico1@siol.com · info@picoavio.com · http://www.picoavio.com"
+          ],
+          [
+            "Opomba",
+            "INFO meteo +386 41 243 199"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Ovire: skupina visokih dreves (najvišja točka 295 m, 22 m nad ARP) severovzhodno od steze 16/34, 100 m od osi steze."
+    ],
+    "source": "AIP Slovenija, AD 4 LJSK, AIRAC AMDT 03/2025 (15 MAY 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "ljso",
+    "name": "Letališče Šoštanj",
+    "icao": "LJSO",
+    "arp": {
+      "lat": "N 46° 23′ 53″",
+      "lon": "E 015° 02′ 42″"
+    },
+    "elevationM": 378,
+    "timezone": "UTC+1, poleti UTC+2",
+    "traffic": "VFR",
+    "runways": [
+      {
+        "designator": "14/32",
+        "lengthM": 714,
+        "widthM": 18,
+        "surface": "Asfalt",
+        "strength": "",
+        "thresholds": [
+          {
+            "designator": "14",
+            "elevationM": null
+          },
+          {
+            "designator": "32",
+            "elevationM": null
+          }
+        ],
+        "note": "Magnetna smer 144° / 324°. 14: TORA 714 m, LDA 714 m (samo vzlet); 32: TORA 714 m, LDA 714 m (samo pristanek)."
+      }
+    ],
+    "radio": [
+      {
+        "service": "A/G",
+        "callsign": "Šoštanj Aerodrome",
+        "frequency": "128,305 MHz"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Letališka cona",
+        "rows": [
+          [
+            "Vrsta",
+            "ATZ/RMZ (radijsko obvezna cona)"
+          ],
+          [
+            "Navpične meje",
+            "GND – 3200 ft MSL"
+          ],
+          [
+            "Razred zračnega prostora",
+            "G"
+          ]
+        ]
+      },
+      {
+        "title": "Obratovanje",
+        "rows": [
+          [
+            "Prihod",
+            "PPR (predhodna najava)"
+          ],
+          [
+            "Upravljavec",
+            "Saleski Aeroklub · Topolsica 207c · SI-3325 Sostanj · +386 40 231 500 · predsednik@saleskiaeroklub.si · http://www.saleskiaeroklub.si"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Ovire: visoka drevesa predirajo levo bočno ravnino ob stezi 32."
+    ],
+    "source": "AIP Slovenija, AD 4 LJSO, AIRAC AMDT 03/2025 (15 MAY 2025)",
+    "checked": "",
+    "reviewedBy": ""
+  }
+]

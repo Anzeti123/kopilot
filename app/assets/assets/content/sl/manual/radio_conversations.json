@@ -1,0 +1,1212 @@
+{
+  "title": "Primeri pogovorov",
+  "subtitle": "Frazeologija VFR v slovenskem jeziku",
+  "sections": [
+    {
+      "title": "Splošno",
+      "dialogues": [
+        {
+          "id": "pogojno-1",
+          "title": "Pogojno dovoljenje: vstop na stezo",
+          "station": "Kontrola",
+          "pilot": "S5-DBS",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S5-DBS, sporoči, da vidiš Seneco v finalu"
+            },
+            {
+              "who": "pilot",
+              "text": "{vidim|iščem|razumem} Seneco, S5-DBS"
+            },
+            {
+              "who": "station",
+              "text": "S5-DBS, za Seneco v pristajanju, dovoljeno na stezo"
+            },
+            {
+              "who": "pilot",
+              "text": "{za Seneco v pristajanju|takoj|po vzletu}, dovoljeno na stezo, S5-DBS",
+              "note": "Pri pogojnem dovoljenju vedno ponoviš tudi pogoj, sicer bi lahko zapeljal na stezo pred Seneco."
+            }
+          ],
+          "situation": "Seneco v finalu vidiš."
+        },
+        {
+          "id": "pogojno-2",
+          "title": "Pogojno dovoljenje: pristanek",
+          "station": "Kontrola",
+          "pilot": "S-GI",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S-GI, sporoči, da vidiš odhajajočo Cessno"
+            },
+            {
+              "who": "pilot",
+              "text": "{vidim|iščem|razumem} Cessno, S-GI"
+            },
+            {
+              "who": "station",
+              "text": "S-GI, ko bo Cessna odletela, steza 14, prost pristanek, brez vetra"
+            },
+            {
+              "who": "pilot",
+              "text": "{ko bo Cessna odletela|takoj}, steza {14|41|32}, prost pristanek, S-GI",
+              "note": "Pogoj ponoviš na začetku, tako kot ga je povedal kontrolor."
+            }
+          ],
+          "situation": "Odhajajočo Cessno vidiš."
+        }
+      ]
+    },
+    {
+      "title": "Odhod",
+      "dialogues": [
+        {
+          "id": "preizkus-zveze",
+          "title": "Preizkus zveze in odletni podatki",
+          "station": "Portorož Stolp",
+          "pilot": "S5-DAA",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "{Portorož Stolp|Stolp Portorož|Portorož} S5-DAA, preizkus zveze",
+              "note": "Najprej pokličeš postajo (kraj in pripona), nato poveš svoj klicni znak."
+            },
+            {
+              "who": "station",
+              "text": "S5-DAA Portorož Stolp, slišim za 5"
+            },
+            {
+              "who": "pilot",
+              "text": "S5-DAA, prosim odletne podatke"
+            },
+            {
+              "who": "station",
+              "text": "S-AA, steza 33, veter 090 stopinj 6 vozlov, QNH 1014, temperatura 5, rosišče 3, razpršeni oblaki na 2000 čevljih"
+            },
+            {
+              "who": "pilot",
+              "text": "{steza 33, QNH 1014|veter 090 stopinj 6 vozlov|temperatura 5, rosišče 3}, S-AA",
+              "note": "Ponoviš samo stezo v uporabi in nastavitev višinomera. Vetra, temperature in oblakov ne ponavljaš."
+            }
+          ]
+        },
+        {
+          "id": "voznja-1",
+          "title": "Navodila za vožnjo (Maribor)",
+          "station": "Maribor Priletna",
+          "pilot": "S5-DBS",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Maribor Priletna S5-DBS, glavna ploščad, Informacija R, prosim navodila za vožnjo"
+            },
+            {
+              "who": "station",
+              "text": "S-BS Maribor Priletna, vozi do pozicije čakanja A, steza 14, QNH 1002, sporoči pripravljen za odlet"
+            },
+            {
+              "who": "pilot",
+              "text": "{vozim|vozi|bom vozil} do pozicije čakanja A, steza {14|41|32}, QNH {1002|1020|1012}, {bom upošteval|razumem|potrdi}, S-BS",
+              "note": "Navodilo ponoviš v prvi osebi (»vozim«), ne v velelniku, kot ga je povedal kontrolor. Pri navodilu »sporoči …« oziroma »javi …« odgovoriš z »bom upošteval« (wilco)."
+            }
+          ]
+        },
+        {
+          "id": "voznja-2",
+          "title": "Navodila za vožnjo (Ljubljana)",
+          "station": "Ljubljana Stolp",
+          "pilot": "S5-DAT",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Stolp S5-DAT, pozicija G, Informacija C, prosim navodila za vožnjo"
+            },
+            {
+              "who": "station",
+              "text": "S-AT Ljubljana Stolp, vozi do pozicije čakanja steza 30 prek T, A in K, QNH 1003, sporoči pripravljen za odlet"
+            },
+            {
+              "who": "pilot",
+              "text": "vozim do pozicije čakanja steza {30|03|12} prek {T, A in K|K, A in T|T in K}, QNH {1003|1030|1013}, bom upošteval, S-AT",
+              "note": "Pot vožnje ponoviš v istem vrstnem redu, kot jo je povedal kontrolor."
+            }
+          ]
+        },
+        {
+          "id": "odlet-1",
+          "title": "Dovoljenje za vzlet (Maribor)",
+          "station": "Kontrola",
+          "pilot": "S5-DBS",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "S-BS, pripravljen za odlet"
+            },
+            {
+              "who": "station",
+              "text": "S-BS, dovoljeno na stezo in čakaj"
+            },
+            {
+              "who": "pilot",
+              "text": "dovoljeno na stezo in {čakam|čakaj|vzletam}, S-BS"
+            },
+            {
+              "who": "station",
+              "text": "S-BS, steza 14 prost vzlet, veter 120 stopinj 6 vozlov, po vzletu zavij desno proti MS1, vzpenjaj do 3500 čevljev, sporoči MS1"
+            },
+            {
+              "who": "pilot",
+              "text": "steza 14 prost vzlet, po vzletu {zavijem|zavij|zavijam} desno proti MS1, {vzpenjam|vzpenjaj|spuščam} do {3500|5300|3000} čevljev, bom upošteval, S-BS",
+              "note": "Vzletno dovoljenje ponoviš pred odletnimi navodili, smer in višino pa v prvi osebi."
+            }
+          ]
+        },
+        {
+          "id": "odlet-2",
+          "title": "Vzlet in zadržanje pozicije",
+          "station": "Ljubljana Stolp",
+          "pilot": "S5-DAT",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "S-AT, pripravljen za odlet"
+            },
+            {
+              "who": "station",
+              "text": "S-AT, dovoljeno na stezo 12, prost vzlet, veter 090 stopinj 6 vozlov, po vzletu zavij desno proti S3, vzpenjaj do 2500 čevljev"
+            },
+            {
+              "who": "pilot",
+              "text": "dovoljeno na stezo 12, prost vzlet, po vzletu zavijem {desno|levo} proti S3, vzpenjam do {2500|5200|2000} čevljev, S-AT"
+            },
+            {
+              "who": "station",
+              "text": "S-AT, zadrži pozicijo, ponavljam, zadrži pozicijo, ovira na stezi 12"
+            },
+            {
+              "who": "pilot",
+              "text": "{zadržujem pozicijo|vzletam|razumem, nadaljujem}, S-AT",
+              "note": "Navodilo »zadrži pozicijo« prekliče vzletno dovoljenje. Ostaneš na mestu in to potrdiš."
+            }
+          ]
+        },
+        {
+          "id": "odlet-3",
+          "title": "Dovoljenje za vzlet (Portorož)",
+          "station": "Portorož Stolp",
+          "pilot": "S5-DEW",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "S-EW, pripravljen za odlet"
+            },
+            {
+              "who": "station",
+              "text": "S-EW, dovoljeno na stezo 33, prost vzlet, po vzletu zavij desno proti PE2, vzpenjaj do 3000 čevljev, sporoči PE1"
+            },
+            {
+              "who": "pilot",
+              "text": "dovoljeno na stezo {33|15|23}, prost vzlet, po vzletu zavijem desno proti {PE2|PE1|PE3}, vzpenjam do 3000 čevljev, {bom upošteval|razumem|prosto}, S-EW",
+              "note": "Pri navodilu »sporoči …« oziroma »javi …« odgovoriš z »bom upošteval« (wilco)."
+            }
+          ]
+        },
+        {
+          "id": "frekvenca",
+          "title": "Sprememba frekvence po odletu",
+          "station": "Ljubljana Stolp",
+          "pilot": "S5-DAT",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S-AT, v zraku v 8. minuti, sporoči S3 na višini 2500 čevljev"
+            },
+            {
+              "who": "pilot",
+              "text": "{bom upošteval|razumem|potrdi}, vzpenjam na 2500 čevljev, S-AT"
+            },
+            {
+              "who": "pilot",
+              "text": "S-AT, preletel S3 v 43. minuti"
+            },
+            {
+              "who": "station",
+              "text": "S-AT, preklopi na Ljubljana Informacije 118,475"
+            },
+            {
+              "who": "pilot",
+              "text": "{118,475|118,745|119,475}, S-AT",
+              "note": "Frekvenco ponoviš, preden preklopiš."
+            },
+            {
+              "who": "pilot",
+              "text": "{Ljubljana Informacije|Ljubljana Stolp|Ljubljana Radar} S5-DAT, preletel S3 v 43. minuti, proti Novem mestu",
+              "note": "Na novi frekvenci najprej pokličeš novo postajo in poveš poln klicni znak."
+            },
+            {
+              "who": "station",
+              "text": "S-AT, QNH 1012, nadaljuj vizualno proti Novem mestu, javi pred preklopom na lokalno frekvenco"
+            },
+            {
+              "who": "pilot",
+              "text": "QNH {1012|1021|1002}, {nadaljujem|nadaljuj} vizualno proti Novem mestu, bom upošteval, S-AT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Na poti",
+      "dialogues": [
+        {
+          "id": "pozicija",
+          "title": "Sporočanje pozicije",
+          "station": "Ljubljana Informacije",
+          "pilot": "S5-DEW",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Informacije S5-DEW"
+            },
+            {
+              "who": "station",
+              "text": "S5-DEW Ljubljana Informacije"
+            },
+            {
+              "who": "pilot",
+              "text": "S5-DEW, nad Velikimi Laščami v 24. minuti, preletam 4500 čevljev, vzpenjam se na 6500 čevljev, pričakujem ILB v 40. minuti, naslednja točka PE1"
+            },
+            {
+              "who": "station",
+              "text": "S-EW, naslednje sporočilo tri minute pred PE1"
+            },
+            {
+              "who": "pilot",
+              "text": "{bom upošteval|razumem|ponovi}, S-EW",
+              "note": "Pri navodilu »sporoči …« oziroma »javi …« odgovoriš z »bom upošteval« (wilco)."
+            }
+          ]
+        },
+        {
+          "id": "transponder",
+          "title": "Nastavitev transponderja",
+          "station": "Kontrola",
+          "pilot": "S5-DAA",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S-AA, sporoči način transponderja"
+            },
+            {
+              "who": "pilot",
+              "text": "transponder {Charlie|Ident|Squawk}, S-AA"
+            },
+            {
+              "who": "station",
+              "text": "S-AA, squawk 6503"
+            },
+            {
+              "who": "pilot",
+              "text": "squawk {6503|6530|6053}, S-AA",
+              "note": "Kodo SSR vedno ponoviš."
+            }
+          ]
+        },
+        {
+          "id": "promet-iscem",
+          "title": "Obvestilo o prometu: letala ne vidiš",
+          "station": "Kontrola",
+          "pilot": "S5-DAB",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S-AB, lahko letalo v smeri 11. ure, prečka od leve proti desni na višini 4500 čevljev"
+            },
+            {
+              "who": "pilot",
+              "text": "{iščem|vidim promet|bom upošteval}, S-AB",
+              "note": "»Iščem« pomeni, da prometa še ne vidiš. Ko ga zagledaš, sporočiš »vidim promet«."
+            }
+          ],
+          "situation": "Letala še ne vidiš."
+        },
+        {
+          "id": "promet-vidim",
+          "title": "Obvestilo o prometu: letalo vidiš",
+          "station": "Kontrola",
+          "pilot": "S5-DAA",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S-AA, lahko letalo v smeri 2. ure, prečka od desne proti levi na višini 4000 čevljev"
+            },
+            {
+              "who": "pilot",
+              "text": "S-AA, {vidim promet|iščem|razumem}"
+            }
+          ],
+          "situation": "Letalo vidiš."
+        },
+        {
+          "id": "nacrt-poleta",
+          "title": "Zaprtje načrta poleta",
+          "station": "Ljubljana Informacije",
+          "pilot": "S5-DJJ",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Informacije S5-DJJ, vidim letališče Lesce, preklapljam na lokalno frekvenco in {zapiram|odpiram|odpovedujem} načrt poleta"
+            },
+            {
+              "who": "station",
+              "text": "S5-DJJ Ljubljana Informacije, načrt poleta zaprt v 40. minuti"
+            }
+          ]
+        },
+        {
+          "id": "ifr-vfr",
+          "title": "Sprememba iz IFR v VFR",
+          "station": "Ljubljana Radar",
+          "pilot": "S5-DAA",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Radar S5-DAA, {razveljavljam|zapiram|odpiram} let IFR, nadaljujem VFR proti S1"
+            },
+            {
+              "who": "station",
+              "text": "S5-DAA Ljubljana Radar, let IFR razveljavljen ob 25, nadaljuj proti S1 in preklopi na Ljubljana Informacije 118,475"
+            },
+            {
+              "who": "pilot",
+              "text": "{118,475|118,457|118,745}, S5-DAA"
+            }
+          ]
+        },
+        {
+          "id": "vreme",
+          "title": "Vremenski podatki",
+          "station": "Maribor Stolp",
+          "pilot": "S5-DBS",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Maribor Stolp S5-DBS, prosim tekoče vremenske podatke"
+            },
+            {
+              "who": "station",
+              "text": "S5-DBS Maribor Stolp, veter 120 stopinj 5 vozlov, razpršeni oblaki na 2000 čevljih, temperatura 5, rosišče 3, QNH 1023"
+            },
+            {
+              "who": "pilot",
+              "text": "{QNH 1023|veter 120 stopinj 5 vozlov|temperatura 5, rosišče 3}, S5-DBS",
+              "note": "Od vremenskih podatkov ponoviš samo nastavitev višinomera."
+            }
+          ]
+        },
+        {
+          "id": "stanje-steze",
+          "title": "Stanje steze",
+          "station": "Kontrola",
+          "pilot": "S5-DSC",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S5-DSC, steza 30 prost pristanek, pravkar pristala Cessna sporočila slab zaviralni učinek"
+            },
+            {
+              "who": "pilot",
+              "text": "steza {30|03|13} prost pristanek, {razumem|bom upošteval|ponovi}, S5-DSC",
+              "note": "Dovoljenje za pristanek ponoviš, informacijo o zaviralnem učinku pa potrdiš z »razumem«."
+            }
+          ]
+        },
+        {
+          "id": "precenje-ctr",
+          "title": "Prečkanje kontroliranega prostora",
+          "station": "Maribor Priletna",
+          "pilot": "S5-DAS",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Maribor Priletna S5-DAS"
+            },
+            {
+              "who": "station",
+              "text": "S5-DAS Maribor Priletna"
+            },
+            {
+              "who": "pilot",
+              "text": "S5-DAS, VFR iz Murske Sobote v Celje, 15 milj severno od Maribora, vzpenjam na višino 2500 čevljev, prosim za vzpenjanje na 4000 in prečkanje kontroliranega prostora preko ME1 in MS3"
+            },
+            {
+              "who": "station",
+              "text": "S-AS, zadrži 2500 čevljev, sporoči nad ME1"
+            },
+            {
+              "who": "pilot",
+              "text": "{zadržujem|zadrži|vzpenjam na} 2500 čevljev, bom upošteval, S-AS",
+              "note": "Navodila glede višine vedno ponoviš."
+            },
+            {
+              "who": "pilot",
+              "text": "S-AS, nad ME1, 2500 čevljev"
+            },
+            {
+              "who": "station",
+              "text": "S-AS, sporoči nad MS3, vzpenjaj na 4000 čevljev"
+            },
+            {
+              "who": "pilot",
+              "text": "{vzpenjam|vzpenjaj|zadržujem} na {4000|2500|400} čevljev, bom upošteval, S-AS"
+            },
+            {
+              "who": "pilot",
+              "text": "S-AS, nad MS3, 4000 čevljev"
+            },
+            {
+              "who": "station",
+              "text": "S-AS, preklopi na Ljubljana Informacije 118,475"
+            },
+            {
+              "who": "pilot",
+              "text": "{118,475|118,745|118,457}, S-AS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prilet",
+      "dialogues": [
+        {
+          "id": "vstop-ctr",
+          "title": "Vstop v kontroliran zračni prostor",
+          "station": "Ljubljana Informacije",
+          "pilot": "S5-DBS",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Informacije S5-DBS"
+            },
+            {
+              "who": "station",
+              "text": "S5-DBS Ljubljana Informacije"
+            },
+            {
+              "who": "pilot",
+              "text": "S5-DBS, VFR iz Maribora v Ljubljano, višina 4000 čevljev, pričakujem NE v 24. minuti"
+            },
+            {
+              "who": "station",
+              "text": "S-BS, javi 3 minute pred NE, QNH 1012"
+            },
+            {
+              "who": "pilot",
+              "text": "QNH {1012|1021|1002}, {bom upošteval|razumem|potrdi}, S-BS",
+              "note": "Pri navodilu »sporoči …« oziroma »javi …« odgovoriš z »bom upošteval« (wilco)."
+            },
+            {
+              "who": "pilot",
+              "text": "S-BS, 3 minute pred NE"
+            },
+            {
+              "who": "station",
+              "text": "S-BS, preklopi na Ljubljana Stolp 118,0"
+            },
+            {
+              "who": "pilot",
+              "text": "{118,0|119,0|118,1}, S-BS"
+            }
+          ]
+        },
+        {
+          "id": "direktni-prilet",
+          "title": "Direktni prilet in pristanek",
+          "station": "Ljubljana Stolp",
+          "pilot": "S5-DJP",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Stolp S5-DJP, preletam W1 na višini 4000 čevljev, prosim navodila za pristanek"
+            },
+            {
+              "who": "station",
+              "text": "S5-DJP Ljubljana Stolp, prost direktni prilet steza 12, veter 140 stopinj 8 vozlov, QNH 1013, sporoči finale"
+            },
+            {
+              "who": "pilot",
+              "text": "prost direktni prilet steza {12|21|30}, QNH {1013|1031|1003}, {bom sporočil finale|sporoči finale|finale}, S5-DJP"
+            },
+            {
+              "who": "pilot",
+              "text": "S5-DJP, finale steza 12"
+            },
+            {
+              "who": "station",
+              "text": "S-JP, steza 12 prost pristanek, veter 140 stopinj 8 vozlov"
+            },
+            {
+              "who": "pilot",
+              "text": "steza 12, {prost pristanek|prost vzlet|prost dotik in odlet}, S-JP"
+            }
+          ]
+        },
+        {
+          "id": "solski-krog",
+          "title": "Vključitev v šolski krog in pristanek",
+          "station": "Portorož Priletna",
+          "pilot": "S5-DMN",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Portorož Priletna S5-DMN, nad PE1, 3000 čevljev, za pristanek"
+            },
+            {
+              "who": "station",
+              "text": "S5-DMN Portorož Priletna, QNH 1021, steza v uporabi 33, nadaljuj proti letališču, spusti se vizualno na 1000 čevljev, sporoči vidim stezo"
+            },
+            {
+              "who": "pilot",
+              "text": "QNH 1021, steza v uporabi {33|15|23}, {nadaljujem|nadaljuj} proti letališču, {spuščam se|spusti se|vzpenjam se} vizualno na 1000 čevljev, bom upošteval, S5-DMN"
+            },
+            {
+              "who": "pilot",
+              "text": "S5-DMN, vidim stezo"
+            },
+            {
+              "who": "station",
+              "text": "S-MN, številka 2, promet je Piper Tomahawk v finalu, steza 33, sporoči tretji zavoj"
+            },
+            {
+              "who": "pilot",
+              "text": "{vidim promet|iščem|razumem}, bom sporočil tretji zavoj, S-MN"
+            },
+            {
+              "who": "pilot",
+              "text": "S-MN, tretji zavoj"
+            },
+            {
+              "who": "station",
+              "text": "S-MN, steza 33, prost pristanek, veter 300 stopinj 8 vozlov s sunki do 12"
+            },
+            {
+              "who": "pilot",
+              "text": "steza {33|30|15}, prost pristanek, S-MN"
+            }
+          ],
+          "situation": "Tomahawk v finalu vidiš."
+        },
+        {
+          "id": "zapustitev-steze",
+          "title": "Pristanek in zapustitev steze",
+          "station": "Portorož Priletna",
+          "pilot": "S5-DMN",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S-MN, zapusti stezo desno, sporoči, ko boš zapustil stezo, nadaljuj proti ploščadi splošnega letalstva preko vozne steze A in T"
+            },
+            {
+              "who": "pilot",
+              "text": "{zapuščam|zapusti|zapustil} desno, nadaljujem proti ploščadi splošnega letalstva preko vozne steze {A in T|T in A|A}, bom upošteval, S-MN"
+            },
+            {
+              "who": "pilot",
+              "text": "S-MN, {zapustil stezo|na stezi|pristal}"
+            }
+          ]
+        },
+        {
+          "id": "neuspeli-prilet",
+          "title": "Neuspeli prilet",
+          "station": "Ljubljana Stolp",
+          "pilot": "S5-DJP",
+          "lines": [
+            {
+              "who": "station",
+              "text": "S-JP, izvedi neuspeli prilet"
+            },
+            {
+              "who": "pilot",
+              "text": "{izvajam neuspeli prilet|bom upošteval|izvedi neuspeli prilet}, S-JP",
+              "note": "Navodilo ponoviš. Samo »bom upošteval« ne zadošča."
+            }
+          ]
+        },
+        {
+          "id": "dotik-odlet",
+          "title": "Dotik in odlet",
+          "station": "Kontrola",
+          "pilot": "S5-DAT",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "S-AT, pozicija z vetrom, prosim dotik in odlet"
+            },
+            {
+              "who": "station",
+              "text": "S-AT, pričakuj dotik in odlet, sporoči finale steza 14"
+            },
+            {
+              "who": "pilot",
+              "text": "{bom sporočil finale|sporoči finale|finale}, S-AT"
+            },
+            {
+              "who": "pilot",
+              "text": "S-AT, finale steza 14"
+            },
+            {
+              "who": "station",
+              "text": "S-AT, steza 14 prost dotik in odlet, veter 120 stopinj 5 vozlov"
+            },
+            {
+              "who": "pilot",
+              "text": "steza {14|41|32} prost {dotik in odlet|pristanek|vzlet}, S-AT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nevarnost in sila",
+      "dialogues": [
+        {
+          "id": "mayday",
+          "title": "Sporočilo v nevarnosti (MAYDAY)",
+          "station": "Maribor Priletna",
+          "pilot": "S5-DAT",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "{MAYDAY MAYDAY MAYDAY|PANPAN PANPAN PANPAN|MAYDAY}, Maribor Priletna, S5-DAT, {motor ne deluje|prosim za pristanek|razumem}, pristajam na vzletišču Cerkvenjak, nad Lenartom, 4500 čevljev",
+              "note": "Vrstni red: MAYDAY trikrat, klicana postaja, klicni znak, vzrok nevarnosti, namen pilota, pozicija in višina."
+            },
+            {
+              "who": "station",
+              "text": "S5-DAT, razumem MAYDAY"
+            },
+            {
+              "who": "station",
+              "text": "Vsem zrakoplovom, nehajte oddajati, MAYDAY"
+            }
+          ],
+          "situation": "Motor je odpovedal nad Lenartom."
+        },
+        {
+          "id": "panpan",
+          "title": "Sporočilo v sili (PANPAN)",
+          "station": "Portorož Priletna",
+          "pilot": "S5-PEA",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "{PANPAN PANPAN PANPAN|MAYDAY MAYDAY MAYDAY|PANPAN}, Portorož Priletna, S5-PEA, potnik ima zdravstvene težave, {prosim za pristanek|pristajam takoj|razumem}, nad Piranom, višina 2000 čevljev",
+              "note": "PANPAN pomeni nujnost brez neposredne nevarnosti. Tudi ga, če je mogoče, izgovoriš trikrat."
+            }
+          ],
+          "situation": "Potnik ima zdravstvene težave, neposredne nevarnosti ni."
+        }
+      ]
+    },
+    {
+      "title": "Letališča brez kontrole",
+      "dialogues": [
+        {
+          "id": "nm-odhod",
+          "title": "Odhod izven delovnega časa službe",
+          "station": "Letališče Novo mesto",
+          "pilot": "S5-DBK",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "{Letališče Novo mesto|Novo mesto Stolp|Novo mesto Informacije}, S5-DBK, vozim do steze 23",
+              "note": "Kadar služba ne dela, oddajaš »na slepo« vsem v bližini in kličeš letališče z imenom."
+            },
+            {
+              "who": "pilot",
+              "text": "Letališče Novo mesto, S5-DBK, {vozim na stezo|prost vzlet|dovoljeno na stezo} 23 za odhod",
+              "note": "Brez službe ti dovoljenja nihče ne izda, zato samo sporočaš, kaj delaš."
+            },
+            {
+              "who": "pilot",
+              "text": "Letališče Novo mesto, S5-DBK, v zraku, zapuščam letališče v smeri proti severu"
+            }
+          ]
+        },
+        {
+          "id": "nm-prihod",
+          "title": "Prihod izven delovnega časa službe",
+          "station": "Letališče Novo mesto",
+          "pilot": "S5-DBK",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Letališče Novo mesto, S5-DBK, na višini 2000 čevljev, {vključujem se|vključi se|prosim za vključitev} v levi šolski krog za stezo 23"
+            },
+            {
+              "who": "pilot",
+              "text": "Letališče Novo mesto, S5-DBK, levi šolski krog, steza 23"
+            },
+            {
+              "who": "pilot",
+              "text": "Letališče Novo mesto, S5-DBK, finale steza 23"
+            }
+          ]
+        },
+        {
+          "id": "lesce-odhod",
+          "title": "Vožnja in vzlet (Lesce)",
+          "station": "Letališče Lesce",
+          "pilot": "S5-DJJ",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Letališče Lesce S5-DJJ, dober dan"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, Letališče Lesce, dober dan"
+            },
+            {
+              "who": "pilot",
+              "text": "S-JJ, pozicija ploščad pred hangarjem, preizkus zveze"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, slišim za 5"
+            },
+            {
+              "who": "pilot",
+              "text": "S-JJ, prosim dovoljenje za vožnjo za delo v coni Vrba"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, vozi do steze 14, veter 160 stopinj 2 vozla, sporoči pripravljen za odlet"
+            },
+            {
+              "who": "pilot",
+              "text": "{vozim|vozi} do steze 14, bom upošteval, S-JJ"
+            },
+            {
+              "who": "pilot",
+              "text": "S-JJ, na točki čakanja, pripravljen za odlet"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, steza 14 prosta, veter 100 stopinj 3 vozle, sporoči začetek dela v coni"
+            },
+            {
+              "who": "pilot",
+              "text": "steza {prosta|prost vzlet}, bom upošteval, S-JJ",
+              "note": "Na letališču brez kontrole dobiš informacijo »steza prosta«, ne dovoljenja »prost vzlet«."
+            }
+          ]
+        },
+        {
+          "id": "lesce-krogi",
+          "title": "Šolski krogi (Lesce)",
+          "station": "Letališče Lesce",
+          "pilot": "S5-DJJ",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "S5-DJJ, pripravljen za odlet, šolski krogi"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, steza prosta, v uporabi levi šolski krog, javi pozicijo z vetrom"
+            },
+            {
+              "who": "pilot",
+              "text": "{levi|desni} šolski krog, sporočim pozicijo z vetrom, S-JJ"
+            },
+            {
+              "who": "pilot",
+              "text": "S-JJ, pozicija z vetrom, steza 14"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, sporoči finale"
+            },
+            {
+              "who": "pilot",
+              "text": "{bom sporočil finale|sporoči finale|finale}, S-JJ"
+            },
+            {
+              "who": "pilot",
+              "text": "S-JJ, finale steza 14, za dotik in odlet"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, steza 14 prosta, veter 130 stopinj 2 vozla"
+            },
+            {
+              "who": "pilot",
+              "text": "steza {prosta|prost dotik in odlet|prost pristanek}, S-JJ"
+            }
+          ]
+        },
+        {
+          "id": "lesce-cona",
+          "title": "Delo v coni (Lesce)",
+          "station": "Letališče Lesce",
+          "pilot": "S5-DJJ",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Lesce S-JJ, cona Vrba, 2000 čevljev, {pričetek|konec} dela v coni"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, razumem, sporoči konec dela v coni"
+            },
+            {
+              "who": "pilot",
+              "text": "sporočim {konec|pričetek} dela v coni, S-JJ"
+            },
+            {
+              "who": "pilot",
+              "text": "Lesce S-JJ, konec dela v coni, prosim navodila za pristanek"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, vključi se v desni šolski krog, sporoči pozicijo z vetrom"
+            },
+            {
+              "who": "pilot",
+              "text": "{desni|levi} šolski krog, sporočim pozicijo z vetrom, S-JJ"
+            }
+          ]
+        },
+        {
+          "id": "lesce-imitacija",
+          "title": "Imitacija odpovedi motorja (Lesce)",
+          "station": "Letališče Lesce",
+          "pilot": "S5-DJJ",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Lesce S-JJ, končal delo v coni, prosim za dovoljenje za imitacijo odpovedi motorja"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, sporoči minuto pred pričetkom imitacije"
+            },
+            {
+              "who": "pilot",
+              "text": "sporočim {minuto pred pričetkom|pričetek imitacije|konec imitacije}, S-JJ"
+            },
+            {
+              "who": "pilot",
+              "text": "Lesce S-JJ, minuta pred pričetkom imitacije"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, steza prosta, veter 130 stopinj 2 vozla"
+            },
+            {
+              "who": "pilot",
+              "text": "steza {prosta|prost pristanek}, S-JJ"
+            }
+          ]
+        },
+        {
+          "id": "lesce-prilet",
+          "title": "Prilet in pristanek (Lesce)",
+          "station": "Letališče Lesce",
+          "pilot": "S5-DJJ",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Letališče Lesce S5-DJJ, dober dan"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ Letališče Lesce, dober dan"
+            },
+            {
+              "who": "pilot",
+              "text": "S-JJ, pozicija W2, na višini 3000 čevljev, prosim navodila za pristanek"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, vključi se v levi šolski krog, steza 14, sporoči pozicijo z vetrom"
+            },
+            {
+              "who": "pilot",
+              "text": "{vključujem se|vključi se} v levi šolski krog, steza 14, bom sporočil pozicijo z vetrom, S-JJ"
+            },
+            {
+              "who": "pilot",
+              "text": "S-JJ, pozicija z vetrom"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, sporoči finale steza 14"
+            },
+            {
+              "who": "pilot",
+              "text": "sporočim finale, S-JJ"
+            },
+            {
+              "who": "pilot",
+              "text": "S5-DJJ, finale steza 14"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, steza prosta, veter 100 stopinj 2 vozla"
+            },
+            {
+              "who": "pilot",
+              "text": "steza prosta, S-JJ"
+            },
+            {
+              "who": "station",
+              "text": "S-JJ, sporoči, da si zapustil stezo"
+            },
+            {
+              "who": "pilot",
+              "text": "S-JJ, {zapustil stezo|na stezi|pristal}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jadralno letenje",
+      "dialogues": [
+        {
+          "id": "jadralni-odlet",
+          "title": "Vzlet v aerovleki in odmetavanje vrvi",
+          "station": "Bovec",
+          "pilot": "Blanik 10",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "{Bovec|Bovec Stolp|Bovec Informacije} Blanik 10, preizkus zveze"
+            },
+            {
+              "who": "station",
+              "text": "Blanik 10, slišim za 4"
+            },
+            {
+              "who": "pilot",
+              "text": "Blanik 10, {pripravljen za odlet|prosim navodila za vožnjo|prost vzlet}"
+            },
+            {
+              "who": "station",
+              "text": "Blanik 10, razumem"
+            },
+            {
+              "who": "station",
+              "text": "S-AR, steza prosta"
+            },
+            {
+              "who": "other",
+              "text": "steza prosta, S-AR"
+            },
+            {
+              "who": "pilot",
+              "text": "Bovec Blanik 10, {odpel|pristajam|pripravljen za odlet}",
+              "note": "Ko se odpneš od vlečnega letala, to sporočiš."
+            },
+            {
+              "who": "other",
+              "text": "Blanik 10, razumem"
+            },
+            {
+              "who": "other",
+              "text": "S-AR, za odmetavanje vrvi"
+            },
+            {
+              "who": "station",
+              "text": "S-AR, nadaljuj steza 07, za odmetavanje"
+            },
+            {
+              "who": "other",
+              "text": "S-AR, vrv odvržena"
+            },
+            {
+              "who": "station",
+              "text": "S-AR, sporoči finale steza 25"
+            },
+            {
+              "who": "other",
+              "text": "S-AR, finale steza 25"
+            },
+            {
+              "who": "station",
+              "text": "S-AR, steza prosta, veter 120 stopinj 5 vozlov"
+            },
+            {
+              "who": "other",
+              "text": "steza prosta, S-AR"
+            }
+          ],
+          "other": "S-AR (vlečno letalo)"
+        },
+        {
+          "id": "jadranje",
+          "title": "Sporočanje pozicije med jadranjem",
+          "station": "Podpeč",
+          "pilot": "Cirus 16",
+          "lines": [
+            {
+              "who": "station",
+              "text": "Cirus 16 Podpeč, sporoči pozicijo"
+            },
+            {
+              "who": "pilot",
+              "text": "{Cirus 16|Podpeč|Podpeč Cirus 16}, nad Krvavcem, višina 4000 metrov, vzpenjam 3 metre na sekundo",
+              "note": "Ko postaja pokliče tebe, odgovor začneš s svojim klicnim znakom."
+            },
+            {
+              "who": "station",
+              "text": "Cirus 16"
+            }
+          ]
+        },
+        {
+          "id": "jadralni-prilet",
+          "title": "Prilet s prečkanjem TMA",
+          "station": "Podpeč / Ljubljana Priletna",
+          "pilot": "Blanik 10",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Podpeč Blanik 10, nad Grintavcem, višina 2000 metrov, smer Podpeč"
+            },
+            {
+              "who": "station",
+              "text": "Blanik 10, preklopi na Ljubljana Priletna 118,750 za prečkanje TMA Ljubljana"
+            },
+            {
+              "who": "pilot",
+              "text": "{118,750|118,570|117,850}, Blanik 10"
+            },
+            {
+              "who": "pilot",
+              "text": "{Ljubljana Priletna|Ljubljana Informacije|Podpeč} Blanik 10, nad Krvavcem, višina 1800 metrov, prosim za prečkanje TMA Ljubljana"
+            },
+            {
+              "who": "station",
+              "text": "Blanik 10, nadaljuj naravnost do S3, pokliči nad letališčem Ljubljana"
+            },
+            {
+              "who": "pilot",
+              "text": "{nadaljujem|nadaljuj} naravnost do {S3|S1|E}, bom upošteval, Blanik 10"
+            },
+            {
+              "who": "pilot",
+              "text": "Blanik 10, nad letališčem Ljubljana, višina 1700 metrov, v smeri proti S3"
+            },
+            {
+              "who": "station",
+              "text": "Blanik 10, sporoči preletanje S3, pozor, nasproti leti lahko letalo"
+            },
+            {
+              "who": "pilot",
+              "text": "bom upošteval, {vidim letalo|iščem|razumem}, Blanik 10"
+            },
+            {
+              "who": "pilot",
+              "text": "Blanik 10, preletam S3, višina 1500 metrov"
+            },
+            {
+              "who": "station",
+              "text": "Blanik 10, preklopi na Podpeč 123,500"
+            },
+            {
+              "who": "pilot",
+              "text": "{123,500|123,050|132,500}, Blanik 10"
+            },
+            {
+              "who": "pilot",
+              "text": "Podpeč Blanik 10, cona Podpeč, kolo izvlečeno in zavarovano"
+            },
+            {
+              "who": "station",
+              "text": "Blanik 10 Podpeč, steza 26 prosta, pristani na T"
+            },
+            {
+              "who": "pilot",
+              "text": "steza {26|62|25} prosta, bom upošteval, Blanik 10"
+            }
+          ],
+          "situation": "Nasproti letečo letalo vidiš."
+        }
+      ]
+    },
+    {
+      "title": "Helikopterji in baloni",
+      "dialogues": [
+        {
+          "id": "heli",
+          "title": "Premikanje helikopterja",
+          "station": "Ljubljana Stolp",
+          "pilot": "S5-HNM",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Stolp S5-HNM, na vojaški ploščadi, Informacija C, prosim navodila za premikanje"
+            },
+            {
+              "who": "station",
+              "text": "S-NM Ljubljana Stolp, premakni se do pozicije čakanja steza 30 prek F, QNH 1003, sporoči pripravljen za odlet"
+            },
+            {
+              "who": "pilot",
+              "text": "{premikam se|premakni se} do pozicije čakanja steza 30 prek F, QNH {1003|1030|1013}, bom upošteval, S-NM"
+            }
+          ]
+        },
+        {
+          "id": "balon-vzlet",
+          "title": "Balon po vzletu",
+          "station": "Ljubljana Informacije",
+          "pilot": "S5-ORP",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Informacije S5-ORP, vzletel na Barju v 15. minuti, nameravana višina 2000 čevljev, proti Igu"
+            },
+            {
+              "who": "station",
+              "text": "S5-ORP Ljubljana Informacije, razumem, QNH 1002, squawk 7001, sporoči pred pristankom"
+            },
+            {
+              "who": "pilot",
+              "text": "QNH {1002|1020|1012}, squawk {7001|7000|7010}, bom upošteval, S5-ORP"
+            }
+          ]
+        },
+        {
+          "id": "balon-visina",
+          "title": "Balon: sprememba višine",
+          "station": "Ljubljana Informacije",
+          "pilot": "S5-ORP",
+          "lines": [
+            {
+              "who": "pilot",
+              "text": "Ljubljana Informacije S5-ORP, prosim vzpenjanje"
+            },
+            {
+              "who": "station",
+              "text": "S-RP Ljubljana Informacije, dovoljeno do 4000 čevljev"
+            },
+            {
+              "who": "pilot",
+              "text": "dovoljeno do {4000|400|2000} čevljev, S-RP"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "Priročnik o uporabi frazeologije v slovenskem jeziku (Agencija za civilno letalstvo RS). Nekaj očitnih tipkarskih napak je popravljenih.",
+  "checked": "",
+  "reviewedBy": ""
+}

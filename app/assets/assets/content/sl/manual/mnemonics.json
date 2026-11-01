@@ -1,0 +1,537 @@
+{
+  "title": "Mnemotehnike",
+  "subtitle": "Kratki triki za lažje pomnjenje teorije",
+  "entries": [
+    {
+      "category": "Radio in transponder",
+      "title": "Kode transponderja v sili",
+      "mnemonic": "75 man with knife, 76 radio fix, 77 near heaven",
+      "items": [
+        {
+          "key": "7500",
+          "text": "Nezakonito vmešavanje (ugrabitev)."
+        },
+        {
+          "key": "7600",
+          "text": "Odpoved radijske zveze."
+        },
+        {
+          "key": "7700",
+          "text": "Nevarnost (sila)."
+        },
+        {
+          "key": "7000",
+          "text": "VFR brez dodeljene kode."
+        }
+      ],
+      "explanation": "Kodo v sili nastaviš, če ti ATC ne dodeli druge. Ko vrtiš kodo, ne prehajaj čez 75, 76 in 77, ker bi za trenutek sprožil alarm."
+    },
+    {
+      "category": "Radio in transponder",
+      "title": "Prioritete v pilotski kabini",
+      "mnemonic": "Aviate, navigate, communicate",
+      "items": [],
+      "explanation": "Najprej leti in obdrži nadzor nad letalom, nato ugotovi, kje si in kam greš, šele nato govori po radiu. Velja posebej v sili."
+    },
+    {
+      "category": "Radio in transponder",
+      "title": "Mayday ali Pan-pan",
+      "mnemonic": "Mayday = m'aidez, »pomagajte mi«",
+      "items": [
+        {
+          "key": "Mayday",
+          "text": "Neposredna nevarnost za letalo ali ljudi, potrebna takojšnja pomoč."
+        },
+        {
+          "key": "Pan-pan",
+          "text": "Nujno sporočilo o težavi, ki še ni neposredna nevarnost."
+        }
+      ],
+      "explanation": "Oba klica izgovoriš trikrat."
+    },
+    {
+      "category": "Radio in transponder",
+      "title": "Roger ali Wilco",
+      "mnemonic": "Wilco = WILl COmply",
+      "items": [],
+      "explanation": "Roger pomeni samo, da si sporočilo sprejel. Wilco pomeni, da boš tudi ravnal po njem, zato »Roger, wilco« ni potreben."
+    },
+    {
+      "category": "Višinomer in atmosfera",
+      "title": "Napaka višinomera",
+      "mnemonic": "High to low, look out below",
+      "items": [],
+      "explanation": "Ko letiš iz območja visokega v območje nizkega tlaka ali iz toplega v hladen zrak in višinomera ne prestaviš, kaže preveč. Letalo je nižje, kot misliš."
+    },
+    {
+      "category": "Višinomer in atmosfera",
+      "title": "QNH in QFE",
+      "mnemonic": "QNH = Nautical Height, QFE = Field Elevation",
+      "items": [],
+      "explanation": "Z nastavitvijo QNH višinomer na tleh kaže nadmorsko višino letališča. Z nastavitvijo QFE kaže na tleh nič, v zraku pa višino nad letališčem."
+    },
+    {
+      "category": "Višinomer in atmosfera",
+      "title": "Tlak in višina",
+      "mnemonic": "1 hPa ≈ 30 ft ≈ 8 m",
+      "items": [],
+      "explanation": "Pri tleh se tlak spremeni za približno 1 hPa na 30 ft. Če QNH spremeniš za 10 hPa, se prikaz višinomera spremeni za okoli 300 ft."
+    },
+    {
+      "category": "Višinomer in atmosfera",
+      "title": "Standardna atmosfera",
+      "mnemonic": "15 – 1013 – 2",
+      "items": [],
+      "explanation": "ISA na morski gladini: 15 °C in 1013,25 hPa. Temperatura pada za približno 2 °C na 1000 ft (6,5 °C na 1000 m)."
+    },
+    {
+      "category": "Višinomer in atmosfera",
+      "title": "Gostotna višina",
+      "mnemonic": "Hot, high, humid",
+      "items": [],
+      "explanation": "Vroče, visoko in vlažno pomeni redkejši zrak. Vzletna razdalja se podaljša, dviganje je slabše, propeler in motor dajeta manj."
+    },
+    {
+      "category": "Kompas in navigacija",
+      "title": "Napaka kompasa pri pospeševanju",
+      "mnemonic": "ANDS – Accelerate North, Decelerate South",
+      "items": [],
+      "explanation": "Velja na severni polobli, ko letiš proti vzhodu ali zahodu. Med pospeševanjem kompas kaže zavoj proti severu, med zaviranjem proti jugu."
+    },
+    {
+      "category": "Kompas in navigacija",
+      "title": "Napaka kompasa v zavoju",
+      "mnemonic": "UNOS – Undershoot North, Overshoot South",
+      "items": [],
+      "explanation": "Velja na severni polobli. Ko zavijaš na sever, zavoj zaključi pred prikazanim severom; ko zavijaš na jug, ga zaključi za prikazanim jugom."
+    },
+    {
+      "category": "Kompas in navigacija",
+      "title": "Variacija",
+      "mnemonic": "East is least, west is best",
+      "items": [],
+      "explanation": "Iz prave v magnetno smer: vzhodno variacijo odšteješ, zahodno prišteješ. V Sloveniji je variacija okoli 5° vzhodno, zato je magnetna smer približno 5° manjša od prave."
+    },
+    {
+      "category": "Kompas in navigacija",
+      "title": "Od kompasa do prave smeri",
+      "mnemonic": "Cadbury Dairy Milk Very Good Taste",
+      "items": [
+        {
+          "key": "C",
+          "text": "Compass – smer po kompasu."
+        },
+        {
+          "key": "D",
+          "text": "Deviation – deviacija."
+        },
+        {
+          "key": "M",
+          "text": "Magnetic – magnetna smer."
+        },
+        {
+          "key": "V",
+          "text": "Variation – variacija."
+        },
+        {
+          "key": "T",
+          "text": "True – prava smer."
+        }
+      ],
+      "explanation": "Vrstni red popravkov. V smeri od kompasa proti pravi smeri vzhodno deviacijo in variacijo prišteješ (»add East«), v obratni smeri jo odšteješ."
+    },
+    {
+      "category": "Kompas in navigacija",
+      "title": "Pravilo 1 na 60",
+      "mnemonic": "1° na 60 NM = 1 NM",
+      "items": [],
+      "explanation": "Napaka smeri 1° te na 60 NM odnese za približno 1 NM s poti. Ko veš, koliko si zašel, lahko izračunaš potrebni popravek."
+    },
+    {
+      "category": "Kompas in navigacija",
+      "title": "Potovalne višine VFR",
+      "mnemonic": "East is odd, west is even",
+      "items": [
+        {
+          "key": "000°–179°",
+          "text": "Liho število tisočic + 500 ft, npr. 3500, 5500 ali FL 75."
+        },
+        {
+          "key": "180°–359°",
+          "text": "Sodo število tisočic + 500 ft, npr. 4500, 6500 ali FL 85."
+        }
+      ],
+      "explanation": "Nad 3000 ft nad tlemi izbereš višino glede na magnetno smer poti. Velja za nadmorske višine in letalne nivoje."
+    },
+    {
+      "category": "Pravila letenja",
+      "title": "Kdo ima prednost",
+      "mnemonic": "Kdor težje manevrira, ima prednost",
+      "items": [
+        {
+          "key": "1.",
+          "text": "Balon."
+        },
+        {
+          "key": "2.",
+          "text": "Jadralno letalo."
+        },
+        {
+          "key": "3.",
+          "text": "Zračna ladja."
+        },
+        {
+          "key": "4.",
+          "text": "Motorno letalo."
+        }
+      ],
+      "explanation": "Motorna letala se umaknejo vsem ostalim. Letalo, ki vleče drugo letalo ali predmet, ima prednost pred drugimi motornimi letali."
+    },
+    {
+      "category": "Pravila letenja",
+      "title": "Srečanje, križanje in prehitevanje",
+      "mnemonic": "Desno je pravilno",
+      "items": [
+        {
+          "key": "Čelno",
+          "text": "Oba zavijeta v desno."
+        },
+        {
+          "key": "Križanje",
+          "text": "Prednost ima letalo z desne."
+        },
+        {
+          "key": "Prehitevanje",
+          "text": "Prehitevaš tako, da zaviješ v desno."
+        }
+      ],
+      "explanation": "Pri pristajanju ima prednost letalo, ki je v zadnji fazi prileta, med dvema pristajajočima pa nižje."
+    },
+    {
+      "category": "Pravila letenja",
+      "title": "Pobočno jadranje",
+      "mnemonic": "Pobočje na desni = prednost",
+      "items": [],
+      "explanation": "Pri srečanju ob pobočju se umakne tisti, ki ima pobočje na levi, ker se lahko obrne stran od njega. Zavoji so vedno stran od pobočja. Preveri lokalna pravila."
+    },
+    {
+      "category": "Pravila letenja",
+      "title": "Vidnost in oddaljenost od oblakov (VMC)",
+      "mnemonic": "5 – 1500 – 1000",
+      "items": [
+        {
+          "key": "Nad FL100",
+          "text": "Vidnost 8 km, 1500 m vodoravno in 1000 ft navpično od oblakov."
+        },
+        {
+          "key": "Pod FL100",
+          "text": "Vidnost 5 km, 1500 m vodoravno in 1000 ft navpično od oblakov."
+        },
+        {
+          "key": "Nizko v F, G",
+          "text": "Pod 3000 ft AMSL ali 1000 ft nad terenom: vidnost 5 km, brez oblakov in s pogledom na tla."
+        }
+      ],
+      "explanation": "Povzeto po SERA. Slovenske posebnosti preveri v AIP ENR 1.2."
+    },
+    {
+      "category": "Pravila letenja",
+      "title": "Svetlobni signali stolpa",
+      "mnemonic": "Zelena gremo, rdeča stoj",
+      "items": [
+        {
+          "key": "Stalno zelena",
+          "text": "V zraku: pristanek dovoljen. Na tleh: vzlet dovoljen."
+        },
+        {
+          "key": "Utripajoča zelena",
+          "text": "V zraku: vrni se za pristanek. Na tleh: vožnja dovoljena."
+        },
+        {
+          "key": "Stalno rdeča",
+          "text": "V zraku: daj prednost in nadaljuj kroženje. Na tleh: stoj."
+        },
+        {
+          "key": "Utripajoča rdeča",
+          "text": "V zraku: ne pristajaj, letališče ni varno. Na tleh: umakni se s steze."
+        },
+        {
+          "key": "Utripajoča bela",
+          "text": "V zraku: pristani tu in nadaljuj na ploščad. Na tleh: vrni se na izhodišče."
+        }
+      ],
+      "explanation": "Na signal v zraku odgovoriš z zibanjem kril, na tleh s premikom krmil ali utripom luči."
+    },
+    {
+      "category": "Pravila letenja",
+      "title": "Pozicijske luči",
+      "mnemonic": "Srce je rdeče in je na levi",
+      "items": [],
+      "explanation": "Rdeča luč je na levem krilu, zelena na desnem, bela na repu. Če vidiš rdečo in zeleno hkrati, letalo leti proti tebi."
+    },
+    {
+      "category": "Kontrolni seznami",
+      "title": "Pregled pred vzletom jadralnega letala",
+      "mnemonic": "CBSIFTBEC",
+      "items": [
+        {
+          "key": "C",
+          "text": "Controls – krmila se prosto in pravilno premikajo."
+        },
+        {
+          "key": "B",
+          "text": "Ballast – masa pilota in balast sta v mejah."
+        },
+        {
+          "key": "S",
+          "text": "Straps – pasovi pripeti in zategnjeni."
+        },
+        {
+          "key": "I",
+          "text": "Instruments – instrumenti nastavljeni in delujejo."
+        },
+        {
+          "key": "F",
+          "text": "Flaps – zakrilca preizkušena in nastavljena za vzlet."
+        },
+        {
+          "key": "T",
+          "text": "Trim – trimer nastavljen za vzlet."
+        },
+        {
+          "key": "B",
+          "text": "Brakes – zavore preizkušene, uvlečene in zaklenjene."
+        },
+        {
+          "key": "E",
+          "text": "Eventualities – kaj narediš ob pretrgu vrvi ali prekinjenem vzletu."
+        },
+        {
+          "key": "C",
+          "text": "Canopy – pokrov kabine zaprt in zaklenjen."
+        }
+      ],
+      "explanation": "Seznam britanske jadralne zveze (BGA). Če ima klub ali letalski priročnik svoj seznam, velja ta."
+    },
+    {
+      "category": "Kontrolni seznami",
+      "title": "Pregled pred krogom jadralnega letala",
+      "mnemonic": "WULF",
+      "items": [
+        {
+          "key": "W",
+          "text": "Water – izpust vodnega balasta."
+        },
+        {
+          "key": "U",
+          "text": "Undercarriage – kolo izvlečeno."
+        },
+        {
+          "key": "L",
+          "text": "Loose articles – nič nepritrjenega, pasovi zategnjeni."
+        },
+        {
+          "key": "F",
+          "text": "Flaps – odločitev o zakrilcih za prilet."
+        }
+      ],
+      "explanation": "Seznam BGA pred vstopom v krog. Pri zakrilcih se samo odločiš, kako jih boš uporabil; nastaviš jih pozneje."
+    },
+    {
+      "category": "Kontrolni seznami",
+      "title": "Pregled pred manevri",
+      "mnemonic": "HASELL",
+      "items": [
+        {
+          "key": "H",
+          "text": "Height – dovolj višine za izvlek."
+        },
+        {
+          "key": "A",
+          "text": "Airframe – zavore, zakrilca in podvozje v pravi legi."
+        },
+        {
+          "key": "S",
+          "text": "Security – pasovi zategnjeni, nič nepritrjenega."
+        },
+        {
+          "key": "E",
+          "text": "Engine – motor deluje pravilno (pri motornem letalu)."
+        },
+        {
+          "key": "L",
+          "text": "Location – ne nad naseljem, oblaki ali kontroliranim prostorom."
+        },
+        {
+          "key": "L",
+          "text": "Lookout – zavoj za pregled okolice."
+        }
+      ],
+      "explanation": "Pred vajami prevleka, vrija in strmih zavojev."
+    },
+    {
+      "category": "Kontrolni seznami",
+      "title": "Redni pregled med letom",
+      "mnemonic": "FREDA",
+      "items": [
+        {
+          "key": "F",
+          "text": "Fuel – količina goriva in izbran rezervoar."
+        },
+        {
+          "key": "R",
+          "text": "Radio – prava frekvenca."
+        },
+        {
+          "key": "E",
+          "text": "Engine – temperature in tlaki."
+        },
+        {
+          "key": "D",
+          "text": "Direction indicator – smerni žiro poravnan s kompasom."
+        },
+        {
+          "key": "A",
+          "text": "Altimeter – pravilna nastavitev višinomera."
+        }
+      ],
+      "explanation": "Pri motornem letalu ga ponoviš na približno 15 minut."
+    },
+    {
+      "category": "Kontrolni seznami",
+      "title": "Si pripravljen za let?",
+      "mnemonic": "IMSAFE",
+      "items": [
+        {
+          "key": "I",
+          "text": "Illness – bolezen."
+        },
+        {
+          "key": "M",
+          "text": "Medication – zdravila."
+        },
+        {
+          "key": "S",
+          "text": "Stress – stres."
+        },
+        {
+          "key": "A",
+          "text": "Alcohol – alkohol."
+        },
+        {
+          "key": "F",
+          "text": "Fatigue – utrujenost."
+        },
+        {
+          "key": "E",
+          "text": "Emotion / Eating – čustva, hrana in pijača."
+        }
+      ],
+      "explanation": "Osebni pregled pred vsakim letom. Odgovor »ne« na katerokoli točko je razlog, da ne letiš."
+    },
+    {
+      "category": "Kontrolni seznami",
+      "title": "Ocena tveganja pred letom",
+      "mnemonic": "PAVE",
+      "items": [
+        {
+          "key": "P",
+          "text": "Pilot – tvoje znanje, izkušnje in počutje."
+        },
+        {
+          "key": "A",
+          "text": "Aircraft – letalo in njegove zmogljivosti."
+        },
+        {
+          "key": "V",
+          "text": "enVironment – vreme, teren in zračni prostor."
+        },
+        {
+          "key": "E",
+          "text": "External pressures – pritiski, da letiš, čeprav ne bi smel."
+        }
+      ],
+      "explanation": "Za vsako točko presodi, ali je tveganje sprejemljivo."
+    },
+    {
+      "category": "Kontrolni seznami",
+      "title": "Izvlek iz vrija",
+      "mnemonic": "PARE",
+      "items": [
+        {
+          "key": "P",
+          "text": "Power – moč na prosti tek."
+        },
+        {
+          "key": "A",
+          "text": "Ailerons – krilca v nevtralni legi."
+        },
+        {
+          "key": "R",
+          "text": "Rudder – polno smerno krmilo proti vrtenju."
+        },
+        {
+          "key": "E",
+          "text": "Elevator – palica naprej, da prekineš prevlek. Ko se vrtenje ustavi, nevtraliziraj smerno krmilo in izravnaj."
+        }
+      ],
+      "explanation": "Splošni vrstni red iz ameriških priročnikov. Pri jadralnem letalu točke Power ni. Vedno velja postopek iz letalskega priročnika."
+    },
+    {
+      "category": "Kontrolni seznami",
+      "title": "Izbira njive za zunanji pristanek",
+      "mnemonic": "Veter, dolžina, ovire, naklon, podlaga, živina",
+      "items": [
+        {
+          "key": "Veter",
+          "text": "Pristajaš proti vetru."
+        },
+        {
+          "key": "Dolžina",
+          "text": "Dovolj dolga za pristanek in ustavitev."
+        },
+        {
+          "key": "Ovire",
+          "text": "Daljnovodi, drevesa, ograje na priletu."
+        },
+        {
+          "key": "Naklon",
+          "text": "Raje pristajaj navkreber kot navzdol."
+        },
+        {
+          "key": "Podlaga",
+          "text": "Nizka trava ali strnišče, ne visoka žita."
+        },
+        {
+          "key": "Živina",
+          "text": "Brez živali na njivi."
+        }
+      ],
+      "explanation": "Odločitev o njivi naj bo sprejeta do višine okoli 1000 ft nad tlemi."
+    },
+    {
+      "category": "Vreme",
+      "title": "Kje je nizek tlak",
+      "mnemonic": "Hrbet v veter, nizek tlak na levi",
+      "items": [],
+      "explanation": "Buys-Ballotov zakon za severno poloblo. Če stojiš s hrbtom proti vetru, je območje nizkega tlaka na tvoji levi."
+    },
+    {
+      "category": "Vreme",
+      "title": "Baza kumulusov",
+      "mnemonic": "(T − Td) × 400 ft",
+      "items": [],
+      "explanation": "Razliko med temperaturo in rosiščem pri tleh pomnoži s 400 ft (oziroma 125 m) in dobiš približno višino baze kumulusov nad tlemi."
+    },
+    {
+      "category": "Hitrosti",
+      "title": "Vx ali Vy",
+      "mnemonic": "X ima več kotov kot Y",
+      "items": [],
+      "explanation": "Vx da največji kot dviganja, zato ga uporabiš za preletenje ovire. Vy da največ višine v najkrajšem času, zato ga uporabiš za običajno dviganje."
+    }
+  ],
+  "source": "Splošno znane letalske mnemotehnike (BGA, FAA), pravila po SERA. Ne nadomeščajo letalskega priročnika in AIP.",
+  "checked": "",
+  "reviewedBy": ""
+}

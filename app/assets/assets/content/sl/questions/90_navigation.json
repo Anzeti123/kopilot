@@ -1,0 +1,1566 @@
+[
+  {
+    "id": "E90-200511-00031",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.1.1.1",
+    "loText": "Describe the rotation of the Earth around its own spin axis and the earth's orbit around the sun",
+    "question": "Os vrtenja zemlje teče skozi...",
+    "answers": [
+      "severni magnetni tečaj in južni magnetni tečaj.",
+      "severni magnetni tečaj in južni geografski tečaj.",
+      "severni geografski tečaj in južni geografski tečaj.",
+      "severni geografski tečaj in južni magnetni tečaj."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00032",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.1.1.1",
+    "loText": "Describe the rotation of the Earth around its own spin axis and the earth's orbit around the sun",
+    "question": "Katera trditev o zemljini osi je pravilna?",
+    "answers": [
+      "Zemljina os teče skozi južni geografski tečaj in severni geografski tečaj in ravnino ekvatorja seka pod kotom 23.5°.",
+      "Zemljina os teče skozi južni magnetni tečaj in severni magnetni tečaj in ravnino ekvatorja seka pod kotom 66.5°.",
+      "Zemljina os teče skozi južni magnetni tečaj in severni magnetni tečaj in je pravokotna na ravnino ekvatorja.",
+      "Zemljina os teče skozi južni geografski tečaj in severni geografski tečaj in je pravokotna na ravnino ekvatorja."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00034",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.1.1",
+    "loText": "State that a position in latitude and longitude is referred to a WGS84 ellipsoid",
+    "question": "Katera približna geometrijska oblika najbolje opisuje obliko zemlje za navigacijske sisteme?",
+    "answers": [
+      "Ravna plošča",
+      "Krogla eliptične oblike",
+      "Popolna krogla",
+      "Elipsoid"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00035",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.2.5",
+    "loText": "Define the term 'rhumb line' and 'small circle'",
+    "question": "Katera trditev o loksodromi je pravilna?",
+    "answers": [
+      "Loksodroma je veliki krog, ki seka ekvator pod kotom 45°.",
+      "Najkrajša pot med dvema točkama na zemljinem površju poteka po loksodromi.",
+      "Središče zaključenega kroga loksodrome je vedno središče zemlje.",
+      "Loksodroma preseka vsak poldnevnik pod istim kotom."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00039",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.2.2",
+    "loText": "Explain the significance of a great circle in navigation",
+    "question": "Najkrajšo razdaljo med dvema točkama na zemlji predstavlja del...",
+    "answers": [
+      "ortodrome.",
+      "malega kroga.",
+      "loksodrome.",
+      "vzporednika."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00040",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.1.2",
+    "loText": "State that the circumference of the Earth is approximately 40000 km or approximately 21600 NM",
+    "question": "Obseg zemlje okrog ekvatorja meri približno...",
+    "answers": [
+      "40000 NM.",
+      "21600 NM.",
+      "10800 km.",
+      "12800 km."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00046",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.5.3",
+    "loText": "Describe the coordinate grid of the earth, and name and identify the Greenwich meridian, dateline, tropics and polar (arctic) circles",
+    "question": "Kje se nahajata polarna kroga?",
+    "answers": [
+      "23.5° severno in južno od ekvatorja",
+      "20.5° južno od polov",
+      "23.5° severno in južno od polov",
+      "Na zemljepisni širini 20.5°S in 20.5°N"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00047",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.3.3",
+    "loText": "Calculate the distance in NM any two given positions on the same meridian (using 60 NM per degree difference in latutude)",
+    "question": "Koliko meri razdalja med vzporednikoma 48°N in 49°N vzdolž poldnevnika?",
+    "answers": [
+      "60 NM",
+      "1 NM",
+      "111 NM",
+      "10 NM"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00048",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.2.4",
+    "loText": "Explain that along any great circle, the angular difference of 1 degree corresponds to a distance of 60 NM on the earth's surface",
+    "question": "Koliko meri razdalja, ki je enaka eni stopinji razlike v zemljepisni širini vzdolž kateregakoli vzporednika?",
+    "answers": [
+      "30 NM",
+      "60 km",
+      "1 NM",
+      "60 NM"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00050",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.3.3",
+    "loText": "Calculate the distance in NM any two given positions on the same meridian (using 60 NM per degree difference in latutude)",
+    "question": "Točka A na zemljinem površju leži točno na vzporedniku 47°50'27''N.\nKatera točka je točno 240 NM severno od A?",
+    "answers": [
+      "53°50'27''N",
+      "51°50'27'N'",
+      "43°50'27''N",
+      "49°50'27''N"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00052",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.2.4",
+    "loText": "Explain that along any great circle, the angular difference of 1 degree corresponds to a distance of 60 NM on the earth's surface",
+    "question": "Koliko meri razdalja med dvema poldnevnikoma 150°E in 151°E ob ekvatorju?",
+    "answers": [
+      "111 NM",
+      "60 km",
+      "1 NM",
+      "60 NM"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.2.2.4",
+    "loText": "Explain that along any great circle, the angular difference of 1 degree corresponds to a distance of 60 NM on the earth's surface",
+    "question": "Koliko meri razdalja po velikem krogu med točkama A in B na ekvatorju, ko je razlika med njunima poldnevnikoma natančno eno stopinjo zemljepisne dolžine?",
+    "answers": [
+      "400 NM",
+      "216 NM",
+      "60 NM",
+      "120 NM"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00059",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.3.1.3",
+    "loText": "Describe the daily movement of the apparent sun from east to west across the sky with approximately 15 degrees per hour",
+    "question": "Kolikšna je časovna razlika, ko sonce prepotuje razdaljo 20° po zemljepisni dolžini?",
+    "answers": [
+      "0:20 h",
+      "0:40 h",
+      "1:00 h",
+      "1:20 h"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00066",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.3.4.6",
+    "loText": "With given time difference to UTC, or almanac reference, convert between ST and UTC",
+    "question": "Če je srednjeevropski poletni čas (CEST) podan kot UTC+2, koliko je ura po UTC, če imamo podan čas 1600 CEST?",
+    "answers": [
+      "1600 UTC.",
+      "1500 UTC.",
+      "1700 UTC.",
+      "1400 UTC."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.3.3.3",
+    "loText": "State that in aviation, all times in documentation are UTC",
+    "question": "UTC je...",
+    "answers": [
+      "lokalni čas v srednji Evropi.",
+      "conski čas.",
+      "čas, ki se standardno uporablja v letalstvu.",
+      "lokalni srednji čas na neki točki na zemlji."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00069",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.3.4.6",
+    "loText": "With given time difference to UTC, or almanac reference, convert between ST and UTC",
+    "question": "Če je srednjeevropski čas (CET) podan kot UTC+1, koliko je ura po UTC, če imamo podan čas 1700 CEST?",
+    "answers": [
+      "1800 UTC.",
+      "1500 UTC.",
+      "1700 UTC.",
+      "1600 UTC."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00081",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.3.6.2",
+    "loText": "Define the beginning / end of 'civil twilight' (BCMT/ECET) as the time before sunrise / after sunset when the centre of the sun is 6 degrees below the horizon",
+    "question": "Izraz \"civilni mrak\" je opredeljen kot...",
+    "answers": [
+      "časovno obdobje pred sončnim vzhodom ali po sončnem zahodu, ko je središče sončeve ploskve 6 stopinj ali manj pod navideznim horizontom.",
+      "časovno obdobje pred sončnim vzhodom ali po sončnem zahodu, ko je središče sončeve ploskve 6 stopinj ali manj pod pravim horizontom.",
+      "časovno obdobje pred sončnim vzhodom ali po sončnem zahodu, ko je središče sončeve ploskve 12 stopinj ali manj pod pravim horizontom.",
+      "časovno obdobje pred sončnim vzhodom ali po sončnem zahodu, ko je središče sončeve ploskve 12 stopinj ali manj pod navideznim horizontom."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00086",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.1.1.2",
+    "loText": "Explain the term 'map reading', and describe how to prepare and align a map for use in visual navigation",
+    "question": "Imamo naslednje podatke: kot popravka zaradi vetra (WCA): -012°, prava smer (TH): 125°, magnetni kurz (MC): 139°, deviacija kompasa (DEV): 002°E\nKoliko znašajo vrednosti pravega kurza (TC), magnetne smeri (MH) in kompasne smeri (CH)?",
+    "answers": [
+      "TC: 113°.\nMH: 139°.\nCH: 129°.",
+      "TC: 113°.\nMH: 127°.\nCH: 129°.",
+      "TC: 137°.\nMH: 127°.\nCH: 125°.",
+      "TC: 137°.\nMH: 139°.\nCH: 125°."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00087",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.1.1.2",
+    "loText": "Explain the term 'map reading', and describe how to prepare and align a map for use in visual navigation",
+    "question": "Imamo naslednje podatke: pravi kurz (TC): 179°, kot popravka zaradi vetra (WCA): -12°, variacija (VAR): 004° E, deviacija kompasa (DEV): +002°\nKakšni sta vrednosti magnetne smeri (MH) in magnetnega kurza (MC)?",
+    "answers": [
+      "MH: 167°.\nMC: 161°.",
+      "MH: 163°.\nMC: 175°.",
+      "MH: 167°.\nMC: 175°.",
+      "MH: 163°.\nMC: 161°."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00094",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.4.1.4",
+    "loText": "Define 'variation (VAR)' as the angle between TN and MN",
+    "question": "Kot med magnetnim kurzom in pravim kurzom se imenuje...",
+    "answers": [
+      "variacija.",
+      "kot popravka zaradi vetra (WCA).",
+      "deviacija.",
+      "inklinacija."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00097",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.4.1.1",
+    "loText": "Define 'true north' (TN)  and corresponding directions (TH, TC)",
+    "question": "Izraz \"pravi kurz\" (TC) je opredeljen kot...",
+    "answers": [
+      "smer od poljubne točke na zemlji proti severnemu geografskemu tečaju.",
+      "kot med magnetnim severom in linijo kurza.",
+      "kot med pravim severom in linijo kurza.",
+      "smer od poljubne točke na zemlji proti severnemu magnetnemu tečaju."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00109",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.4.2.1",
+    "loText": "Describe how local variation can be obtained from different charts: using isogonal lines (enroute charts) or MN arrows (e.g. on airport charts)",
+    "question": "Izraz \"izogona\" je opredeljen kot črta na letalski karti, ki povezuje vse točke z enako vrednostjo...",
+    "answers": [
+      "variacije.",
+      "inklinacije.",
+      "smeri.",
+      "deviacije."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00111",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.5.1.1",
+    "loText": "State the typical units and conversion factors for distance: nautical mile (NM), kilometre (km)",
+    "question": "Kateri sta osnovni enoti za horizontalne razdalje, ki se skladno z ICAO uporabljata v letalski navigaciji, ter njuni kratici?",
+    "answers": [
+      "Navtična milja (NM), kilometer (km)",
+      "Jard (yd), meter (m)",
+      "Kopenska milja (SM), morska milja (NM)",
+      "Čevelj (ft), palec (in)"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00114",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.5.2.2",
+    "loText": "Convert between units of height or altitude: feet (ft), metres (m)",
+    "question": "1000 ft znaša približno...",
+    "answers": [
+      "30 m.",
+      "300 m.",
+      "30 km.",
+      "3000 m."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00115",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.5.2.2",
+    "loText": "Convert between units of height or altitude: feet (ft), metres (m)",
+    "question": "5500 m znaša približno...",
+    "answers": [
+      "10000 ft.",
+      "7500 ft.",
+      "18000 ft.",
+      "30000 ft."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00119",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.1.4.1.5",
+    "loText": "Describe the change of variation with time and position",
+    "question": "Kaj je lahko razlog za spremembo oznak vzletno-pristajalnih stez na letališču (npr. z vzletno-pristajalne steze \"06\" na \"07\")?",
+    "answers": [
+      "Spremenila se je smer priletne poti.",
+      "Spremenila se je prava smer vzletno-pristajalne steze.",
+      "Spremenila se je magnetna deviacija na lokaciji vzletno-pristajalne steze.",
+      "Spremenila se je magnetna variacija na lokaciji vzletno-pristajalne steze."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00121",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.1.2.2",
+    "loText": "Explain the relevance of the speeds (IAS/CAS, TAS) for different phases of flight preparation and flight conduction",
+    "question": "Kakšne lastnosti ima karta v Mercatorjevi projekciji?",
+    "answers": [
+      "Merilo je konstantno, ortodrome so prikazane kot ravne črte, loksodrome so prikazane kot ukrivljene črte.",
+      "Merilo se povečuje z zemljepisno širino, ortodrome so prikazane kot ukrivljene črte, loksodrome so prikazane kot ravne črte.",
+      "Merilo je konstantno, ortodrome so prikazane kot ukrivljene črte, loksodrome so prikazane kot ravne črte.",
+      "Merilo se povečuje z zemljepisno širino, ortodrome so prikazane kot ravne črte, loksodrome so prikazane kot ukrivljene črte."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00123",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.2.2.1.3",
+    "loText": "Describe the appearance of great circles and rhumb lines on a direct Mercator chart",
+    "question": "Kako so na karti v Mercatorjevi projekciji prikazane loksodrome in ortodrome?",
+    "answers": [
+      "Loksodrome: ravne črte, Ortodrome: ravne črte",
+      "Loksodrome: ukrivljene črte, Ortodrome: ravne črte",
+      "Loksodrome: ravne črte, Ortodrome: ukrivljene črte",
+      "Loksodrome: ukrivljene črte, Ortodrome: ukrivljene črte"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00124",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.1.3.2",
+    "loText": "Apply HWC and TWC to determine GS from TAS and vice versa",
+    "question": "Kakšne lastnosti ima karta v Lambertovi konformni projekciji?",
+    "answers": [
+      "Loksodrome so prikazane kot ravne črte in karta je izdelana v konformni projekciji.",
+      "Ortodrome so prikazane kot ravne črte in karta je izdelana v ekvivalentni projekciji.",
+      "Karta je izdelana v konformni in ekvidistančni projekciji.",
+      "Karta je izdelana v konformni in ekvivalentni projekciji."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00128",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.1.1.2",
+    "loText": "With appropriate values given, calculate between heading and track and different direction references (T), (M), (C)",
+    "question": "Razdalja med dvema letališčema je 220 NM. Pilot na letalski navigacijski karti za to razdaljo izmeri 40.7 cm.\nMerilo karte je...",
+    "answers": [
+      "1 : 250000.",
+      "1 : 500000.",
+      "1 : 1000000.",
+      "1 : 2000000."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00135",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.1.1.2",
+    "loText": "Explain the term 'map reading', and describe how to prepare and align a map for use in visual navigation",
+    "question": "Za kratek let od A do B pilot z letalske karte pridobi naslednje podatke:\nPravi kurz: 245°.\nMagnetna variacija: 7° W\nMagnetni kurz (MC) je...",
+    "answers": [
+      "252°.",
+      "245°.",
+      "007°.",
+      "238°."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00139",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.1.4.1",
+    "loText": "With remaining distance and observed ground speed given, calculate the remaining time and expected time of arrival (ETA) to a waypoint or destination",
+    "question": "Imamo naslednje podatke:\nPravi kurz od A do B: 250°\nRazdalja: 210 NM\nTAS: 130 kt\nKomponenta čelnega vetra: 15 kt\nPredvideni čas odhoda (ETD): 0915 UTC. Predvideni čas prihoda (ETA) je...",
+    "answers": [
+      "1105 UTC.",
+      "1052 UTC.",
+      "1115 UTC.",
+      "1005 UTC."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00141",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.1.4.1",
+    "loText": "With remaining distance and observed ground speed given, calculate the remaining time and expected time of arrival (ETA) to a waypoint or destination",
+    "question": "Imamo naslednje podatke:\nPravi kurz od A do B: 283°\nRazdalja: 75 NM.\nTAS: 105 kt\nKomponenta čelnega vetra: 12 kt\nPredvideni čas odhoda (ETD): 1242 UTC\nPredvideni čas prihoda (ETA) je...",
+    "answers": [
+      "1330 UTC",
+      "1320 UTC",
+      "1430 UTC",
+      "1356 UTC"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00143",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.1.4.1",
+    "loText": "With remaining distance and observed ground speed given, calculate the remaining time and expected time of arrival (ETA) to a waypoint or destination",
+    "question": "Imamo naslednje podatke:\nPravi kurz od A do B: 352°\nRazdalja: 100 NM\nPotna hitrost (GS): 107 kt\nPredvideni čas odhoda (ETD): 0933 UTC\nPredvideni čas prihoda (ETA) je...",
+    "answers": [
+      "1146 UTC.",
+      "1045 UTC.",
+      "1029 UTC.",
+      "1129 UTC."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00147",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.1.3.3",
+    "loText": "Perform GS, distance and time calculations, e.g. calculate average GS based on observed fixes",
+    "question": "Zrakoplov preleti 100 km v 56 minutah.\nPotna hitrost (GS) je...",
+    "answers": [
+      "198 kt.",
+      "107 km/h.",
+      "93 kt.",
+      "58 km/h."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00150",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.1.4.1",
+    "loText": "With remaining distance and observed ground speed given, calculate the remaining time and expected time of arrival (ETA) to a waypoint or destination",
+    "question": "Kolikšen je potreben čas letenja za razdaljo 236 NM s potno hitrostjo (GS) 134 kt?",
+    "answers": [
+      "0:46 h",
+      "1:34 h",
+      "0:34 h",
+      "1:46 h"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00155",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.2.3.1",
+    "loText": "Enter revised navigational enroute data, for the legs concerned, into the flight plan: e.g. updated wind and GS and correspondingly losses or gains in time and fuel consumption",
+    "question": "Zrakoplov leti z dejansko zračno hitrostjo (TAS) 180 kt in s komponento čelnega vetra 25 kt; let traja 2 uri in 25 minut.\nPreletena razdalja znaša...",
+    "answers": [
+      "435 NM.",
+      "202 NM.",
+      "375 NM.",
+      "693 NM."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00165",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.2.7.4",
+    "loText": "With Pressure ALT, OAT (or temperature deviation from ISA) and QNH given, calculate the true altitude (TA) using:",
+    "question": "Zrakoplov leti na nivoju leta FL 75 pri zunanji temperaturi zraka (OAT) -9 °C.\nVišina QNH je 6500 ft.\nPrava višina je...",
+    "answers": [
+      "7000 ft.",
+      "6500 ft.",
+      "6250 ft.",
+      "6750 ft."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00172",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.2.7.4",
+    "loText": "With Pressure ALT, OAT (or temperature deviation from ISA) and QNH given, calculate the true altitude (TA) using:",
+    "question": "Zrakoplov leti na tlačni višini 7000 ft pri zunanji temperaturi zraka (OAT) +21 °C.\nVišina QNH je 6500 ft.\nPrava višina je...",
+    "answers": [
+      "6250 ft.",
+      "6750 ft.",
+      "7000 ft.",
+      "6500 ft."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00178",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.3.2.1",
+    "loText": "With course or track, TAS and wind/velocity given, resolve the TOV for heading/WCA and GS using a mechanical flight calculator (flight planning situation)",
+    "question": "Imamo naslednje podatke:\nPravi kurz: 255°\nTAS: 100 kt\nVeter: 200°/10 kt\nPrava smer je...",
+    "answers": [
+      "250°.",
+      "245°.",
+      "265°.",
+      "275°."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00188",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.3.2.1",
+    "loText": "With course or track, TAS and wind/velocity given, resolve the TOV for heading/WCA and GS using a mechanical flight calculator (flight planning situation)",
+    "question": "Zrakoplov leti po pravem kurzu (TC) 220° z dejansko zračno hitrostjo (TAS) 220 kt. Vektor vetra je 270°/50 kt.\nPotna hitrost (GS) je...",
+    "answers": [
+      "255 kt.",
+      "185 kt.",
+      "135 kt.",
+      "170 kt."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00191",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.3.2.1",
+    "loText": "With course or track, TAS and wind/velocity given, resolve the TOV for heading/WCA and GS using a mechanical flight calculator (flight planning situation)",
+    "question": "Zrakoplov leti po pravem kurzu (TC) 040° z dejansko zračno hitrostjo (TAS) 180 kt. Vektor vetra je 350°/30 kt.\nPotna hitrost (GS) je...",
+    "answers": [
+      "168 kt.",
+      "159 kt.",
+      "172 kt.",
+      "155 kt."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00194",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.3.2.1",
+    "loText": "With course or track, TAS and wind/velocity given, resolve the TOV for heading/WCA and GS using a mechanical flight calculator (flight planning situation)",
+    "question": "Zrakoplov leti po pravem kurzu (TC) 040° z dejansko zračno hitrostjo (TAS) 180 kt. Vektor vetra je 350°/30 kt.\nKot popravka zaradi vetra (WCA) je...",
+    "answers": [
+      "+ 11°",
+      "+ 5°",
+      "- 9°",
+      "- 7°"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00197",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.3.2.1",
+    "loText": "With course or track, TAS and wind/velocity given, resolve the TOV for heading/WCA and GS using a mechanical flight calculator (flight planning situation)",
+    "question": "Imamo naslednje podatke:\nPravi kurz: 270°\nTAS: 100 kt\nVeter: 090°/25 kt\nRazdalja: 100 NM\nPotna hitrost (GS) v danih pogojih je...",
+    "answers": [
+      "131 kt.",
+      "120 kt.",
+      "117 kt.",
+      "125 kt."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00199",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.2.2.1",
+    "loText": "With GS observed from visual features enroute, calculate revised time of arrival (ETA) at next waypoint",
+    "question": "Imamo naslednje podatke:\nPravi kurz: 270°\nTAS: 100 kt\nVeter: 090°/25 kt\nRazdalja: 100 NM\nČas letenja v danih pogojih bo...",
+    "answers": [
+      "84 Min.",
+      "48 Min.",
+      "62 Min.",
+      "37 Min."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00206",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.3.2.1",
+    "loText": "With course or track, TAS and wind/velocity given, resolve the TOV for heading/WCA and GS using a mechanical flight calculator (flight planning situation)",
+    "question": "Zrakoplov leti po pravem kurzu (TC) 040° z dejansko zračno hitrostjo (TAS) 180 kt. Vektor vetra je 350°/30 kt.\nKot popravka zaradi vetra (WCA) je...",
+    "answers": [
+      "3° desno.",
+      "3° levo.",
+      "7° levo.",
+      "7° desno."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00215",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.2.1.3",
+    "loText": "Calculate the heading change at an offcourse fix to directly reach the next waypoint using the 1:60 rule",
+    "question": "Razdalja od A do B meri 120 NM. Na razdalji 55 NM od A pilot ugotovi zanos za 7 NM v desno.\nKakšno spremembo kurza mora približno narediti, da prileti naravnost do B?",
+    "answers": [
+      "15° levo",
+      "6° levo",
+      "14° levo",
+      "8° levo"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00217",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.2.1.3",
+    "loText": "Calculate the heading change at an offcourse fix to directly reach the next waypoint using the 1:60 rule",
+    "question": "Smer letala je 090°. Razdalja, ki jo namerava preleteti, meri 90 NM. Po 45 NM je letalo 4,5 NM severno od načrtovane poti leta.\nPribližno kakšna mora biti popravljena smer, da prileti naravnost do namembnega letališča?",
+    "answers": [
+      "6° v desno",
+      "18 v desno",
+      "12° v desno",
+      "9° v desno"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00308",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.1.1.1",
+    "loText": "Explain the term 'terrestrial navigation'",
+    "question": "Kaj označuje izraz \"vizualna navigacija\"?",
+    "answers": [
+      "Orientiranje po GNSS med vizualnim letenjem",
+      "Orientiranje po objektih na tleh med vizualnim letenjem",
+      "Orientiranje po odčitkih na instrumentih med vizualnim letenjem",
+      "Orientiranje po nebesnih telesih med vizualnim letenjem"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-200511-00314",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.4.1.2.1",
+    "loText": "Explain which elements would make a ground feature suitable for use for VFR navigation, and give examples",
+    "question": "Katere objekte na tleh je najbolj priporočljivo uporabljati za orientiranje med vizualnim letenjem?",
+    "answers": [
+      "Državne meje",
+      "Poljske ceste in potočke",
+      "Reke, železniške proge, avtoceste",
+      "Daljnovode"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E90-210519-00015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "91.3.3.1.1",
+    "loText": "Explain the terms 'air vector', 'wind vector' and 'ground vector'",
+    "question": "(Glej prilogo EC-90-001-v1)\nOdcitek GNSS med letom je 51,83°N, 12,19°E. Kakšen je položaj zrakoplova?",
+    "answers": [
+      "Nad vasjo Quellendorf",
+      "Nad vasjo Streez",
+      "Nad EDAD",
+      "Nad EDCK"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E90-210519-00015_ec-90-001-v1.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K90-2025-010",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Koliko znaša razlika v zemljepisni širini med točkama A (12°53'30''N) in B (07°34'30''S)?",
+    "answers": [
+      "20,28°",
+      "05°19'00''",
+      "05,19°",
+      "20°28'00''"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Kolikšna je časovna razlika, ko sonce prepotuje razdaljo 10° po zemljepisni dolžini?",
+    "answers": [
+      "0:40 h",
+      "1:00 h",
+      "0:04 h",
+      "0:30 h"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-016",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Sonce prepotuje razdaljo 10° po zemljepisni dolžini. Kolikšna je časovna razlika?",
+    "answers": [
+      "0.66 h",
+      "1 h",
+      "0.33 h",
+      "0.4 h"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-018",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Dunaj (LOWW) leži 016° 34'E, Salzburg (LOWS) pa 013° 00'E. Lahko rečemo, da imata obe mesti enako zemljepisno širino. Kako se razlikujeta čas sončnega vzhoda in sončnega zahoda, izražena v UTC, med Dunajem in Salzburgom?",
+    "answers": [
+      "Na Dunaju sonce vzhaja in zahaja približno 14 minut prej kot v Salzburgu.",
+      "Na Dunaju sonce vzhaja in zahaja približno 4 minute pozneje kot v Salzburgu.",
+      "Na Dunaju sonce vzhaja 14 minut prej in zahaja 14 minut pozneje kot v Salzburgu.",
+      "Na Dunaju sonce vzhaja 4 minute pozneje in zahaja 4 minute prej kot v Salzburgu."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-023",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Izraz \"magnetni kurz\" (MC) je opredeljen kot...",
+    "answers": [
+      "kot med magnetnim severom in linijo kurza.",
+      "kot med pravim severom in linijo kurza.",
+      "smer od poljubne točke na zemlji proti severnemu magnetnemu tečaju.",
+      "smer od poljubne točke na zemlji proti severnemu geografskemu tečaju."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-026",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Kot med kompasnim severom in magnetnim severom se imenuje...",
+    "answers": [
+      "deviacija.",
+      "kot popravka zaradi vetra (WCA).",
+      "variacija.",
+      "inklinacija."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-027",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Katero smer označuje izraz \"kompasni sever\" (CN)?",
+    "answers": [
+      "Smer, v katero kaže magnetni kompas zaradi magnetnih polj zemlje in zrakoplova",
+      "Kot med smerjo zrakoplova in magnetnim severom",
+      "Najbolj severni del magnetnega kompasa v zrakoplovu, kjer vidimo odčitek",
+      "Smer od poljubne točke na zemlji proti severnemu geografskemu tečaju"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-032",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Imamo dve poljubni točki A in B na istem vzporedniku, vendar ne na ekvatorju. Točka A je na 010°E in točka B na 020°E. Razdalja po loksodromi med A in B je vedno...",
+    "answers": [
+      "manj kot 600 NM.",
+      "več kot 600 NM.",
+      "manj kot 300 NM.",
+      "več kot 300 NM."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-034",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Razdalja 7.5 cm na letalski karti pomeni razdaljo 60.745 NM v naravi. Kakšno je merilo karte?",
+    "answers": [
+      "1 : 1500000",
+      "1 : 1 000000",
+      "1 : 500000",
+      "1 : 150000"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-043",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Zrakoplov leti z dejansko zračno hitrostjo (TAS) 120 kt in ima hrbtni veter s hitrostjo 35 kt. Koliko časa potrebuje za razdaljo 185 NM?",
+    "answers": [
+      "1 h 12 min",
+      "1 h 32 min",
+      "2 h 11 min",
+      "0 h 50 min"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-045",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Zrakoplov leti na tlačni višini 7000 ft pri zunanji temperaturi zraka (OAT) +11 °C. Višina QNH je 6500 ft. Prava višina je...",
+    "answers": [
+      "6250 ft.",
+      "6500 ft.",
+      "6750 ft.",
+      "7000 ft."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-047",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Imamo naslednje podatke: Pravi kurz: 120° TAS: 120 kt Veter: 150°/12 kt Kot popravka zaradi vetra (WCA) je...",
+    "answers": [
+      "6° v desno.",
+      "3° v levo.",
+      "3° v desno.",
+      "6° v levo."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-052",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Imamo naslednje podatke Pravi kurz: 165° TAS: 90 kt Veter: 130°/20 kt Razdalja: 153 NM Prava smer je...",
+    "answers": [
+      "152°.",
+      "165°.",
+      "126°.",
+      "158°."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Kot med pravim kurzom in pravo smerjo se imenuje...",
+    "answers": [
+      "deviacija.",
+      "kot popravka zaradi vetra (WCA).",
+      "inklinacija.",
+      "variacija."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-057",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Imamo naslednje podatke: pravi kurz (TC): 183°, kot popravka zaradi vetra (WCA): +011°, magnetna smer (MH): 198°, kompasna smer (CH): 200° Kakšni sta vrednosti variacije (VAR) in deviacije kompasa (DEV)?",
+    "answers": [
+      "VAR: 004° E DEV: -002°",
+      "VAR: 004° E DEV: +002°",
+      "VAR: 004° W DEV: -002°",
+      "VAR: 004° W. DEV: +002°"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-058",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Imamo naslednje podatke: pravi kurz (TC): 183°, kot popravka zaradi vetra (WCA): +011°, magnetna smer (MH): 198°, kompasna smer (CH): 200° Kakšni sta vrednosti prave smeri (TH) in deviacije kompasa (DEV)?",
+    "answers": [
+      "TH: 194° DEV: +002°",
+      "TH: 172° DEV: -002°",
+      "TH: 194° DEV: -002°",
+      "TH: 172° DEV: +002°"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-059",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Imamo naslednje podatke: pravi kurz (TC): 183°, kot popravka zaradi vetra (WCA): +011°, magnetna smer (MH): 198°, kompasna smer (CH): 200° Kakšni sta vrednosti prave smeri (TH) in variacije (VAR)?",
+    "answers": [
+      "TH: 194°. VAR: 004° E",
+      "TH: 172°. VAR: 004° E",
+      "TH: 194°. VAR: 004° W",
+      "TH: 172°. VAR: 004° W"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-064",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj pomeni pravilo 1:60?",
+    "answers": [
+      "Bočni zamik za 1 NM zaradi zanosa za 1° po 60 NM",
+      "Bočni zamik za 10 NM zaradi zanosa za 1° po 60 NM",
+      "Bočni zamik za 60 NM zaradi zanosa za 1° po 1 NM",
+      "Bočni zamik za 6 NM zaradi zanosa za 1° po 10 NM"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-069",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Koliko satelitov potrebujemo za natančno in preverjeno tridimenzionalno določitev položaja?",
+    "answers": [
+      "Dva",
+      "Tri",
+      "Štiri",
+      "Pet"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K90-2025-070",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 90,
+    "subjectName": "Navigation",
+    "lo": "",
+    "loText": "",
+    "question": "Ko uporabljate GNSS za sledenje do naslednje točke na ruti, je indikator odstopanja prikazan kot vertikalna črta z nizom pik na levo in desno od indikatorja. Kateri odgovor opisuje pravilno razlago prikaza?",
+    "answers": [
+      "Odstopanje črte od sredine kaže odstopanje od poti leta v obliki absolutne razdalje v NM, pri čemer je polni odklon indikatorja odvisen od načina delovanja GNSS.",
+      "Odstopanje črte od sredine kaže odstopanje od poti leta kot kotno razdaljo v stopinjah, pri čemer je polni odklon indikatorja odvisen od načina delovanja GNSS.",
+      "Odstopanje črte od sredine kaže odstopanje od poti leta v obliki absolutne razdalje v NM, pri čemer je polni odklon indikatorja +/- 10 NM.",
+      "Odstopanje črte od sredine kaže odstopanje od poti leta kot kotno razdaljo v stopinjah, pri čemer je polni odklon indikatorja +/- 10°. LETALSKA ZAKONODAJA 1. = c. 22. = a. 43. = b. 2. = c. 23. = a. 44. = c. 3. = a. 24. = a. 45. = a. 4. = a. 25. = a. 46. = c. 5. = a. 26. = a. 47. = c. 6. = d. 27. = a. 48. = d. 7. = c. 28. = a. 49. = b. 8. = a. 29. = a. 50. = a. 9. = c. 30. = d. 51. = b. 10. = a. 31. = c. 52. = a. 11. = b. 32. = a. 53. = c. 12. = a. 33. = d. 54. = b. 13. = a. 34. = d. 55. = c. 14. = a. 35. = a. 56. = c. 15. = a. 36. = d. 57. = c. 16. = a. 37. = a. 58. = c. 17. = b. 38. = c. 59. = a. 18. = a. 39. = b. 60. = d. 19. = b. 40. = a. 61. = d. 20. = a. 41. = a. 62. = a. 21. = a. 42. = a. ČLOVEŠKO DELOVANJE 1. = b. 17. = b. 33. = d. 2. = b. 18. = b. 34. = c. 3. = d. 19. = b. 35. = a. 4. = a. 20. = d. 36. = d. 5. = c. 21. = c. 37. = b. 6. = c. 22. = c. 38. = a. 7. = c. 23. = b. 39. = b. 8. = b. 24. = c. 40. = c. 9. = c. 25. = a. 41. = b. 10. = a. 26. = d. 42. = b. 11. = c. 27. = a. 43. = d. 12. = a. 28. = a. 44. = c. 13. = d. 29. = b. 45. = b. 14. = c. 30. = d. 46. = d. 15. = a. 31. = d. 47. = d. 16. = b. 32. = c. METEOROLOGIJA 1. = a. 24. = d. 47. = a. 2. = b. 25. = d. 48. = b. 3. = a. 26. = a. 49. = c. 4. = c. 27. = c. 50. = a. 5. = d. 28. = b. 51. = a. 6. = d. 29. = a. 52. = c. 7. = b. 30. = a. 53. = b. 8. = c. 31. = b. 54. = c. 9. = a. 32. = a. 55. = b. 10. = a. 33. = a. 56. = a. 11. = c. 34. = d. 57. = a. 12. = a. 35. = d. 58. = c. 13. = c. 36. = c. 59. = a. 14. = d. 37. = d. 60. = b. 15. = a. 38. = a. 61. = a. 16. = d. 39. = b. 62. = a. 17. = c. 40. = c. 63. = c. 18. = c. 41. = d. 64. = c. 19. = a. 42. = b. 65. = d. 20. = d. 43. = c. 66. = d. 21. = a. 44. = a. 67. = b. 22. = b. 45. = d. 68. = a. 23. = c. 46. = c. 69. = c. 70. = a. 88. = c. 106. = a. 71. = c. 89. = b. 107. = a. 72. = a. 90. = a. 108. = b. 73. = d. 91. = a. 109. = c. 74. = a. 92. = d. 110. = a. 75. = d. 93. = b. 111. = a. 76. = b. 94. = b. 112. = d. 77. = c. 95. = d. 113. = a. 78. = d. 96. = a. 114. = b. 79. = a. 97. = b. 115. = c. 80. = a. 98. = d. 116. = d. 81. = d. 99. = a. 117. = c. 82. = d. 100. = d. 118. = a. 83. = a. 101. = a. 119. = d. 84. = c. 102. = b. 120. = b. 85. = c. 103. = a. 121. = b. 86. = b. 104. = d. 87. = c. 105. = b. KOMUNIKACIJA 1. = d. 24. = a. 47. = c. 2. = a. 25. = c. 48. = d. 3. = d. 26. = d. 49. = c. 4. = c. 27. = b. 50. = d. 5. = a. 28. = d. 51. = a. 6. = b. 29. = a. 52. = b. 7. = c. 30. = d. 53. = c. 8. = b. 31. = d. 54. = c. 9. = c. 32. = b. 55. = a. 10. = a. 33. = b. 56. = b. 11. = d. 34. = a. 57. = c. 12. = d. 35. = a. 58. = a. 13. = a. 36. = b. 59. = b. 14. = b. 37. = d. 60. = d. 15. = d. 38. = a. 61. = a. 16. = a. 39. = c. 62. = a. 17. = b. 40. = b. 63. = c. 18. = b. 41. = a. 64. = a. 19. = c. 42. = c. 65. = a. 20. = b. 43. = b. 66. = b. 21. = c. 44. = b. 67. = d. 22. = d. 45. = a. 68. = c. 23. = c. 46. = b. 69. = b. 70. = b. 71. = d. 72. = c. 73. = c. 74. = a. TEORIJA LETENJA 1. = a. 24. = c. 47. = c. 2. = d. 25. = a. 48. = d. 3. = a. 26. = a. 49. = a. 4. = d. 27. = d. 50. = a. 5. = a. 28. = c. 51. = d. 6. = a. 29. = b. 52. = a. 7. = c. 30. = c. 53. = a. 8. = d. 31. = d. 54. = a. 9. = c. 32. = a. 55. = a. 10. = b. 33. = a. 56. = b. 11. = b. 34. = a. 57. = a. 12. = c. 35. = a. 58. = d. 13. = b. 36. = b. 59. = a. 14. = a. 37. = a. 60. = c. 15. = c. 38. = d. 61. = a. 16. = d. 39. = a. 62. = a. 17. = c. 40. = b. 63. = a. 18. = a. 41. = a. 64. = d. 19. = a. 42. = a. 65. = d. 20. = b. 43. = a. 66. = b. 21. = b. 44. = a. 67. = b. 22. = a. 45. = a. 68. = a. 23. = a. 46. = a. 69. = b. 70. = c. 71. = b. 72. = a. 73. = b. 74. = d. 75. = a. 76. = c. 77. = b. 78. = c. 79. = b. 80. = b. 81. = a. 82. = d. 83. = a. 84. = d. 85. = a. 86. = b. 87. = a. 88. = a. OPERATIVNI POSTOPKI 1. = a. 20. = a. 39. = d. 2. = c. 21. = a. 40. = d. 3. = a. 22. = d. 41. = a. 4. = b. 23. = a. 42. = d. 24. = a. 43. = a. 5. = a. 6. = b. 25. = a. 44. = c. 7. = b. 26. = a. 45. = a. 8. = a. 27. = a. 46. = a. 9. = a. 28. = a. 47. = a. 10. = a. 29. = a. 48. = a. 11. = a. 30. = a. 49. = a. 12. = b. 31. = d. 50. = a. 13. = d. 32. = a. 51. = d. 14. = a. 33. = a. 52. = a. 15. = a. 34. = a. 53. = a. 16. = d. 35. = a. 54. = a. 17. = a. 36. = a. 55. = d. 18. = a. 37. = d. 19. = a. 38. = a. ZMOGLJIVOST MED LETOM IN NAČRTOVANJE POLETA 1. = d. 10. = a. 19. = c. 2. = a. 11. = c. 20. = a. 3. = c. 12. = a. 21. = a. 4. = a. 13. = a. 22. = a. 5. = d. 14. = a. 23. = c. 6. = b. 15. = d. 24. = a. 7. = b. 16. = a. 25. = a. 8. = a. 17. = a. 26. = a. 9. = a. 18. = c. 27. = a. SPLOŠNO ZNANJE O ZRAKOPLOVIH 1. = a. 24. = a. 47. = a. 2. = a. 25. = a. 48. = a. 3. = a. 26. = a. 49. = a. 4. = a. 27. = a. 50. = a. 5. = a. 28. = a. 51. = a. 6. = d. 29. = a. 52. = d. 7. = a. 30. = a. 53. = a. 8. = b. 31. = a. 54. = a. 9. = a. 32. = a. 55. = a. 10. = c. 33. = a. 56. = b. 11. = a. 34. = a. 57. = a. 12. = d. 35. = a. 58. = a. 13. = a. 36. = a. 59. = a. 14. = a. 37. = a. 60. = a. 15. = a. 38. = c. 61. = a. 16. = d. 39. = c. 62. = a. 17. = a. 40. = b. 63. = a. 18. = a. 41. = a. 64. = c. 19. = a. 42. = a. 65. = a. 20. = a. 43. = a. 66. = a. 21. = d. 44. = b. 67. = a. 22. = a. 45. = a. 68. = a. 23. = b. 46. = a. 69. = a. 70. = a. 71. = a. 72. = a. 73. = a. NAVIGACIJA 1. = a. 24. = d. 47. = c. 2. = b. 25. = a. 48. = a. 3. = c. 26. = a. 49. = b. 4. = c. 27. = a. 50. = a. 5. = b. 28. = a. 51. = a. 6. = a. 29. = a. 52. = d. 7. = c. 30. = a. 53. = a. 8. = a. 31. = c. 54. = b. 9. = b. 32. = a. 55. = b. 10. = d. 33. = a. 56. = a. 11. = b. 34. = a. 57. = c. 12. = a. 35. = a. 58. = c. 13. = d. 36. = a. 59. = c. 14. = c. 37. = a. 60. = a. 15. = a. 38. = c. 61. = b. 16. = a. 39. = a. 62. = a. 17. = b. 40. = b. 63. = a. 18. = a. 41. = c. 64. = a. 19. = d. 42. = c. 65. = b. 20. = c. 43. = a. 66. = a. 21. = a. 44. = a. 67. = a. 22. = a. 45. = c. 68. = d. 23. = a. 46. = d. 69. = c. 70. = a."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

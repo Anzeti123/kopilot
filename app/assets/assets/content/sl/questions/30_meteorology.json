@@ -1,0 +1,2764 @@
+[
+  {
+    "id": "E30-200511-00001",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.8.3.1.1",
+    "loText": "Explain the typical conditions and development of a mountain wave over the alps ('Foehn')",
+    "question": "Kateri oblaki in kakšno vreme lahko nastane, kadar prevladujoči veter potiska vlažno in labilno zračno maso proti gorski verigi in povzroča njen prisilni dvig?",
+    "answers": [
+      "Nizek stratus, ki v celoti pokriva nebo (visoka megla), brez padavin",
+      "Oblaki CB z nevihtami in dežnimi plohami in/ali točo",
+      "Tanki altostratusi in cirostratusi z rahlimi in enakomernimi padavinami",
+      "Enakomeren, brezobličen oblak NS z rahlim pršenjem ali sneženjem (pozimi)"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00012",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.1.2.2",
+    "loText": "Describe cloud types based on type of water content as liquid, supercooled (alto) and ice (cirrus)",
+    "question": "Kaj opisujemo z izrazom \"dušena termika\"?",
+    "answers": [
+      "Obliko nakovala v zgornjih plasteh nevihtnega oblaka",
+      "Pokritost s kumulusi, ki se izraža v osminah neba",
+      "Srednjo ali visoko oblačnost, ki zavira razvoj termike",
+      "Oblake Ns, ki pokrivajo privetrno stran gorske verige"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00014",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.1.1.1",
+    "loText": "List the composition of gases in dry air with 78% Nitrogen, 21% Oxygen and 1% CO2 and other gases",
+    "question": "Iz katerih plinov in v kakšnih deležih je sestavljen zrak?",
+    "answers": [
+      "Iz 21 % kisika,\n78 % vodne pare,\n1 % žlahtnih plinov in ogljikovega dioksida",
+      "Iz 78 % kisika,\n21 % vodne pare,\n1 % dušika",
+      "Iz 21 % kisika,\n78 % dušika,\n1 % žlahtnih plinov in ogljikovega dioksida",
+      "Iz 21 % dušika,\n78 % kisika,\n1 % žlahtnih plinov in ogljikovega dioksida"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00016",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.5.1.2",
+    "loText": "List the values of the ICAO standard atmosphere at MSL with +15 deg C, 1013.25 hPa, 1.225 kg/m3 and 0% relative humidity",
+    "question": "Koliko znaša masa \"kocke zraka\" z robom 1 m na srednjem morskem nivoju skladno z ISA?",
+    "answers": [
+      "12.25 kg",
+      "0.1225 kg",
+      "0.01225 kg",
+      "1.225 kg"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00018",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.5.1.3",
+    "loText": "State the height of the tropopause in ISA with 11 km or 36.000 ft",
+    "question": "Kakšna je srednja višina tropopavze skladno z ISA (mednarodna standardna atmosfera, kot jo opredeljuje organizacija ICAO)?",
+    "answers": [
+      "11,000 ft",
+      "36,000 m",
+      "11,000 m",
+      "18,000 ft"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00019",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.1.2.2",
+    "loText": "Describe the Tropopause as the boundary area between Troposphere and Stratosphere",
+    "question": "Izraz \"tropopavza\" je opredeljen kot...",
+    "answers": [
+      "plast nad troposfero, v kateri je povišana temperatura.",
+      "mejno območje med troposfero in stratosfero.",
+      "mejno območje med mezosfero in stratosfero.",
+      "višina, nad katero začne temperatura padati."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00020",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.2.1.1",
+    "loText": "State the unit for air temperature used in flight meteorology: degrees Celsius",
+    "question": "Katero enoto za temperaturo uporabljajo meteorološke službe za letalstvo v Evropi in Afriki?",
+    "answers": [
+      "Kelvin",
+      "Stopinje Celzija (°C)",
+      "Stopinje po Fahrenheitu",
+      "Gpdam"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00023",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.5.1.1",
+    "loText": "State the rate of decrease in temperature with altitude altitude in the ISA Troposphere as 0.65 deg C/100 m or 2 deg C/1000 ft",
+    "question": "Skladno z mednarodno standardno atmosfero (ISA) v troposferi znaša navpični termični gradient z večanjem višine...",
+    "answers": [
+      "0.6° C / 100 m.",
+      "3° C / 100 m.",
+      "0.65° C / 100 m.",
+      "1° C / 100 m."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00027",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.3.2.1",
+    "loText": "State the decrease in air pressure with increasing altitude as approximately by 1/2 every 5.500 m or 18.000 ft",
+    "question": "Koliko znaša standardni tlak po ISA pri FL 180 (5500 m)?",
+    "answers": [
+      "300 hPa",
+      "500 hPa",
+      "250 hPa",
+      "1013.25 hPa"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00032",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.5.1.2",
+    "loText": "List the values of the ICAO standard atmosphere at MSL with +15 deg C, 1013.25 hPa, 1.225 kg/m3 and 0% relative humidity",
+    "question": "Tlak na srednjem morskem nivoju (MSL) v pogojih mednarodne standardne atmosfere (ISA) je...",
+    "answers": [
+      "1123 hPa.",
+      "1013.25 hPa.",
+      "15 hPa.",
+      "113.25 hPa."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00033",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.5.1.3",
+    "loText": "State the height of the tropopause in ISA with 11 km or 36.000 ft",
+    "question": "Višina tropopavze po mednarodni standardni atmosferi (ISA) je...",
+    "answers": [
+      "48,000 ft.",
+      "11,000 ft.",
+      "36,000 ft.",
+      "5,500 ft."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00035",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.6.2.1",
+    "loText": "Describe the indication of the barometric altimeter as height above selected reference pressure level",
+    "question": "Barometrični višinomer kaže višino nad...",
+    "answers": [
+      "tlemi.",
+      "standardnim tlakom 1013,25 hPa.",
+      "srednjim morskim nivojem.",
+      "izbranim referenčnim tlačnim nivojem."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00036",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.6.2.2",
+    "loText": "Interpret the indication on the barometric altimeter when selecting QNH, QFE or 1013 hPa as reference pressure level",
+    "question": "Višinomer je mogoče na tleh preveriti tako, da nastavimo...",
+    "answers": [
+      "QNH in primerjamo kazanje z nadmorsko višino letališča.",
+      "QFE in primerjamo kazanje z nadmorsko višino letališča.",
+      "QNE in preverimo, da na tleh kaže nič.",
+      "QFF in primerjamo kazanje z nadmorsko višino letališča."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00037",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.6.2.2",
+    "loText": "Interpret the indication on the barometric altimeter when selecting QNH, QFE or 1013 hPa as reference pressure level",
+    "question": "Barometrični višinomer z nastavitvijo QFE kaže...",
+    "answers": [
+      "relativno višino nad standardnim tlakom 1013,25 hPa.",
+      "relativno višino nad tlačnim nivojem letališča.",
+      "relativno višino nad srednjim morskim nivojem.",
+      "pravo višino nad srednjim morskim nivojem."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00041",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.2.2.4",
+    "loText": "Describe the wind direction to be expected on a chart showing high and low pressure areas and isobars",
+    "question": "Kako lahko iz prizemnih vremenskih kart ugotovimo hitrost in smer vetra?",
+    "answers": [
+      "Po smeri izobar in razmiku med njimi",
+      "Po smeri linij toplih in hladnih front",
+      "Po smeri hipsometričnih linij in razmiku med njimi",
+      "Po opombah v besedilnem delu karte"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00043",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.2.1.3",
+    "loText": "Describe the resulting airflow above the friction layer as parallel to the isobars (geostrophic wind)",
+    "question": "Nad plastjo trenja je ob prevladujočem tlačnem gradientu smer vetra...",
+    "answers": [
+      "pravokotna na izohipse.",
+      "pravokotna na izobare.",
+      "vzporedna z izobarami.",
+      "pod kotom 30° na izobare proti nizkemu tlaku."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00044",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.2.2.1",
+    "loText": "Explain the influence of surface friction on wind direction in the friction layer",
+    "question": "Na kateri od naštetih površin se bo hitrost vetra najbolj zmanjšala zaradi prizemnega trenja?",
+    "answers": [
+      "Hribovito območje, nekoliko poraščeno z rastlinjem",
+      "Ravnina, zelo poraščena z rastlinjem",
+      "Ravnina, suha, brez rastlinja",
+      "Obsežna vodna površina"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00046",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.3.1.1",
+    "loText": "Define the terms 'convergence' and 'divergence' and describe associated weather conditions",
+    "question": "Premikanje zraka, ko se tokovnice med sabo približujejo, se imenuje...",
+    "answers": [
+      "konkordanca.",
+      "konvergenca.",
+      "subsidenca.",
+      "divergenca."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00047",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.3.1.1",
+    "loText": "Define the terms 'convergence' and 'divergence' and describe associated weather conditions",
+    "question": "Premikanje zraka, ko se tokovnice med sabo oddaljujejo, se imenuje...",
+    "answers": [
+      "konkordanca.",
+      "divergenca.",
+      "konvergenca.",
+      "subsidenca."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00048",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.3.1.1",
+    "loText": "Define the terms 'convergence' and 'divergence' and describe associated weather conditions",
+    "question": "Kakšno vreme se bo razvilo po konvergenci pri tleh?",
+    "answers": [
+      "Dvigajoč zrak in razpadanje oblakov",
+      "Spuščajoč zrak in razpadanje oblakov",
+      "Spuščajoč zrak in nastajanje oblakov",
+      "Dvigajoč zrak in nastajanje oblakov"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00049",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.3.1.1",
+    "loText": "Define the terms 'convergence' and 'divergence' and describe associated weather conditions",
+    "question": "Kadar dve zračni masi prideta nasproti ena drugi, kako se to imenuje in kakšno gibanje zraka iz tega sledi?",
+    "answers": [
+      "Konvergenca, rezultat pa je dviganje zraka",
+      "Divergenca, rezultat pa je dviganje zraka",
+      "Divergenca, rezultat pa je sesedanje zraka",
+      "Konvergenca, rezultat pa je sesedanje zraka"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00050",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.1.1.1",
+    "loText": "List the air masses usually affecting the weather in mid Europe",
+    "question": "Kaj najbolj vpliva na zračne mase v srednji Evropi?",
+    "answers": [
+      "Hladen polarni zrak in topel tropski zrak",
+      "Hladen arktični in polarni zrak",
+      "Hladen tropski in arktični zrak",
+      "Topel ekvatorialni in tropski zrak"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00051",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.3.1.2",
+    "loText": "Describe the midlatitudes (50  70N/S) as an area where polar air and subtropical air form the Polar Front as a wavelike boundary line around the globe",
+    "question": "Če gledamo globalno cirkulacijo v atmosferi, kje se hladen polarni zrak sreča s toplim subtropskim zrakom?",
+    "answers": [
+      "Ob polarni fronti",
+      "Pri ekvatorju",
+      "Pri subtropskem pasu visokega tlaka",
+      "Pri geografskih polih"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.8.3.1.1",
+    "loText": "Explain the typical conditions and development of a mountain wave over the alps ('Foehn')",
+    "question": "Fen se običajno pojavi v...",
+    "answers": [
+      "stabilnem ozračju, ko je v področju visokega tlaka brezvetrje.",
+      "labilnem ozračju, ko obsežna plast zraka prehaja preko gorskega grebena.",
+      "labilnem ozračju, ko je v področju visokega tlaka brezvetrje.",
+      "stabilnem ozračju, ko obsežna plast zraka prehaja preko gorskega grebena."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00057",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.6.2.2",
+    "loText": "Describe possible hazards associated with strong winds perpendicular to a mountain ridge / range",
+    "question": "Na katero vrsto turbulence običajno naletimo blizu tal na zavetrni strani gora, kadar piha fen?",
+    "answers": [
+      "Turbulenco v obliki rotorjev",
+      "Termično turbulenco",
+      "Turbulenco vedrega neba (ang. CAT)",
+      "Turbulenco zaradi inverzije"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00058",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.2.1.2",
+    "loText": "List typical zones with turbulence and how to avoid them, e.g. below Cu clouds, shower downdrafts, mountain waves, inversions",
+    "question": "Šibko turbulenco moramo vedno pričakovati...",
+    "answers": [
+      "nad kumulusi zaradi termične konvekcije.",
+      "pod kumulusi zaradi termične konvekcije.",
+      "ko priletimo v inverzijo.",
+      "pod plastovitimi oblaki - stratiformis v srednjih plasteh."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00059",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.6.2.2",
+    "loText": "Describe possible hazards associated with strong winds perpendicular to a mountain ridge / range",
+    "question": "Zmerno do močno turbulenco moramo pričakovati...",
+    "answers": [
+      "nad strnjenimi plastmi oblakov.",
+      "ko se pojavijo obsežni nizki stratusi (visoka megla).",
+      "na zavetrni strani gorske verige ob prisotnosti rotornih oblakov.",
+      "pod debelo plastjo oblakov na privetrni strani gorske verige."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00060",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.3.1.1.1",
+    "loText": "Describe air humidity as water molecules in gaseous form mixed with dry air",
+    "question": "V katerih agregatnih stanjih lahko v atmosferi najdemo vodo?",
+    "answers": [
+      "Plinasto in tekoče",
+      "Tekoče",
+      "Tekoče, trdno in plinasto",
+      "Tekoče in trdno"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00063",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.3.1.2.7",
+    "loText": "Describe the relationship between relative humidity, dew point and spread with change in temperature",
+    "question": "Kako se depresija rosišča in relativna vlaga spreminjata z višanjem temperature?",
+    "answers": [
+      "Depresija rosišča ostaja konstantna, relativna vlaga pa se povečuje.",
+      "Depresija rosišča se povečuje, relativna vlaga se zmanjšuje.",
+      "Depresija rosišča ostaja konstantna, relativna vlaga pa se zmanjšuje.",
+      "Depresija rosišča se povečuje, relativna vlaga ravno tako."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00064",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.3.1.2.6",
+    "loText": "Define 'temperaturedewpoint spread (TDS)' as difference between temperature and dew point",
+    "question": "Izraz \"depresija rosišča\" je opredeljen kot...",
+    "answers": [
+      "največja količina vodne pare, ki jo lahko vsebuje zrak.",
+      "razlika med rosiščem in točko kondenzacije.",
+      "razmerje med dejansko in največjo možno vlažnostjo zraka.",
+      "razlika med dejansko temperaturo zraka in rosiščem."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00065",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.3.1.2.7",
+    "loText": "Describe the relationship between relative humidity, dew point and spread with change in temperature",
+    "question": "Če se drugi dejavniki ne spremenijo, zmanjšanje temperature povzroči...",
+    "answers": [
+      "povečevanje depresije rosišča in upadanje relativne vlage.",
+      "zmanjševanje depresije rosišča in upadanje relativne vlage.",
+      "povečevanje depresije rosišča in naraščanje relativne vlage.",
+      "zmanjševanje depresije rosišča in naraščanje relativne vlage."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00067",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.2.3.1",
+    "loText": "State conduction and latent heat as primary factors for tranfer of heat within the Troposphere",
+    "question": "Kateri proces povzroča sproščanje latentne toplote v visoko troposfero?",
+    "answers": [
+      "Izhlapevanje nad velikimi vodnimi površinami",
+      "Stabilizacija dotekajočih zračnih mas",
+      "Nastajanje oblakov zaradi kondenzacije",
+      "Spuščanje zraka nad obsežnimi območji"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.2.4.2",
+    "loText": "Explain how the rate at which an air mass cools/heats when rising/descending depends on the relative humidity",
+    "question": "Navpični termični gradient nasičene adiabate je...",
+    "answers": [
+      "enak navpičnemu termičnemu gradientu suhe adiabate.",
+      "sorazmeren z navpičnim termičnim gradientom suhe adiabate.",
+      "večji od navpičnega termičnega gradienta suhe adiabate.",
+      "manjši od navpičnega termičnega gradienta suhe adiabate."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00070",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.2.4.3",
+    "loText": "State the dry adiabatic lapse rate as 3 deg C/1000 ft (or 1 deg C/100 m) and saturated adiabatic lapse rate with an average of 1.8 deg C/1000 ft (or 0.6 deg C/100 m)",
+    "question": "Navpični termični gradient suhe adiabate znaša...",
+    "answers": [
+      "0.65° C / 100 m.",
+      "0.6° C / 100 m.",
+      "1.0° C / 100 m.",
+      "2° / 1000 ft."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00071",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.2.4.3",
+    "loText": "State the dry adiabatic lapse rate as 3 deg C/1000 ft (or 1 deg C/100 m) and saturated adiabatic lapse rate with an average of 1.8 deg C/1000 ft (or 0.6 deg C/100 m)",
+    "question": "Navpični termični gradient nasičene adiabate ima privzeto povprečno vrednost...",
+    "answers": [
+      "1.0° C / 100 m.",
+      "0° C / 100 m.",
+      "2° C / 1000 ft.",
+      "0.6° C / 100 m."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00074",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.1.1.3",
+    "loText": "Explain the height of the cloud base with regard to the spread of the ascending air (at ground level)",
+    "question": "Na kateri višini nastane baza kumulusa?",
+    "answers": [
+      "Na višini, kjer temperatura dvigajočega zraka doseže svoje rosišče.",
+      "Na višini, kjer dvigajoč zrak doseže vrh plasti inverzije.",
+      "Na višini, kjer temperatura dvigajočega zraka doseže rosišče okolice.",
+      "Na višini, kjer relativna vlaga dvigajočega zraka doseže 0 %."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00076",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.1.2.1",
+    "loText": "Describe the two basic cloud types Cumulus (Cu) and Stratus (St) with regard to flight hazards (turbulence and visibility)",
+    "question": "Na kateri dve vrsti se v osnovi delijo oblaki?",
+    "answers": [
+      "Na plastovite (stratiformis) in ledene oblake",
+      "Na kopaste (cumulus) in plastovite (stratiformis) oblake",
+      "Na plastovite in dvigujoče oblake",
+      "Na nevihtne oblake in oblake, ki prinašajo plohe"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00080",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.8.3.1.2",
+    "loText": "Identify the different zones with downdrafts, updrafts, rotors and lenticular clouds of a mountain wave (foehn system)",
+    "question": "Kateri vremenski pojav, ki je označen s številko 2, moramo pričakovati na zavetrni strani v prikazanih pogojih?\nGlej prilogo (MET-001).",
+    "answers": [
+      "Kumulonimbus",
+      "Altokumulus castellanus",
+      "Nimbostratus",
+      "Altokumulus lenticularis"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E30-200511-00080_met-001.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00081",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.1.2.3",
+    "loText": "Identify cumulus/stratus clouds on a given picture",
+    "question": "Katera vrsta oblaka je prikazana na sliki?\nGlej prilogo (MET-002).",
+    "answers": [
+      "Altus",
+      "Stratus",
+      "Kumulus",
+      "Cirus"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E30-200511-00081_met-002.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00083",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.1.2.4",
+    "loText": "Identifiy low/alto/cirro clouds on a given picture",
+    "question": "Katera vrsta oblaka je prikazana na sliki?\nGlej prilogo (MET-004).",
+    "answers": [
+      "Altokumulus",
+      "Cirus",
+      "Kumulus",
+      "Stratus"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E30-200511-00083_met-004.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00084",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.1.3.1",
+    "loText": "Describe the effect of an inversion layer on the lifting process with cloud development and atmospheric stability",
+    "question": "Kateri dejavnik lahko vpliva na vrh kumulusnega oblaka?",
+    "answers": [
+      "Absolutna vlaga",
+      "Depresija rosišča",
+      "Relativna vlaga",
+      "Prisotnost plasti inverzije"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00085",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.2.1.1",
+    "loText": "Describe the general conditions for fog formation with low spread and descending temperature",
+    "question": "Kateri dejavniki lahko nakazujejo, da bo začela nastajati megla?",
+    "answers": [
+      "Nizek tlak, naraščanje temperature",
+      "Majhna depresija rosišča, naraščanje temperature",
+      "Majhna depresija rosišča, nižanje temperature",
+      "Močan veter, nižanje temperature"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00087",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.2.2.1",
+    "loText": "Explain the formation of radiation fog",
+    "question": "Kaj lahko prepreči nastanek \"radiacijske megle\"?",
+    "answers": [
+      "Oblačnost",
+      "Jasna noč brez oblakov",
+      "Brezvetrje",
+      "Majhna depresija rosišča"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00091",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.5.1.1.1",
+    "loText": "Describe the process of precipitation develepment as a combination of coalescence and icing",
+    "question": "Kateri dejavniki so potrebni za nastanek padavin v oblakih?",
+    "answers": [
+      "Zmerni do močni vzgorniki",
+      "Prisotnost plasti inverzije",
+      "Visoka vlažnost in visoke temperature",
+      "Miren veter in močna osončenost"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00092",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.5.1.1.1",
+    "loText": "Describe the process of precipitation develepment as a combination of coalescence and icing",
+    "question": "Pogoj za nastanek srednje velikih do velikih padavinskih delcev...",
+    "answers": [
+      "je visoka baza oblaka.",
+      "je močen veter.",
+      "so močni vzgorniki.",
+      "je plast inverzije."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00097",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.1.2.1",
+    "loText": "Describe how properties of air masses (humidity, temperature and stability) may change along their tracks",
+    "question": "Kako pravimo zračni masi, ki se pozimi pomika prek Rusije proti srednji Evropi?",
+    "answers": [
+      "Morska tropska zračna masa",
+      "Morska polarna zračna masa",
+      "Kontinentalna polarna zračna masa",
+      "Kontinentalna tropska zračna masa"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00099",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.1.1.2",
+    "loText": "Describe and identify air masses with respect to origin (tropical/polar) and track (maritime/continental)",
+    "question": "Katere lastnosti določajo značaj zračne mase?",
+    "answers": [
+      "Hitrost vetra in višina tropopavze",
+      "Navpični termični gradient pri izvoru",
+      "Regija izvora in pot gibanja",
+      "Temperatura pri izvoru in v trenutni regiji"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00100",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.1.2.1",
+    "loText": "Describe how properties of air masses (humidity, temperature and stability) may change along their tracks",
+    "question": "Kako se spremeni stabilnost hladne polarne zračne mase, ko se spomladi ali poleti premika proti jugu srednje Evrope?",
+    "answers": [
+      "Stabilizira se zaradi segrevanja zraka v spodnji tropsferi.",
+      "Stabilizira se, ker narašča relativna vlažnost.",
+      "Destabilizira se zaradi segrevanja zraka v spodnji tropsferi.",
+      "Destabilizira se zaradi segrevanja zraka v zgornji tropsferi."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00101",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.2.3.6",
+    "loText": "Name and identify cold fronts on surface weather charts",
+    "question": "Simbol, označen z (1) na priloženi sliki, je...\nGlej prilogo (MET-005).",
+    "answers": [
+      "hladna fronta.",
+      "zgornja fronta.",
+      "topla fronta.",
+      "okluzija."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E30-200511-00101_met-005.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00102",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.2.2.6",
+    "loText": "Name and identify warm fronts on surface weather charts",
+    "question": "Simbol, označen z (2) na priloženi sliki, je...\nGlej prilogo (MET-005).",
+    "answers": [
+      "hladna fronta.",
+      "okluzija.",
+      "topla fronta.",
+      "zgornja fronta."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E30-200511-00102_met-005.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00103",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.2.6.4",
+    "loText": "Name and identify occlusion lines on surface weather charts",
+    "question": "Simbol, označen z (3) na priloženi sliki, je...\nGlej prilogo (MET-005).",
+    "answers": [
+      "hladna fronta.",
+      "zgornja fronta.",
+      "topla fronta.",
+      "okluzija."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E30-200511-00103_met-005.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00106",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.2.3.2",
+    "loText": "List typical clouds and precipitation associated with a cold front",
+    "question": "Kakšno sosledje oblakov in vremena lahko običajno opazujemo med prehodom hladne fronte?",
+    "answers": [
+      "Močno razviti kumulusi (Cb) z dežnimi plohami in nevihtami (Cb), rafalni veter, nato pa kumulusi s posamičnimi dežnimi plohami",
+      "Veter se umiri, razpad oblakov in segrevanje zraka poleti, nastajanje debelejših plasti megle pozimi",
+      "Cirusi, altostratusi in altokumulusi, ki se gostijo, baza oblaka se spušča in dežuje, nimbostratusi",
+      "Na obalnih območjih podnevi veter piha z obale, nastajajo kumulusi, zvečer in ponoči razpad oblakov"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00115",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.2.8.1",
+    "loText": "Describe the typical path of movement of a polar front low as in direction of the warm sector isobars",
+    "question": "Kako se običajno giblje polarna fronta z nizkim tlakom?",
+    "answers": [
+      "Vzporedno z linijo tople fronte proti jugu",
+      "Pozimi proti severovzhodu, poleti proti jugovzhodu",
+      "Vzporedno z izobarami toplega sektorja",
+      "Pozimi proti severozahodu, poleti proti jugozahodu"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00117",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.2.9.1",
+    "loText": "Describe the changes in air pressure, temperature and approximate wind direction with the passage of a polar front low",
+    "question": "Kakšno tlačno polje opažamo med prehodom polarne fronte z nizkim tlakom?",
+    "answers": [
+      "Padanje tlaka pred toplo fronto, konstanten tlak znotraj toplega sektorja, padanje tlaka za hladno fronto",
+      "Naraščanje tlaka pred toplo fronto, konstanten tlak znotraj toplega sektorja, naraščanje tlaka za hladno fronto",
+      "Naraščanje tlaka pred toplo fronto, naraščanje tlaka znotraj toplega sektorja, padanje tlaka za hladno fronto",
+      "Padanje tlaka pred toplo fronto, konstanten tlak znotraj toplega sektorja, naraščanje tlaka za hladno fronto"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00120",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.2.9.1",
+    "loText": "Describe the changes in air pressure, temperature and approximate wind direction with the passage of a polar front low",
+    "question": "Kako se spreminja smer vetra med prehodom polarne fronte z nizkim tlakom v srednji Evropi?",
+    "answers": [
+      "Obračanje vetra v smeri z urinim kazalcem med prehodom tople fronte, ravno tako med prehodom hladne fronte",
+      "Obračanje vetra v smeri proti urinemu kazalcu med prehodom tople fronte, ravno tako med prehodom hladne fronte",
+      "Obračanje vetra v smeri proti urinemu kazalcu med prehodom tople fronte, obračanje vetra v smeri z urinim kazalcem med prehodom hladne fronte",
+      "Obračanje vetra v smeri z urinim kazalcem med prehodom tople fronte, obračanje vetra v smeri proti urinemu kazalcu med prehodom hladne fronte"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00121",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.3.1.3",
+    "loText": "List the typical latitudes for High and Low pressure areas resulting from global circulation",
+    "question": "Obsežna področja visokega tlaka lahko skozi vse leto najdemo...",
+    "answers": [
+      "v predelih z izrazitimi procesi dviganja.",
+      "nad oceani pri zemljepisnih širinah okrog 30° N/S.",
+      "v tropskih predelih blizu ekvatorja.",
+      "na srednjih zemljepisnih širinah vzdolž polarne fronte."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00123",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.8.2.2.1",
+    "loText": "Describe the prevailing weather situation with high pressure areas (warm and cold high) in summer and winter",
+    "question": "Katero vrsto oblakov lahko poleti tipično opazimo nad obsežnimi področji visokega tlaka?",
+    "answers": [
+      "Oblak Cu, ki delno pokriva nebo",
+      "Oblak Ns, ki v celoti pokriva nebo",
+      "Nizek stratus, ki v celoti pokriva nebo",
+      "Nevihtne linije in nevihte"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00127",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.7.2.1.1",
+    "loText": "State that low pressure areas on different scale are usually associated with convergence and ascending air with formation of cloud and weather",
+    "question": "Dotok hladnega zraka v visokih plasteh troposfere lahko povzroči...",
+    "answers": [
+      "mirno vreme in razpadanje oblakov.",
+      "stabilizacijo in mirno vreme.",
+      "plohe in nevihte.",
+      "frontalno vreme."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00129",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.7.2.1.1",
+    "loText": "State that low pressure areas on different scale are usually associated with convergence and ascending air with formation of cloud and weather",
+    "question": "Kakšne vremenske pojave moramo pričakovati okrog vremenske doline na veliki višini?",
+    "answers": [
+      "Nastajanje visokih stratusov, nizko bazo oblaka",
+      "Miren veter, nastajanje tankih kumulusov",
+      "Mirno vreme, nastajanje plasti nizke oblačnosti",
+      "Nastajanje ploh in neviht (Cb)"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00132",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.8.2.2.1",
+    "loText": "Describe the prevailing weather situation with high pressure areas (warm and cold high) in summer and winter",
+    "question": "Kakšne vremenske razmere lahko poleti pričakujemo v področjih visokega tlaka?",
+    "answers": [
+      "Nevihtne linije in nevihte",
+      "Miren veter in obsežna območja z visoko meglo",
+      "Mirno vreme in razpadanje oblakov, malo visokih Cu",
+      "Nestanovitno vreme s prehodom frontalnih linij"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00133",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.8.2.3.1",
+    "loText": "State that high pressure areas in summer are usually associated with flat pressure pattern",
+    "question": "Kakšne vremenske razmere v srednji Evropi običajno zasledimo poleti v področjih visokega tlaka?",
+    "answers": [
+      "Velik razmik med izobarami z močnimi prevladujočimi zahodnimi vetrovi",
+      "Majhen razmik med izobarami z brezvetrjem, nastajanje lokalnih vetrovnih sistemov",
+      "Velik razmik med izobarami z brezvetrjem, nastajanje lokalnih vetrovnih sistemov",
+      "Majhen razmik med izobarami z močnimi prevladujočimi severnimi vetrovi"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00135",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.8.2.3.3",
+    "loText": "State that with a flat pressure pattern local wind systems may form",
+    "question": "Kakšne vetrovne pogoje lahko pričakujemo na področjih, kjer so vidni veliki razmiki med izobarami?",
+    "answers": [
+      "Nastajanje lokalnih vetrovnih sistemov z močnimi prevladujočimi zahodnimi vetrovi",
+      "Spremenljive vetrove, nastajanje lokalnih vetrovnih sistemov",
+      "Močne prevladujoče zahodne vetrove, ki se hitro obračajo v smeri z urinim kazalcem",
+      "Močne prevladujoče vzhodne vetrove, ki se hitro obračajo v smeri nasproti urinega kazalca"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00137",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.6.1.2",
+    "loText": "Describe possible hazards from stable air mass lifted due to horizontal movement against a mountain range with regard to visibility and cloud base",
+    "question": "Kakšne vremenske razmere lahko pričakujemo na privetrni strani gorske verige, kadar piha fen?",
+    "answers": [
+      "Oblake, ki se razkrajajo, in neobičajno segrevanje, ki ga spremlja močan, sunkovit veter",
+      "Delno oblačnost s kumulusi ter plohe in nevihte",
+      "Miren veter in nastajanje visokih stratusnih oblakov (visoka megla)",
+      "Plastovite oblake, zamegljene gore, slabo vidljivost, zmeren do močen dež"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00141",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.1.1.1",
+    "loText": "List meteorological conditions (humidity, temperature, precipitation) that affecting type and intensity of airframe icing",
+    "question": "Kateri od opisanih pogojev so najugodnejši za nastanek zaledenitev?",
+    "answers": [
+      "Temperature med +10 °C in -30 °C, toča (oblaki)",
+      "Temperature pod 0 °C, močan veter, jasno nebo brez oblaka",
+      "Temperature med 0 °C in -12 °C, podhlajene vodne kapljice (oblaki)",
+      "Temperature med -20 °C in -40 °C, ledeni kristasli (oblaki Ci)"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00142",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.1.1.1",
+    "loText": "List meteorological conditions (humidity, temperature, precipitation) that affecting type and intensity of airframe icing",
+    "question": "Katere temperature so najbolj nevarne, kar zadeva zaledenitev konstrukcije zrakoplova?",
+    "answers": [
+      "+20° do -5° C",
+      "0° do -12° C",
+      "+5° do -10° C",
+      "-20° do -40° C"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00146",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.3.3.2",
+    "loText": "Explain how to identify and avoid hazards associated with wind shears from rain showers during final approach",
+    "question": "V katerem od naštetih primerov se lahko pojavi močno striženje vetra?",
+    "answers": [
+      "Med končnim priletom, 30 min potem, ko je letališče prešla ploha",
+      "Ko je v bližini letališča intenzivna ploha",
+      "Med letenjem pred toplo fronto z vidnimi oblaki Ci",
+      "Med preletom pod oblaki Cu s približno štiriosminsko prekritostjo (4/8)"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00147",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.4.1.1",
+    "loText": "List the conditions favourable for thunderstorm formation with regard to temperature, humidity and atmospheric stability",
+    "question": "Kateri pogoji so ugodni za nastanek neviht?",
+    "answers": [
+      "Jasna noč nad kopnim, hladen zrak in megla v pasovih",
+      "Topel, vlažen zrak, pogojno labilen navpični termični gradient",
+      "Brezvetrje in hladen zrak, oblačno z oblaki St ali As",
+      "Topel in suh zrak, močna plast inverzije"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00148",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.4.1.1",
+    "loText": "List the conditions favourable for thunderstorm formation with regard to temperature, humidity and atmospheric stability",
+    "question": "Kateri pogoji so obvezni za nastanek vročinskih neviht?",
+    "answers": [
+      "Pogojno labilno ozračje, visoka temperatura in visoka vlažnost",
+      "Absolutno stabilno ozračje, visoka temperatura in visoka vlažnost",
+      "Pogojno labilno ozračje, nizka temperatura in slaba vidljivost",
+      "Absolutno stabilno ozračje, visoka temperatura in nizka vlažnost"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00149",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.4.2.1",
+    "loText": "Describe the formation and lifecycle of singlecell thunderstorms",
+    "question": "Med nevihtami se močni vzgorniki in vzdolniki pojavijo v...",
+    "answers": [
+      "nevihtni fazi.",
+      "fazi razkrajanja.",
+      "začetni fazi.",
+      "zreli fazi."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00151",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.4.2.1",
+    "loText": "Describe the formation and lifecycle of singlecell thunderstorms",
+    "question": "V kateri fazi nevihte imajo glavno vlogo vzgorniki?",
+    "answers": [
+      "V fazi razkrajanja",
+      "V zreli fazi",
+      "V kumulusni fazi",
+      "V fazi vzgornikov"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00153",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.4.3.1",
+    "loText": "Explain the possible hazards from lightning strikes to aircrafts in flight",
+    "question": "Katera je največja nevarnost, ki jo povzroči udar strele v zrakoplov?",
+    "answers": [
+      "Motnje radijske komunikacije, statične motnje",
+      "Pregretje površin in poškodbe izpostavljenih delov zrakoplova",
+      "Hiter padec tlaka in dim v kabini",
+      "Eksplozija električne opreme v pilotski kabini"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00154",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.9.4.4.1",
+    "loText": "Describe the vertical outflow of air below thunderstorms resulting in vertical and horizontal wind shear as possible hazard to aircrafts in flight",
+    "question": "Močne vzdolnike in močno striženje vetra blizu tal lahko pričakujemo...",
+    "answers": [
+      "v toplih poletnih dneh, ko nastajajo visoki, tanki oblaki Cu.",
+      "v hladnih, jasnih nočeh, ko nastaja radiacijska megla.",
+      "med priletom na letališče ob obali, kjer piha močen morski veter.",
+      "v bližini močnih ploh in neviht."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00160",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.4.2.1.3",
+    "loText": "Explain the difference between 'haze' (HZ) and 'mist' (BR)",
+    "question": "Katero zmanjšanje vidljivosti je neobčutljivo na spremembe temperature?",
+    "answers": [
+      "Radiacijska megla (FG)",
+      "Megla v pasovih (BCFG)",
+      "Meglica (BR)",
+      "Suha motnost (HZ)"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00161",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.2.2.1",
+    "loText": "Describe the basic contents shown in surface weather charts (synoptic or analytic charts)",
+    "question": "Na kateri karti lahko najdemo podatke o tlačnih poljih in frontah?",
+    "answers": [
+      "Na karti pomembnih vremenskih pojavov (SWC)",
+      "Na karti vetra",
+      "Na hipsometrični karti",
+      "Na prizemni vremenski karti"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00162",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.2.2.1",
+    "loText": "Describe the basic contents shown in surface weather charts (synoptic or analytic charts)",
+    "question": "Na kateri vremenski karti je prikazan dejanski zračni tlak na srednjem morskem nivoju (MSL), skupaj s središči ciklonov in frontami?",
+    "answers": [
+      "Na karti vetra",
+      "Na prizemni vremenski karti",
+      "Na hipsometrični karti",
+      "Na prognostični karti"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00166",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.1.3.1",
+    "loText": "Explain the purpose of meteorological satellite imagery",
+    "question": "Katere podatke lahko dobimo s satelitskih posnetkov?",
+    "answers": [
+      "Vidljivost v letu, vidljivost pri tleh in stik s terenom",
+      "Temperaturo in rosišče zraka okolice",
+      "Pregled prekritosti z oblaki in linij front",
+      "Turbulenco in zaledenitve"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00168",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.1.4.1",
+    "loText": "Explain the purpose of groundbased WX radar",
+    "question": "Katera karta prikazuje območja s padavinami?",
+    "answers": [
+      "Karta vetra",
+      "Radarska slika",
+      "Satelitski posnetek",
+      "GAFOR"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00172",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.2.2.1",
+    "loText": "Describe the basic contents shown in surface weather charts (synoptic or analytic charts)",
+    "question": "Izmerjeno razporeditev tlaka na srednjem morskem nivoju (MSL) in ustrezne frontalne sisteme prikazuje...",
+    "answers": [
+      "karta pomembnih vremenskih pojavov (SWC).",
+      "hipsometrična karta.",
+      "prognostična karta.",
+      "prizemna vremenska karta."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00176",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.3.1.4",
+    "loText": "List and interpret the lettergroups for METAR and TAF commonly used in Europe",
+    "question": "V poročilu METAR \"(zmerne) plohe\" označuje krajšava...",
+    "answers": [
+      "TS.",
+      "+TSRA.",
+      "+RA.",
+      "SHRA."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00179",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.3.1.3",
+    "loText": "Define ATIS and describe content with structure, time of issue and validity period",
+    "question": "Informacije o vremenu in operativne informacije o namembnem letališču lahko med letom pridobimo iz poročila...",
+    "answers": [
+      "VOLMET.",
+      "SIGMET.",
+      "PIREP.",
+      "ATIS."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00181",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.3.4.1",
+    "loText": "Describe SIGMET and list criteria for issueing",
+    "question": "Opozorila SIGMET se izdajajo za...",
+    "answers": [
+      "letalska informacijska področja (FIR) / informacijska področja zgornjega zračnega prostora (UIR).",
+      "letališča.",
+      "države.",
+      "specifične poti."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00182",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.2.5.1",
+    "loText": "Describe an 'inversion' as a layer with increasing temperature with increasing height",
+    "question": "Inverzija je plast...",
+    "answers": [
+      "v kateri je z večanjem višine temperatura konstantna.",
+      "v kateri z večanjem višine narašča temperatura.",
+      "v kateri z večanjem višine narašča tlak.",
+      "v kateri z večanjem višine pada temperatura."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00184",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.2.2.4",
+    "loText": "Describe the wind direction to be expected on a chart showing high and low pressure areas and isobars",
+    "question": "Kaj lahko pričakujemo glede prevladujočega vetra, če so izobare na prizemni vremenski karti med seboj zelo razmaknjene?",
+    "answers": [
+      "Visok tlačni gradient in zato šibek prevladujoči veter",
+      "Visok tlačni gradient in zato močan prevladujoči veter",
+      "Nizek tlačni gradient in zato močan prevladujoči veter",
+      "Nizek tlačni gradient in zato šibek prevladujoči veter"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00188",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.10.3.1.4",
+    "loText": "List and interpret the lettergroups for METAR and TAF commonly used in Europe",
+    "question": "Kateri veter v poročilih navajamo z 225/15?",
+    "answers": [
+      "Severovzhodni veter s hitrostjo 15 km/h",
+      "Jugozahodni veter s hitrostjo 15 kt",
+      "Severovzhodni veter s hitrostjo 15 kt",
+      "Jugozahodni veter s hitrostjo 15 km/h"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00189",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.5.1.1",
+    "loText": "State the rate of decrease in temperature with altitude altitude in the ISA Troposphere as 0.65 deg C/100 m or 2 deg C/1000 ft",
+    "question": "Kako se spremeni temperatura zraka v mednarodni standardni atmosferi (ISA) od srednjega morskega nivoja (MSL) do približno 10.000 m višine?",
+    "answers": [
+      "od -15° do 50°C",
+      "od +30° do -40°C",
+      "od +15° do -50°C",
+      "od +20° do -40°C"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-200511-00191",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.2.4.1.1",
+    "loText": "Define the terms 'anabatic' and 'katabatic winds', and 'mountain' and 'valley winds'",
+    "question": "Pobočne vzgornike lahko okrepi...",
+    "answers": [
+      "ogrevanje visokih plasti atmosfere.",
+      "termično sevanje na privetrni strani v nočnem času.",
+      "sončno sevanje na privetrni strani.",
+      "sončno sevanje na zavetrni strani."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-230713-00219",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.1.3.2.1",
+    "loText": "State the decrease in air pressure with increasing altitude as approximately by 1/2 every 5.500 m or 18.000 ft",
+    "question": "Kolikšen je atmosferski tlak v okolici zrakoplova, ki leti na nivoju leta (FL) 180, kakor je opredeljen z mednarodno standardno atmosfero (ISA)?",
+    "answers": [
+      "400 hPa",
+      "500 hPa",
+      "250 hPa",
+      "300 hPa"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E30-230713-00245",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "30.6.2.5.1",
+    "loText": "Describe the typical weather phenomena and visual meteorological flight conditions after a cold front has passed with regards to clouds, precipitation, turbulence and visibility",
+    "question": "Kakšne vizualne pogoje za letenje lahko pričakujemo v bližini hladne fronte?",
+    "answers": [
+      "Dobro vidljivost, nekaj posamičnih visokih oblakov",
+      "Vidljivost manj kot 1000 m, nizko oblačnost ali meglo ter stalne padavine",
+      "Zmerno do dobro vidljivost, jasno nebo",
+      "Zmerno vidljivost, močne plohe, turbulence in nevihte"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K30-2025-002",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera je tista plast atmosfere, v kateri najdemo večino vremenskih pojavov?",
+    "answers": [
+      "Stratosfera.",
+      "Troposfera.",
+      "Tropopavza.",
+      "Termosfera."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-009",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj označuje izraz \"plast inverzije\"?",
+    "answers": [
+      "Plast atmosfere, kjer temperatura narašča z večanjem višine",
+      "Plast atmosfere, kjer temperatura pada z večanjem višine",
+      "Plast atmosfere s konstantno temperaturo z večanjem višine",
+      "Mejno območje med dvema drugima plastema v atmosferi"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-011",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj označuje izraz \"izotermna plast\"?",
+    "answers": [
+      "Plast atmosfere, kjer temperatura narašča z večanjem višine",
+      "Plast atmosfere, kjer temperatura pada z večanjem višine",
+      "Plast atmosfere s konstantno temperaturo z večanjem višine",
+      "Mejno območje med dvema drugima plastema v atmosferi"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-012",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Plast inverzije pri tleh lahko nastane zaradi...",
+    "answers": [
+      "ohlajanja tal ponoči.",
+      "zgostitve oblakov na srednjih višinah.",
+      "obsežnega dviganja zraka.",
+      "vetra, ki se krepi in piha v sunkih."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-014",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera procesa povzročita zmanjšanje gostote zraka?",
+    "answers": [
+      "Naraščanje temperature, naraščanje tlaka",
+      "Padanje temperature, naraščanje tlaka",
+      "Padanje temperature, padanje tlaka",
+      "Naraščanje temperature, padanje tlaka"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-017",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kako se spreminja temperatura z naraščanjem višine skladno z ISA (mednarodna standardna atmosfera, kot jo opredeljuje organizacija ICAO) v troposferi?",
+    "answers": [
+      "Narašča po 2 °C / 100 m",
+      "Pada po 2 °C / 100 m",
+      "Pada po 2 °C / 1000 ft",
+      "Narašča po 2 °C / 1000 ft"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-024",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Barometrični višinomer z nastavitvijo QNH kaže...",
+    "answers": [
+      "višino nad standardnim tlakom 1013,25 hPa.",
+      "pravo višino nad srednjim morskim nivojem.",
+      "višino nad tlačnim nivojem letališča.",
+      "višino nad srednjim morskim nivojem."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-028",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katerih informacij NE vsebuje nižinska karta pomembnih vremenskih pojavov (LLSWC)?",
+    "answers": [
+      "Informacij o pogojih za nastanek zaledenitev",
+      "Radarske slike padavin",
+      "Informacij o področjih turbulence",
+      "Informacij o linijah front in gibanju front"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-034",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katere podatke najdemo v poročilu ATIS, ne pa v poročilu METAR?",
+    "answers": [
+      "Informacije za prilet, kot sta vidljivost pri tleh in baza oblaka",
+      "Informacije o aktualnem vremenu, na primer vrsto padavin",
+      "Informacije o povprečni hitrosti vetra ter največji hitrosti sunkov, če se pojavljajo",
+      "Operativne informacije, kot sta vzletno-pristajalna steza v uporabi in prehodni nivo"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-036",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "V poročilu METAR \"močan dež\" označuje krajšava...",
+    "answers": [
+      "+SHRA.",
+      "SHRA.",
+      "+RA.",
+      "RA."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-040",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera sila povzroča \"veter\"?",
+    "answers": [
+      "Coriolisova sila",
+      "Centrifugalna sila",
+      "Sila tlačnega gradienta",
+      "Termalna sila"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-048",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera frontalna linija ločuje subtropski zrak od hladnega polarnega zraka, zlasti nad srednjo Evropo?",
+    "answers": [
+      "Topla fronta",
+      "Polarna fronta",
+      "Hladna fronta",
+      "Okluzija"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-050",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Čemu pravimo gorski veter?",
+    "answers": [
+      "Vetru, ki piha ponoči z gora po pobočju navzdol",
+      "Vetru, ki piha podnevi iz doline po pobočju navzgor",
+      "Vetru, ki piha ponoči iz doline po pobočju navzgor",
+      "Vetru, ki piha podnevi z gora po pobočju navzdol"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-056",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kako se rosišče in relativna vlaga spreminjata z nižanjem temperature?",
+    "answers": [
+      "Rosišče ostaja konstantno, relativna vlaga se povečuje.",
+      "Rosišče se zmanjšuje, relativna vlaga se povečuje.",
+      "Rosišče ostaja konstantno, relativna vlaga se zmanjšuje.",
+      "Rosišče se povečuje, relativna vlaga se zmanjšuje."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-057",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri pojav imenujemo \"suha (modra) termika\"?",
+    "answers": [
+      "Termiko brez razvoja kumulusnih oblakov",
+      "Termiko z do 4/8 razvojem kumulusnih oblakov",
+      "Zrak, ki se spušča med kumulusnimi oblaki",
+      "Turbulenco v bližini kumulonimbusnih oblakov"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-059",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera vrsta oblaka nakazuje aktivnost termičnih vzgornikov?",
+    "answers": [
+      "Kumulus",
+      "Stratus",
+      "Lentikularis",
+      "Cirus"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-060",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Oblaki na velikih višinah se začnejo na...",
+    "answers": [
+      "Strato-.",
+      "Cirro-.",
+      "Nimbo-.",
+      "Alto-."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "V kakšnih pogojih se bo zelo verjetno pojavila advekcijska megla?",
+    "answers": [
+      "Kadar se topel, vlažen zrak pomika nad hladnim površjem.",
+      "Kadar se hladen, vlažen zrak pomika nad toplim oceanom.",
+      "Kadar se topel, vlažen zrak ohlaja v oblačni noči.",
+      "Kadar vlaga izpareva s toplih, vlažnih tal v hladen zrak."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-069",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "V katerem procesu nastane \"advekcijska megla\"?",
+    "answers": [
+      "Hladen, vlažen zrak, ki se pomika čez topla tla.",
+      "Hladen, vlažen zrak, ki se meša s toplim, vlažnim zrakom.",
+      "Topel, vlažen zrak, ki se pomika čez hladna tla.",
+      "Dolgotrajno sevanje v jasni noči."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-070",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera vrsta megle nastane, če veter potiska vlažen in skoraj zasičen zrak navzgor ob pobočjih hribov ali nižjih gora?",
+    "answers": [
+      "Orografska megla",
+      "Parna megla",
+      "Advekcijska megla",
+      "Radiacijska megla"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-071",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "V katerem procesu nastane \"orografska megla\"?",
+    "answers": [
+      "Hladen, vlažen zrak, ki se meša s toplim, vlažnim zrakom.",
+      "Dolgotrajno sevanje v jasni noči.",
+      "Topel, vlažen zrak, ki se premika čez hrib ali gorsko verigo.",
+      "Izhlapevanje s toplih, vlažnih tal v zelo hladen zrak."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-074",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera vrsta oblaka je povezana z dolgotrajnejšim dežjem?",
+    "answers": [
+      "Nimbostratus",
+      "Cirostratus",
+      "Kumulonimbus",
+      "Altokumulus"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-078",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšno sosledje oblakov lahko običajno opazujemo med prehodom tople fronte?",
+    "answers": [
+      "Nevihtna linija z dežnimi plohami in nevihtami (Cb), rafalni veter, nato pa kumulusi s posamičnimi dežnimi plohami",
+      "Na obalnih območjih podnevi veter piha z obale, nastajajo kumulusi, zvečer in ponoči razpad oblakov",
+      "Veter se umiri, razpad oblakov in segrevanje zraka poleti, nastajanje debelejših plasti megle pozimi",
+      "Cirusi, altostratusi in altokumulusi, ki se gostijo, baza oblaka se spušča in dežuje, nimbostratusi"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-082",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšne vizualne pogoje za letenje lahko pričakujemo v toplem sektorju ob prisotnosti nizkega zračnega tlaka in polarne fronte v poletnem času?",
+    "answers": [
+      "Vidljivost manj kot 1000 m, nizko oblačnost ali meglo",
+      "Dobro vidljivost, nekaj posamičnih visokih oblakov",
+      "Zmerno vidljivost, močne plohe in nevihte",
+      "Zmerno do dobro vidljivost, delno oblačnost"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-083",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšne vizualne pogoje za letenje lahko pričakujemo po prehodu hladne fronte?",
+    "answers": [
+      "Dobro vidljivost, razvoj kumulusov z dežnimi ali snežnimi plohami",
+      "Slabo vidljivost, razvoj stratusov, ki povzročijo oblačnost ali nizko oblačnost, sneg",
+      "Srednjo vidljivost z bazo oblaka, ki se spušča, začetek dolgotrajnejših padavin",
+      "Delno oblačnost, vidljivost več kot 5 km, razvoj tankih kumulusov"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-085",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Mejo med hladno polarno zračno maso in toplo subtropsko zračno maso brez horizontalnega izpodrivanja imenujemo...",
+    "answers": [
+      "hladna fronta.",
+      "topla fronta.",
+      "stacionarna fronta.",
+      "okludirana fronta."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-088",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšno tlačno polje opažamo ob prehodu hladne fronte?",
+    "answers": [
+      "Tlak stalno pada.",
+      "Tlačno polje je konstantno.",
+      "Tlak najprej pada, nato narašča.",
+      "Tlak stalno narašča."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-090",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšno tlačno polje se pojavi, kadar priteka hladen zrak v visokih plasteh troposfere?",
+    "answers": [
+      "V visoki troposferi se vzpostavi področje nizkega tlaka.",
+      "V visoki troposferi se vzpostavi področje visokega tlaka.",
+      "Pri tleh se vzpostavi obsežno področje nizkega tlaka.",
+      "Tlak niha."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-092",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kako vpliva dotok hladnega zraka na obliko in vertikalno razdaljo med tlačnimi plastmi?",
+    "answers": [
+      "Vertikalna razdalja se povečuje, višina se povečuje (visok tlak).",
+      "Vertikalna razdalja se zmanjšuje, višina se povečuje (visok tlak).",
+      "Vertikalna razdalja se povečuje, višina se zmanjšuje (nizek tlak).",
+      "Vertikalna razdalja se zmanjšuje, višina se zmanjšuje (nizek tlak)."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-094",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Zaradi katerega procesa se lahko pojavi plast inverzije na višini približno 5000 ft (1500 m)?",
+    "answers": [
+      "Zaradi ohlajanja tal ponoči kot posledica sevanja",
+      "Zaradi obsežnega spuščajočega zraka znotraj območja visokega tlaka",
+      "Zaradi močnega sončnega obsevanja na topel poletni dan",
+      "Zaradi advekcije hladnega zraka v visoko troposfero"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-097",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšne vremenske razmere lahko pozimi pričakujemo v področjih visokega tlaka?",
+    "answers": [
+      "Mirno vreme in razpadanje oblakov, malo visokih Cu",
+      "Brezvetrje in obsežna območja z visoko meglo",
+      "Nestanovitno vreme s prehodom frontalnih linij",
+      "Nevihtne linije in nevihte"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-105",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera vrsta ledu nastaja, ko zelo drobne vodne kapljice in ledeni kristali zadenejo čelne ploskve zrakoplova?",
+    "answers": [
+      "Čisti led",
+      "Ivje",
+      "Slana",
+      "Mešani led"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-106",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera vrsta ledu nastane, ko velike, podhlajene kapljice zadenejo čelne ploskve zrakoplova?",
+    "answers": [
+      "Čisti led",
+      "Ivje",
+      "Slana",
+      "Mešani led"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-108",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Katera je največja nevarnost, ki se pojavi med priletom na letališče v dolini, ko na višini leta piha močan veter pravokotno na gorski greben?",
+    "answers": [
+      "Močni vzdolniki območji dežnih padavin pod nevihtnimi oblaki",
+      "Striženje vetra med spuščanjem, smer vetra se lahko spreminja do 180°",
+      "Zmanjšana vidljivost, morda med končnim priletom letališče ne bo več vidno",
+      "Srednje debel do debel čisti led, ki se nabere na vseh površinah zrakoplova"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-110",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšne vremenske pojave lahko pričakujemo v pogojno labilnih razmerah?",
+    "answers": [
+      "Stolpičasti kumulus, posamezne dežne plohe ali nevihte",
+      "Plastoviti oblaki do velikih višin, daljše deževno ali snežno obdobje",
+      "Nizki kumulus z bazo na srednjih višinah",
+      "Jasno nebo, sonce, rahel veter"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-117",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri pojav povzročajo hladni vzdolniki, ki jih spremljajo padavine, iz polno razvitega nevihtnega oblaka?",
+    "answers": [
+      "Statični naboj",
+      "Vrh oblaka Cb v obliki nakovala",
+      "Fronto nevihtnega piša",
+      "Podhlajeni dež"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K30-2025-118",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 30,
+    "subjectName": "Meteorology",
+    "lo": "",
+    "loText": "",
+    "question": "Načrtujete 500 km prelet v trikotniku in opazite nevihtno linijo 100 km zahodno od izhodiščnega letališča, ki se razteza od severa proti jugu in se premika proti vzhodu. Kakšno odločitev je smiselno sprejeti glede na opisane vremenske razmere?",
+    "answers": [
+      "Let je priporočljivo prestaviti na drug dan.",
+      "Med letom je priporočljivo iskati prostore med posameznimi nevihtami.",
+      "Priporočljivo je spremeniti načrt in začeti trikotnik tako, da se usmerimo proti vzhodu.",
+      "Let je priporočljivo načrtovati tako, da letimo pod bazo nevihtnega oblaka."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

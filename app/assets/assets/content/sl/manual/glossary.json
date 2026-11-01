@@ -1,0 +1,1833 @@
+{
+  "title": "Letalski slovar",
+  "subtitle": "Izrazi, kratice in sleng",
+  "entries": [
+    {
+      "term": "7000",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Koda transponderja za let VFR brez dodeljene kode v Evropi."
+    },
+    {
+      "term": "7500",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Koda transponderja za nezakonito vmešavanje (ugrabitev)."
+    },
+    {
+      "term": "7600",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Koda transponderja za odpoved radijske zveze."
+    },
+    {
+      "term": "7700",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Koda transponderja za nevarnost (sila)."
+    },
+    {
+      "term": "Adverse yaw",
+      "alt": "obratni odklon",
+      "kind": "term",
+      "meaning": "Pri odklonu krilc se nos najprej zasuka v nasprotno smer od zavoja. Odpraviš ga s smernim krmilom."
+    },
+    {
+      "term": "Aerotow",
+      "alt": "aerovleka, aerozaprega",
+      "kind": "term",
+      "meaning": "Vzlet jadralnega letala za vlečnim letalom na vrvi."
+    },
+    {
+      "term": "Affirm",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Da."
+    },
+    {
+      "term": "AFIS",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Letališka informacijska služba na letališčih brez kontrolnega stolpa."
+    },
+    {
+      "term": "AGL",
+      "alt": "Above Ground Level",
+      "kind": "abbr",
+      "meaning": "Višina nad tlemi neposredno pod letalom."
+    },
+    {
+      "term": "Ahead of the airplane",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pilot razmišlja vnaprej in ve, kaj bo letalo naredilo naslednje."
+    },
+    {
+      "term": "Aileron",
+      "alt": "krilce",
+      "kind": "term",
+      "meaning": "Gibljiva površina na zadnjem robu krila za nagibanje letala okoli vzdolžne osi."
+    },
+    {
+      "term": "AIP",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Zbornik letalskih informacij: uradna publikacija države s podatki o letališčih, prostoru in pravilih."
+    },
+    {
+      "term": "AIRAC",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Sistem vnaprej določenih datumov za spremembe letalskih informacij (vsakih 28 dni)."
+    },
+    {
+      "term": "Airbrakes",
+      "alt": "zračne zavore, spoilerji",
+      "kind": "term",
+      "meaning": "Plošče, ki se izvlečejo iz krila, povečajo upor in zmanjšajo vzgon. Pri jadralnem letalu z njimi uravnavaš strmino prileta."
+    },
+    {
+      "term": "AIRMET",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Opozorilo na vremenske pojave, nevarne za letenje na nizkih višinah."
+    },
+    {
+      "term": "All out",
+      "alt": "polna moč",
+      "kind": "term",
+      "meaning": "Znak, da je jadralno letalo pripravljeno in naj vleka začne s polno močjo."
+    },
+    {
+      "term": "AMSL",
+      "alt": "MSL, nadmorska višina",
+      "kind": "abbr",
+      "meaning": "Višina nad srednjo morsko gladino."
+    },
+    {
+      "term": "Angle of attack",
+      "alt": "AoA, vpadni kot",
+      "kind": "term",
+      "meaning": "Kot med tetivo krila in smerjo nadtoka zraka. Prevlek se zgodi pri kritičnem vpadnem kotu, ne pri določeni hitrosti."
+    },
+    {
+      "term": "Apron",
+      "alt": "ploščad",
+      "kind": "term",
+      "meaning": "Površina za parkiranje, tankanje in vkrcavanje."
+    },
+    {
+      "term": "ARC",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Potrdilo o pregledu plovnosti letala."
+    },
+    {
+      "term": "Arrival",
+      "alt": "firm arrival",
+      "kind": "slang",
+      "meaning": "Šaljivo za trd pristanek (»to ni bil pristanek, to je bil prihod«)."
+    },
+    {
+      "term": "ATC",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Kontrola zračnega prometa."
+    },
+    {
+      "term": "ATIS",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Samodejno ponavljajoča se oddaja vremena in podatkov o letališču. Vsaka izdaja ima črko, npr. Information Bravo."
+    },
+    {
+      "term": "ATPL",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Licenca prometnega pilota."
+    },
+    {
+      "term": "Aviate, navigate, communicate",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Vrstni red prioritet: najprej leti, nato navigiraj, šele nato govori po radiu."
+    },
+    {
+      "term": "Bank",
+      "alt": "nagib",
+      "kind": "term",
+      "meaning": "Kot nagiba kril glede na horizont."
+    },
+    {
+      "term": "Base",
+      "alt": "base leg",
+      "kind": "term",
+      "meaning": "Prečni del kroga med downwindom in finalom."
+    },
+    {
+      "term": "Bearing",
+      "alt": "smernik",
+      "kind": "term",
+      "meaning": "Smer od letala do točke (ali od točke do letala), merjena od severa."
+    },
+    {
+      "term": "Beat-up",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Nizek, hiter prelet za predstavo. Pogosto prepovedan ali zelo omejen."
+    },
+    {
+      "term": "Behind the airplane",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pilot zaostaja za dogajanjem in letalo ga vodi, namesto da bi ga on."
+    },
+    {
+      "term": "Behind the power curve",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Let pod hitrostjo najmanjšega upora, kjer za počasnejši let potrebuješ več moči. Prenesno: zamujaš za dogajanjem."
+    },
+    {
+      "term": "Bingo fuel",
+      "alt": "bingo",
+      "kind": "slang",
+      "meaning": "Količina goriva, pri kateri se moraš začeti vračati (iz vojaškega letalstva)."
+    },
+    {
+      "term": "Blue day",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Termični dan brez oblakov, ko termike iščeš brez kumulusov."
+    },
+    {
+      "term": "Blue thermal",
+      "alt": "modra termika",
+      "kind": "term",
+      "meaning": "Termika brez kumulusa na vrhu, zato je ne vidiš."
+    },
+    {
+      "term": "Boomer",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Zelo močna termika."
+    },
+    {
+      "term": "Bounce",
+      "alt": "odskok",
+      "kind": "term",
+      "meaning": "Odskok letala od steze po pretrdem ali prehitrem dotiku."
+    },
+    {
+      "term": "Boxing the wake",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Vaja v aerovleki: obletavanje vrtinčne sledi vlečnega letala v obliki pravokotnika."
+    },
+    {
+      "term": "Bubble",
+      "alt": "mehurček",
+      "kind": "slang",
+      "meaning": "Kratek, posamičen mehur toplega zraka namesto stalne termike."
+    },
+    {
+      "term": "Bug smasher",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Majhno, počasno batno letalo (izraz kontrolorjev in pilotov velikih letal)."
+    },
+    {
+      "term": "Bug wipers",
+      "alt": "čistilci krila",
+      "kind": "term",
+      "meaning": "Naprave, ki med letom drsijo po krilu in odstranijo mrčes."
+    },
+    {
+      "term": "Bugs",
+      "alt": "mušice",
+      "kind": "slang",
+      "meaning": "Mrčes na vodilnem robu krila, ki opazno poslabša finesso jadralnega letala."
+    },
+    {
+      "term": "Building hours",
+      "alt": "nabiranje ur",
+      "kind": "slang",
+      "meaning": "Letenje predvsem zato, da nabereš ure za višjo licenco."
+    },
+    {
+      "term": "Butter",
+      "alt": "butter landing",
+      "kind": "slang",
+      "meaning": "Drugo ime za zelo mehak pristanek."
+    },
+    {
+      "term": "Callsign",
+      "alt": "klicni znak",
+      "kind": "term",
+      "meaning": "Oznaka letala ali postaje v radijski zvezi, npr. S5-3XX."
+    },
+    {
+      "term": "Canopy",
+      "alt": "pokrov kabine",
+      "kind": "term",
+      "meaning": "Prozorni pokrov kabine."
+    },
+    {
+      "term": "Carb heat",
+      "alt": "gretje uplinjača",
+      "kind": "term",
+      "meaning": "Dovod toplega zraka v uplinjač proti zaledenitvi. Ta je mogoča tudi v toplem vremenu, posebej pri visoki vlagi in zmanjšani moči."
+    },
+    {
+      "term": "CAS",
+      "alt": "Calibrated Airspeed",
+      "kind": "abbr",
+      "meaning": "Indicirana hitrost, popravljena za napako namestitve in instrumenta."
+    },
+    {
+      "term": "CAVOK",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Vidnost 10 km ali več, brez pomembnih oblakov pod 5000 ft in brez pomembnih pojavov."
+    },
+    {
+      "term": "CB",
+      "alt": "Cu-nim, kumulonimbus",
+      "kind": "abbr",
+      "meaning": "Nevihtni oblak. Jadralnim in malim letalom nevaren zaradi turbulence, toče, strele in močnih vzgornikov."
+    },
+    {
+      "term": "Centering",
+      "alt": "centriranje",
+      "kind": "term",
+      "meaning": "Premikanje kroga v termiki proti njenemu jedru."
+    },
+    {
+      "term": "CFI",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Glavni inštruktor letenja v klubu ali šoli (Chief Flying Instructor)."
+    },
+    {
+      "term": "CG",
+      "alt": "težišče",
+      "kind": "abbr",
+      "meaning": "Težišče letala. Mora biti znotraj dovoljenih meja iz priročnika."
+    },
+    {
+      "term": "Checkride",
+      "alt": "preverjalni let",
+      "kind": "slang",
+      "meaning": "Izpitni ali preverjalni let z inšpektorjem ali inštruktorjem."
+    },
+    {
+      "term": "Chocks",
+      "alt": "podloge",
+      "kind": "term",
+      "meaning": "Podloge pod kolesi, da se letalo ne premika. »Chocks away« pomeni odhod."
+    },
+    {
+      "term": "Circuit",
+      "alt": "šolski krog, pattern",
+      "kind": "term",
+      "meaning": "Pravokotna pot okoli letališča za vzlet in pristanek: vzlet, prečni del, downwind, base in finale."
+    },
+    {
+      "term": "Class G",
+      "alt": "razred G",
+      "kind": "term",
+      "meaning": "Nekontroliran zračni prostor."
+    },
+    {
+      "term": "Clean configuration",
+      "alt": "čista konfiguracija",
+      "kind": "term",
+      "meaning": "Zakrilca in zavore uvlečeni, podvozje uvlečeno."
+    },
+    {
+      "term": "Cleared to land",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Dovoljenje za pristanek."
+    },
+    {
+      "term": "Cloud street",
+      "alt": "oblačna cesta",
+      "kind": "term",
+      "meaning": "Kumulusi v vrsti vzdolž vetra, pod katerimi lahko letiš daleč brez kroženja."
+    },
+    {
+      "term": "Cloudbase",
+      "alt": "baza oblakov",
+      "kind": "term",
+      "meaning": "Višina spodnje meje oblakov, praviloma najvišja točka termičnega leta."
+    },
+    {
+      "term": "Coffin corner",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Območje na veliki višini, kjer sta hitrost prevleka in največja dovoljena hitrost skoraj enaki."
+    },
+    {
+      "term": "Controlled crash",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Šaljivo za pristanek, posebej trd."
+    },
+    {
+      "term": "Coordinated flight",
+      "alt": "koordiniran let",
+      "kind": "term",
+      "meaning": "Let brez drsenja: nitka ali kroglica je na sredini."
+    },
+    {
+      "term": "Core",
+      "alt": "jedro termike",
+      "kind": "term",
+      "meaning": "Najmočnejši del termike. »Centrirati« pomeni premakniti krog vanj."
+    },
+    {
+      "term": "Course",
+      "alt": "TC, MC, kurz poti",
+      "kind": "term",
+      "meaning": "Načrtovana smer poti med dvema točkama, odčitana iz karte."
+    },
+    {
+      "term": "CPL",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Licenca poklicnega pilota."
+    },
+    {
+      "term": "Crabbing",
+      "alt": "crab, korekcija zanosa",
+      "kind": "term",
+      "meaning": "Letenje z nosom, obrnjenim nekoliko proti vetru, da letalo kljub bočnemu vetru ostane na želeni poti."
+    },
+    {
+      "term": "Crew",
+      "alt": "posadka na tleh",
+      "kind": "term",
+      "meaning": "Pomočniki, ki po zunanjem pristanku pridejo po pilota in letalo s prikolico."
+    },
+    {
+      "term": "Cross-country",
+      "alt": "XC, prelet",
+      "kind": "term",
+      "meaning": "Let izven doleta do domačega letališča, navadno po vnaprej določeni nalogi."
+    },
+    {
+      "term": "Crosswind",
+      "alt": "bočni veter",
+      "kind": "term",
+      "meaning": "Veter, ki piha pod kotom na stezo. Letalski priročnik navaja največji dokazani bočni veter."
+    },
+    {
+      "term": "CTR",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Kontrolirana cona okoli letališča od tal navzgor."
+    },
+    {
+      "term": "Cu",
+      "alt": "kumulus",
+      "kind": "abbr",
+      "meaning": "Kumulus, oblak nad termiko. Izgovarja se »kju«."
+    },
+    {
+      "term": "Dati gas",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pogovorno za dodati moč motorju."
+    },
+    {
+      "term": "Dead air",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Dan ali območje brez uporabnih dviganj."
+    },
+    {
+      "term": "Dead reckoning",
+      "alt": "DR, navigacija po izračunu",
+      "kind": "term",
+      "meaning": "Določanje položaja iz znane začetne točke, smeri, hitrosti in pretečenega časa, brez zunanjih orientirjev."
+    },
+    {
+      "term": "Dead stick",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pristanek z ugasnjenim motorjem."
+    },
+    {
+      "term": "Deadhead",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pilot ali član posadke, ki leti kot potnik zaradi službenega premika."
+    },
+    {
+      "term": "Density altitude",
+      "alt": "gostotna višina",
+      "kind": "term",
+      "meaning": "Višina v standardni atmosferi z enako gostoto zraka. Pri vročini je višja, zato letalo slabše vzleta in se dviga."
+    },
+    {
+      "term": "DI",
+      "alt": "Daily Inspection, dnevni pregled",
+      "kind": "abbr",
+      "meaning": "Dnevni pregled letala pred prvim letom dneva."
+    },
+    {
+      "term": "Dirty",
+      "alt": "umazana konfiguracija",
+      "kind": "slang",
+      "meaning": "Letalo z izvlečenimi zakrilci, zavorami ali podvozjem."
+    },
+    {
+      "term": "Displaced threshold",
+      "alt": "premaknjen prag",
+      "kind": "term",
+      "meaning": "Prag, ki ni na začetku steze. Del pred njim lahko uporabljaš za vzlet, ne pa za pristanek."
+    },
+    {
+      "term": "DME",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Naprava za merjenje poševne razdalje do zemeljske postaje v navtičnih miljah."
+    },
+    {
+      "term": "Dolphin flying",
+      "alt": "delfinski let",
+      "kind": "term",
+      "meaning": "Letenje brez kroženja: v dviganju upočasniš, v spuščanju pospešiš."
+    },
+    {
+      "term": "Downwind",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Del šolskega kroga vzporedno s stezo, v nasprotni smeri pristanka (veter v hrbet)."
+    },
+    {
+      "term": "Drift",
+      "alt": "zanos",
+      "kind": "term",
+      "meaning": "Kot med headingom in trackom, ki ga povzroči bočni veter."
+    },
+    {
+      "term": "Dump",
+      "alt": "izpust balasta",
+      "kind": "term",
+      "meaning": "Izpust vodnega balasta, npr. pred pristankom ali v šibkih pogojih."
+    },
+    {
+      "term": "Dust devil",
+      "alt": "prašni vrtinec",
+      "kind": "term",
+      "meaning": "Vidni vrtinec prahu, ki označuje močno termiko pri tleh."
+    },
+    {
+      "term": "Dutch roll",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Sklopljeno nihanje letala okoli navpične in vzdolžne osi."
+    },
+    {
+      "term": "EASA",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Agencija Evropske unije za varnost v letalstvu."
+    },
+    {
+      "term": "Elevator",
+      "alt": "višinsko krmilo",
+      "kind": "term",
+      "meaning": "Krmilo na repu za spreminjanje naklona nosu (okoli prečne osi)."
+    },
+    {
+      "term": "ELT",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Oddajnik v sili, ki se po nesreči samodejno vklopi."
+    },
+    {
+      "term": "ETA",
+      "alt": "Estimated Time of Arrival",
+      "kind": "abbr",
+      "meaning": "Predviden čas prihoda."
+    },
+    {
+      "term": "ETD",
+      "alt": "Estimated Time of Departure",
+      "kind": "abbr",
+      "meaning": "Predviden čas odhoda."
+    },
+    {
+      "term": "ETE",
+      "alt": "Estimated Time En route",
+      "kind": "abbr",
+      "meaning": "Predviden čas leta do cilja."
+    },
+    {
+      "term": "FAI",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Mednarodna letalska zveza za letalske športe, ki priznava rekorde in značke."
+    },
+    {
+      "term": "FI",
+      "alt": "inštruktor letenja",
+      "kind": "abbr",
+      "meaning": "Inštruktor letenja (Flight Instructor)."
+    },
+    {
+      "term": "Final",
+      "alt": "finale",
+      "kind": "term",
+      "meaning": "Zadnji del prileta v osi steze."
+    },
+    {
+      "term": "Final glide",
+      "alt": "končni dolet",
+      "kind": "term",
+      "meaning": "Zadnji del preleta, ko imaš dovolj višine za let do cilja brez kroženja."
+    },
+    {
+      "term": "Final glide computer",
+      "alt": "dolet računalnik",
+      "kind": "term",
+      "meaning": "Navigacijski računalnik, ki iz višine, vetra in polare izračuna, ali dosežeš cilj."
+    },
+    {
+      "term": "First solo",
+      "alt": "prvi samostojni let",
+      "kind": "term",
+      "meaning": "Prvi let brez inštruktorja. V klubih ga pogosto spremlja tradicija."
+    },
+    {
+      "term": "FIS",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Informacijska služba letenja: daje informacije letalom izven kontroliranega prostora, ne daje dovoljenj."
+    },
+    {
+      "term": "Five by five",
+      "alt": "5/5, loud and clear",
+      "kind": "slang",
+      "meaning": "Slišim te odlično: berljivost pet na lestvici od ena do pet."
+    },
+    {
+      "term": "FL",
+      "alt": "Flight Level, letalni nivo",
+      "kind": "abbr",
+      "meaning": "Višina v stotinah čevljev pri standardni nastavitvi 1013,25 hPa, npr. FL 95 = 9500 ft."
+    },
+    {
+      "term": "Flaps",
+      "alt": "zakrilca",
+      "kind": "term",
+      "meaning": "Gibljive površine na zadnjem robu krila, ki povečajo vzgon in upor za počasnejši let pri vzletu in pristanku."
+    },
+    {
+      "term": "Flare",
+      "alt": "izravnava",
+      "kind": "term",
+      "meaning": "Postopno dvigovanje nosu tik nad stezo, da se letalo upočasni in mehko dotakne tal."
+    },
+    {
+      "term": "FLARM",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Sistem za opozarjanje pred trčenjem, razširjen v jadralstvu. Ne nadomešča opazovanja."
+    },
+    {
+      "term": "Fly-by-wire",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Krmiljenje, pri katerem računalnik prenaša ukaze pilota do krmil po električni poti."
+    },
+    {
+      "term": "Fly-in",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Srečanje pilotov, ki priletijo na isto letališče."
+    },
+    {
+      "term": "Gaggle",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Več jadralnih letal, ki krožijo v isti termiki. Smer kroženja določi prvi v termiki."
+    },
+    {
+      "term": "George",
+      "alt": "avtopilot",
+      "kind": "slang",
+      "meaning": "Šaljivo ime za avtopilota (»Let George fly it«)."
+    },
+    {
+      "term": "Get-there-itis",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pritisk, da priletiš na cilj za vsako ceno. Pogost vzrok nesreč pri slabem vremenu."
+    },
+    {
+      "term": "Glass cockpit",
+      "alt": "stekleni kokpit",
+      "kind": "term",
+      "meaning": "Kabina z zasloni namesto klasičnih analognih instrumentov."
+    },
+    {
+      "term": "Glass ship",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Jadralno letalo iz kompozitnih materialov (steklena ali ogljikova vlakna)."
+    },
+    {
+      "term": "Glider guider",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Šaljivo za jadralnega pilota."
+    },
+    {
+      "term": "GNSS",
+      "alt": "GPS",
+      "kind": "abbr",
+      "meaning": "Satelitski navigacijski sistemi (GPS, Galileo …) za določanje položaja."
+    },
+    {
+      "term": "Go-around",
+      "alt": "prekinjen prilet",
+      "kind": "term",
+      "meaning": "Prekinitev pristanka in ponoven vzpon v krog."
+    },
+    {
+      "term": "Greaser",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Tako mehak pristanek, da ga skoraj ne čutiš."
+    },
+    {
+      "term": "Ground loop",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Nekontroliran hiter obrat letala na tleh, najpogosteje pri letalih z repnim kolesom ali ko krilo jadralnega letala zadene tla."
+    },
+    {
+      "term": "GS",
+      "alt": "Groundspeed, hitrost nad tlemi",
+      "kind": "abbr",
+      "meaning": "Hitrost letala glede na tla. Odvisna je od TAS in vetra."
+    },
+    {
+      "term": "Gust",
+      "alt": "sunek",
+      "kind": "term",
+      "meaning": "Kratkotrajno povečanje hitrosti vetra. Pri priletu prišteješ polovico sunka k hitrosti."
+    },
+    {
+      "term": "Hangar flying",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pripovedovanje letalskih zgodb na tleh, navadno ob kavi."
+    },
+    {
+      "term": "Hangar queen",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Letalo, ki je več v popravilu kot v zraku."
+    },
+    {
+      "term": "Hangar rash",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Praske in udrtine, ki nastanejo pri premikanju letal v hangarju."
+    },
+    {
+      "term": "Heading",
+      "alt": "HDG, smer letala, kurz",
+      "kind": "term",
+      "meaning": "Smer, kamor kaže nos letala (vzdolžna os), merjena od severa. Pri bočnem vetru se razlikuje od dejanske poti nad tlemi."
+    },
+    {
+      "term": "Headwind",
+      "alt": "čelni veter",
+      "kind": "term",
+      "meaning": "Veter od spredaj. Skrajša vzletno in pristajalno razdaljo."
+    },
+    {
+      "term": "Heavy",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Oznaka za letala z MTOM 136 t ali več. Doda se klicnemu znaku zaradi močne vrtinčne sledi."
+    },
+    {
+      "term": "Hold short",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Počakaj pred stezo ali točko, ki jo navede kontrolor."
+    },
+    {
+      "term": "Hold-off",
+      "alt": "zadrževanje",
+      "kind": "term",
+      "meaning": "Zadrževanje letala tik nad stezo, dokler hitrost ne pade in se ne usede samo."
+    },
+    {
+      "term": "Holding point",
+      "alt": "mesto za čakanje",
+      "kind": "term",
+      "meaning": "Označeno mesto pred stezo, kjer se ustaviš in čakaš na dovoljenje."
+    },
+    {
+      "term": "Hot mic",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Odprt mikrofon, ki oddaja vse, kar se govori v kabini."
+    },
+    {
+      "term": "Hundred-dollar hamburger",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Let do drugega letališča samo zato, da tam poješ kosilo."
+    },
+    {
+      "term": "IAS",
+      "alt": "Indicated Airspeed, indicirana hitrost",
+      "kind": "abbr",
+      "meaning": "Hitrost, ki jo kaže brzinomer."
+    },
+    {
+      "term": "ICAO",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Mednarodna organizacija civilnega letalstva."
+    },
+    {
+      "term": "Ident",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Tipka na transponderju, ki kontrolorju na zaslonu poudari tvoje letalo."
+    },
+    {
+      "term": "IFR",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Pravila za instrumentalno letenje."
+    },
+    {
+      "term": "ILS",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Instrumentalni pristajalni sistem, ki vodi letalo po smeri in strmini prileta."
+    },
+    {
+      "term": "IMC",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Vremenski pogoji, ki zahtevajo instrumentalno letenje."
+    },
+    {
+      "term": "Joker fuel",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Opozorilna količina goriva nad bingo, ko začneš razmišljati o vrnitvi."
+    },
+    {
+      "term": "Kiting",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pri aerovleki se jadralno letalo dvigne previsoko za vlečnim in mu dviguje rep. Zelo nevarno za vlečnega pilota."
+    },
+    {
+      "term": "Knot",
+      "alt": "kt, vozel",
+      "kind": "term",
+      "meaning": "Enota za hitrost: ena navtična milja na uro (1,852 km/h). V jadralstvu pogosto tudi za dviganje: 1 kt ≈ 0,5 m/s."
+    },
+    {
+      "term": "Kurz",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pogovorno za smer letenja ali smer poti (iz nemškega Kurs)."
+    },
+    {
+      "term": "L/D",
+      "alt": "finesa, glide ratio",
+      "kind": "abbr",
+      "meaning": "Razmerje vzgona in upora. Pri jadralnem letalu pove, koliko metrov preleti na meter višine, npr. 1 : 34."
+    },
+    {
+      "term": "Landati",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pogovorno za pristati (iz angleščine)."
+    },
+    {
+      "term": "LAPL",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Licenca pilota lahkih zrakoplovov."
+    },
+    {
+      "term": "Launch point",
+      "alt": "start",
+      "kind": "term",
+      "meaning": "Mesto ob stezi, kjer se pripravljajo in vzletajo jadralna letala."
+    },
+    {
+      "term": "Lenticular",
+      "alt": "lenti, lečasti oblak",
+      "kind": "term",
+      "meaning": "Lečast oblak na vrhu gorskega vala. Kaže, da val obstaja."
+    },
+    {
+      "term": "Line up and wait",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Zapelji na stezo in počakaj na dovoljenje za vzlet."
+    },
+    {
+      "term": "Load factor",
+      "alt": "g, obremenitev",
+      "kind": "term",
+      "meaning": "Razmerje med vzgonom in težo. V zavoju z nagibom 60° je 2 g."
+    },
+    {
+      "term": "Logbook",
+      "alt": "knjižica letenja",
+      "kind": "term",
+      "meaning": "Osebni zapis vseh letov pilota. Letalo ima svojo knjigo letenja."
+    },
+    {
+      "term": "Logger",
+      "alt": "IGC logger",
+      "kind": "term",
+      "meaning": "Naprava, ki beleži sled leta za značke, rekorde in tekmovanja."
+    },
+    {
+      "term": "Long final",
+      "alt": "dolgo finale",
+      "kind": "term",
+      "meaning": "Finale, ki se začne daleč od steze, npr. pri neposrednem priletu."
+    },
+    {
+      "term": "Low pass",
+      "alt": "fly-by",
+      "kind": "term",
+      "meaning": "Nizek prelet nad stezo brez pristanka."
+    },
+    {
+      "term": "Low save",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Rešitev z nizke višine, ko na zadnji termiki tik pred zunanjim pristankom spet prideš gor."
+    },
+    {
+      "term": "MacCready",
+      "alt": "McCready, MC",
+      "kind": "term",
+      "meaning": "Nastavitev, ki glede na pričakovano dviganje pove optimalno hitrost med termikami."
+    },
+    {
+      "term": "Mag check",
+      "alt": "preizkus magnetov",
+      "kind": "term",
+      "meaning": "Preizkus pred vzletom: vklopiš po en magnet in opazuješ padec vrtljajev (mag drop)."
+    },
+    {
+      "term": "Magneto",
+      "alt": "magnet",
+      "kind": "term",
+      "meaning": "Neodvisen vžigalni sistem batnega motorja. Letalo ima dva."
+    },
+    {
+      "term": "Mayday",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Klic v sili: neposredna nevarnost za letalo ali osebe. Izgovori se trikrat."
+    },
+    {
+      "term": "METAR",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Redno poročilo o trenutnem vremenu na letališču."
+    },
+    {
+      "term": "Mixture",
+      "alt": "zmes",
+      "kind": "term",
+      "meaning": "Ročica za razmerje goriva in zraka. Na višini jo osiromašiš (leaning)."
+    },
+    {
+      "term": "MTOM",
+      "alt": "MTOW",
+      "kind": "abbr",
+      "meaning": "Največja dovoljena vzletna masa."
+    },
+    {
+      "term": "NDB",
+      "alt": "ADF",
+      "kind": "abbr",
+      "meaning": "Neusmerjeni radijski svetilnik. Igla ADF v letalu kaže smer proti njemu."
+    },
+    {
+      "term": "Negative",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Ne, ali dovoljenje ni izdano."
+    },
+    {
+      "term": "NM",
+      "alt": "navtična milja",
+      "kind": "abbr",
+      "meaning": "Navtična milja, 1852 m."
+    },
+    {
+      "term": "NORDO",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Letalo brez radijske zveze (no radio)."
+    },
+    {
+      "term": "NOTAM",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Obvestilo o začasnih spremembah zračnega prostora, letališč ali naprav. Pred letom ga moraš preveriti."
+    },
+    {
+      "term": "OAT",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Temperatura zunanjega zraka."
+    },
+    {
+      "term": "OD",
+      "alt": "overdevelopment, prerast",
+      "kind": "abbr",
+      "meaning": "Kumulusi, ki prerastejo v plohe ali nevihte. Senca ustavi termiko."
+    },
+    {
+      "term": "OGN",
+      "alt": "Open Glider Network",
+      "kind": "abbr",
+      "meaning": "Omrežje sprejemnikov, ki na zemljevidu prikazuje letala s FLARM."
+    },
+    {
+      "term": "OLC",
+      "alt": "Online Contest",
+      "kind": "abbr",
+      "meaning": "Spletno tekmovanje, kamor piloti oddajo sledi svojih preletov."
+    },
+    {
+      "term": "Outlanding",
+      "alt": "zunanji pristanek, landout",
+      "kind": "term",
+      "meaning": "Pristanek izven letališča, navadno na njivi ali travniku, ker zmanjka dviganj."
+    },
+    {
+      "term": "Overhead join",
+      "alt": "priključitev nad letališčem",
+      "kind": "term",
+      "meaning": "Vključitev v krog tako, da letiš nad letališčem in se nato spustiš v downwind."
+    },
+    {
+      "term": "Pan-pan",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Nujno sporočilo: težava, ki ni neposredna nevarnost. Izgovori se trikrat."
+    },
+    {
+      "term": "PAPI",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Vrsta luči ob stezi, ki kaže strmino prileta: dve beli in dve rdeči pomenijo pravilno strmino."
+    },
+    {
+      "term": "PAX",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Potniki."
+    },
+    {
+      "term": "Piano keys",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Bele vzdolžne črte na pragu steze."
+    },
+    {
+      "term": "PIC",
+      "alt": "pilot poveljnik",
+      "kind": "abbr",
+      "meaning": "Pilot, ki je odgovoren za let."
+    },
+    {
+      "term": "Pilotage",
+      "alt": "navigacija po orientirjih",
+      "kind": "term",
+      "meaning": "Navigacija s primerjanjem karte in vidnih orientirjev na tleh."
+    },
+    {
+      "term": "Pitch",
+      "alt": "naklon",
+      "kind": "term",
+      "meaning": "Kot nosu glede na horizont."
+    },
+    {
+      "term": "Pitot",
+      "alt": "Pitotova cev",
+      "kind": "term",
+      "meaning": "Cev, ki meri celotni (zastojni) tlak za brzinomer."
+    },
+    {
+      "term": "PLB",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Osebni oddajnik v sili, ki ga ima pilot pri sebi."
+    },
+    {
+      "term": "POH",
+      "alt": "AFM, letalski priročnik",
+      "kind": "abbr",
+      "meaning": "Priročnik letala z omejitvami, postopki in zmogljivostmi. Vedno ima prednost pred tem slovarjem."
+    },
+    {
+      "term": "Polar",
+      "alt": "polara",
+      "kind": "term",
+      "meaning": "Krivulja, ki kaže spuščanje jadralnega letala pri različnih hitrostih."
+    },
+    {
+      "term": "Porpoising",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Nihanje nosu gor in dol z vedno večjimi odskoki pri pristanku. Navadno zaradi prehitrega dotika na sprednje kolo."
+    },
+    {
+      "term": "PPL",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Licenca zasebnega pilota letala."
+    },
+    {
+      "term": "PPR",
+      "alt": "Prior Permission Required",
+      "kind": "abbr",
+      "meaning": "Pred prihodom moraš pridobiti dovoljenje letališča."
+    },
+    {
+      "term": "Preflight",
+      "alt": "walkaround, predpoletni pregled",
+      "kind": "term",
+      "meaning": "Pregled letala pred letom po kontrolnem seznamu."
+    },
+    {
+      "term": "Prop",
+      "alt": "propeler, elisa",
+      "kind": "slang",
+      "meaning": "Pogovorno za propeler."
+    },
+    {
+      "term": "Prop wash",
+      "alt": "tok propelerja",
+      "kind": "term",
+      "meaning": "Vrtinčast tok zraka za propelerjem."
+    },
+    {
+      "term": "PTT",
+      "alt": "Push To Talk",
+      "kind": "abbr",
+      "meaning": "Tipka za oddajanje na radijski postaji."
+    },
+    {
+      "term": "Puddle jumper",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Majhno letalo za kratke lete."
+    },
+    {
+      "term": "QDM",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Magnetna smer, ki jo letiš do postaje (pri brezvetrju)."
+    },
+    {
+      "term": "QDR",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Magnetna smer od postaje do letala (radial)."
+    },
+    {
+      "term": "QFE",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Nastavitev višinomera, pri kateri ta na tleh letališča kaže nič."
+    },
+    {
+      "term": "QNE",
+      "alt": "standardni tlak, 1013,25 hPa",
+      "kind": "abbr",
+      "meaning": "Standardna nastavitev višinomera 1013,25 hPa, ki se uporablja za letalne nivoje."
+    },
+    {
+      "term": "QNH",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Nastavitev višinomera, pri kateri ta na tleh kaže nadmorsko višino letališča."
+    },
+    {
+      "term": "Rampie",
+      "alt": "ramp rat",
+      "kind": "slang",
+      "meaning": "Delavec na ploščadi, ki skrbi za letala na tleh."
+    },
+    {
+      "term": "Readback",
+      "alt": "ponovitev",
+      "kind": "term",
+      "meaning": "Ponovitev dovoljenja ali navodila, da kontrolor preveri, ali si prav razumel."
+    },
+    {
+      "term": "Release",
+      "alt": "odklop",
+      "kind": "term",
+      "meaning": "Odklop vlečne vrvi s kljuko v jadralnem letalu."
+    },
+    {
+      "term": "Retrieve",
+      "alt": "povratek",
+      "kind": "term",
+      "meaning": "Prevoz jadralnega letala po zunanjem pristanku, s prikolico ali z aerovleko."
+    },
+    {
+      "term": "Ridge lift",
+      "alt": "pobočno dviganje",
+      "kind": "term",
+      "meaning": "Dviganje zraka, ki ga veter odbije ob pobočju."
+    },
+    {
+      "term": "Ridge soaring",
+      "alt": "pobočno jadranje",
+      "kind": "term",
+      "meaning": "Letenje vzdolž pobočja v pobočnem dviganju."
+    },
+    {
+      "term": "Rigging",
+      "alt": "sestavljanje",
+      "kind": "term",
+      "meaning": "Sestavljanje jadralnega letala iz prikolice. Razstavljanje je de-rigging."
+    },
+    {
+      "term": "RMZ",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Območje, kjer je obvezna radijska zveza."
+    },
+    {
+      "term": "Roger",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Sprejel sem tvoje sporočilo. Ne pomeni, da se strinjam ali bom ukrepal."
+    },
+    {
+      "term": "Rollout",
+      "alt": "izkotalitev",
+      "kind": "term",
+      "meaning": "Vožnja po stezi od dotika do ustavitve."
+    },
+    {
+      "term": "Rope break",
+      "alt": "pretrg vrvi, cable break",
+      "kind": "term",
+      "meaning": "Pretrg vlečne vrvi med vzletom. Postopek je odvisen od višine in mora biti vnaprej premišljen."
+    },
+    {
+      "term": "Rotor",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Močno turbulentno območje pod gorskim valom."
+    },
+    {
+      "term": "Rotorhead",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pogovorno za helikopterskega pilota."
+    },
+    {
+      "term": "Rudder",
+      "alt": "smerno krmilo",
+      "kind": "term",
+      "meaning": "Krmilo na smernem stabilizatorju, s katerim upravljaš s pedali (okoli navpične osi)."
+    },
+    {
+      "term": "Run-up",
+      "alt": "preizkus motorja",
+      "kind": "term",
+      "meaning": "Preizkus motorja na višjih vrtljajih pred vzletom, na mestu za čakanje."
+    },
+    {
+      "term": "Runway",
+      "alt": "RWY, steza",
+      "kind": "term",
+      "meaning": "Vzletno-pristajalna steza. Oznaka je magnetna smer v desetinah stopinj, npr. 29 = 290°."
+    },
+    {
+      "term": "Say again",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Ponovi. V radiu se nikoli ne uporablja »repeat«."
+    },
+    {
+      "term": "Scratching",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Nizko lovljenje šibkih dviganj, da se obdržiš v zraku."
+    },
+    {
+      "term": "Self-launcher",
+      "alt": "samovzletni jadralec",
+      "kind": "term",
+      "meaning": "Jadralno letalo z motorjem, ki vzleti samostojno, npr. ASK 21 Mi."
+    },
+    {
+      "term": "Service ceiling",
+      "alt": "praktični vrh",
+      "kind": "term",
+      "meaning": "Višina, pri kateri letalo še zmore dviganje približno 100 ft/min."
+    },
+    {
+      "term": "Short final",
+      "alt": "kratko finale",
+      "kind": "term",
+      "meaning": "Tik pred pragom steze."
+    },
+    {
+      "term": "Sideslip",
+      "alt": "drsenje, slip",
+      "kind": "term",
+      "meaning": "Namerno bočno drsenje (nagib v eno, smerno krmilo v drugo stran) za izgubo višine brez povečanja hitrosti."
+    },
+    {
+      "term": "SIGMET",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Opozorilo na nevarne vremenske pojave za vse zrakoplove (nevihte, huda turbulenca, zaledenitev)."
+    },
+    {
+      "term": "Sink",
+      "alt": "spuščanje",
+      "kind": "term",
+      "meaning": "Padajoč zrak, navadno med termikami."
+    },
+    {
+      "term": "Situational awareness",
+      "alt": "SA, zavedanje situacije",
+      "kind": "term",
+      "meaning": "Pilotova slika tega, kje je, kaj se dogaja okoli njega in kaj se bo zgodilo."
+    },
+    {
+      "term": "Six-pack",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Šest osnovnih instrumentov: brzinomer, umetni horizont, višinomer, koordinator zavoja, smerni žiro in variometer."
+    },
+    {
+      "term": "Skid",
+      "alt": "zanašanje",
+      "kind": "term",
+      "meaning": "Zavoj s preveč smernega krmila: rep zanaša navzven, nitka kaže v smer zavoja."
+    },
+    {
+      "term": "Sky god",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pilot, ki se ima za nezmotljivega."
+    },
+    {
+      "term": "Slack",
+      "alt": "ohlapna vrv",
+      "kind": "term",
+      "meaning": "Ohlapna vlečna vrv pri aerovleki. Ob ponovnem napetju lahko močno sune."
+    },
+    {
+      "term": "Sled ride",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Let brez dviganj, samo spust od odklopa do pristanka."
+    },
+    {
+      "term": "Souls on board",
+      "alt": "osebe na krovu",
+      "kind": "term",
+      "meaning": "Število vseh oseb na letalu, ki ga sporočiš v klicu v sili."
+    },
+    {
+      "term": "Spam can",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Šaljivo za kovinsko enomotorno letalo, npr. Cessno ali Piperja."
+    },
+    {
+      "term": "Speed to fly",
+      "alt": "optimalna hitrost",
+      "kind": "term",
+      "meaning": "Hitrost med termikami, ki ob dani nastavitvi MacCready in spuščanju zraka da največjo povprečno hitrost."
+    },
+    {
+      "term": "Spin",
+      "alt": "vrij",
+      "kind": "term",
+      "meaning": "Samovzdrževano vrtenje letala v prevleku, pri katerem se spušča po strmi spirali. Za izvlek velja postopek iz priročnika letala."
+    },
+    {
+      "term": "Spiral dive",
+      "alt": "strma spirala",
+      "kind": "term",
+      "meaning": "Strm, vse hitrejši zavoj navzdol brez prevleka. Hitrost in obremenitev hitro naraščata."
+    },
+    {
+      "term": "SPL",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Licenca pilota jadralnega letala (Sailplane Pilot Licence)."
+    },
+    {
+      "term": "Squawk",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Nastavi kodo transponderja, npr. »squawk 7000«. Pogovorno tudi sama koda."
+    },
+    {
+      "term": "Stall",
+      "alt": "prevlek",
+      "kind": "term",
+      "meaning": "Odcepitev zračnega toka s krila zaradi prevelikega vpadnega kota. Vzgon nenadoma pade."
+    },
+    {
+      "term": "Standby",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Počakaj, poklical te bom."
+    },
+    {
+      "term": "Start gate",
+      "alt": "startna linija",
+      "kind": "term",
+      "meaning": "Linija ali krog, skozi katerega se začne naloga na tekmovanju."
+    },
+    {
+      "term": "Static port",
+      "alt": "statična odprtina",
+      "kind": "term",
+      "meaning": "Odprtina na trupu, ki meri statični tlak za višinomer, variometer in brzinomer."
+    },
+    {
+      "term": "Steam gauges",
+      "alt": "klasični instrumenti",
+      "kind": "slang",
+      "meaning": "Šaljivo za analogne instrumente z iglami, v nasprotju s steklenim kokpitom."
+    },
+    {
+      "term": "Stepped on",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Dva sta oddajala hkrati, zato se sporočilo ni slišalo."
+    },
+    {
+      "term": "Stick",
+      "alt": "krmilna palica",
+      "kind": "term",
+      "meaning": "Palica za upravljanje višinskega krmila in krilc."
+    },
+    {
+      "term": "Stuck mic",
+      "alt": "zataknjen mikrofon",
+      "kind": "slang",
+      "meaning": "Zataknjena tipka PTT, ki blokira frekvenco za vse."
+    },
+    {
+      "term": "Sustainer",
+      "alt": "turbo",
+      "kind": "term",
+      "meaning": "Pomožni motor jadralnega letala, ki omogoča let domov, ne pa samostojnega vzleta."
+    },
+    {
+      "term": "TAF",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Napoved vremena za letališče."
+    },
+    {
+      "term": "Taildragger",
+      "alt": "letalo z repnim kolesom",
+      "kind": "slang",
+      "meaning": "Letalo s klasičnim podvozjem in repnim kolesom, npr. PA-18 ali PA-25. Pri vožnji in pristanku zahteva več dela s pedali."
+    },
+    {
+      "term": "Tailwheel",
+      "alt": "repno kolo",
+      "kind": "term",
+      "meaning": "Kolo pod repom letala."
+    },
+    {
+      "term": "Tailwind",
+      "alt": "hrbtni veter",
+      "kind": "term",
+      "meaning": "Veter od zadaj. Podaljša vzletno in pristajalno razdaljo."
+    },
+    {
+      "term": "Take up slack",
+      "alt": "napni vrv",
+      "kind": "term",
+      "meaning": "Znak oziroma ukaz, da vlečno letalo ali vitel počasi napne vrv."
+    },
+    {
+      "term": "TAS",
+      "alt": "True Airspeed, prava hitrost",
+      "kind": "abbr",
+      "meaning": "Dejanska hitrost letala skozi zrak. Z višino narašča glede na IAS."
+    },
+    {
+      "term": "Task",
+      "alt": "naloga",
+      "kind": "term",
+      "meaning": "Pri preletu ali tekmovanju vnaprej določena pot skozi obratne točke."
+    },
+    {
+      "term": "Taxiway",
+      "alt": "TWY, vozna steza",
+      "kind": "term",
+      "meaning": "Steza za vožnjo med ploščadjo in vzletno stezo."
+    },
+    {
+      "term": "TCDS",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Podatkovni list tipske odobritve letala z uradnimi omejitvami."
+    },
+    {
+      "term": "TE probe",
+      "alt": "sonda TE, kompenzacija totalne energije",
+      "kind": "term",
+      "meaning": "Sonda, ki variometru odšteje navidezno dviganje zaradi pospeševanja ali vlečenja palice, da kaže dejansko dviganje zraka."
+    },
+    {
+      "term": "The numbers",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Oznaka steze (npr. 29) na začetku steze. »Pristati na številkah« pomeni natančno na začetku."
+    },
+    {
+      "term": "Thermal",
+      "alt": "termika",
+      "kind": "term",
+      "meaning": "Dvigajoč se topel zrak, ki nastane nad segretimi tlemi."
+    },
+    {
+      "term": "Threshold",
+      "alt": "prag steze, THR",
+      "kind": "term",
+      "meaning": "Začetek dela steze, ki je namenjen pristajanju."
+    },
+    {
+      "term": "Throttle",
+      "alt": "ročica plina",
+      "kind": "term",
+      "meaning": "Ročica za moč motorja."
+    },
+    {
+      "term": "Tie-down",
+      "alt": "privez",
+      "kind": "term",
+      "meaning": "Privezovanje letala na tleh proti vetru."
+    },
+    {
+      "term": "TMA",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Terminalno kontrolirano območje nad CTR in okolico večjih letališč."
+    },
+    {
+      "term": "TMG",
+      "alt": "Touring Motor Glider, motorni jadralec",
+      "kind": "abbr",
+      "meaning": "Motorni jadralec, ki lahko leti z motorjem kot letalo in jadra z ugasnjenim motorjem."
+    },
+    {
+      "term": "TMZ",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Območje, kjer je obvezen vklopljen transponder."
+    },
+    {
+      "term": "Touch and go",
+      "alt": "dotik in vzlet",
+      "kind": "term",
+      "meaning": "Pristanek in takojšen ponoven vzlet brez ustavljanja."
+    },
+    {
+      "term": "Touchdown",
+      "alt": "dotik",
+      "kind": "term",
+      "meaning": "Trenutek, ko se kolesa dotaknejo steze."
+    },
+    {
+      "term": "TRA",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Začasno rezerviran zračni prostor."
+    },
+    {
+      "term": "Track",
+      "alt": "TR, pot nad tlemi",
+      "kind": "term",
+      "meaning": "Smer, v kateri se letalo dejansko premika nad tlemi. Razlika med headingom in trackom je zanos zaradi vetra."
+    },
+    {
+      "term": "Transition altitude",
+      "alt": "prehodna nadmorska višina",
+      "kind": "term",
+      "meaning": "Nadmorska višina, nad katero preklopiš višinomer na 1013,25 hPa in letiš po letalnih nivojih."
+    },
+    {
+      "term": "Tricycle gear",
+      "alt": "tricikel",
+      "kind": "term",
+      "meaning": "Podvozje s sprednjim kolesom, npr. Cessna 172."
+    },
+    {
+      "term": "Trim",
+      "alt": "trimer",
+      "kind": "term",
+      "meaning": "Naprava, ki razbremeni sile na krmilni palici, da letalo samo drži želeno hitrost."
+    },
+    {
+      "term": "TSA",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Začasno ločen zračni prostor, npr. za vojaške vaje."
+    },
+    {
+      "term": "Tug",
+      "alt": "vlečno letalo, tow plane",
+      "kind": "term",
+      "meaning": "Motorno letalo, ki vleče jadralno letalo."
+    },
+    {
+      "term": "Turnpoint",
+      "alt": "TP, obratna točka",
+      "kind": "term",
+      "meaning": "Točka naloge pri preletu, ki jo moraš obleteti ali doseči, preden nadaljuješ proti naslednji."
+    },
+    {
+      "term": "Unable",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Ne morem izvesti zahteve ali navodila."
+    },
+    {
+      "term": "UTC",
+      "alt": "Zulu, Z",
+      "kind": "abbr",
+      "meaning": "Koordinirani svetovni čas, ki ga uporablja letalstvo. Slovenija je pozimi UTC+1, poleti UTC+2."
+    },
+    {
+      "term": "Va",
+      "alt": "manevrska hitrost",
+      "kind": "abbr",
+      "meaning": "Največja hitrost, pri kateri smeš krmilo polno odkloniti brez nevarnosti preobremenitve."
+    },
+    {
+      "term": "Vario",
+      "alt": "variometer",
+      "kind": "term",
+      "meaning": "Instrument, ki kaže hitrost dviganja ali spuščanja. Jadralni pilot ga posluša bolj kot gleda."
+    },
+    {
+      "term": "Vfe",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Največja hitrost z izvlečenimi zakrilci."
+    },
+    {
+      "term": "VFR",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Pravila za vizualno letenje."
+    },
+    {
+      "term": "VMC",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Vremenski pogoji, ki omogočajo vizualno letenje."
+    },
+    {
+      "term": "Vne",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Hitrost, ki je nikoli ne smeš preseči (rdeča črta na brzinomeru)."
+    },
+    {
+      "term": "Vno",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Največja hitrost za normalno letenje (zgornja meja zelenega loka)."
+    },
+    {
+      "term": "VOR",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Zemeljska radijska navigacijska naprava, ki letalu pove, na katerem radialu (smeri od postaje) je."
+    },
+    {
+      "term": "Vra",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Največja hitrost v močni turbulenci (rough air)."
+    },
+    {
+      "term": "Vref",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Referenčna hitrost prileta na pristanek."
+    },
+    {
+      "term": "Vs",
+      "alt": "Vs0, Vs1, hitrost prevleka",
+      "kind": "abbr",
+      "meaning": "Hitrost prevleka. Vs0 velja v pristajalni konfiguraciji, Vs1 v čisti."
+    },
+    {
+      "term": "Vx",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Hitrost najstrmejšega dviganja: največ višine na najkrajši razdalji, npr. za preletenje ovire."
+    },
+    {
+      "term": "Vy",
+      "alt": "",
+      "kind": "abbr",
+      "meaning": "Hitrost najhitrejšega dviganja: največ višine v najkrajšem času."
+    },
+    {
+      "term": "Wake turbulence",
+      "alt": "vrtinčna sled",
+      "kind": "term",
+      "meaning": "Vrtinci za koncema kril, posebej močni za težkimi in počasnimi letali."
+    },
+    {
+      "term": "Washout",
+      "alt": "zvitje krila",
+      "kind": "term",
+      "meaning": "Manjši vpadni kot na koncu krila kot pri korenu, da se krilo prevleče najprej pri korenu in krilca ostanejo učinkovita."
+    },
+    {
+      "term": "Water ballast",
+      "alt": "vodni balast",
+      "kind": "term",
+      "meaning": "Voda v krilih jadralnega letala. Poveča hitrost pri enaki finesi, a poslabša dviganje v šibki termiki."
+    },
+    {
+      "term": "Wave",
+      "alt": "val, gorski val",
+      "kind": "term",
+      "meaning": "Valovanje zraka za gorami pri močnem, stabilnem vetru. Omogoča lete do velikih višin."
+    },
+    {
+      "term": "Waypoint",
+      "alt": "WPT, točka poti",
+      "kind": "term",
+      "meaning": "Točka na načrtovani poti, določena s koordinatami ali z imenom."
+    },
+    {
+      "term": "WCA",
+      "alt": "Wind Correction Angle, korekcijski kot",
+      "kind": "abbr",
+      "meaning": "Kot, za katerega obrneš nos proti vetru, da držiš želeno pot."
+    },
+    {
+      "term": "Weak link",
+      "alt": "varovalka",
+      "kind": "term",
+      "meaning": "Šibki člen na vrvi, ki se pretrga pred preobremenitvijo letala. Barva oziroma oznaka pove nosilnost."
+    },
+    {
+      "term": "Weekend warrior",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pilot, ki leti samo ob vikendih, zato je včasih nekoliko zarjavel."
+    },
+    {
+      "term": "Wilco",
+      "alt": "",
+      "kind": "term",
+      "meaning": "Razumel bom in ravnal po navodilu (will comply)."
+    },
+    {
+      "term": "Winch launch",
+      "alt": "vitel",
+      "kind": "term",
+      "meaning": "Vzlet jadralnega letala z vrvjo, ki jo navija vitel na tleh."
+    },
+    {
+      "term": "Wind shear",
+      "alt": "striženje vetra",
+      "kind": "term",
+      "meaning": "Nenadna sprememba hitrosti ali smeri vetra z višino ali razdaljo. Nevarno pri priletu."
+    },
+    {
+      "term": "Wing drop",
+      "alt": "padec krila",
+      "kind": "term",
+      "meaning": "Nenaden padec enega krila ob prevleku. Lahko je začetek vrija."
+    },
+    {
+      "term": "Wing runner",
+      "alt": "pomočnik ob krilu",
+      "kind": "term",
+      "meaning": "Pomočnik, ki ob vzletu drži krilo vodoravno in teče ob njem, dokler pilot ne dobi nadzora."
+    },
+    {
+      "term": "Winglet",
+      "alt": "wingleti, zaključek krila",
+      "kind": "term",
+      "meaning": "Navpično zavihan zaključek krila. Zmanjša vrtinec na koncu krila in s tem inducirani upor."
+    },
+    {
+      "term": "Wingtip",
+      "alt": "konec krila",
+      "kind": "term",
+      "meaning": "Skrajni zunanji del krila."
+    },
+    {
+      "term": "Woodie",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Leseno jadralno letalo, npr. starejši Schleicher ali Slingsby."
+    },
+    {
+      "term": "Wrench",
+      "alt": "",
+      "kind": "slang",
+      "meaning": "Pogovorno za letalskega mehanika."
+    },
+    {
+      "term": "Yaw string",
+      "alt": "nitka",
+      "kind": "term",
+      "meaning": "Volnena nitka na pokrovu kabine. Kaže drsenje: v koordiniranem letu je na sredini."
+    },
+    {
+      "term": "Yoke",
+      "alt": "krmilni volan",
+      "kind": "term",
+      "meaning": "Krmilo v obliki volana, ki ga imajo nekatera motorna letala namesto palice."
+    },
+    {
+      "term": "Zulu",
+      "alt": "Z, UTC",
+      "kind": "slang",
+      "meaning": "Ime za čas UTC v radijskem in letalskem pogovoru (po črki Z)."
+    }
+  ],
+  "source": "Letalsko izrazoslovje (ICAO, EASA, FAA Glider Flying Handbook) in pogovorni izrazi pilotov. Sleng je neuraden.",
+  "checked": "",
+  "reviewedBy": ""
+}

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "preflight",
+    "title": "Predpoletni pregled",
+    "kind": "checklist",
+    "licences": [
+      "SPL",
+      "PPL"
+    ],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Glavni zatiči kril so vstavljeni in zavarovani.",
+        "detail": "Pokrov kabine se odpre in zaskoči, steklo je brez razpok. Glavni zatiči kril so zavarovani z varovali. Priključki krilc in zračnih zavor (skozi dostopno odprtino) so pripeti in zavarovani, pokrov odprtine je zalepljen."
+      },
+      {
+        "title": "V kabini ni nepritrjenih predmetov.",
+        "detail": "V kabini in ob vodilih krmil ni tujkov. Varnostni pasovi so nepoškodovani, zaponke delujejo. Instrumenti so nepoškodovani, višinomer je nastavljen na želeno tlačno ploskev."
+      },
+      {
+        "title": "Krmila se prosto premikajo v pravo smer.",
+        "detail": "Palica in pedala se gibljejo prosto, brez zatikanja in v pravo smer. Pedala so nastavljena in zaskočena. S pomočnikom, ki drži krmilne površine, v skrajnih legah obremeni palico, pedala in ročico zračnih zavor: ne sme biti zračnosti ali zatikanja."
+      },
+      {
+        "title": "Zračne zavore se izvlečejo in zaklenejo, zavora kolesa prime.",
+        "detail": "Ročica zračnih zavor se premika prosto. Zavore se izvlečejo na obeh krilih enako in se v uvlečenem položaju zaklenejo. Pri polno izvlečenih zračnih zavorah se v ročici čuti zavora kolesa."
+      },
+      {
+        "title": "Vlečna kljuka se po odklopu vrne nazaj in se dejansko odpre.",
+        "detail": "Kljuka je čista. Ročica za odklop se po potegu prosto vrne. Obroča se zapneta in sprostita. Težiščna kljuka se ob vleki nazaj sprosti sama. Pitotova cev v nosu je prosta, nosno kolo (če ga ima) in pnevmatika sta v redu."
+      },
+      {
+        "title": "Levo krilo je nepoškodovano, krilce in zračna zavora se prosto gibljeta.",
+        "detail": "Zgornja in spodnja površina ter krilni zaključek brez poškodb. Krilce: stanje, prosto gibanje, zračnost in potisni drogovi. Zračna zavora: stanje, prosto gibanje, poravnava in zaklep."
+      },
+      {
+        "title": "Statične odprtine so proste, sonda TE je trdno pritrjena.",
+        "detail": "Statične odprtine na repnem nosilcu niso zamašene. Sonda TE (in Pitotova cev na smernem stabilizatorju, če jo letalo ima) je trdno nameščena in nepoškodovana. Glavno kolo in pnevmatika sta v redu."
+      },
+      {
+        "title": "Višinski stabilizator je pravilno nameščen in zavarovan.",
+        "detail": "Stabilizator je pravilno sestavljen in zaskočen (pri T-repu posebej preveri mehanizem). Višinsko in smerno krmilo: stanje, prosto gibanje in zračnost; priključki in jeklenice so zavarovani. Repno kolo in varovala so v redu."
+      },
+      {
+        "title": "Desno krilo je nepoškodovano, krilce in zračna zavora se prosto gibljeta.",
+        "detail": "Na poti mimo desne strani trupa preveri, da je trup nepoškodovan in statične odprtine proste. Zgornja in spodnja površina ter krilni zaključek brez poškodb. Krilce: stanje, prosto gibanje, zračnost in potisni drogovi. Zračna zavora: stanje, prosto gibanje, poravnava in zaklep."
+      },
+      {
+        "title": "Na trupu ni udrtin in razpok.",
+        "detail": "Preglej celoten trup, posebej spodnjo stran in okolico koles: brez udrtin, razpok in odstopljenega laka. Vlečna vrv in obroča sta nepoškodovana."
+      }
+    ],
+    "source": "Klubska prosojnica »Predpoletni pregled« (AK Celje); kontrolni seznam dnevnega pregleda iz priročnika za letenje jadralnega letala (angl.)",
+    "checked": "",
+    "reviewedBy": "",
+    "image": "assets/content/sl/manual/preflight_route.png"
+  },
+  {
+    "id": "circuit",
+    "title": "Šolski krog",
+    "kind": "normal",
+    "licences": [
+      "SPL"
+    ],
+    "aircraft": "",
+    "steps": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "winch-launch",
+    "title": "Vzlet z vitlom",
+    "kind": "normal",
+    "licences": [
+      "SPL"
+    ],
+    "aircraft": "",
+    "steps": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "aerotow-launch",
+    "title": "Vzlet z aerozaprego",
+    "kind": "normal",
+    "licences": [
+      "SPL"
+    ],
+    "aircraft": "",
+    "steps": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "spin-recovery",
+    "title": "Izvlek iz vrija",
+    "kind": "emergency",
+    "licences": [
+      "SPL",
+      "PPL"
+    ],
+    "aircraft": "",
+    "steps": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "stall-recovery",
+    "title": "Izvlek iz prevleka",
+    "kind": "emergency",
+    "licences": [
+      "SPL",
+      "PPL"
+    ],
+    "aircraft": "",
+    "steps": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "checked": "",
+    "reviewedBy": ""
+  }
+]

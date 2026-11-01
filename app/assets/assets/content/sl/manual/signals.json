@@ -1,0 +1,63 @@
+{
+  "id": "signals",
+  "title": "Signalizacija",
+  "subtitle": "Vzlet z vitlom in aerovleka",
+  "licences": [
+    "SPL"
+  ],
+  "sections": [
+    {
+      "id": "winch",
+      "title": "Vzlet z vitlom",
+      "image": "assets/content/sl/manual/signals_winch.png",
+      "signals": [
+        {
+          "code": "I.",
+          "meaning": "Pripravljen na vzlet."
+        },
+        {
+          "code": "II.",
+          "meaning": "Vlečna vrv je napeta."
+        },
+        {
+          "code": "III.",
+          "meaning": "Jadralno letalo se premika."
+        },
+        {
+          "code": "IV.",
+          "meaning": "STOP – prenehaj z vleko."
+        },
+        {
+          "code": "V.",
+          "meaning": "Letenje zaključeno."
+        }
+      ]
+    },
+    {
+      "id": "aerotow",
+      "title": "Aerovleka",
+      "image": "assets/content/sl/manual/signals_aerotow.png",
+      "signals": [
+        {
+          "code": "I.",
+          "meaning": "Napni vlečno vrv."
+        },
+        {
+          "code": "II.",
+          "meaning": "Jadralno letalo je pripravljeno na vzlet, steza je prosta."
+        },
+        {
+          "code": "III.",
+          "meaning": "STOP – prenehaj z vleko."
+        },
+        {
+          "code": "IV.",
+          "meaning": "Konec letenja."
+        }
+      ]
+    }
+  ],
+  "source": "Klubski prosojnici »Signalizacija pri vzletanju na vitel« in »Signalizacija pri aerovleku« (AK Celje)",
+  "checked": "",
+  "reviewedBy": ""
+}

@@ -1,0 +1,672 @@
+[
+  {
+    "id": "E70-200511-00021",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.1.1.1.3",
+    "loText": "Explain why loads exceeding the loading limitations have to be reduced to limits",
+    "question": "Prekoračitev največje dovoljene mase zrakoplova...",
+    "answers": [
+      "je izjemoma dovoljena, da se izognemo zamudam.",
+      "se izravna s pilotovim načinom krmiljenja.",
+      "je upoštevna le, če je presežena za več kot 10 %.",
+      "ni dovoljena in je zelo nevarna."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00038",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.4.2.1.3",
+    "loText": "State that actual weight & balance data / weighing report can be found in the aircraft documents or the AFM/POH",
+    "question": "Maso praznega zrakoplova in ustrezno masno središče zrakoplova (CG) se sprva določi...",
+    "answers": [
+      "samo za en zrakoplov določenega tipa, saj imajo vsi zrakoplovi istega tipa enako maso in masno središče v isti točki.",
+      "z izračunom.",
+      "s tehtanjem.",
+      "na podlagi podatkov, ki jih priskrbi proizvajalec zrakoplova."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00049",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.3.1.1.1",
+    "loText": "Define and explain the meaning of 'center of gravity (CG)'",
+    "question": "Termin \"masno središče\" je opredeljen kot...",
+    "answers": [
+      "tista točka, ki jo štejemo za prijemališče skupne mase letala.",
+      "najtežja točka na letalu.",
+      "polovična razdalja med nevtralno točko in referenčno linijo.",
+      "drugo ime za nevtralno točko."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00050",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.3.1.1.1",
+    "loText": "Define and explain the meaning of 'center of gravity (CG)'",
+    "question": "Masno središče (CG) pomeni...",
+    "answers": [
+      "točko na vzdolžni osi ali na njenem podaljšku, iz katere se določajo masna središča vseh teles.",
+      "točko, iz katere na telo deluje sila težnosti.",
+      "zmnožek mase in ročice.",
+      "razdaljo od referenčne linije do položaja neke mase."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00057",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.3.3.1.1",
+    "loText": "Describe how to calculate 'moment' by multiplying 'mass (force)' x 'moment arm'",
+    "question": "Termin \"moment\" v povezavi z izračunom mase in ravnotežja pomeni...",
+    "answers": [
+      "količnik mase in ročice.",
+      "zmnožek mase in ročice.",
+      "razliko med maso in ročico.",
+      "seštevek mase in ročice."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00058",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.3.2.1.1",
+    "loText": "Define ‘datum’ (reference point), ‘moment arm’ and ‘moment’",
+    "question": "Termin \"ročica\" v kontekstu izračuna mase in ravnotežja opredeljuje...",
+    "answers": [
+      "oddaljenost neke mase od masnega središča.",
+      "točko na vzdolžni osi letala ali njenem podaljšku, iz katere se določajo masna središča vseh mas.",
+      "razdaljo od referenčne linije do masnega središča neke mase.",
+      "točko, iz katere na telo deluje sila težnosti."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00060",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.3.2.1.1",
+    "loText": "Define ‘datum’ (reference point), ‘moment arm’ and ‘moment’",
+    "question": "Ročica je vodoravna razdalja med...",
+    "answers": [
+      "skrajno sprednjo lego masnega središča in referenčno linijo.",
+      "masnim središčem dane mase in referenčno linijo.",
+      "skrajno sprednjo in zadnjo lego masnega središča.",
+      "masnim središčem dane mase in skrajno zadnjo lego masnega središča."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00061",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.4.1.1.2",
+    "loText": "State where the datum and moment arms for aircraft can be found",
+    "question": "Potrebne podatke za izračun mase in ravnotežja, vključno z masami in ročicami, najdemo v...",
+    "answers": [
+      "v dokumentaciji o letnem pregledu.",
+      "perpoglavju o zmogljivostih v priročniku obravnavanega zrakoplova.",
+      "poglavju o masi in ravnotežju v priročniku obravnavanega zrakoplova.",
+      "v potrdilu o plovnosti."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00063",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.4.2.1.3",
+    "loText": "State that actual weight & balance data / weighing report can be found in the aircraft documents or the AFM/POH",
+    "question": "V katerem poglavju letalskega priročnika je opisana osnovna masa praznega zrakoplova?",
+    "answers": [
+      "Običajni postopki",
+      "Zmogljivosti",
+      "Omejitve",
+      "Masa in ravnotežje"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00066",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.5.1.1.1",
+    "loText": "Calculate the CG position of an aircraft by using the formula: CG position = sum of moments / total mass",
+    "question": "Položaj masnega središča je enak...\nGlej sliko (PFP-052e)",
+    "answers": [
+      "137.5 in.",
+      "142 in.",
+      "145.7 in.",
+      "147.5 in."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E70-200511-00066_pfp-052e.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.2.1.2.3",
+    "loText": "List the common units of measurement for fuel volume and and mass, and convert them (liters, US/Imp gallons)",
+    "question": "Koliko tehtata 102 litra goriva Avgas 100LL?",
+    "answers": [
+      "142 lbs",
+      "142 kg",
+      "74 lbs",
+      "74 kg"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00074",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "71.5.1.2.1",
+    "loText": "Determine the CG position of an aircraft by using the loading graphs given in sample documents",
+    "question": "V okviru priprave na let pilot izračuna, da je skupna vzletna masa 725 kg in skupni moment 650 mmkg.\nS katerim križcem je označeno masno središče?\nGlej prilogo (PFP-004)",
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E70-200511-00074_pfp-004.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00083",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "72.1.3.1.2",
+    "loText": "Explain the influence of runway conditions on takeoff and landing performance",
+    "question": "Kateri dejavnik povzroči skrajšanje pristajalne razdalje?",
+    "answers": [
+      "Močan dež",
+      "Velika standardna višina",
+      "Močan čelni veter",
+      "Velika tlačna višina"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00085",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "74.3.2.1.1",
+    "loText": "State under which conditions an aircaft may be operated into known icing conditions",
+    "question": "Če zrakoplov ni ustrezno opremljen in certificiran...",
+    "answers": [
+      "je prepovedano letenje v območje, v katerem so napovedani pogoji za nastanek zaledenitev. Če zrakoplov nenamerno prileti v območje, v katerem vladajo pogoji za nastanek zaledenitev, lahko let nadaljuje, če obstajajo vizualni vremenski pogoji.",
+      "je prepovedano letenje v območje padavin.",
+      "je prepovedano letenje v območje, v katerem so potrjeni ali napovedani pogoji za nastanek zaledenitev. Če zrakoplov nenamerno prileti v območje, v katerem vladajo pogoji za nastanek zaledenitev, mora to območje nemudoma zapustiti.",
+      "je letenje v območje, v katerem so potrjeni ali napovedani pogoji za nastanek zaledenitev, dovoljeno, samo če je poskrbljeno, da zrakoplov vseeno lahko deluje brez poslabšanja zmogljivosti."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00089",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "72.1.4.1.1",
+    "loText": "Define the term 'climb/descent gradient' and 'climb/descent angle'",
+    "question": "Kot spuščanja je opredeljen kot...",
+    "answers": [
+      "razmerje med spremembo v višini in vodoravno razdaljo, prepotovano v danem času, izraženo v stopinjah [°].",
+      "razmerje med spremembo v višini in vodoravno razdaljo, prepotovano v danem času, izraženo v odstotkih [%].",
+      "kot med vodoravno ravnino in dejansko potjo leta, izražen v stopinjah [°].",
+      "kot med vodoravno ravnino in dejansko potjo leta, izražen v odstotkih [%]."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00170",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "74.3.1.3.4",
+    "loText": "Extract and interpret airport information from NOTAMs given, e.g. opening hours, work in progress (WIP), restrictions, changes of frequencies, navigation aids and facilities",
+    "question": "Do katere višine je prepovedan prelet skladno z depešo NOTAM?\nGlej sliko (PFP-024)",
+    "answers": [
+      "Do višine 9500 ft MSL",
+      "Do višine 9500 m MSL",
+      "Do nivoja leta 95",
+      "Do višine 9500 ft nad tlemi"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E70-200511-00170_pfp-024.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00182",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "74.4.1.3.2",
+    "loText": "State from given examples, in which cases the submission of a flight plan is required (e.g. flight at night, IFR, crossing specific state borders)",
+    "question": "Kaj je treba upoštevati pri čezmejnih letih?",
+    "answers": [
+      "Intervalna sporočila o lokaciji",
+      "Odobrene izjeme",
+      "Zahtevajo se načrti leta",
+      "Posredovanje poročil o nevarnosti"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00183",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "74.4.1.1.1",
+    "loText": "State where to find information about requirements and the format of an ATS flight plan",
+    "question": "Med letom se načrt leta lahko vloži pri...",
+    "answers": [
+      "upravljalcu naslednjega letališča na ruti.",
+      "Letalski informacijski službi (AIS).",
+      "Službi letalskih informacij (FIS).",
+      "Službi za iskanje in reševanje (SAR)."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00240",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "74.1.1.1.4",
+    "loText": "Extract and interpret information about heights and altitudes from VFR charts",
+    "question": "(Za to vprašanje uporabite prilogo PFP-061)\nSkladno z ICAO, kateri simbol označuje skupino neosvetljenih ovir?",
+    "answers": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E70-200511-00240_pfp-061.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E70-200511-00245",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "74.1.1.1.4",
+    "loText": "Extract and interpret information about heights and altitudes from VFR charts",
+    "question": "(Za to vprašanje uporabite prilogo PFP-063)\nSkladno z ICAO, kateri simbol označuje nadmorsko višino točke?",
+    "answers": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E70-200511-00245_pfp-063.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K70-2025-002",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Največja dovoljena obremenitev glede na preračun masnega središča je bila presežena. Kaj je treba storiti?",
+    "answers": [
+      "Zmanjšati obremenitev.",
+      "Trimati zrakoplov na rep.",
+      "Povečati hitrost za 15 %.",
+      "Trimati zrakoplov na nos."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-003",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Masno središče mora biti...",
+    "answers": [
+      "pred dovoljeno skrajno sprednjo lego masnega središča.",
+      "za dovoljeno skrajno zadnjo lego masnega središča.",
+      "med dovoljeno skrajno sprednjo in zadnjo lego masnega središča.",
+      "desno od dovoljene skrajne zadnje lege masnega središča."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-004",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Zrakoplov moramo natovoriti in upravljati tako, da masno središče med vsemi fazami leta ostane znotraj odobrenih meja. S tem poskrbimo...",
+    "answers": [
+      "za stabilnost in vodljivost zrakoplova.",
+      "da se zrakoplov med natovarjanjem ne prekucne na rep.",
+      "da se ne poruši vzgon zrakoplova.",
+      "da zrakoplov med spustom ne preseže največje dovoljene zračne hitrosti."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-005",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Masa, ki smo jo natovorili na zrakoplov, je manjša od najmanjše mase po preračunu masnega središča. Kaj je treba storiti?",
+    "answers": [
+      "Trimati zrakoplov na nos.",
+      "Spremeniti položaj pilotovega sedeža.",
+      "Spremeniti konstrukcijski kot višinskega stabilizatorja.",
+      "Natovoriti balastno utež do najmanjše dovoljene mase."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-006",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Skupna teža letala deluje navpično/vertikalno skozi...",
+    "answers": [
+      "tlačno središče.",
+      "masno središče.",
+      "točko stagnacije.",
+      "nevtralno točko."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-010",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Razdalja med masnim središčem in referenčno linijo se imenuje...",
+    "answers": [
+      "ročica.",
+      "vzvod.",
+      "navor.",
+      "razpon."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-024",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšno razdaljo lahko prejadramo z jadralnim letalom, ki ima drsno razmerje 1/30, z višine 1500 m? (Učinek vetra in vzgornikov zanemarimo.)",
+    "answers": [
+      "45 km",
+      "30 km",
+      "45 NM",
+      "81 NM"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-025",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "S katerimi ukrepi je mogoče izboljšati drsno razmerje jadralnega letala?",
+    "answers": [
+      "Čiščenje, pravilna hitrost, uvlečljivo podvozje, prelepljene reže med krilom in trupom",
+      "Prednja lega masnega središča, pravilna hitrost, prelepljene reže med krilom in trupom",
+      "Manjša masa zrakoplova, pravilna hitrost, uvlečljivo podvozje",
+      "Večja masa zrakoplova, tanek aeroprofil, prelepljene reže med krilom in trupom"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-026",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Katerih objektov in naravnih danosti se je treba izogibati pri načrtovanju preleta z jadralnim zrakoplovom?",
+    "answers": [
+      "Razmočenih tal, vodnih teles, močvirnatih območij.",
+      "Kamnolomov in velikih peščenih površin.",
+      "Območij z zgradbami, betonom in asfaltom.",
+      "Avtocest, železniških tirov in kanalov."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K70-2025-027",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 70,
+    "subjectName": "Flight Performance and Planning",
+    "lo": "",
+    "loText": "",
+    "question": "Med približevanjem naslednjemu vzgorniku variometer kaže spust s 3 m/s. V vzgorniku ocenjujete, da bo hitrost vzpenjanja 2 m/s. Če letite po McCreadyjevem obroču, kako je treba prilagoditi hitrost med približevanjem vzgorniku?",
+    "answers": [
+      "McCreadyjev obroč nastavimo na 2 m/s, priporočeno hitrost lahko odčitamo na McCreadyjevem obroču poleg trenutne hitrosti spuščanja (3 m/s)",
+      "McCreadyjev obroč nastavimo na 3 m/s, priporočeno hitrost lahko odčitamo na McCreadyjevem obroču poleg trenutne hitrosti spuščanja (2 m/s)",
+      "Izven termičnih celic McCreadyjev obroč nastavimo na 0 m/s, priporočeno hitrost odčitamo na McCreadyjevem obroču poleg trenutne hitrosti spuščanja (3 m/s)",
+      "McCreadyjev obroč nastavimo na 2 m/s, priporočeno hitrost lahko odčitamo na McCreadyjevem obroču poleg seštevka trenutne hitrosti spuščanja pri pričakovani hitrosti vzpenjanja (5 m/s)"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

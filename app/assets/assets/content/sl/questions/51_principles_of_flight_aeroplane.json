@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "E51-200511-00001",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.2.1.2.1",
+    "loText": "Describe the effects of a gust on the equilibrium of forces",
+    "question": "Kako lahko opišemo drsni let z vidika sil, ki takrat delujejo?",
+    "answers": [
+      "Vsota vseh sil je uravnotežena s silo teže.",
+      "Sila vzgona kompenzira silo upora.",
+      "Vsota vseh sil deluje skupaj s silo vzgona.",
+      "Vsota vseh sil deluje v smeri zračnega toka."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00003",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.5.9",
+    "loText": "Describe the general procedures for spin recovery, if not stated other in AFM/POH",
+    "question": "Kako lahko preprečimo vrij, potem ko se na enem krilu poruši vzgon in se nos letala spusti?",
+    "answers": [
+      "Povlečemo višinsko krmilo proti sebi, da letalo vrne v horizontalni položaj.",
+      "Smerno krmilo v stran višjega krila, popuščamo višinsko krmilo za naraščanje hitrosti.",
+      "Potisnemo višinsko krmilo za naraščanje hitrosti, da ponovno vzpostavimo zračni tok na krilih.",
+      "Polno odklonimo smerno krmilo v smeri višjega krila."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00007",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.4.1.3.2",
+    "loText": "List possible consequences of exceeding vNE",
+    "question": "Letenje s hitrostjo, večjo od hitrosti, ki se ne sme prekoračiti (Vne), ima lahko za posledico...",
+    "answers": [
+      "zmanjšanje upora in večje sile na krmilih.",
+      "drhtenje oziroma \"flater\" in mehanske poškodbe kril.",
+      "previsok skupni tlak, zaradi katerega merilnik hitrosti postane neuporaben.",
+      "povečanje razmerja med vzgonom in uporom ter boljši drsni kot."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00012",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.2.5",
+    "loText": "State that the load distribution inside the aircraft can have an influence on stall/spin characteristics",
+    "question": "Če govorimo o vzdolžni stabilnosti, kateri položaj masnega središča je najbolj nevaren pri običajnem jadralnem letalu?",
+    "answers": [
+      "Položaj preveč ob strani dovoljenih meja masnega središča.",
+      "Čisto zadnji položaj znotraj dovoljenih meja masnega središča.",
+      "Položaj za dovoljeno skrajno prednjo lego masnega središča.",
+      "Položaj za dovoljeno skrajno zadnjo lego masnega središča."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00013",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.1.1.1",
+    "loText": "Define 'static pressure', 'dynamic pressure' and 'total pressure'",
+    "question": "Statični tlak plinov deluje...",
+    "answers": [
+      "samo navpično na smer toka.",
+      "v vse smeri.",
+      "samo v smeri skupnega tlaka.",
+      "samo v smeri toka."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.1.1.2",
+    "loText": "Describe the relationship of total, static and dynamic pressure with airflow through a narrowed cross section (Bernoulli' law)",
+    "question": "Bernoullijeva enačba za neviskozne nestisljive pline pravi...",
+    "answers": [
+      "skupni tlak = dinamični tlak + statični tlak.",
+      "statični tlak = skupni tlak + dinamični tlak.",
+      "skupni tlak = dinamični tlak - statični tlak.",
+      "dinamični tlak = skupni tlak + statični tlak."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00016",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.1.3.1",
+    "loText": "Describe the total aerodynamic force on a wing as a vectorized sum of drag and lift force",
+    "question": "Telo poljubne oblike, če je obdano z zračnim tokom (v>0), povzroča...",
+    "answers": [
+      "vzgon brez upora.",
+      "upor in vzgon.",
+      "upor.",
+      "konstanten upor pri katerikoli hitrosti."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00018",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.2.4.1",
+    "loText": "Define and interpret 'center of pressure' as a point the resulting aeordynamic force acts on",
+    "question": "Center potiska je teoretična točka, iz katere izvira(jo)...",
+    "answers": [
+      "samo rezultirajoč skupni upor.",
+      "sila teže na profilu.",
+      "vse aerodinamične sile na profilu.",
+      "sila teže in aerodinamične sile."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00020",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.1.4.2",
+    "loText": "Name and identify geometric properties of an airfoil (nose radius, chord, chamber, location of max. thickness, angle of attack etc.)",
+    "question": "Številka 2 na skici označuje...\nGlej prilogo (PFA-010)",
+    "answers": [
+      "vpadni kot.",
+      "dolžino tetive.",
+      "debelino profila.",
+      "linijo tetive."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E51-200511-00020_pfa-010.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00025",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.1.5.1",
+    "loText": "Define 'aspect ratio'",
+    "question": "Razmerje med razpetino in srednjo globino krila se imenuje...",
+    "answers": [
+      "trapezoidna oblika.",
+      "puščica krila.",
+      "trapezno krilo.",
+      "vitkost."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00031",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.2.2.1",
+    "loText": "Define and identify the stagnation point (from depictions)",
+    "question": "Katera točka na aeroprofilu je označena s številko 1?\nGlej prilogo (PFA-009)",
+    "answers": [
+      "Mesto prehoda",
+      "Zajezna točka",
+      "Točka separacije",
+      "Center potiska"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E51-200511-00031_pfa-009.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00033",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.2.3.2",
+    "loText": "Describe lift generation in terms of pressure distribution",
+    "question": "Kakšna so tlačna polja, če opazujemo profil, ki ustvarja vzgon s pozitivnim vpadnim kotom?",
+    "answers": [
+      "Na zgornji strani profila se ustvarja visok tlak, na spodnji strani pa nižji tlak.",
+      "Tlak na spodnji strani profila se ne spreminja, na zgornji strani pa se ustvarja nižji tlak.",
+      "Tlak na zgornji strani profila se ne spreminja, na spodnji strani pa se ustvarja višji tlak.",
+      "Na zgornji strani profila se ustvarja nizek tlak, na spodnji strani pa višji tlak."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00041",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.1.4.2",
+    "loText": "Name and identify geometric properties of an airfoil (nose radius, chord, chamber, location of max. thickness, angle of attack etc.)",
+    "question": "Kot (alfa) na skici se imenuje...\nGlej prilogo (PFA-003)\nDoF: smer zračnega toka",
+    "answers": [
+      "vpadni kot.",
+      "kot nagiba.",
+      "kot vzgona.",
+      "konstrukcijski kot."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E51-200511-00041_pfa-003.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00044",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.3.1",
+    "loText": "Describe the influence of washout on an aircraft's stall characteristics",
+    "question": "Katera trditev opisuje prednost zvitja krila?",
+    "answers": [
+      "Z zvitjem krila se zmanjša upor zaradi oblike pri velikih hitrostih.",
+      "Pri velikih vpadnih kotih se učinkovitost krilc ohrani, kolikor je mogoče dolgo.",
+      "Krilo je trdnejše, saj lahko kljubuje večjim torzijskim silam.",
+      "Strukturno je krilo bolj utrjeno proti upogibu."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00045",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.1.8",
+    "loText": "Explain the reduction in lift / cL at increasing AOA using the cLalpha graph",
+    "question": "Katera trditev o vpadnem kotu drži?",
+    "answers": [
+      "Prevelik vpadni kot lahko privede do porušitve vzgona.",
+      "Vpadni kot ne more biti negativen.",
+      "Če se poveča vpadni kot, se zmanjša vzgon.",
+      "Vpadni kot je med letom ves čas enak."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00046",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.5.2.2",
+    "loText": "State that double airspeed results in four times the parasite drag (square law)",
+    "question": "Če se hitrost zračnega toka poveča s faktorjem 2, ostali parametri pa ostanejo nespremenjeni, kako se približno spremeni parazitni upor?",
+    "answers": [
+      "Zmanjša se s faktorjem 4.",
+      "Poveča se s faktorjem 4.",
+      "Poveča se s faktorjem 2.",
+      "Zmanjša se s faktorjem 2."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00048",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.4.2.1",
+    "loText": "Explain the formation of induced drag and tip vortices",
+    "question": "Izenačevanje tlakov se na krilu dogaja ob...",
+    "answers": [
+      "korenih krila.",
+      "koncih krila.",
+      "sprednjem robu krila.",
+      "zadnjem robu krila."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00050",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.4.2.1",
+    "loText": "Explain the formation of induced drag and tip vortices",
+    "question": "Kateri deli zrakoplova predvsem vplivajo na ustvarjanje induciranega upora?",
+    "answers": [
+      "Zunanji del krilc",
+      "Sprednji del trupa",
+      "Spodnji del podvozja",
+      "Konci kril"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.5.4.1",
+    "loText": "State that total drag is composed from parasite drag and induced drag",
+    "question": "Tlačni upor, upor zaradi interference in upor zaradi trenja spadajo pod...",
+    "answers": [
+      "skupni upor.",
+      "inducirani upor.",
+      "parazitni upor.",
+      "glavni upor."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00058",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.5.4.2",
+    "loText": "Explain why total drag is lowest at a certain airspeed",
+    "question": "Kako se inducirani upor in parazitni upor spreminjata z večanjem zračne hitrosti med horizontalnim in premočrtnim letom?",
+    "answers": [
+      "Inducirani upor se zmanjšuje, parazitni upor pa povečuje.",
+      "Parazitni upor se zmanjšuje, inducirani upor pa povečuje.",
+      "Inducirani upor se povečuje, parazitni upor ravno tako.",
+      "Parazitni upor se zmanjšuje, inducirani upor prav tako."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00061",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.4.2.2",
+    "loText": "Describe the change in induced drag in dependence of the aeroplane's angle of attack (air speed)",
+    "question": "Kako učinkuje zmanjševanje zračne hitrosti na inducirani upor med horizontalnim premočrtnim letom?",
+    "answers": [
+      "Inducirani upor se rahlo zmanjša.",
+      "Inducirani upor se poveča.",
+      "Inducirani upor se poruši.",
+      "Inducirani upor se ne spreminja."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00062",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.5.3.1",
+    "loText": "Describe the change in induced drag with increasing air speed",
+    "question": "Katera trditev o induciranem uporu med horizontalnim letom je pravilna?",
+    "answers": [
+      "Inducirani upor se zmanjšuje s povečevanjem zračne hitrosti.",
+      "Inducirani upor se povečuje s povečevanjem zračne hitrosti.",
+      "Inducirani upor ima minimalno vrednost pri določeni hitrosti in se povečuje tako pri večjih kot pri manjših hitrostih.",
+      "Inducirani upor ima maksimalno vrednost pri določeni hitrosti in se zmanjšuje tako pri večjih kot pri manjših hitrostih."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00067",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.5.4.1",
+    "loText": "State that total drag is composed from parasite drag and induced drag",
+    "question": "Katere vrste upora prispevajo k celotnemu uporu?",
+    "answers": [
+      "Inducirani upor in parazitni upor",
+      "Inducirani upor, upor zaradi oblike, upor zaradi trenja",
+      "Upor zaradi interference in parazitni upor",
+      "Upor zaradi oblike, upor zaradi trenja, upor zaradi interference"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.2.7.1",
+    "loText": "Describe the relationship of angle of attack (AOA) with lift coefficient (cL) by use of the cL/AOA graph",
+    "question": "Kako se spremenita vzgon in upor, ko se približujemo pogojem za porušitev vzgona?",
+    "answers": [
+      "Vzgon se poveča, upor pa zmanjša.",
+      "Vzgon in upor se zmanjšata.",
+      "Vzgon in upor se povečata.",
+      "Vzgon se zmanjša, upor pa poveča."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00069",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.4.4",
+    "loText": "Describe the general procedures for preventing imminant stall, if not stated other in AFM/POH",
+    "question": "Če pride do porušitve vzgona, je pomembno...",
+    "answers": [
+      "da povečamo vpadni kot in tudi hitrost.",
+      "da zmanjšamo vpadni kot in povečamo hitrost.",
+      "da povečamo vpadni kot in zmanjšamo hitrost.",
+      "da povečamo nagib in zmanjšamo hitrost."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00073",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.2.2",
+    "loText": "Describe the change in stall speed with varying mass",
+    "question": "Kaj privede do zmanjšanja hitrosti, pri kateri pride do porušitve vzgona Vs (IAS)?",
+    "answers": [
+      "Večja stopnja obremenitve",
+      "Zmanjšanje gostote",
+      "Zmanjšanje mase",
+      "Manjša višina"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00078",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.5.9",
+    "loText": "Describe the general procedures for spin recovery, if not stated other in AFM/POH",
+    "question": "Katera trditev o vriju je pravilna?",
+    "answers": [
+      "Med vrijem se hitrost enakomerno povečuje.",
+      "Med izravnavo iz vrija morajo biti krilca v nevtrali.",
+      "V vrij lahko preidejo samo zelo stara letala.",
+      "Med izravnavo morajo biti krilca odklonjena v nasprotno smer vrtenja."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00091",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.9.1.1",
+    "loText": "Describe a laminar boundary layer and identify it on a streamline pattern",
+    "question": "Laminarna mejna plast na aeroprofilu se nahaja med...",
+    "answers": [
+      "zajezno točko in mestom prehoda.",
+      "mestom prehoda in točko separacije.",
+      "mestom prehoda in centrom potiska.",
+      "zajezno točko in centrom potiska."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00092",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.9.1.2",
+    "loText": "Describe a turbulent layer and identify it on a streamline pattern",
+    "question": "Katere vrste mejnih plasti srečamo na aeroprofilu?",
+    "answers": [
+      "Turbulentno mejno plast vzdolž celotne zgornje konture z odtrganjem mejne plasti.",
+      "Laminarno mejno plast vzdolž celotne zgornje konture brez odtrganja mejne plasti.",
+      "Turbulentno plast pri sprednjem delu krila, laminarno mejno plast pri zadnjem delu krila.",
+      "Laminarno plast pri sprednjem delu krila, turbulentno mejno plast pri zadnjem delu krila."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00096",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.2.4.1.1",
+    "loText": "Explain the influence of wing dihedral on roll stability",
+    "question": "Kateri element strukture letalu zagotavlja prečno stabilnost?",
+    "answers": [
+      "V-lom krila",
+      "Odklon diferencialnih krilc",
+      "Višinsko krmilo",
+      "Vertikalne repne površine"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00098",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.2.4.1.1",
+    "loText": "Explain the influence of wing dihedral on roll stability",
+    "question": "Katera lastnost konstrukcije je prikazana na skici?\nGlej prilogo (PFA-006)\nL: Vzgon",
+    "answers": [
+      "Vzdolžna stabilnost z V-lomom krila",
+      "Smerna stabilnost z ustvarjanjem vzgona",
+      "Odklon diferencialnih krilc",
+      "Prečna stabilnost z V-lomom krila"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E51-200511-00098_pfa-006.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00099",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.3.2.1.3",
+    "loText": "Define the term 'longitudinal stability'",
+    "question": "Vzdolžna stabilnost je stabilnost okrog katere osi?",
+    "answers": [
+      "Osi propelerja",
+      "Vzdolžne osi",
+      "Navpične osi",
+      "Prečne osi"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00100",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.2.3.2.2",
+    "loText": "Explain the effect of the CG location on pitch manoeuvrability and longitudinal stability",
+    "question": "Na stabilnost okrog katere osi predvsem vpliva vzdolžni položaj masnega središča?",
+    "answers": [
+      "Prečne osi",
+      "Osi težnosti",
+      "Vzdolžne osi",
+      "Navpične osi"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00107",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.1.9",
+    "loText": "Describe the 'critical angle of attack' and factors affecting it",
+    "question": "Kritičen vpadni kot...",
+    "answers": [
+      "se spremeni, če se spremeni masa zrakoplova.",
+      "se ne spremeni, če se spremeni masa zrakoplova.",
+      "se zmanjša, če je masno središče pomaknjeno nazaj.",
+      "se poveča, če je masno središče pomaknjeno naprej."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00109",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.2.2.1.1",
+    "loText": "Explain the balancing of moments between wing lift, weight and forces generated by the elevator/horizontal stabilizer",
+    "question": "Čemu služijo horizontalne repne površine (med drugim)?",
+    "answers": [
+      "Stabiliziranju letala okrog vzdolžne osi.",
+      "Stabiliziranju letala okrog prečne osi.",
+      "Da lahko izvedemo zavoj okrog navpične osi.",
+      "Stabiliziranju letala okrog navpične osi."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00112",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.3.2.1.4",
+    "loText": "Describe how the elevator influences flight attitude / flight path",
+    "question": "Višinsko krmilo obrača letalo okrog...",
+    "answers": [
+      "prečne osi.",
+      "navpične osi.",
+      "vzdolžne osi.",
+      "osi višinskega krmila."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00117",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.3.3.1.2",
+    "loText": "Explain the aerodynamic basics of yaw control",
+    "question": "Z odklonom smernega krmila v levo se...",
+    "answers": [
+      "nos letala obrne v desno.",
+      "nos letala spusti.",
+      "nos letala obrne v levo.",
+      "nos letala dvigne."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00120",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.3.4.2.4",
+    "loText": "Describe technical (aerodynamic) means to reduce adverse yaw by differential aileron deflection",
+    "question": "Katera je prednost značilnega gibanja diferencialnih krilc?",
+    "answers": [
+      "Razmerje med koeficientom upora in koeficientom vzgona je povečano.",
+      "Večji sekundarni učinek krilc.",
+      "Skupni vzgon ostane konstanten med odklonom krilc.",
+      "Upor navzdol odklonjenega krilca je manjši in manjši je sekundarni učinek krilc."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00121",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.3.4.2.4",
+    "loText": "Describe technical (aerodynamic) means to reduce adverse yaw by differential aileron deflection",
+    "question": "S katerim elementom zasnove se lahko kompenzira sekundarni učinek krilc?",
+    "answers": [
+      "Z odklonom diferencialnih krilc",
+      "S trimerjem krilc",
+      "Z V-lomom krila",
+      "S polnim odklonom krilc"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00125",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.3.5.1.1",
+    "loText": "Describe the effect of aerodynamic balance by use of balance tabs / servo tabs",
+    "question": "Aerodinamično uravnoteženje smernega krmila...",
+    "answers": [
+      "izboljša učinkovitost smernega krmila.",
+      "zakasni porušitev vzgona.",
+      "zmanjša silo na smerno krmilo.",
+      "zmanjša krmilne površine."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00132",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.4.3.2.2",
+    "loText": "List factors additionally influence gust loads, such as: aspect ratio, speed, wing loading",
+    "question": "S čim opišemo \"obremenitev krila\"?",
+    "answers": [
+      "Masa ulomljeno s površino krila",
+      "Upor ulomljeno s površino krila",
+      "Površina krila ulomljeno z maso",
+      "Upor ulomljeno z maso"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00146",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.7.2.9",
+    "loText": "List situations during which the load factor increases, e.g. during stall recovery, aerobatics, turns or gusts",
+    "question": "Kakšno je v koordiniranem zavoju razmerje med stopnjo obremenitve (n) in hitrostjo, pri kateri pride do porušitve vzgona (Vs)?",
+    "answers": [
+      "n je večja od 1, Vs je večja kot pri premočrtnem vodoravnem letu.",
+      "n je manjša od 1, Vs je manjša kot pri premočrtnem vodoravnem letu.",
+      "n je manjša od 1, Vs je večja kot pri premočrtnem vodoravnem letu.",
+      "n je večja od 1, Vs je manjša kot pri premočrtnem vodoravnem letu."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00148",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.6.1.5.3",
+    "loText": "Explain the equilibrium of forces (weight, lift, drag including the influence of weight on thrust and lift) and depict the forces from a corresponding sketch",
+    "question": "Kako se spremeni ravnotežje sil med zavojem?",
+    "answers": [
+      "Z manjšo silo vzgona se izravna skupno silo, ki je manjša v primerjavi z vodoravnim letom.",
+      "Silo vzgona je treba povečati, da se izravna vsota centrifugalne sile in sile težnosti.",
+      "Horizontalna komponenta sile vzgona med zavojem je centrifugalna sila.",
+      "Skupna sila je rezultanta sile težnosti in centripetalne sile."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00156",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.5.4.1",
+    "loText": "State that total drag is composed from parasite drag and induced drag",
+    "question": "Kakšna zasnova motorja za motorno jadralno letalo TMG ima najmanj upora?",
+    "answers": [
+      "Motor in propeler sta nameščena uvlečljivo na trupu.",
+      "Motor in propeler sta nameščena fiksno na horizontalnem stabilizatorju.",
+      "Motor in propeler sta nameščena fiksno na nosu letala.",
+      "Motor in propeler sta nameščena fiksno na trupu."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00160",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.3.4.2.1",
+    "loText": "Explain the effect of 'adverse yaw'",
+    "question": "Kako lahko opišemo \"sekundarni učinek krilc\"?",
+    "answers": [
+      "Ko uporabimo smerno krmilo, pride do nagibnega momenta v nasprotno smer, ker krilo, ki se giblje hitreje, povzroča več vzgona.",
+      "Ko uporabimo krilca, se nos zrakoplova obrne v nasprotno smer, ker navzdol odklonjeno krilce ustvarja večji upor.",
+      "Ko uporabimo krilca, se nos zrakoplova obrne v želeno smer, ker navzdol odklonjeno krilce ustvarja manjši upor.",
+      "Ko uporabimo krilca, se nos zrakoplova obrne v nasprotno smer, ker navzgor odklonjeno krilce ustvarja večji upor."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E51-200511-00161",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "51.1.6.1.1",
+    "loText": "Explain the effects of entering and leaving ground effect.",
+    "question": "Kaj pomeni \"talni učinek\"?",
+    "answers": [
+      "Zmanjšanje vzgona in induciranega upora blizu tal.",
+      "Povečanje vzgona in zmanjšanje induciranega upora blizu tal.",
+      "Povečanje vzgona in induciranega upora blizu tal.",
+      "Zmanjšanje vzgona in povečanje induciranega upora blizu tal."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K51-2025-005",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Vpadni kot je kot med...",
+    "answers": [
+      "tetivo profila in smerjo zračnega toka pred profilom.",
+      "tetivo profila in vzdolžno osjo letala.",
+      "nemotenim zračnim tokom in vzdolžno osjo letala.",
+      "krilom in trupom letala."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-006",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Številka 3 na skici označuje... (Glej prilogo: PFA-010)",
+    "answers": [
+      "skeletnico profila.",
+      "linijo tetive.",
+      "tetivo.",
+      "debelino."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E51-200511-00020_pfa-010.png"
+    ],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kako se premika položaj centra potiska pri nesimetričnem profilu s povečevanjem vpadnega kota?",
+    "answers": [
+      "Najprej se pomakne naprej, nato nazaj.",
+      "Pomika se nazaj, dokler ne dosežemo kritičnega vpadnega kota.",
+      "Pomika se naprej, dokler ne dosežemo kritičnega vpadnega kota.",
+      "Pomakne se na konce krila."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-016",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Katera trditev o zračnem toku okrog aeroprofila je pravilna, če se vpadni kot zmanjša?",
+    "answers": [
+      "Center potiska se pomakne naprej.",
+      "Zajezna točka se pomakne navzdol.",
+      "Zajezna točka ostane nespremenjena.",
+      "Center potiska se pomakne nazaj."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-018",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšna je pri ustaljenem letu in ob enaki masi razlika, če uporabljamo debelejši aeroprofil namesto tanjšega aeroprofila?",
+    "answers": [
+      "Več upora, enak vzgon",
+      "Več upora, manj vzgona",
+      "Manj upora, enak vzgon",
+      "Manj upora in manj vzgona"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-019",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj kaže polara profila?",
+    "answers": [
+      "Razmerje med cA in cD pod različnimi vpadnimi koti",
+      "Koeficient vzgona cA pod različnimi vpadnimi koti",
+      "Razmerje med celotnim vzgonom in uporom glede na vpadni kot",
+      "Razmerje med najmanjšo hitrostjo spuščanja in najboljšim drsnim letom"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-022",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Zaradi izenačevanja tlakov med zgornjo in spodnjo površino krila se pojavi...",
+    "answers": [
+      "inducirani upor zaradi vrtinčne sledi na koncih krila.",
+      "vzgon zaradi vrtinčne sledi na koncih krila.",
+      "čelni upor zaradi vrtinčne sledi na koncih krila.",
+      "laminarno obtekanje zaradi vrtinčne sledi na koncih krila."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-024",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Pri kateri od naštetih možnosti se bo zelo verjetno ustvaril velik inducirani upor?",
+    "answers": [
+      "Večja vitkost krila",
+      "Trapezna krila",
+      "Manjša vitkost krila",
+      "Majhen koeficient vzgona"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-025",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Katera od naštetih oblik kril ima najmanjši inducirani upor?",
+    "answers": [
+      "Eliptično krilo",
+      "Trapezno krilo",
+      "Pravokotno krilo",
+      "Dvojno trapezno krilo"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-026",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Čemu so namenjeni zavihki kril?",
+    "answers": [
+      "Zmanjšanju induciranega upora.",
+      "Povečanju vzgona in sposobnosti zavijanja.",
+      "Izboljšanju zmogljivosti drsenja pri veliki hitrosti.",
+      "Povečanju učinkovitosti vitkosti."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-027",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kje se ustvarja upor zaradi interference?",
+    "answers": [
+      "Pri krilcih",
+      "Pri podvozju",
+      "Blizu koncev kril",
+      "Pri korenih kril"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-035",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Katera točka na aeroprofilu je označena s številko 3? (Glej prilogo PFA-009)",
+    "answers": [
+      "Mesto prehoda",
+      "Točka separacije",
+      "Zajezna točka",
+      "Center potiska"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E51-200511-00031_pfa-009.png"
+    ],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-036",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Katera točka na aeroprofilu je označena s številko 4? (Glej prilogo PFA-009)",
+    "answers": [
+      "Mesto prehoda",
+      "Točka separacije",
+      "Zajezna točka",
+      "Center potiska"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E51-200511-00031_pfa-009.png"
+    ],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-037",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Katera trditev o vzgonu in vpadnem kotu drži?",
+    "answers": [
+      "Če se vpadni kot preveč poveča, lahko pride do izgubljanja vzgona in odtrganja mejne plasti.",
+      "Če se vpadni kot poveča, aeroprofil ustvarja manj vzgona.",
+      "Če se vpadni kot zmanjša, aeroprofil ustvarja več vzgona.",
+      "Prevelik vpadni kot lahko povzroči eksponentno povečanje vzgona."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-039",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kritičen vpadni kot...",
+    "answers": [
+      "je neodvisen od mase.",
+      "se zmanjša, če je masno središče pomaknjeno naprej.",
+      "se poveča, če je masno središče pomaknjeno nazaj.",
+      "se spreminja z večanjem mase."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-045",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Da bi izboljšali lastnosti letala v prevlečenem letu, je krilo zvito (konstrukcijski kot se spreminja vzdolž razpetine). To imenujemo...",
+    "answers": [
+      "geometrijsko zvitje krila.",
+      "oblika puščice.",
+      "aerodinamično zvitje krila.",
+      "V-oblika."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-046",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Znak česa je \"drhtenje jadralnega letala\", ki ga začutimo na palici višinskega krmila?",
+    "answers": [
+      "Premajhne hitrosti in posledično porušitve vzgona na krilu.",
+      "Prevelike hitrosti in turbulence, ki udarja ob krilca.",
+      "Preveč naprej zamaknjenega masnega središča.",
+      "Zelo umazanega jadralnega letala."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-048",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Med letom z majhno hitrostjo blizu pogojev za porušitev vzgona je levo krilo nižje od desnega. Kako lahko preprečimo porušitev vzgona?",
+    "answers": [
+      "Smerno krmilo v levo, rahlo potisnemo višinsko krmilo, pridobimo nekaj hitrosti, vsa smerna krmila v nevtralo.",
+      "Krilce in smerno krmilo v desno, pridobimo nekaj hitrosti, rahlo potisnemo višinsko krmilo, vsa smerna krmila v nevtralo.",
+      "Potisnemo višinsko krmilo, ohranjamo krila na enaki višini z usklajenimi popravki smernega krmila in krilca.",
+      "Krilce v desno, rahlo potisnemo višinsko krmilo, pridobimo nekaj hitrosti, vsa smerna krmila v nevtralo."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-049",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Smo tik pred tem, da se zaradi porušitve vzgona spusti nos jadralnega letala. S kakšnim popravkom smernega krmila lahko preprečimo strmoglavi let in vrij?",
+    "answers": [
+      "Popustimo višinsko krmilo, smerno krmilo v stran višjega krila.",
+      "Jadralno letalo zadržimo v horizontalnem letu z uporabo pedalov smernega krmila.",
+      "Rahlo povlečemo višinsko krmilo, krilca v stran višjega krila.",
+      "Krilca v nevtralo, smerno krmilo močno v smer nižjega krila."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-050",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšna je razlika med vrijem in spiralo?",
+    "answers": [
+      "Vrij: porušitev vzgona na notranjem krilu, stalna hitrost, Spirala: obtekanje na obeh krilih, hitrost se hitro povečuje",
+      "Vrij: porušitev vzgona na zunanjem krilu, stalna hitrost, Spirala: obtekanje na obeh krilih, hitrost se hitro povečuje",
+      "Vrij: porušitev vzgona na notranjem krilu, hitrost se hitro povečuje, Spirala: obtekanje na obeh krilih, stalna hitrost",
+      "Vrij: porušitev vzgona na zunanjem krilu, hitrost se hitro povečuje, Spirala: obtekanje na obeh krilih, stalna hitrost"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-051",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Med porušitvijo vzgona se vzgon...",
+    "answers": [
+      "poveča in upor zmanjša.",
+      "in upor povečata.",
+      "in upor zmanjšata.",
+      "zmanjša in upor poveča."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-052",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Trim uteži ali svinčene obloge je treba pri nameščanju v jadralno letalo dobro pritrditi, da...",
+    "answers": [
+      "ne bodo blokirale smernega krmila ali povzročile premika masnega središča.",
+      "ne bo presežena največja dovoljena masa.",
+      "bo pilot jadralnega letala še vedno udobno sedel.",
+      "med letom skozi termično turbulenco pilot jadralnega letala ne bo poškodovan."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj lahko pričakujemo, če se pojavi zaledenitev kril?",
+    "answers": [
+      "Povečanje hitrosti, pri kateri pride do porušitve vzgona",
+      "Zmanjšanje upora zaradi trenja",
+      "Izboljšanje zmogljivosti počasnega letenja",
+      "Zmanjšanje hitrosti, pri kateri pride do porušitve vzgona"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-057",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kako se laminarna mejna plast razlikuje od turbulentne mejne plasti?",
+    "answers": [
+      "Turbulentna mejna plast lahko sledi ukrivljenosti profila pri večjih vpadnih kotih.",
+      "Laminarna mejna plast je tanjša in ustvarja več upora zaradi trenja.",
+      "Turbulentna mejna plast je debelejša in ustvarja manj upora zaradi trenja.",
+      "Laminarna mejna plast ustvarja vzgon, turbulentna mejna plast pa ustvarja upor."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-061",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Za stabilizacijo okrog prečne osi med križarjenjem uporabljamo...",
+    "answers": [
+      "horizontalni stabilizator.",
+      "smerno krmilo.",
+      "krilca.",
+      "zakrilca."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-062",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj je treba upoštevati v zvezi s položajem masnega središča?",
+    "answers": [
+      "Le s pravilno razporeditvijo obremenitve lahko zagotovimo pravilen in varen položaj masnega središča.",
+      "Masno središče lahko pomaknemo v pravilen položaj tako, da premaknemo trimer višinskega krmila.",
+      "Masno središče lahko pomaknemo v pravilen položaj tako, da premaknemo trimer krilc.",
+      "Položaj masnega središča lahko ugotovimo samo med letom."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-063",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Zakaj ni dovoljeno vzleteti, če je masno središče pomaknjeno za skrajno dovoljeno zadnjo lego?",
+    "answers": [
+      "Ker z višinskim krmilom morda ne bo mogoče nadzirati lege zrakoplova med letom.",
+      "Ker so morda presežene strukturne omejitve.",
+      "Ker se s tem zelo zmanjša največja dovoljena hitrost.",
+      "Ker morda ne bo mogoče kompenzirati povečanega momenta, ki potiska nos navzdol."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-067",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri element strukture letalu zagotavlja smerno stabilnost?",
+    "answers": [
+      "V-lom krila",
+      "Velike vertikalne repne površine",
+      "Veliko višinsko krmilo",
+      "Odklon diferencialnih krilc"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Vrtenje okrog navpične osi se imenuje...",
+    "answers": [
+      "smer.",
+      "drsenje.",
+      "nagib.",
+      "naklon."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-069",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Vrtenje okrog prečne osi se imenuje...",
+    "answers": [
+      "smer.",
+      "naklon.",
+      "nagib.",
+      "porušitev vzgona."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-072",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Odklon smernega krmila povzroči vrtenje letala okrog...",
+    "answers": [
+      "navpične osi.",
+      "prečne osi.",
+      "vzdolžne osi.",
+      "osi smernega krmila."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-074",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Desno krilce se odkloni navzgor, levo pa navzdol. Kako se odzove letalo?",
+    "answers": [
+      "Nagne se v levo, brez spremembe smeri.",
+      "Nagne se v levo, nos se obrne v desno.",
+      "Nagne se v desno, nos se obrne v desno.",
+      "Nagne se v desno, nos se obrne v levo."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-078",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Z odklonom diferencialnih krilc se...",
+    "answers": [
+      "doseže zmanjšanje brazdne turbulence.",
+      "prepreči porušitev vzgona pri majhnih vpadnih kotih.",
+      "zmanjša sekundarni učinek krilc.",
+      "poveča hitrost spuščanja."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-080",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri konstrukcijski element je namenjen zmanjšanju sil na komandah?",
+    "answers": [
+      "Odklon diferencialnih krilc",
+      "Aerodinamično uravnoteženje smernega krmila",
+      "Turbulator",
+      "T-rep"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-081",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Čemu služi statično uravnoteženje smernega krmila?",
+    "answers": [
+      "Z njim preprečujemo drhtenje (ang. flutter) krmilnih površin.",
+      "Z njim zmanjšujemo silo na smerno krmilo.",
+      "Z njim povečujemo silo na smerno krmilo.",
+      "Z njim trimamo komande do te mere, da krmilo popolnoma razbremenimo."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-082",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Trimer na višinskem krmilu je odklonjen navzgor. V katerem položaju je ustrezni indikator?",
+    "answers": [
+      "V nevtralnem položaju",
+      "Lateralno triman",
+      "Položaj z nosom navzgor",
+      "Položaj z nosom navzdol"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-085",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Prek katerega od naštetih dejavnikov se med letom poveča stopnja obremenitve?",
+    "answers": [
+      "Sunek vetra navzgor",
+      "Večja masa letala",
+      "Prednja lega masnega središča",
+      "Manjša gostota zraka"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-086",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Med premočrtnim letom s stalno močjo motorja je vpadni kot na krilu...",
+    "answers": [
+      "večji kot med vzpenjanjem.",
+      "manjši kot med vzpenjanjem.",
+      "večji kot med vzletom.",
+      "manjši kot med spuščanjem."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-087",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Jadralno letalo leti z dodatnim vodnim balastom. Kako se razlikujeta najboljši drsni kot in najboljša drsna hitrost v primerjavi z letenjem brez vodnega balasta?",
+    "answers": [
+      "Najboljši drsni kot je nespremenjen, najboljša drsna hitrost pa se poveča.",
+      "Najboljši drsni kot se poveča, najboljša drsna hitrost ravno tako.",
+      "Najboljši drsni kot je nespremenjen, najboljša drsna hitrost pa se zmanjša.",
+      "Najboljši drsni kot se zmanjša, najboljša drsna hitrost ravno tako."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-010",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Kakšen vzorec opazimo na zajezni točki?",
+    "answers": [
+      "Laminarna mejna plast se pretvori v turbulentno mejno plast.",
+      "Tokovnice se razdelijo v zračni tok nad in pod profilom.",
+      "Mejna plast na zgornji površini profila se začne ločevati.",
+      "V tej točki pravimo, da prijemljejo vse aerodinamične sile."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-011",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Katera trditev o zračnem toku okrog aeroprofila je pravilna, če se vpadni kot poveča?",
+    "answers": [
+      "Zajezna točka se pomakne navzgor.",
+      "Zajezna točka se pomakne navzdol.",
+      "Center potiska se pomakne navzdol.",
+      "Center potiska se pomakne navzgor."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K51-2025-013",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 51,
+    "subjectName": "Principles of Flight (Aeroplane)",
+    "lo": "",
+    "loText": "",
+    "question": "Za vse aerodinamične sile lahko štejemo, da imajo prijemališče v eni sami točki. Ta točka se imenuje...",
+    "answers": [
+      "masno središče.",
+      "center potiska.",
+      "točka vzgona.",
+      "mesto prehoda."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

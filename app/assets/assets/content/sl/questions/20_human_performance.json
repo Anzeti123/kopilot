@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "E20-200511-00001",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.2.1.1",
+    "loText": "Name and explain the factors that influence human reliability",
+    "question": "Večina letalskih nesreč se zgodi zaradi...",
+    "answers": [
+      "geografskih vplivov.",
+      "tehnične okvare.",
+      "človeškega faktorja.",
+      "vremenskih vplivov."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00006",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.2.2.1",
+    "loText": "Explain the concept of the 'error chain' ('swiss cheese' model)",
+    "question": "\"Model švicarskega sira\" lahko uporabimo za razlago...",
+    "answers": [
+      "optimalne rešitve problema.",
+      "postopka za zasilni pristanek.",
+      "pilotovega stanja pripravljenosti.",
+      "kritičnega sosledja napak."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00009",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.1.1.2",
+    "loText": "State in terms of % the parts of Oxygen, Nitrogen and other gases present in the atmosphere",
+    "question": "Kolikšen je delež kisika v atmosferi na višini 6000 ft?",
+    "answers": [
+      "18.9 %",
+      "12 %",
+      "78 %",
+      "21 %"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00013",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.1.1.3",
+    "loText": "State the effects of increasing altitude on the overall pressure and partial pressures of the various gases in the atmosphere",
+    "question": "Na kateri višini doseže atmosferski tlak približno polovico vrednosti srednjega morskega nivoja (1013 hPa)?",
+    "answers": [
+      "22000 ft",
+      "10000 ft",
+      "5000 ft",
+      "18000 ft"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00014",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.1.1.2",
+    "loText": "State in terms of % the parts of Oxygen, Nitrogen and other gases present in the atmosphere",
+    "question": "Zrak sestavljajo kisik, dušik in drugi plini.\nKolikšen je približno delež drugih plinov?",
+    "answers": [
+      "1 %",
+      "78 %",
+      "0.1 %",
+      "21 %"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.1.2.10",
+    "loText": "List the sources and symptoms of carbonmonoxide poisoning",
+    "question": "Zastrupitev z ogljikovim monoksidom je lahko posledica...",
+    "answers": [
+      "pomanjkanja spanca.",
+      "alkohola.",
+      "kajenja.",
+      "nezdrave prehrane."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00020",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.1.2.16",
+    "loText": "List the signs and symptoms of hyperventilation",
+    "question": "Katero od naštetih NI simptom hiperventilacije?",
+    "answers": [
+      "Krči",
+      "Ščemenje",
+      "Cianoza",
+      "Motnje zavesti"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00021",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.1.2.13",
+    "loText": "State the symptoms of hypoxia",
+    "question": "Kateri od naštetih simptomov lahko kaže na hipoksijo?",
+    "answers": [
+      "Pomodrelost ustnic in nohtov",
+      "Modri madeži po vsem telesu",
+      "Mišični krči v zgornjem delu telesa",
+      "Bolečine v kolenskih sklepih in stopalih"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00024",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.1.2.4",
+    "loText": "State that the body starts to react on decreasing atmospheric pressure at approx. 5000  7000 ft",
+    "question": "Od katere višine naprej se telo običajno začne odzivati na zmanjševanje atmosferskega tlaka?",
+    "answers": [
+      "7000 čevljev",
+      "2000 čevljev",
+      "12000 čevljev",
+      "10000 čevljev"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00038",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.5.7",
+    "loText": "List the measures to prevent or overcome spatial disorientation",
+    "question": "Kako se pravilno odzovemo, ko potnik med letom nenadoma občuti močno nelagodje?",
+    "answers": [
+      "Damo mu dodaten kisik in se izogibamo nizkim stopnjam obremenitve.",
+      "Vključimo gretje in mu damo grelno odejo.",
+      "Prilagodimo temperaturo v kabini in zrakoplov čim manj nagibamo.",
+      "Izogibamo se pogovoru in povečamo zračno hitrost."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00040",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.1.1",
+    "loText": "Describe the role of the autonomic nervous system",
+    "question": "Kako se pravilno imenuje sistem, ki med drugim uravnava dihanje, prebavo in srčni utrip?",
+    "answers": [
+      "Skladno živčevje",
+      "Kritično živčevje",
+      "Avtonomno živčevje ali vegetativno živčevje",
+      "Avtomatsko živčevje"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00043",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.2.5",
+    "loText": "Explain the 'parallax error'",
+    "question": "Kaj je napaka zaradi paralakse?",
+    "answers": [
+      "Starostna daljnovidnost, zlasti ponoči",
+      "Napačna zaznava hitrosti med voženjem",
+      "Napaka v dešifriranju v komunikaciji med pilotoma",
+      "Napačno branje instrumentov, ki je posledica gledanja pod kotom"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00044",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.2.6",
+    "loText": "Describe the effect of UV ray protection of the retina by wearing sunglasses",
+    "question": "Na katero lastnost morajo biti pozorni piloti pri izbiri sončnih očal?",
+    "answers": [
+      "Ne smejo imeti filtra UV žarkov.",
+      "Stekla ne smejo biti polarizirana.",
+      "Imeti morajo zakrivljena držala.",
+      "Biti morajo iz nezlomljivega materiala."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00048",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.3.1",
+    "loText": "State the basic parts and functions of the outer, the middle and the inner ear",
+    "question": "Povezava med srednjim ušesom ter nosno votlino in grlom se imenuje...",
+    "answers": [
+      "evstahijeva cev.",
+      "bobnič.",
+      "polž.",
+      "notranje uho."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00049",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.3.3.1",
+    "loText": "Explain the role of the 'Eustachian tube' in equalising pressure between the middle ear and the environment",
+    "question": "V katerem od opisanih primerov NI mogoče izenačiti tlaka med srednjim ušesom in okolico?",
+    "answers": [
+      "Če dihamo samo skozi usta.",
+      "Med blagim in počasnim vzpenjanjem.",
+      "Če imamo zamašeno evstahijevo cev.",
+      "Če so vsa okna povsem zaprta."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00052",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.5.6",
+    "loText": "Explain that the vestibular organ accommodates to steady loads and accelerations  e.g. during banked turns  and that illusions might arise when ending the turn",
+    "question": "Ko poravnamo krila po dlje trajajočem zavoju, to lahko povzroči občutek...",
+    "answers": [
+      "da se začenjamo spuščati.",
+      "da smo še vedno v zavoju v isto smer kot dotlej.",
+      "da se začenjamo vzpenjati.",
+      "da smo v zavoju v nasprotno smer."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00059",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.5.8",
+    "loText": "List approach and landing illusions for slope of the runway, blackhole approach and terrain around runway",
+    "question": "Kakšen občutek lahko dobi pilot med priletom proti vzletno-pristajalni stezi, ki ima naklon navzgor?",
+    "answers": [
+      "Da je pred njim trd pristanek.",
+      "Da bo pristal poleg središčnice steze.",
+      "Da leti prenizko.",
+      "Da leti previsoko."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00060",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.5.2",
+    "loText": "Describe the cause of 'vertigo' as a mismatch between the vestibular organ inputs and optical/visual inputs",
+    "question": "Pojav vrtoglavice je najbolj verjeten, ko premikamo glavo...",
+    "answers": [
+      "med zavojem.",
+      "med vzpenjanjem.",
+      "med premočrtnim horizontalnim letom.",
+      "med spuščanjem."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00061",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.1.2.20",
+    "loText": "List the effects of positive and negative acceleration (Gload)",
+    "question": "Pojav \"sive koprene\" pred očmi (ang. \"grey-out\") je posledica...",
+    "answers": [
+      "hipoksije.",
+      "pozitivnih G-pospeškov.",
+      "hiperventilacije.",
+      "utrujenosti."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00062",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.2.5.5",
+    "loText": "Explain how optical illusions typically occur due to misinterpretation of visual inputs by the brain",
+    "question": "Optične iluzije so najpogosteje posledica...",
+    "answers": [
+      "napačnega tolmačenja slike v možganih.",
+      "hitrih premikov očesa.",
+      "binokularnega vida.",
+      "barvne slepote."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00065",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.3.4.3",
+    "loText": "State the ‘unit’ of alcohol and state the approximate elimination rate from the blood",
+    "question": "Stopnja alkohola v krvi se pri odraslem v eni uri povprečno zmanjša za...",
+    "answers": [
+      "0.01 odstotka.",
+      "0.03 odstotka.",
+      "0.1 odstotka.",
+      "0.3 odstotka."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00067",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.2.3.3.9",
+    "loText": "State that harmful effects obesity can cause: developing coronary problems, developing diabetes, reduced ability to withstand Gforces, problems with the joints of the limbs, general circulatory problems",
+    "question": "Katero od spodaj naštetih je dejavnik tveganja za sladkorno bolezen?",
+    "answers": [
+      "Pitje alkohola",
+      "Kajenje",
+      "Prevelika telesna masa",
+      "Pomanjkanje spanca"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00073",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.1.3.2",
+    "loText": "State the average maximum number of separate items that may be held in working memory: 7 plus/minus 2 (Miller's number)",
+    "question": "Katera trditev v zvezi s kratkoročnim spominom je pravilna?",
+    "answers": [
+      "30 do 60 sekund lahko hrani 10 (±5) podatkov.",
+      "1 do 2 minuti lahko hrani 5 (±2) podatkov.",
+      "5 do 10 sekund lahko hrani 3 (±1) podatke.",
+      "10 do 20 sekund lahko hrani 7 (±2) podatkov."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00075",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.1.3.1",
+    "loText": "Explain the link between the types of memory (sensory, working/shortterm and longterm memory)",
+    "question": "Približno kako dolgo lahko kratkoročni spomin hrani podatke?",
+    "answers": [
+      "3 do 7 sekund",
+      "10 do 20 sekund",
+      "30 do 40 sekund",
+      "35 do 50 sekund"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00076",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.2.2.2",
+    "loText": "State the meaning and consequences of 'latent errors'",
+    "question": "Kaj je latentna ali prikrita napaka?",
+    "answers": [
+      "Napaka, ki ima posledice šele po pristanku.",
+      "Napaka, ki jo je pilot naredil aktivno in zavestno.",
+      "Napaka, ki v sistemu dolgo ostane neodkrita.",
+      "Napaka, ki takoj učinkuje na komande."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00080",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.4.1.2",
+    "loText": "Describe the term 'situation awareness'",
+    "question": "Konstantni proces spremljanja trenutne situacije v letu se imenuje...",
+    "answers": [
+      "postopek preverjanja s predvidevanjem.",
+      "situacijsko razmišljanje.",
+      "konstantno preverjanje leta.",
+      "situacijsko zavedanje."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00082",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.4.2.3",
+    "loText": "Describe the advantages and possible problems of using 'social' and 'professional' language in high and lowworkload situations",
+    "question": "Ko govorimo o modelu komuniciranja, kako lahko zagotovimo uporabo istega koda med radijsko komunikacijo?",
+    "answers": [
+      "Z uporabo radiov, ki so certificirani izključno za uporabo v letalstvu",
+      "Z dodelitvijo posebne frekvence",
+      "Z uporabo dobrih slušalk",
+      "Z uporabo radijske frazeologije"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00086",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.2.2.3",
+    "loText": "Describe social (group) effects on error generation",
+    "question": "V katerih okoliščinah je večja verjetnost, da bomo sprejeli večje tveganje?",
+    "answers": [
+      "Med načrtovanjem leta, ko je napovedano odlično vreme.",
+      "Ko na nas deluje učinek skupinske dinamike.",
+      "Če nimamo na voljo dovolj informacij.",
+      "Med letom za preverjanje, ker smo takrat bolj živčni."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00088",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.5.2.1",
+    "loText": "Explain dangerous attitudes in aviation, e.g. impulsivity, invulnerability, complacency, resignation",
+    "question": "Kateri nevarni osebni stališči se pogosto pojavljata skupaj?",
+    "answers": [
+      "Mačizem in neranljivost",
+      "Impulzivnost in previdnost",
+      "Samozanemarjanje in mačizem",
+      "Neranljivost in samozanemarjanje"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00089",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.5.2.1",
+    "loText": "Explain dangerous attitudes in aviation, e.g. impulsivity, invulnerability, complacency, resignation",
+    "question": "Kako se v obnašanju izraža mačizem?",
+    "answers": [
+      "S temeljito opravljeno oceno tveganja v neznanih situacijah",
+      "V nevarnih letalskih manevrih z željo narediti vtis na gledalce",
+      "V pozorno opravljenem pregledu zrakoplova",
+      "S hitro obupanostjo v kompleksnih in kritičnih situacijah"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00090",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.2.1.2",
+    "loText": "Explain the effect of 'confirmation bias'",
+    "question": "Kateri dejavnik lahko vodi do človeške napake?",
+    "answers": [
+      "Dvojno preverjanje upoštevnih ukrepov",
+      "Dvom, kadar se nekaj zdi nejasno ali dvoumno",
+      "Pristranskost, da vidimo tisto, kar pričakujemo, da bomo videli",
+      "Pravilna uporaba kontrolnih seznamov"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00091",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.5.1.2",
+    "loText": "Describe the factors that determine an individual's behaviour",
+    "question": "Katera je najboljša kombinacija osebnostnih lastnosti, ko govorimo o osebnih stališčih in obnašanju pilota?",
+    "answers": [
+      "Introvertiran - nestabilen",
+      "Introvertiran - stabilen",
+      "Ekstrovertiran - stabilen",
+      "Ekstrovertiran - nestabilen"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00092",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.5.2.1",
+    "loText": "Explain dangerous attitudes in aviation, e.g. impulsivity, invulnerability, complacency, resignation",
+    "question": "Samozadovoljnost (ang. complacency) pomeni tveganje zaradi...",
+    "answers": [
+      "velikega števila napak, ki jih običajno storijo ljudje.",
+      "boljših možnosti usposabljanja za mlade pilote.",
+      "čedalje bolj avtomatizirane pilotske kabine.",
+      "velikega odstotka napak tehničnih sistemov."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00093",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.6.1.3",
+    "loText": "Describe the relationship between stress and performance",
+    "question": "V kateri točki na diagramu je idealna raven vzbujenosti?\nGlej prilogo (HPL- 002)\nP = zmogljivosti\nA = vzbujenost / stres",
+    "answers": [
+      "V točki B",
+      "V točki A",
+      "V točki D",
+      "V točki C"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E20-200511-00093_hpl-002.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00096",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.6.1.7",
+    "loText": "Describe the effect of human underload/overload on cockpit performance",
+    "question": "V kateri točki na diagramu bo imel pilot občutek preobremenjenosti?\nGlej prilogo (HPL-002)\nP = zmogljivosti\nA = vzbujenost / stres",
+    "answers": [
+      "V točki B",
+      "V točki A",
+      "V točki C",
+      "V točki D"
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [
+      "E20-200511-00096_hpl-002.png"
+    ],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00098",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.6.1.4",
+    "loText": "List human properties that are affectd by stress",
+    "question": "Na katere od naštetih sposobnosti vpliva stres?\n1. Pozornost\n2. Koncentracija\n3. Odzivnost\n4. Spomin",
+    "answers": [
+      "1, 2, 3, 4",
+      "2, 4",
+      "1, 2, 3",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E20-200511-00101",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "20.3.3.1.2",
+    "loText": "Describe the process of decisionmaking in the cockpit",
+    "question": "Med letom morate rešiti nek problem.\nKako boste to storili?",
+    "answers": [
+      "Med letom ni časa za reševanje problemov.",
+      "Prednost dam pilotiranju, poskrbim za stabilnost letala, nato pa se lotim reševanja problema, medtem ko še naprej pilotiram.",
+      "Po radijski zvezi na pomoč pokličem drugega pilota in letim dalje.",
+      "Takoj rešim problem, če ne gre, pa pogledam v operativni priročnik."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K20-2025-002",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Kolikšen je delež dušika v atmosferi?",
+    "answers": [
+      "21 %",
+      "78 %",
+      "1 %",
+      "0.1 %"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-004",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Katero funkcijo opravljajo rdeče krvne celice (eritrociti)?",
+    "answers": [
+      "Prenos kisika.",
+      "Obrambo pred okužbami.",
+      "Strjevanje krvi.",
+      "Uravnavanje sladkorja v krvi."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-005",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Katera višina je tista spodnja meja, pri kateri telo ne zmore več v celoti izenačiti učinkov nizkega atmosferskega tlaka?",
+    "answers": [
+      "7000 čevljev",
+      "5000 čevljev",
+      "12000 čevljev",
+      "22000 čevljev"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-007",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Katero funkcijo opravljajo krvne ploščice (trombociti)?",
+    "answers": [
+      "Prenos kisika.",
+      "Obrambo pred okužbami.",
+      "Strjevanje krvi.",
+      "Uravnavanje sladkorja v krvi."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-008",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Katero funkcijo opravljajo bele krvne celice (levkociti)?",
+    "answers": [
+      "Prenos kisika.",
+      "Obrambo pred okužbami.",
+      "Strjevanje krvi.",
+      "Uravnavanje sladkorja v krvi."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-009",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Katere od naštetih celic skrbijo za strjevanje krvi?",
+    "answers": [
+      "Rdeče krvne celice (eritrociti).",
+      "Bele krvne celice (levkociti).",
+      "Krvne ploščice (trombociti).",
+      "Kapilare arterij."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-011",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Na katerega od človeških čutov hipoksija najbolj vpliva?",
+    "answers": [
+      "Na slušno zaznavanje (sluh).",
+      "Na tipno zaznavanje (tip).",
+      "Na vizualno zaznavanje (vid).",
+      "Na olfaktorno zaznavanje (voh)."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-013",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri od naštetih dejavnikov NI dejavnik tveganja za hipoksijo?",
+    "answers": [
+      "Darovanje krvi.",
+      "Kajenje.",
+      "Menstrucija.",
+      "Potapljanje."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj pomeni izraz \"red-out\" oziroma pojav \"rdeče zavese\" pred očmi?",
+    "answers": [
+      "Rdeč vid ob negativnem G-pospešku",
+      "Anemijo zaradi poškodbe",
+      "Lažno zaznavanje barv med sončnim vzhodom in zahodom",
+      "Izpuščaj med dekompresijsko boleznijo"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-023",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri od naštetih primerov NE povzroča morske bolezni?",
+    "answers": [
+      "Letenje pod vplivom alkohola.",
+      "Premočrtni horizontalni let brez pospeševanja.",
+      "Premikanje glave med zavoji.",
+      "Turbulenca med horizontalnim letom."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-024",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Katera optična iluzija se lahko pojavi med priletom, če ima vzletno-pristajalna steza naklon navzgor?",
+    "answers": [
+      "Pilot ima občutek, da je v priletu prenizek in zato do vzletno-pristajalne steze leti nad predpisano priletno ravnino.",
+      "Pilot ima občutek, da je v priletu prehiter, in zato zmanjša hitrost pod običajno priletno hitrost.",
+      "Pilot ima občutek, da je v priletu previsok in se zato spusti pod predpisano priletno ravnino.",
+      "Pilot ima občutek, da je v priletu prepočasen, in zato poveča hitrost nad običajno priletno hitrost."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-028",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Kateri izraz označuje nehoten in stereotipen odgovor organizma na draženje nekega receptorja?",
+    "answers": [
+      "Refleks.",
+      "Redukcija.",
+      "Virulenca.",
+      "Koherenca."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K20-2025-044",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 20,
+    "subjectName": "Human Performance",
+    "lo": "",
+    "loText": "",
+    "question": "Katera trditev o stresu je pravilna?",
+    "answers": [
+      "Stres in njegovi simptomi za varnost leta niso pomembni.",
+      "Vsi se na stres odzivamo na enak način.",
+      "Stres se lahko pojavi takrat, ko se zdi, da za nek problem ni rešitve.",
+      "Usposabljanje in izkušnje na pojav stresa ne vplivajo."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

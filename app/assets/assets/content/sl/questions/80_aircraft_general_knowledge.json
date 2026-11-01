@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "E80-200511-00003",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.1.1.1",
+    "loText": "Describe the following types of design and their advantages and disadvantages: highmounted wing, lowmounted wing, low or midset tailplane, Ttail",
+    "question": "Debelina krila je opredeljena kot razdalja med spodnjo in zgornjo stranjo krila na...",
+    "answers": [
+      "skrajnem notranjem delu krila.",
+      "najdebelejšem delu krila.",
+      "skrajnem zunanjem delu krila.",
+      "najtanjšem delu krila."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00004",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.1.1.2",
+    "loText": "Describe different types of constructions: grid, sandwich",
+    "question": "Kako imenujemo ogrodje iz jeklenih cevi in oplate, ki ni samonosna?",
+    "answers": [
+      "Satasta konstrukcija",
+      "Pollupinasta konstrukcija",
+      "Paličasta konstrukcija",
+      "Lupinasta konstrukcija"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00005",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.2.2.1",
+    "loText": "Describe the construction and the function of the following structural components of a fuselage: frames, bulkhead, stiffeners, stringers, longerons, skin",
+    "question": "Iz katerih sestavnih delov so običajno izdelane glavne strukture trupa lesenih ali kovinskih letal?",
+    "answers": [
+      "Iz okvirjev in vzdolžnic",
+      "Iz reber, okvirjev in oblog",
+      "Iz nosilcev, reber in vzdolžnic",
+      "Iz oblog, vzdolžnic in oblikovnih elementov"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00007",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.2.1.1",
+    "loText": "Describe different types of fuselage constructions: monocoque, semimonocoque, truss",
+    "question": "Strukturo, sestavljeno iz okvirjev in vzdolžnic z nosilno oplato, imenujemo...",
+    "answers": [
+      "Pollupinasta konstrukcija",
+      "Lesena ali kombinirana konstrukcija",
+      "Paličasta konstrukcija",
+      "Satasta konstrukcija"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00009",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.1.1.3",
+    "loText": "Name and identify typical parts of the wing and tail and control surfaces",
+    "question": "Kateri so glavni sestavni deli repa zrakoplova?",
+    "answers": [
+      "Smerno krmilo in krilca",
+      "Krmilo in pedali",
+      "Horizontalne in vertikalne repne površine",
+      "Krilca in višinsko krmilo"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00010",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.1.1.2",
+    "loText": "Describe different types of constructions: grid, sandwich",
+    "question": "Sendvič konstrukcija je izdelana iz dveh...",
+    "answers": [
+      "debelih plošč in lahkega polnila v jedru.",
+      "tankih plošč in lahkega polnila v jedru.",
+      "tankih plošč in težkega polnila v jedru.",
+      "debelih plošč in težkega polnila v jedru."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00012",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.1.2.1",
+    "loText": "Eplain the general assembly of a wing: (main) spar, wing nose, spars, ribs, ailerons, flaps, skin or fabric cover",
+    "question": "Kateri konstrukcijski elementi dajejo krilu obliko profila?",
+    "answers": [
+      "Vzdolžni nosilec",
+      "Oplata",
+      "Rebra",
+      "Zaključek krila"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00013",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.1.1.2.3",
+    "loText": "Define the 'load factor (n)'",
+    "question": "Stopnja obremenitve \"n\" opisuje razmerje med ...",
+    "answers": [
+      "potiskom in uporom.",
+      "vzgonom in težo.",
+      "uporom in vzgonom.",
+      "težo in potiskom."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00014",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.1.1.2",
+    "loText": "Describe different types of constructions: grid, sandwich",
+    "question": "Katere so prednosti sendvič konstrukcij?",
+    "answers": [
+      "Višja temperaturna obstojnost in nižja masa",
+      "Nižja masa, višja togost, višja stabilnost in višja trdnost",
+      "Višja trdnost in dobra oblikovalnost",
+      "Dobra oblikovalnost in višja temperaturna obstojnost"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.2.1.2.3",
+    "loText": "State different types of materials for the construction of wings (e.g. sheet metal, wood, or fabric cover)",
+    "question": "Kateri od naštetih materialov ima najvišjo stopnjo trdnosti?",
+    "answers": [
+      "Magnezij",
+      "Plastična masa, ojačana z ogljikovimi vlakni",
+      "Aluminij",
+      "Les"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00029",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.1.1.2.5",
+    "loText": "State that excessive stress can be exerted on the structure when exceeding the manoeuvring speed in heavy gusts",
+    "question": "Struktura trupa se lahko poškoduje...",
+    "answers": [
+      "ob porušitvi vzgona, potem ko smo presegli največji vpadni kot.",
+      "če prekoračimo manevrirno hitrost v močnih sunkih vetra.",
+      "z nevtralizacijo sil na komandah glede na dejansko stanje leta.",
+      "če zračna hitrost pade pod določeno vrednost."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00035",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.5.1.2.2",
+    "loText": "State which control surfaces initiates rotation around which axis, and how these movements are called ('roll' / 'pitch' / 'yaw')",
+    "question": "Po koliko oseh se giblje zrakoplov in kako se te osi imenujejo?",
+    "answers": [
+      "3, os x, os y, os z",
+      "3, navpična os, prečna os, vzdolžna os",
+      "4, navpična os, prečna os, vzdolžna os, os hitrosti",
+      "4, optična os, navidezna os, povešena os, os zla"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00036",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.5.1.2.2",
+    "loText": "State which control surfaces initiates rotation around which axis, and how these movements are called ('roll' / 'pitch' / 'yaw')",
+    "question": "Gibanje okrog vzdolžne osi se primarno doseže...",
+    "answers": [
+      "s trimerjem.",
+      "z višinskim krmilom.",
+      "s smernim krmilom.",
+      "s krilci."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00042",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.5.1.2.2",
+    "loText": "State which control surfaces initiates rotation around which axis, and how these movements are called ('roll' / 'pitch' / 'yaw')",
+    "question": "Kakšni so primarni in sekundarni učinki premika smernega krmila v levo?",
+    "answers": [
+      "Primarni: odklon v desno\nSekundarni: nagib v desno",
+      "Primarni: odklon v levo\nSekundarni: nagib v desno",
+      "Primarni: odklon v levo\nSekundarni: nagib v levo",
+      "Primarni: odklon v desno\nSekundarni: nagib v levo"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00044",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.5.1.2.2",
+    "loText": "State which control surfaces initiates rotation around which axis, and how these movements are called ('roll' / 'pitch' / 'yaw')",
+    "question": "Kaj se zgodi, če volan ali krmilno palico povlečemo nazaj?",
+    "answers": [
+      "Rep zrakoplova povzroči manjšo silo navzgor, kar povzroči spust nosu zrakoplova.",
+      "Rep zrakoplova povzroči večjo silo navzgor, kar povzroči dvig nosu zrakoplova.",
+      "Rep zrakoplova povzroči večjo silo navzdol, kar povzroči dvig nosu zrakoplova.",
+      "Rep zrakoplova povzroči večjo silo navzdol, kar povzroči spust nosu zrakoplova."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00051",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.5.2.1.1",
+    "loText": "Define 'secondary flight controls' and describe their purpose",
+    "question": "Kaj je namen sekundarnih komand leta?",
+    "answers": [
+      "Pilotu omogočajo krmarjenje gibanja zrakoplova po njegovih treh oseh.",
+      "Izboljšajo zmogljivosti zrakoplova in prek zmanjšanja sil na komandah zmanjšajo obremenitev pilota.",
+      "Izboljšajo zmožnost obračanja zrakoplova pri majhni hitrosti med priletom in pristajanjem.",
+      "Predstavljajo rezervni sistem za primarne komande leta."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00054",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.5.2.1.3",
+    "loText": "Describe the movement of trim tabs to achieve a required rudder deflection for trim",
+    "question": "Pilot pomakne krmilo ali ročico trimerja v pilotski kabini nazaj.\nKaj se tedaj zgodi s trimerjem in višinskim krmilom?",
+    "answers": [
+      "Trimer se premakne navzgor, višinsko krmilo se premakne navzdol.",
+      "Trimer se premakne navzdol, višinsko krmilo se premakne navzdol.",
+      "Trimer se premakne navzgor, višinsko krmilo se premakne navzgor.",
+      "Trimer se premakne navzdol, višinsko krmilo se premakne navzgor."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00055",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.5.2.1.3",
+    "loText": "Describe the movement of trim tabs to achieve a required rudder deflection for trim",
+    "question": "Če uravnovešamo nos zrakoplova navzgor, v katero smer se premakne trimer?",
+    "answers": [
+      "Navzgor",
+      "Navzdol",
+      "V smer odklona smernega krmila",
+      "Odvisno od položaja masnega središča"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00159",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.1.2.1",
+    "loText": "Describe a typical pitot/static system and list the different instruments connected to the sources",
+    "question": "Pitot-statični sistem potrebujemo za...",
+    "answers": [
+      "preprečevanje nabiranja statičnega naboja na zrakoplovu.",
+      "preprečevanje zaledenitve Pitotove cevi.",
+      "merjenje skupnega in statičnega tlaka.",
+      "nastavitev kazanja merilnika hitrosti na nič, ko je zrakoplov nepremično na tleh."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00160",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.1.2.1",
+    "loText": "Describe a typical pitot/static system and list the different instruments connected to the sources",
+    "question": "Kateri tlak zaznava Pitotova cev?",
+    "answers": [
+      "Zračni tlak v kabini",
+      "Dinamični zračni tlak",
+      "Skupni zračni tlak",
+      "Statični zračni tlak"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00163",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.4.2.1",
+    "loText": "Describe and identify how vertical speed can be displayed on: analog instruments (pointer), integrated electronic instruments (e.g. arrow/pointer)",
+    "question": "Kratica QFE označuje...",
+    "answers": [
+      "magnetno smer od zrakoplova do sredstva.",
+      "zračni tlak na referenčni točki, običajno je to prag vzletno-pristajalne steze letališča.",
+      "zračni tlak, nastavljen na gladino morja, z uporabo mednarodne standardne atmosfere (ISA).",
+      "višino nad referenčnim tlačnim nivojem 1013,25 hPa."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00165",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.3.1",
+    "loText": "Explain the operating principles of a barometric altimeter",
+    "question": "Čemu je namenjena pomožna barometrska skala?",
+    "answers": [
+      "Z njo se prilagodi kazanje višinomera za nestandardno temperaturo.",
+      "Z njo se kazanje višinomera nastavi na vnaprej določen nivo, na primer srednji morski nivo, nadmorsko višino letališča ali tlačno višino 1013,25 hPa.",
+      "Z njo se popravi kazanje višinomera v primeru sistemskih napak.",
+      "Z njo se nastavi referenčni nivo za dekoder višine transponderja."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00166",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.3.2",
+    "loText": "Explain the procedure for setting the correct pressure reference",
+    "question": "Kako lahko pomožna barometrska skala, ki je nastavljena na nepravilno vrednost QNH, privede do nepravilnega odčitka višinomera?",
+    "answers": [
+      "Če je pomožna barometrska skala nastavljena na tlak, višji od dejanskega, je odčitek prevelik. To lahko pomeni, da smo veliko bližje tlem, kot smo nameravali biti.",
+      "Če je pomožna barometrska skala nastavljena na tlak, višji od dejanskega, je odčitek premajhen. To lahko pomeni, da smo veliko višje nad tlemi, kot smo nameravali biti.",
+      "Če je pomožna barometrska skala nastavljena na tlak, nižji od dejanskega, je odčitek premajhen. To lahko pomeni, da smo veliko bližje tlem, kot smo nameravali biti.",
+      "Če je pomožna barometrska skala nastavljena na tlak, nižji od dejanskega, je odčitek prevelik. To lahko pomeni, da smo veliko bližje tlem, kot smo nameravali biti."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00167",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.3.3",
+    "loText": "Describe meteorological conditions that lead to a higher/lower indicated altitude, compared to the true altitude/FL, with regard to QNH and temperature deviation from ISA",
+    "question": "Če je temperatura nižja od standardne, se lahko zgodi...",
+    "answers": [
+      "da je odčitek višine premajhna vrednost.",
+      "da je odčitek višine prevelika vrednost.",
+      "da led zamaši Pitotovo cev in kazanje višinomera ostane zamrznjeno pri trenutni vrednosti.",
+      "da je odčitek višine pravilna vrednost, v kolikor je pomožna barometrska skala pravilno nastavljena za temperaturo, ki se razlikuje od standardne."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00170",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.2.3",
+    "loText": "Define the terms: 'indicated altitude', 'true altitude', 'pressure altitude', 'density altitude'",
+    "question": "Prava višina je...",
+    "answers": [
+      "relativna višina nad tlemi s popravkom za nestandardni tlak.",
+      "absolutna višina nad srednjim morskim nivojem s popravkom za nestandardno temperaturo.",
+      "relativna višina nad tlemi s popravkom za nestandardno temperaturo.",
+      "tlačna višina s popravkom za nestandardno temperaturo."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00175",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.3.1",
+    "loText": "Explain the operating principles of a barometric altimeter",
+    "question": "Na delovanje katerega instrumenta lahko vpliva histerezna napaka?",
+    "answers": [
+      "Magnetni kompas",
+      "Višinomer",
+      "Merilnik vrtljajev",
+      "Variometer"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00176",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.3.1",
+    "loText": "Explain the operating principles of a barometric altimeter",
+    "question": "Merjenje višine temelji na spremembi...",
+    "answers": [
+      "diferenčnega tlaka.",
+      "skupnega tlaka.",
+      "dinamičnega tlaka.",
+      "statičnega tlaka."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00178",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.4.1.2",
+    "loText": "Explain the operating principles of a VSI",
+    "question": "Kateri od naštetih odgovorov opisuje načelo delovanja variometra?",
+    "answers": [
+      "Merjenje navpičnega pospeška prek odmika mase, nameščene na kardanskem obešenju.",
+      "Merjenje skupnega zračnega tlaka in njegova primerjava s statičnim tlakom.",
+      "Merjenje trenutnega statičnega zračnega tlaka in njegova primerjava s statičnim zračnim tlakom v posodi.",
+      "Merjenje statičnega zračnega tlaka in njegova primerjava z vakuumom."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00179",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.4.1.2",
+    "loText": "Explain the operating principles of a VSI",
+    "question": "Variometer meri razliko v tlaku med...",
+    "answers": [
+      "trenutnim dinamičnim tlakom in statičnim tlakom v danem prejšnjem trenutku.",
+      "trenutnim skupnim tlakom in skupnim tlakom v danem prejšnjem trenutku.",
+      "trenutnim statičnim tlakom in statičnim tlakom v danem prejšnjem trenutku.",
+      "trenutnim dinamičnim tlakom in dinamičnim tlakom v danem prejšnjem trenutku."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00186",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.5.2.1",
+    "loText": "Explain the operating principles of an airspeed indicator (ASI)",
+    "question": "Kateri od naštetih odgovorov opisuje načelo delovanja merilnika hitrosti?",
+    "answers": [
+      "Merjenje skupnega zračnega tlaka in njegova primerjava s statičnim zračnim tlakom.",
+      "Pitotova cev meri dinamični zračni tlak, merilnik hitrosti pa ga pretvori v podatek o hitrosti.",
+      "Merjenje statičnega zračnega tlaka in njegova primerjava z vakuumom.",
+      "Statične odprtine merijo skupni zračni tlak, merilnik hitrosti pa ga pretvori v podatek o hitrosti."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00188",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.5.2.1",
+    "loText": "Explain the operating principles of an airspeed indicator (ASI)",
+    "question": "Kaj potrebuje merilnik hitrosti, da določi hitrost (IAS)?",
+    "answers": [
+      "Razliko med dinamičnim in statičnim tlakom.",
+      "Razliko med skupnim in statičnim tlakom.",
+      "Razliko med skupnim in dinamičnim tlakom.",
+      "Razliko med standarnim in skupnim tlakom."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00195",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.3.2.1.3",
+    "loText": "Define 'deviation (DEV)' and 'compass north (CN)'",
+    "question": "Napaka magnetnega kompasa, ki jo povzroča magnetno polje zrakoplova, se imenuje...",
+    "answers": [
+      "inklinacija.",
+      "deviacija.",
+      "deklinacija.",
+      "variacija."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00196",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.3.2.2.1",
+    "loText": "State that the indication of a magnetic compass is affected by deviation, turning and acceleration errors",
+    "question": "Zaradi katerih napak se kazanje magnetnega kompasa odklanja od smeri magnetnega severa?",
+    "answers": [
+      "Zaradi gravitacije in magnetizma",
+      "Zaradi inklinacije in deklinacije zemljinega magnetnega polja",
+      "Zaradi deviacije, zavojne napake in napake pospeševanja",
+      "Zaradi variacije, zavojne napake in napake pospeševanja"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00198",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.1.2.1",
+    "loText": "Describe a typical pitot/static system and list the different instruments connected to the sources",
+    "question": "Kateri od naštetih instrumentov v pilotski kabini je povezan s Pitotovo cevjo?",
+    "answers": [
+      "Variometer",
+      "Magnetni kompas",
+      "Merilnik hitrosti",
+      "Višinomer"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00199",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.1.2.1",
+    "loText": "Describe a typical pitot/static system and list the different instruments connected to the sources",
+    "question": "Kateri instrumenti v pilotski kabini so povezani s statično odprtino?",
+    "answers": [
+      "Višinomer, indikator zdrsa, navigacijski računalnik",
+      "Merilnik hitrosti, višinomer, magnetni kompas",
+      "Višinomer, variometer, merilnik hitrosti",
+      "Merilnik hitrosti, magnetni kompas, indikator zdrsa"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00201",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.3.2.2.2",
+    "loText": "Describe the 'turning error' and determine required indication the roll out on a desired heading",
+    "question": "An aircraft in the northern hemisphere intends to turn on the shortest way from a heading of 360° to a heading of 270°.\nAt approximately which indication of the magnetic compass should the turn be terminated?",
+    "answers": [
+      "270°",
+      "360°",
+      "300°",
+      "240°"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00202",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.1.1.1",
+    "loText": "Define the following pressure measurements and describe their relationship: 'static pressure', 'dynamic pressure', 'total pressure'",
+    "question": "Pojem \"statični tlak\" je opredeljen kot tlak...",
+    "answers": [
+      "v kabini zrakoplova.",
+      "nemotenega zračnega toka.",
+      "ki nastane ob mirnem toku zračnih delcev.",
+      "ki ga zazna Pitotova cev."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00203",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.3.2.2.2",
+    "loText": "Describe the 'turning error' and determine required indication the roll out on a desired heading",
+    "question": "Zrakoplov na severni polobli namerava zaviti po najkrajši poti s smeri 030° na smer 180°.\nPri približno kateri indicirani magnetni smeri bi moral končati zavoj?",
+    "answers": [
+      "210°.",
+      "360°.",
+      "150°.",
+      "180°."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00207",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.1.1.1",
+    "loText": "Define the following pressure measurements and describe their relationship: 'static pressure', 'dynamic pressure', 'total pressure'",
+    "question": "Od česa je neposredno odvisen dinamični tlak?",
+    "answers": [
+      "Od zračnega tlaka in temperature zraka",
+      "Od gostote zraka in hitrosti zračnega toka na kvadrat",
+      "Od koeficienta gostote zraka in vzgona",
+      "Od koeficienta vzgona in upora"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00225",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.5.3.2",
+    "loText": "Explain the following colour codes that can be used on an aeroplane ASI: white arc (flap operating speed range), green arc (normal operating speed range), yellow arc (caution speed range), red line (VNE)",
+    "question": "S katero barvo je na merilniku hitrosti hitrosti označeno opozorilno območje?",
+    "answers": [
+      "Zeleno",
+      "Belo",
+      "Rumeno",
+      "Rdečo"
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00233",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.4.1",
+    "loText": "Describe how the altimeter indication changes when setting higher/lower reference pressure",
+    "question": "Kolikšno razliko v višini prikazuje višinomer, če spremenimo nastavitev pomožne barometerske skale s 1000 hPa na 1010 hPa?",
+    "answers": [
+      "80 m več kot prej",
+      "Nič",
+      "80 m manj kot prej",
+      "Vrednosti so odvisne od QNH"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00234",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.3.2",
+    "loText": "Explain the procedure for setting the correct pressure reference",
+    "question": "Kdaj moramo prilagoditi tlak na pomožni barometrski skali višinomera?",
+    "answers": [
+      "Vsak dan pred prvim poletom",
+      "Pred vsakim letom in med preletom",
+      "Enkrat mesečno pred letalsko operacijo",
+      "Po končanem vzdrževanju"
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00237",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.3.2.2",
+    "loText": "Define the terms 'height', 'altitude' and 'pressure altitude (flight level)'",
+    "question": "Pomožna barometrska skala višinomera je nastavljena na tlak letališča (QFE).\nKateri podatek kaže med letom?",
+    "answers": [
+      "Višino nad letališčem",
+      "Tlačno višino",
+      "Nadmorsko višino letališča",
+      "Višino nad srednjim morskim nivojem"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00238",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.4.1.2",
+    "loText": "Explain the operating principles of a VSI",
+    "question": "Če je variometer povezan s preveliko izenačevalno posodo...",
+    "answers": [
+      "ne bo kazal nič.",
+      "bo kazal preveč.",
+      "bo kazal premalo.",
+      "pride do mehanske preobremenitve."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00239",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.4.1.2",
+    "loText": "Explain the operating principles of a VSI",
+    "question": "Variometer meri razliko med...",
+    "answers": [
+      "dinamičnim tlakom in skupnim tlakom.",
+      "skupnim tlakom in statičnim tlakom.",
+      "trenutnim skupnim tlakom in prejšnjim skupnim tlakom.",
+      "trenutnim statičnim tlakom in prejšnjim statičnim tlakom."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00241",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.3.1.1.2",
+    "loText": "Define the following terms: 'magnetic variation (VAR)', 'magnetic dip (inclination)'",
+    "question": "Pojem \"inklinacija\" je opredeljen kot...",
+    "answers": [
+      "kot med magnetnim in pravim severom.",
+      "deviacija, ki jo povzročajo elektromagnetna polja.",
+      "kot med vzdolžno osjo zrakoplova in pravim severom.",
+      "kot med zemljinimi magnetnimi silnicami in vodoravno ravnino."
+    ],
+    "correct": 3,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00248",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.1.1.4.1",
+    "loText": "Explain circumstances that required aircraft maintenence (hardtime or fixedtime maintenance, oncondition maintenance, condition monitoring)",
+    "question": "Kakšna okvara oziroma napaka povzroči, da zrakoplov ni več ploven?",
+    "answers": [
+      "Poškodba delov, ki nosijo obremenitve",
+      "Razpoka v plastičnem pokrovu kabine",
+      "Umazan sprednji rob aerodinamičnega profila krila",
+      "Praska na zunanjem sloju barve"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00257",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.5.1.4",
+    "loText": "Explain the relevance of IAS with regard to speed limitations (stall speed, VNE), and how they change with environmental factors (e.g. altitude, airfield elevation, temperature)",
+    "question": "Z zmanjševanjem gostote zraka se povečuje hitrost zračnega pretoka pri hitrosti, pri kateri pride do porušitve vzgona (TAS), in obratno.\nKako je treba izvesti končni prilet na vroč poletni dan?",
+    "answers": [
+      "Z nespremenjeno indicirano hitrostjo (IAS)",
+      "Z večjo hitrostjo v skladu z letalskim priročnikom",
+      "Z zmanjšano indicirano hitrostjo (IAS)",
+      "S povečano indicirano hitrostjo (IAS)"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00324",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "81.9.1.1.1",
+    "loText": "Name and identify the various types of engine design with regard to cylinder arrangement",
+    "question": "Kateri motorji se najpogosteje uporabljajo za motorna jadralna letala TMG?",
+    "answers": [
+      "4-valjni, 4-taktni",
+      "2-valjni dizelski",
+      "2-rotorski wanklov",
+      "4-valjni, 2-taktni"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00327",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.1.2.2",
+    "loText": "State the requirement to check pitot/static sources to be clean of dirt and ice before any flight",
+    "question": "Merilnik hitrosti, višinomer in variometer naenkrat kažejo narobe.\nKatera napaka je možen vzrok?",
+    "answers": [
+      "Blokirani vodi statičnega tlaka.",
+      "Uhajanje v izravnalni posodi.",
+      "Blokirana Pitotova cev.",
+      "Odpoved električnega sistema."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-200511-00328",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.2.5.3.2",
+    "loText": "Explain the following colour codes that can be used on an aeroplane ASI: white arc (flap operating speed range), green arc (normal operating speed range), yellow arc (caution speed range), red line (VNE)",
+    "question": "Kje najdemo podatke o največji dovoljeni zračni hitrosti?",
+    "answers": [
+      "V letalskem priročniku in doletni karti ter na variometru.",
+      "V letalskem priročniku, na plošči z instrumenti, na merilniku hitrosti.",
+      "V letalskem priročniku in med objavami v sobi za pripravo na let.",
+      "Na merilniku hitrosti, na plošči z instrumenti in v AIP, poglavje ENR."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-220830-00330",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.3.1.1.1",
+    "loText": "Describe the magnetic field of the Earth with regard to: magnetic poles, orientation of the magnetic field lines",
+    "question": "Kje doseže inklinacija najmanjšo vrednost?",
+    "answers": [
+      "Pri magnetnem ekvatorju",
+      "Pri geografskem ekvatorju",
+      "Pri magnetnih polih",
+      "Pri geografskih polih"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "E80-220830-00332",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "82.3.2.1.2",
+    "loText": "Explain the origin and effect of aircraft's magnetic field on the alignment of the magnetic compass",
+    "question": "Elektronske naprave na krovu letala vplivajo na...",
+    "answers": [
+      "merilnik hitrosti.",
+      "magnetni kompas.",
+      "koordinator zavoja.",
+      "umetni horizont."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "ECQB-PPL (Aircademy)"
+  },
+  {
+    "id": "K80-2025-011",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Čemu pravimo torzijska škatla oziroma torzijsko ojačan sprednji rob krila?",
+    "answers": [
+      "Ojačanju s spodnjo in zgornjo oplato od sprednjega roba krila do glavnega nosilca.",
+      "Posebni obliki sprednjega roba aerodinamičnega profila.",
+      "Glavnemu nosilcu krila, ki prenaša torzijske obremenitve.",
+      "Točki, v kateri se začne zmanjševati torzijski moment krila."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-015",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Kako se običajno upravljajo krmila na manjšem enomotornem batnem zrakoplovu?",
+    "answers": [
+      "Ročno prek drogov in jeklenih vrvi",
+      "Prek servomehanizmov s hidravličnimi črpalkami ali elektromotorji",
+      "Hidravlično prek hidravličnih črpalk in aktuatorjev",
+      "Električno prek elektronskega kontrolnega sistema fly-by-wire"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-019",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "V katerem od spodnjih odgovorov so naštete vse glavne komande leta letala?",
+    "answers": [
+      "Višinsko krmilo, smerno krmilo, krilce",
+      "Zakrilca, predkrilca, aerodinamične zavore",
+      "Višinsko krmilo, smerno krmilo, krilce, trimerji, naprave za povečanje vzgona, komande moči",
+      "Vsi pomični deli na letalu, ki ga pomagajo krmariti"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-023",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Trimer uporabljamo...",
+    "answers": [
+      "za zmanjšanje sekundarnega učinka krilc.",
+      "za prilagoditev sile na komandah.",
+      "za premikanje masnega središča.",
+      "za zaklepanje krmilnih elementov."
+    ],
+    "correct": 1,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-035",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Nivo leta je...",
+    "answers": [
+      "tlačna višina.",
+      "prava višina.",
+      "standardna višina.",
+      "višina nad terenom."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-037",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Med letom v zraku, ki je hladnejši od ISA, je indicirana višina...",
+    "answers": [
+      "večja od prave višine.",
+      "manjša od prave višine.",
+      "enaka pravi višini.",
+      "enaka barometrski višini."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-038",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Med letom v zračni masi, katere temperatura je enaka ISA, in s pravilno nastavljeno QNH, je indicirana višina...",
+    "answers": [
+      "večja od prave višine.",
+      "manjša od prave višine.",
+      "enaka pravi višini.",
+      "enaka standardni atmosferi."
+    ],
+    "correct": 2,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-049",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj označuje rdeče območje na merilniku hitrosti?",
+    "answers": [
+      "Hitrost, ki se je ne sme prekoračiti, ne glede na okoliščine.",
+      "Hitrost, ki se je ne sme prekoračiti v turbulenci.",
+      "Hitrost, ki se je ne sme prekoračiti z izvlečenimi zakrilci.",
+      "Hitrost, ki se je ne sme prekoračiti v zavojih z nagibom nad 45°."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-053",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj pomeni rumeni lok na merilniku hitrosti?",
+    "answers": [
+      "Letenje samo v mirnem vremenu brez sunkov, da se izognemo preobremenitvi.",
+      "V tem območju je hitrost za najboljše drsenje.",
+      "Optimalna hitrost v zapregi za zrakoplovom.",
+      "Previdno z uporabo zakrilc ali zavor, da se izognemo preobremenitvi."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-058",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj je razlog za napako magnetne inklinacije pri magnetnem kompasu?",
+    "answers": [
+      "Inklinacija zemljinih magnetnih silnic",
+      "Deviacija v pilotski kabini",
+      "Temperaturne razlike",
+      "Pospeševanje zrakoplova"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-061",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Zrakoplov na severni polobli namerava zaviti po najkrajši poti s smeri 270° na smer 360°. Pri približno katerem odčitku magnetnega kompasa je treba končati zavoj?",
+    "answers": [
+      "330°",
+      "030°",
+      "360°",
+      "270°"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-065",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Ročica trimerja jadralnega letala se uporablja za...",
+    "answers": [
+      "zmanjšanje sile na višinskem krmilu.",
+      "zmanjšanje sile na krmilni palici krilc.",
+      "zmanjšanje sile na smernem krmilu.",
+      "zmanjšanje sekundarnega učinka krilc."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-066",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj se zgodi ob izvlečenju zakrilc, ko se poveča zakrivljenost profila?",
+    "answers": [
+      "Minimalna hitrost se zmanjša.",
+      "Minimalna hitrost se poveča.",
+      "Položaj masnega središča se pomakne naprej.",
+      "Največja dovoljena hitrost se poveča."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-067",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Če izvlečemo aerodinamične zavore, dobimo...",
+    "answers": [
+      "več upora in manj vzgona.",
+      "manj upora in vzgona.",
+      "več upora in vzgona.",
+      "manj upora in več vzgona."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-068",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Katere ročice v pilotski kabini jadralnega letala so označene z rdečo, modro in zeleno barvo? Ročice...",
+    "answers": [
+      "za odpiranje pokrova kabine, aerodinamičnih zavor, trimerja višinskega krmila.",
+      "podvozja, aerodinamičnih zavor in trimerja višinskega krmila.",
+      "aerodinamičnih zavor, za zaklepanje pokrova kabine ter reduktorja.",
+      "aerodinamičnih zavor, za odpenjanje vlečne vrvi in trimerja višinskega krmila."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-069",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Variometer neto energije med drsnim letom kaže vertikalno hitrost...",
+    "answers": [
+      "zračne mase skozi.",
+      "jadralnega letala in gibanja zraka.",
+      "jadralnega letala, ki mu odšteje gibanje zraka.",
+      "jadralnega letala skozi okoliški zrak."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-070",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Med desnim zavojem se je vrvica (indikator zdrsa) iz sredine zamaknila v levo. S kakšnim popravkom smernega krmila jo vrnemo v sredino?",
+    "answers": [
+      "Manj nagiba, več smernega krmila v smeri zavoja.",
+      "Več nagiba, manj smernega krmila v smeri zavoja.",
+      "Več nagiba, več smernega krmila v smeri zavoja.",
+      "Manj nagiba, manj smernega krmila v smeri zavoja."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-071",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Med levim zavojem se je vrvica (indikator zdrsa) iz sredine zamaknila v levo. S kakšnim popravkom smernega krmila jo vrnemo v sredino?",
+    "answers": [
+      "Več nagiba, manj smernega krmila v smeri zavoja.",
+      "Več nagiba, več smernega krmila v smeri zavoja.",
+      "Manj nagiba, več smernega krmila v smeri zavoja.",
+      "Manj nagiba, manj smernega krmila v smeri zavoja."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-072",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Vodni balast poveča maso kril za 40 %. Za koliko odstotkov se poveča najmanjša hitrost jadralnega letala?",
+    "answers": [
+      "18%",
+      "100%",
+      "40%",
+      "200%"
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  },
+  {
+    "id": "K80-2025-073",
+    "licences": [
+      "SPL"
+    ],
+    "subject": 80,
+    "subjectName": "Aircraft General Knowledge",
+    "lo": "",
+    "loText": "",
+    "question": "Kaj je treba upoštevati, če letimo z jadralnim letalom z vodnim balastom?",
+    "answers": [
+      "Jadralno letalo mora ostati v temperaturah nad lediščem.",
+      "Najboljša drsna hitrost se zmanjša.",
+      "Najboljši drsni kot se zmanjša.",
+      "Položaj masnega središča se zelo zamakne."
+    ],
+    "correct": 0,
+    "explanation": "",
+    "theory": "",
+    "images": [],
+    "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
+  }
+]

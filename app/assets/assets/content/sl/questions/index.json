@@ -1,0 +1,56 @@
+[
+  {
+    "subject": 10,
+    "name": "Air Law",
+    "file": "10_air_law.json",
+    "count": 78
+  },
+  {
+    "subject": 20,
+    "name": "Human Performance",
+    "file": "20_human_performance.json",
+    "count": 50
+  },
+  {
+    "subject": 30,
+    "name": "Meteorology",
+    "file": "30_meteorology.json",
+    "count": 125
+  },
+  {
+    "subject": 40,
+    "name": "Communication",
+    "file": "40_communication.json",
+    "count": 75
+  },
+  {
+    "subject": 51,
+    "name": "Principles of Flight (Aeroplane)",
+    "file": "51_principles_of_flight_aeroplane.json",
+    "count": 88
+  },
+  {
+    "subject": 60,
+    "name": "Operational Procedures",
+    "file": "60_operational_procedures.json",
+    "count": 55
+  },
+  {
+    "subject": 70,
+    "name": "Flight Performance and Planning",
+    "file": "70_flight_performance_and_planning.json",
+    "count": 30
+  },
+  {
+    "subject": 80,
+    "name": "Aircraft General Knowledge",
+    "file": "80_aircraft_general_knowledge.json",
+    "count": 73
+  },
+  {
+    "subject": 90,
+    "name": "Navigation",
+    "file": "90_navigation.json",
+    "count": 71
+  }
+]
