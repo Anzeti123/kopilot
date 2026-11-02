@@ -13,13 +13,13 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "de76f3a0f070";
+const VERSION = "cae0837e92b4";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "96d09e07895826df"
+    "h": "60817f8b8647098c"
   },
   {
     "u": "assets/AssetManifest.bin",
@@ -307,7 +307,7 @@ const FILES = [
   },
   {
     "u": "index.html",
-    "h": "9598a5914a1db8bb"
+    "h": "ab17e046a0d9ee99"
   },
   {
     "u": "main.dart.js",
