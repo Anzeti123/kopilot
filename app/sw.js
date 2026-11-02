@@ -13,25 +13,29 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "c7d38ce8652d";
+const VERSION = "c2c4845f801d";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "30ab96f98d8435eb"
+    "h": "245a5f4a1498b318"
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "91aee7fc7c716c9b"
+    "h": "9e41433e6323211c"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "0b06905eabad1577"
+    "h": "e160332e1d68ab6b"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
     "h": "e353323298f42e05"
+  },
+  {
+    "u": "assets/assets/content/sl/manual/aerotow_launch.png",
+    "h": "9e42cc52de759766"
   },
   {
     "u": "assets/assets/content/sl/manual/aircraft.json",
@@ -59,7 +63,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/manual/procedures.json",
-    "h": "d66e3d53b722454f"
+    "h": "5c7679d4536269fc"
   },
   {
     "u": "assets/assets/content/sl/manual/radio_conversations.json",
@@ -319,7 +323,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "ddb31ec830bee792"
+    "h": "901546be066cb517"
   },
   {
     "u": "manifest.json",
@@ -327,7 +331,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "b754893dfc8cf444"
+    "h": "627a85d9246c6079"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",

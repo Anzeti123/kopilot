@@ -150,14 +150,47 @@
     ],
     "aircraft": "",
     "steps": [
-      "",
-      "",
-      "",
-      ""
+      {
+        "title": "Pred vzletom: zavore zaprte, leva roka na ročici za odpenjanje.",
+        "detail": "Vrv pripnemo šele, ko je pilot v letalu in pripravljen. Zračne zavore so zaprte in zaklenjene. Med celotnim zaletom ima pilot levo roko na ročici za odpenjanje, da lahko vrv takoj odpne, če pade krilo ali gre kaj narobe. Pomočnik vlečnemu pilotu da znak I (napni vlečno vrv), ko sta jadralno letalo pripravljeno in steza prosta, pa znak II."
+      },
+      {
+        "title": "Med zaletom držimo krila vodoravno in smer za vlečnim letalom.",
+        "detail": "Aerovleka pospešuje počasneje kot vitla, zato moramo krila dlje in odločneje držati vodoravno. Z nogo držimo smer naravnost za vlečnim letalom. Če krilo pade na tla in ga ne moremo takoj dvigniti, odpnemo vrv."
+      },
+      {
+        "title": "Po odlepitvi letimo nizko, dokler se ne dvigne vlečno letalo.",
+        "detail": "Jadralno letalo se običajno odlepi prvo. Držimo ga nizko, približno v višini vrha smernega krmila vlečnega letala (1,5–3 m), po potrebi s palico naprej. Če se dvignemo previsoko, vrv dvigne rep vlečnega letala in ga lahko z nosom potisne v tla. Ko se vlečno letalo odlepi, se vzpenjamo skupaj z njim. Če smo po odlepitvi prenizko, se v položaj vrnemo počasi in enakomerno."
+      },
+      {
+        "title": "Med vzponom letimo tik nad vrtinčno sledjo vlečnega letala.",
+        "detail": "Normalni položaj je naravnost za vlečnim letalom in malo nad njegovo vrtinčno sledjo. Ko se vrv napne, si zapomnimo, kje je vlečno letalo v pokrovu kabine, in ga tam držimo z višinskim krmilom. Če se vlečno letalo pomika navzgor, smo prenizko; če se pomika navzdol, smo previsoko. Krila držimo vzporedno s krili vlečnega letala. Če vlečno letalo začne izginjati pod nosom, takoj odpnemo vrv, sicer ga lahko prevrnemo."
+      },
+      {
+        "title": "Bočni odmik popravimo z enakim nagibom, kot ga ima vlečno letalo.",
+        "detail": "Popravljamo po vrsti: najprej poravnamo krila s krili vlečnega letala, nato popravimo višino, nazadnje počasi še bočni položaj. Ko imamo enak nagib kot vlečno letalo, nas vrv sama potegne nazaj za njim. Velikih odklonov se izogibamo, ker začnemo nihati. Ne smemo dovoliti, da krilo pade."
+      },
+      {
+        "title": "V zavoju držimo enak nagib in nos usmerimo v zunanje krilo.",
+        "detail": "Vlečno letalo zavija blago, običajno z nagibom do 15–20°. Držimo enak nagib in nos usmerimo med trup in zunanji konec krila vlečnega letala, tako da letimo po njegovi poti. Prevelik nagib povzroči ohlapno vrv in izgubo višine, premajhen pa večjo napetost vrvi in dvig nad vlečno letalo."
+      },
+      {
+        "title": "Ohlapno vrv napnemo z rahlim drsenjem in po potrebi z zavorami.",
+        "detail": "Ob prvem znaku ohlapne vrvi ukrepamo: najprej z rahlim drsenjem, nato po potrebi previdno izvlečemo zračne zavore in jih zapremo, preden se vrv napne. Če je vrv zelo ohlapna ali izgubimo vrv oziroma vlečno letalo izpred oči, takoj odpnemo."
+      },
+      {
+        "title": "Na dogovorjeni višini preverimo okolico in odpnemo vrv.",
+        "detail": "Pred odpenjanjem preverimo višino, položaj glede na letališče in prostor okoli sebe. Odpnemo, ko je vrv napeta, da se kljuka zanesljivo odpre. Preden zavijemo, preverimo, da je vrv odpadla. Nato malo dvignemo nos, ustalimo hitrost drsnega leta in zavijemo. Smer zavoja po odpenjanju določajo pravila kluba; pogosto jadralno letalo zavije desno, vlečno pa levo in navzdol."
+      },
+      {
+        "title": "Ko vlečno letalo zaziba s krili, takoj odpnemo vrv.",
+        "detail": "Zibanje s krili vlečnega letala pomeni obvezno odpenjanje. Po odpetju preverimo, da je vrv odpadla, in da so zračne zavore zaprte. Če vlečni pilot maha s smernim krmilom, je težava na jadralnem letalu, najpogosteje odprte zračne zavore. Če se ne moremo odpeti, se pomaknemo levo in zazibamo s krili; vlečno letalo nas odpne nad letališčem. Pri pretrgu vrvi nizko nad tlemi pristanemo naravnost naprej, z zavojem nazaj le, če je višine dovolj."
+      }
     ],
-    "source": "",
+    "source": "FAA Glider Flying Handbook (FAA-H-8083-13B), 7. poglavje; BGA Instructors Manual 11b »Aerotowing«; SSA »Tow Positions, Turns and Release«; klubska signalizacija pri aerovleku (AK Celje)",
     "checked": "",
-    "reviewedBy": ""
+    "reviewedBy": "",
+    "image": "assets/content/sl/manual/aerotow_launch.png"
   },
   {
     "id": "spin-recovery",
