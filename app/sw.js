@@ -13,21 +13,21 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "3b6688530bee";
+const VERSION = "0a093f77ec5b";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "60817f8b8647098c"
+    "h": "30ab96f98d8435eb"
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "2d9fa7e2e7c6b49d"
+    "h": "91aee7fc7c716c9b"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "8668b886c05bfe84"
+    "h": "0b06905eabad1577"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -40,6 +40,10 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/manual/airfields.json",
     "h": "9c78c7f470cb6c70"
+  },
+  {
+    "u": "assets/assets/content/sl/manual/circuit_route.png",
+    "h": "61c26f216b75c467"
   },
   {
     "u": "assets/assets/content/sl/manual/glossary.json",
@@ -55,7 +59,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/manual/procedures.json",
-    "h": "a4bc7dca0b2d4c30"
+    "h": "d66e3d53b722454f"
   },
   {
     "u": "assets/assets/content/sl/manual/radio_conversations.json",
@@ -72,6 +76,10 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/manual/signals_winch.png",
     "h": "720c1662870406ca"
+  },
+  {
+    "u": "assets/assets/content/sl/manual/winch_launch.png",
+    "h": "37a9f885538585c6"
   },
   {
     "u": "assets/assets/content/sl/questions/10_air_law.json",
@@ -311,7 +319,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "8a673801236d25b1"
+    "h": "ddb31ec830bee792"
   },
   {
     "u": "manifest.json",
@@ -319,7 +327,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "b960617d1fb780c1"
+    "h": "b754893dfc8cf444"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",

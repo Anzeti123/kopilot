@@ -64,15 +64,47 @@
     ],
     "aircraft": "",
     "steps": [
-      "",
-      "",
-      "",
-      "",
-      ""
+      {
+        "title": "Kabina zaprta, trimer poravnan, zračne zavore zaprte, pripravljen.",
+        "detail": "Pred vzletom se javimo na štartu in po potrebi namestimo uteži. Sedemo naravnost, ker je sedenje postrani pogost vzrok nekoordiniranega letenja, in se pripnemo. Preizkusimo krmila in nastavimo trimer. Zračne zavore so zaprte, kabina zaprta. Ko je vlečna vrv pripeta, pomočnik na krilu vpraša »Pilot pripravljen?«, kar potrdimo z dvigom roke."
+      },
+      {
+        "title": "Odklop vitle, ustalimo hitrost in čim prej izvedemo prvi zavoj.",
+        "detail": "Ko vlečna sila popusti, potisnemo palico naprej (nos dol), da letalo preide v normalen drsni let, in dvakrat hitro potegnemo ročko za odklop. Hitrost ustalimo na 90 km/h in letalo natrimamo. Preverimo višino: če je na vitli manjša od 230–240 m, prvi zavoj naredimo čim prej in trimamo med prvim in drugim zavojem. Zavoj: pogled v smeri zavoja, ali je prosto, izbira orientirja, pogled naprej, nato palica in noga, nos drži črto po horizontu. Izravnamo v izbrani orientir."
+      },
+      {
+        "title": "Drugi zavoj, nato letimo vzporedno s stezo proti coni.",
+        "detail": "Po prvem zavoju pogledamo proti stezi, kaj se na njej dogaja. Spremljamo hitrost, višino in orientir. Drugi zavoj izvedemo enako kot prvega: pogled, zavoj po horizontu, poravnamo in izberemo nov orientir. Nato letimo naravnost vzporedno s stezo. Pri bočnem vetru veter pariramo, kar pomeni, da letalo usmerimo za določen kot proti vetru."
+      },
+      {
+        "title": "V coni prvi zavoj stran od steze, drugi proti stezi.",
+        "detail": "Spremljamo hitrost in višino. V coni naredimo prvi zavoj stran od steze in drugega proti stezi, nato palica in noga, črta po horizontu, poravnamo v orientir. Če je višina večja od 250 m, izvedemo zavoj za 360°. V coni ocenimo višino letala, ker od nje je odvisno, kako bomo naredili preostali del kroga."
+      },
+      {
+        "title": "Hitrost 90 km/h, višina 150–200 m, javimo se po radiu.",
+        "detail": "Iz cone hitrost povečamo na 90 km/h in letalo natrimamo. Višina naj bo 150–200 m. Javimo se po radijski postaji, na primer »Alfa Čarli, levi/desni šolski krog za stezo 29«, in nadaljujemo proti orientirju."
+      },
+      {
+        "title": "Opazujemo stezo in ob pravem trenutku izvedemo tretji zavoj.",
+        "detail": "Med letom od cone do tretjega zavoja posebej natančno opazujemo stezo in oddaljenost od nje. Ocenimo veter (pogled na vetrno vrečo) in preverimo, ali so na stezi letala ali ljudje (kolesarji, gobarji, sprehajalci psov). S tretjim zavojem začnemo, ko pristajalni »T« vidimo približno pod kotom 45° nazaj. Zavoj izvedemo enako kot prvega in po njem znova opazujemo dogajanje na stezi."
+      },
+      {
+        "title": "Preverimo višino in stezo, roka na zavorah, izvedemo četrti zavoj.",
+        "detail": "Po tretjem zavoju preverimo višino in oddaljenost od steze. Če smo prenizki, letimo pod kotom proti stezi, če smo previsoki, pod kotom stran od nje. Ponovno preverimo stezo, pogledamo pa tudi stran od nje, da ne presekamo poti letalu, ki morda že pristaja. Med tretjim in četrtim zavojem damo levo roko na zračne zavore. Četrti zavoj začnemo tako, da smo po njem poravnani z osjo steze: če smo ga začeli prezgodaj, ga naredimo bolj blagega (manjši nagib), če prepozno, bolj ostrega. Če po zavoju nismo v osi steze, se poravnamo z dvojnim zavojem v obliki črke »S«."
+      },
+      {
+        "title": "Poravnani s stezo izvlečemo zračne zavore in držimo 100 km/h.",
+        "detail": "Na primerni oddaljenosti in višini (finale) povečamo kot letenja in hkrati izvlečemo zračne zavore. Prehod naj bo nežen, hitrost se ustali pri 100 km/h, položaja trimerja ne spreminjamo. Držimo 100 km/h oziroma kot in z zavorami nadziramo točko pristanka. Če smo prenizko, zavore pripremo in malenkost zmanjšamo kot; ko smo spet na pravem kotu doleta, kot povečamo in zavore odpremo. Če smo previsoko, malenkost povečamo kot in s tem hitrost, pred ravnanjem pa se vrnemo na normalen kot letenja, sicer bo ravnanje zelo težko."
+      },
+      {
+        "title": "Prvo in drugo ravnanje, pristanek in zaviranje do zaustavitve.",
+        "detail": "Na višini približno 10 m izvedemo prvo ravnanje: z občutkom popustimo pritisk palice naprej in malenkost zmanjšamo kot. Če poravnamo preveč, hitrost pade in na nekaj metrih ostanemo brez vzgona; če premalo, pridemo preblizu tal in drugo ravnanje mora biti bolj sunkovito. Na približno 2 m začnemo drugo ravnanje: letalo prevedemo v vodoraven let tik nad tlemi in ko se hitrost zmanjša, sede samo, hkrati na glavno in repno kolo oziroma drsnico. Po dotiku zaviramo s kolesno zavoro in še naprej krmarimo po smeri in nagibu, da letalo ne zavije in krilo ne pade na tla, vse do popolne zaustavitve. Nato zapremo zračne zavore. Po pristanku izstopimo s padalom na hrbtu, odstranimo uteži za trimanje, se javimo na štartu in pomagamo naslednjemu pilotu v letalo."
+      }
     ],
-    "source": "",
+    "source": "AK Celje, »Šolski krog na vitlo« (2023); ročna skica »Šolski krog« (steza 11/29)",
     "checked": "",
-    "reviewedBy": ""
+    "reviewedBy": "",
+    "image": "assets/content/sl/manual/circuit_route.png"
   },
   {
     "id": "winch-launch",
@@ -83,14 +115,31 @@
     ],
     "aircraft": "",
     "steps": [
-      "",
-      "",
-      "",
-      ""
+      {
+        "title": "Zalet: krila vodoravno, smer naravnost, čim prej dvignemo rep.",
+        "detail": "S palico držimo nagib letala vodoraven, z nogo pa smer naravnost po stezi. Z višinskim krmilom med zaletom čim prej dvignemo rep za približno 10 cm, da ne udarja po tleh. V tem položaju letalo vzleti samo."
+      },
+      {
+        "title": "Po odlepitvi nežno preidemo v vzpenjanje, hitrost 110–120 km/h.",
+        "detail": "Ko smo v zraku, se nežno pričnemo vzpenjati in držimo hitrost letala med 110 in 120 km/h. Prehod naj bo nežen."
+      },
+      {
+        "title": "Kot 45° postavimo šele na varni višini.",
+        "detail": "Strmo vzpenjanje s kotom 45° postavimo šele, ko smo na varni višini, in ne takoj po odlepitvi. Ves čas držimo hitrost med 110 in 120 km/h."
+      },
+      {
+        "title": "Proti vrhu kot zmanjšujemo, da vzdržujemo 110 km/h.",
+        "detail": "Proti vrhu vzpenjanja se kot zmanjšuje. Zmanjšujemo ga tako, da vzdržujemo hitrost 110 km/h."
+      },
+      {
+        "title": "Ko vlečna sila popusti, preidemo v drsni let in odklopimo.",
+        "detail": "Ko vlečna sila popusti, prevedemo letalo v normalen drsni let in dvakrat potegnemo ročko za odpenjanje. Ustalimo hitrost na 90 km/h in nastavimo trimer, da izničimo silo na višinskem krmilu. Če je dobljena višina na vitli manjša od 230 do 240 m, prvi zavoj izvedemo čim prej in trimamo med prvim in drugim zavojem. Nadaljujemo s šolskim krogom."
+      }
     ],
-    "source": "",
+    "source": "AK Celje, »Šolski krog na vitlo« (2023), razdelek Vzlet in vzpenjanje",
     "checked": "",
-    "reviewedBy": ""
+    "reviewedBy": "",
+    "image": "assets/content/sl/manual/winch_launch.png"
   },
   {
     "id": "aerotow-launch",
