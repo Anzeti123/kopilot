@@ -1,0 +1,142 @@
+[
+  {
+    "id": "before-flight",
+    "title": "Pred poletom",
+    "subtitle": "Priprava letala in pilota",
+    "checkable": true,
+    "items": [
+      {
+        "item": "Električni akumulatorji",
+        "response": "Priključeni ter polni"
+      },
+      {
+        "item": "Padalo",
+        "response": "V kabini"
+      },
+      {
+        "item": "Knjižica letala",
+        "response": "V kabini"
+      },
+      {
+        "item": "Knjižica pilota",
+        "response": "V kabini"
+      },
+      {
+        "item": "Predpoletni pregled",
+        "response": "Opravljen"
+      },
+      {
+        "item": "Komande letala",
+        "response": "Zavarovane za transport po tleh"
+      },
+      {
+        "item": "Radijska postaja",
+        "response": "Preizkušena"
+      },
+      {
+        "item": "Kabina",
+        "response": "Pokrita s pokrivalom"
+      },
+      {
+        "item": "Sončna očala",
+        "response": "Da"
+      },
+      {
+        "item": "Sončni klobuk/kapa",
+        "response": "Da"
+      }
+    ]
+  },
+  {
+    "id": "before-launch",
+    "title": "Pred letenjem",
+    "subtitle": "V kabini pred vzletom",
+    "checkable": false,
+    "items": [
+      {
+        "item": "Javiti se inštruktorju",
+        "response": "Javljam se pred startom"
+      },
+      {
+        "item": "Padalo",
+        "response": "Pripeto"
+      },
+      {
+        "item": "Pasovi",
+        "response": "Pripeti"
+      },
+      {
+        "item": "Pedala",
+        "response": "Nastavljena"
+      },
+      {
+        "item": "Višinomer",
+        "response": "Nastavljen"
+      },
+      {
+        "item": "Ventilacija",
+        "response": "Nastavljena"
+      },
+      {
+        "item": "Trimer",
+        "response": "Nastavljen"
+      },
+      {
+        "item": "Zavore",
+        "response": "Zaprte"
+      },
+      {
+        "item": "Kabina",
+        "response": "Zaprta ter zaklenjena"
+      },
+      {
+        "item": "Desna roka",
+        "response": "Na palici"
+      },
+      {
+        "item": "Leva roka",
+        "response": "Na nogi"
+      },
+      {
+        "item": "Javiti",
+        "response": "Pilot pripravljen"
+      }
+    ]
+  },
+  {
+    "id": "in-flight",
+    "title": "V zraku",
+    "subtitle": "Vključitev v šolski krog",
+    "checkable": false,
+    "items": [
+      {
+        "item": "Višina vključitve v šolski krog",
+        "response": "200–250 m"
+      },
+      {
+        "item": "Javljanje",
+        "response": "Vključitev v šolski krog"
+      },
+      {
+        "item": "Hitrost",
+        "response": "90 km/h"
+      },
+      {
+        "item": "Trimer",
+        "response": "Nastavljen"
+      },
+      {
+        "item": "Kolo",
+        "response": "Izvlečeno"
+      },
+      {
+        "item": "Višinomer",
+        "response": "Potrkamo"
+      },
+      {
+        "item": "Zračne zavore",
+        "response": "Preizkusimo"
+      }
+    ]
+  }
+]

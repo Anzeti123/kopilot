@@ -202,31 +202,22 @@
     ],
     "aircraft": "",
     "steps": [
-      "",
-      "",
-      "",
-      ""
+      {
+        "title": "Začetni vrij: prepoznaj ga in takoj ukrepaj.",
+        "detail": "Vrij se začne iz prevleka, ko je eno krilo bolj prevlečeno kot drugo. Spuščeno krilo ima večji vpadni kot, manj vzgona in več upora, zato se letalo zavrti okoli njega. Pri lahkem letalu ta faza traja približno 4–6 s oziroma do dveh obratov. Izvlek je takrat najlažji: palica naprej, da letalo ni več prevlečeno, in noga proti vrtenju."
+      },
+      {
+        "title": "Razviti vrij: hitrost, spuščanje in vrtenje so ustaljeni.",
+        "detail": "Hitrost, hitrost spuščanja in hitrost vrtenja se ustalijo, nos je strmo navzdol. Majhno šolsko letalo izgubi približno 150 m (500 ft) višine na obrat, ki traja okoli 3 s. Smer vrtenja določi s pogledom naprej proti tlom, ne po krilcih. Krilc ne uporabljaj za ustavljanje vrtenja."
+      },
+      {
+        "title": "Izvlek: noga nasprotno, krilca nevtralno, palica naprej, nato noga nevtralno.",
+        "detail": "Smerno krmilo do konca v nasprotno smer vrtenja, krilca nevtralno, palico postopno potiskaj naprej, tudi če je nos že strmo navzdol, dokler se vrtenje ne ustavi. Letalo se po ukrepih zavrti še ¼–½ obrata, krila nato spet dajejo vzgon. Takoj, ko vrtenje preneha, nevtraliziraj smerno krmilo, sicer lahko letalo preide v vrij v drugo smer. Iz strmega spusta izvleci nežno: ne preseži VNE ter ne vleci palice in ne poravnavaj nagiba hkrati pri veliki hitrosti. Zračnih zavor ne odpiraj brez potrebe, ker zmanjšajo dovoljeno obremenitev. Postopek za posamezno letalo preveri v njegovem priročniku za letenje."
+      }
     ],
-    "source": "",
+    "source": "BGA Instructors Manual, »Spinning & Spiral Dives« (5-19, 2017); FAA Airplane Flying Handbook (faze vrija)",
     "checked": "",
-    "reviewedBy": ""
-  },
-  {
-    "id": "stall-recovery",
-    "title": "Izvlek iz prevleka",
-    "kind": "emergency",
-    "licences": [
-      "SPL",
-      "PPL"
-    ],
-    "aircraft": "",
-    "steps": [
-      "",
-      "",
-      ""
-    ],
-    "source": "",
-    "checked": "",
-    "reviewedBy": ""
+    "reviewedBy": "",
+    "image": "assets/content/sl/manual/spin_recovery.png"
   }
 ]

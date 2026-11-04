@@ -13,21 +13,21 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "f9e208aec129";
+const VERSION = "aa5811d1ab29";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "61fe9fedd8adb06d"
+    "h": "27dc2ff189308a45"
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "9e41433e6323211c"
+    "h": "cc9725b44324a7b0"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "e160332e1d68ab6b"
+    "h": "70ebb916b72cd2ce"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -46,6 +46,10 @@ const FILES = [
     "h": "9c78c7f470cb6c70"
   },
   {
+    "u": "assets/assets/content/sl/manual/checklists.json",
+    "h": "7af89f334c102e65"
+  },
+  {
     "u": "assets/assets/content/sl/manual/circuit_route.png",
     "h": "61c26f216b75c467"
   },
@@ -59,11 +63,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/manual/preflight_route.png",
-    "h": "c0abf05162ddb881"
+    "h": "624db8b9f479ec90"
   },
   {
     "u": "assets/assets/content/sl/manual/procedures.json",
-    "h": "5c7679d4536269fc"
+    "h": "224653c87cc479f7"
   },
   {
     "u": "assets/assets/content/sl/manual/radio_conversations.json",
@@ -80,6 +84,10 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/manual/signals_winch.png",
     "h": "720c1662870406ca"
+  },
+  {
+    "u": "assets/assets/content/sl/manual/spin_recovery.png",
+    "h": "6b7ec609093a287a"
   },
   {
     "u": "assets/assets/content/sl/manual/winch_launch.png",
@@ -323,7 +331,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "9a59841e4e18655e"
+    "h": "05c2880e9e34f8c3"
   },
   {
     "u": "manifest.json",
@@ -331,7 +339,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "5460b0d08f601874"
+    "h": "0a6ac4e74fa2e832"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
