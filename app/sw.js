@@ -13,13 +13,13 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "aa5811d1ab29";
+const VERSION = "cf37b28251b8";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "27dc2ff189308a45"
+    "h": "a43ad8df64159b10"
   },
   {
     "u": "assets/AssetManifest.bin",
@@ -28,6 +28,14 @@ const FILES = [
   {
     "u": "assets/AssetManifest.bin.json",
     "h": "70ebb916b72cd2ce"
+  },
+  {
+    "u": "assets/FontManifest.json",
+    "h": "f95a00d96eb1518f"
+  },
+  {
+    "u": "assets/NOTICES",
+    "h": "0b4ae62768ef49fd"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -238,20 +246,12 @@ const FILES = [
     "h": "65dbcedb6596a41c"
   },
   {
-    "u": "assets/FontManifest.json",
-    "h": "f95a00d96eb1518f"
+    "u": "assets/fonts/MaterialIcons-Regular.otf",
+    "h": "041a7bb192fa605b"
   },
   {
     "u": "assets/fonts/fallback/Roboto-Regular.ttf",
     "h": "79e851404657dac2"
-  },
-  {
-    "u": "assets/fonts/MaterialIcons-Regular.otf",
-    "h": "205bd0c45304c08a"
-  },
-  {
-    "u": "assets/NOTICES",
-    "h": "0d88d7c21291a724"
   },
   {
     "u": "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
@@ -307,7 +307,7 @@ const FILES = [
   },
   {
     "u": "flutter_bootstrap.js",
-    "h": "b6fe47d17d7dd4bf"
+    "h": "8331b29e43692975"
   },
   {
     "u": "icons/Icon-192.png",
@@ -331,7 +331,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "05c2880e9e34f8c3"
+    "h": "e74d5a7a845908d7"
   },
   {
     "u": "manifest.json",
@@ -339,7 +339,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "0a6ac4e74fa2e832"
+    "h": "2d6df349dc25913b"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
