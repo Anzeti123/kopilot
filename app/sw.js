@@ -13,13 +13,13 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "fc8d26a9a9f6";
+const VERSION = "e20eda2832c7";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "1228e1c547d832e1"
+    "h": "8863db679a0d1da7"
   },
   {
     "u": "assets/AssetManifest.bin",
@@ -63,7 +63,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/manual/glossary.json",
-    "h": "77df67b2efc8bc73"
+    "h": "0b6503de3cf9427b"
   },
   {
     "u": "assets/assets/content/sl/manual/mnemonics.json",
@@ -247,7 +247,7 @@ const FILES = [
   },
   {
     "u": "assets/fonts/MaterialIcons-Regular.otf",
-    "h": "ebd2b8595115ee9f"
+    "h": "b5253cf435c22bde"
   },
   {
     "u": "assets/fonts/fallback/Roboto-Regular.ttf",
@@ -331,7 +331,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "23eae9ca98d15baa"
+    "h": "6c7d7b36a5a83d14"
   },
   {
     "u": "manifest.json",
@@ -339,7 +339,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "19ebaf93e46fbf6c"
+    "h": "6d6f0fbc0b4275ee"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
