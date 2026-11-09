@@ -13,29 +13,21 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "e20eda2832c7";
+const VERSION = "ef45bf9d5c50";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "8863db679a0d1da7"
+    "h": "e88df790d1d066ff"
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "cc9725b44324a7b0"
+    "h": "5771df9f85369bee"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "70ebb916b72cd2ce"
-  },
-  {
-    "u": "assets/FontManifest.json",
-    "h": "f95a00d96eb1518f"
-  },
-  {
-    "u": "assets/NOTICES",
-    "h": "0b4ae62768ef49fd"
+    "h": "b1c796b0af7a6914"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -246,16 +238,28 @@ const FILES = [
     "h": "65dbcedb6596a41c"
   },
   {
-    "u": "assets/fonts/MaterialIcons-Regular.otf",
-    "h": "b5253cf435c22bde"
+    "u": "assets/FontManifest.json",
+    "h": "f95a00d96eb1518f"
   },
   {
     "u": "assets/fonts/fallback/Roboto-Regular.ttf",
     "h": "79e851404657dac2"
   },
   {
+    "u": "assets/fonts/MaterialIcons-Regular.otf",
+    "h": "52e4c07777a7fecf"
+  },
+  {
+    "u": "assets/NOTICES",
+    "h": "322e7c10c567e63e"
+  },
+  {
     "u": "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
     "h": "3d90c370aa4cf00d"
+  },
+  {
+    "u": "assets/packages/flutter_map/lib/assets/flutter_map_logo.png",
+    "h": "6051ae42fb505931"
   },
   {
     "u": "assets/shaders/ink_sparkle.frag",
@@ -307,7 +311,7 @@ const FILES = [
   },
   {
     "u": "flutter_bootstrap.js",
-    "h": "8331b29e43692975"
+    "h": "b6fe47d17d7dd4bf"
   },
   {
     "u": "icons/Icon-192.png",
@@ -331,7 +335,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "6c7d7b36a5a83d14"
+    "h": "4a92315c7dacba40"
   },
   {
     "u": "manifest.json",
@@ -339,7 +343,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "6d6f0fbc0b4275ee"
+    "h": "a3cc2d272e4bd402"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
