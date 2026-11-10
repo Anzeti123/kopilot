@@ -13,21 +13,21 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "9462841d8221";
+const VERSION = "7c2f5f041b67";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "73e817e8ad0fa992"
+    "h": "38235e45897d6f57"
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "91273114e0a1d2ea"
+    "h": "a805dff6a40d3a4e"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "884e51d250cfa328"
+    "h": "12de53ee64ea2300"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -242,6 +242,22 @@ const FILES = [
     "h": "2ba441f3fe1aa146"
   },
   {
+    "u": "assets/assets/map3d/igc3d.js",
+    "h": "3aaaed45ecaa42e2"
+  },
+  {
+    "u": "assets/assets/map3d/index.html",
+    "h": "40f3b706470b8d65"
+  },
+  {
+    "u": "assets/assets/map3d/maplibre-gl.css",
+    "h": "576b085fdd9487a6"
+  },
+  {
+    "u": "assets/assets/map3d/maplibre-gl.js",
+    "h": "d01ffd5aefe5fb27"
+  },
+  {
     "u": "assets/FontManifest.json",
     "h": "f95a00d96eb1518f"
   },
@@ -251,11 +267,11 @@ const FILES = [
   },
   {
     "u": "assets/fonts/MaterialIcons-Regular.otf",
-    "h": "52e4c07777a7fecf"
+    "h": "ce2042169ec2184d"
   },
   {
     "u": "assets/NOTICES",
-    "h": "322e7c10c567e63e"
+    "h": "f75946105cac303f"
   },
   {
     "u": "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
@@ -339,7 +355,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "92d4e70364dfa181"
+    "h": "09213d857faad691"
   },
   {
     "u": "manifest.json",
@@ -347,7 +363,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "3fa2b4d759fac4df"
+    "h": "f4877c573ad03e35"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
