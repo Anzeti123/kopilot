@@ -13,13 +13,13 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "7c2f5f041b67";
+const VERSION = "47fa9b1046f4";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "38235e45897d6f57"
+    "h": "18ba506924f8c2d7"
   },
   {
     "u": "assets/AssetManifest.bin",
@@ -355,7 +355,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "09213d857faad691"
+    "h": "6030a63e38dbe67c"
   },
   {
     "u": "manifest.json",
@@ -363,7 +363,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "f4877c573ad03e35"
+    "h": "58155310c431d3fa"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
@@ -463,11 +463,19 @@ self.addEventListener('fetch', (event) => {
   let path = url.pathname.startsWith(scope)
     ? url.pathname.slice(scope.length)
     : url.pathname;
-  if (req.mode === 'navigate' || path === '') path = 'index.html';
+  if (path === '') path = 'index.html';
 
+  // Datoteka iz predpomnilnika, tudi ob navigaciji (npr. iframe 3D pogleda).
+  // Navigacija na naslov, ki ni datoteka aplikacije, dobi aplikacijo.
   event.respondWith(
-    caches.open(CACHE).then((cache) =>
-      cache.match(path).then((hit) => hit || fetch(req)),
-    ),
+    caches.open(CACHE).then(async (cache) => {
+      const hit = await cache.match(path);
+      if (hit) return hit;
+      if (req.mode === 'navigate') {
+        const shell = await cache.match('index.html');
+        if (shell) return shell;
+      }
+      return fetch(req);
+    }),
   );
 });
