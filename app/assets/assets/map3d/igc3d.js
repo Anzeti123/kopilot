@@ -3,7 +3,7 @@
  *
  * Flutter → stran:  window.kp.cmd({cmd: ...})  (WebView: runJavaScript; splet: postMessage {kpToMap: ...})
  *   {cmd: 'flight', pts: [[lon, lat, višina], ...]}   sled od vzleta do pristanka (višina v m nad morjem)
- *   {cmd: 'pos', p: [lon, lat, višina]}               položaj letala na drsniku
+ *   {cmd: 'pos', p: [lon, lat, višina, kurz, nagib, naklon]}  položaj in lega letala (stopinje)
  *   {cmd: 'follow', on: true|false}                   kamera sledi letalu
  *   {cmd: 'curtain', on: true|false}                  zavesa od sledi do tal
  *   {cmd: 'fit'}                                      pokaži cel let
@@ -151,22 +151,78 @@
     '  c.xy += n * a_ts.y * u_width / u_half * c.w;' +
     '  gl_Position = c; v_color = a_color; }';
 
-  var POINT_VS =
-    'uniform mat4 u_matrix; uniform float u_size; attribute vec3 a_pos;' +
-    'void main() { gl_Position = u_matrix * vec4(a_pos, 1.0); gl_PointSize = u_size; }';
-  var POINT_FS =
-    'precision mediump float; uniform vec3 u_fill; uniform vec3 u_ring;' +
-    'void main() { float r = length(gl_PointCoord - vec2(0.5)); if (r > 0.5) discard;' +
-    '  vec3 c = r > 0.32 ? u_ring : u_fill; gl_FragColor = vec4(c, 1.0); }';
+  // ---------- model jadralnega letala ----------
+  // Lokalne koordinate v metrih: x desno (krilo), y naprej, z gor. Razpon 15 m, dolžina 7,5 m.
+  var GLIDER = (function () {
+    var W = [0.97, 0.97, 0.96], C = [0.16, 0.22, 0.32], R = [0.86, 0.16, 0.12], tris = [];
+    function tri(a, b, c, col) { tris.push([a, b, c, col]); }
+    function quad(a, b, c, d, col) { tri(a, b, c, col); tri(a, c, d, col); }
+    // trup: prerezi [y, polovična širina, spodaj, zgoraj]
+    var sec = [[3.4, 0.02, 0.02, 0.06], [2.6, 0.28, -0.2, 0.3], [1.2, 0.33, -0.3, 0.58], [0.2, 0.3, -0.28, 0.45],
+               [-1.2, 0.2, -0.18, 0.25], [-3.0, 0.09, -0.06, 0.12], [-4.1, 0.06, -0.03, 0.1]];
+    function ring(q) { var m = (q[2] + q[3]) / 2; return [[0, q[0], q[3]], [q[1], q[0], m], [0, q[0], q[2]], [-q[1], q[0], m]]; }
+    for (var i = 0; i < sec.length - 1; i++) {
+      var r1 = ring(sec[i]), r2 = ring(sec[i + 1]);
+      for (var k = 0; k < 4; k++) {
+        var k2 = (k + 1) % 4, canopy = (k === 0 || k === 3) && i >= 1 && i <= 2;
+        quad(r1[k], r1[k2], r2[k2], r2[k], canopy ? C : W);
+      }
+    }
+    // krilo z rahlim V (3°): vpetje pri x = 0,3, konica pri 7,5, zadnjih 0,6 m rdečih
+    function wing(x) {
+      var t = (Math.abs(x) - 0.3) / 7.2;
+      return { le: 0.35 - 0.3 * t, te: -0.45 + 0.15 * t, z: 0.15 + Math.abs(x) * 0.052 };
+    }
+    function panel(x0, x1, col) {
+      var a = wing(x0), b = wing(x1);
+      quad([x0, a.le, a.z + 0.07], [x1, b.le, b.z + 0.05], [x1, b.te, b.z], [x0, a.te, a.z], col);
+      quad([x0, a.le, a.z - 0.01], [x0, a.te, a.z - 0.01], [x1, b.te, b.z - 0.01], [x1, b.le, b.z - 0.01], col);
+    }
+    [1, -1].forEach(function (sd) { panel(0.3 * sd, 6.9 * sd, W); panel(6.9 * sd, 7.5 * sd, R); });
+    // višinski stabilizator (T-rep) in smerni stabilizator
+    quad([-1.5, -3.75, 1.25], [1.5, -3.75, 1.25], [1.5, -4.05, 1.25], [-1.5, -4.05, 1.25], W);
+    quad([-1.5, -3.75, 1.22], [-1.5, -4.05, 1.22], [1.5, -4.05, 1.22], [1.5, -3.75, 1.22], W);
+    quad([0, -3.0, 0.1], [0, -3.55, 1.25], [0, -4.15, 1.25], [0, -4.1, 0.05], W);
+    return tris;
+  })();
 
+  // Model je vedno vsaj ~60 px širok, sicer bi bil pri pregledu celega leta neviden.
+  function gliderScale(lat) {
+    var metersPerPx = 40075016.686 * Math.cos(lat * Math.PI / 180) / (512 * Math.pow(2, map.getZoom()));
+    return Math.max(1, 60 * metersPerPx / 15);
+  }
+
+  // Oglišča modela v prostoru sloja: (x, y v mercatorskih enotah od sidrišča, z v metrih) + barva.
+  function gliderVertices(p, px, py, pz) {
+    var h = (p[3] || 0) * Math.PI / 180, r = (p[4] || 0) * Math.PI / 180, q = (p[5] || 0) * Math.PI / 180;
+    var S = gliderScale(p[1]), ch = Math.cos(h), sh = Math.sin(h), cr = Math.cos(r), sr = Math.sin(r), cq = Math.cos(q), sq = Math.sin(q);
+    var L = [-0.42, 0.5, 0.76]; // svetloba s severozahoda, od zgoraj
+    function world(v) {
+      // nagib okoli vzdolžne osi (desno krilo navzdol = +), naklon (nos gor = +), nato kurz
+      var x1 = v[0] * cr + v[2] * sr, z1 = v[2] * cr - v[0] * sr, y1 = v[1];
+      var y2 = y1 * cq - z1 * sq, z2 = z1 * cq + y1 * sq;
+      return [x1 * ch + y2 * sh, -x1 * sh + y2 * ch, z2]; // vzhod, sever, gor
+    }
+    var out = new Float32Array(GLIDER.length * 3 * 7), o = 0;
+    GLIDER.forEach(function (t) {
+      var a = world(t[0]), b = world(t[1]), c = world(t[2]);
+      var ux = b[0] - a[0], uy = b[1] - a[1], uz = b[2] - a[2], vx = c[0] - a[0], vy = c[1] - a[1], vz = c[2] - a[2];
+      var nx = uy * vz - uz * vy, ny = uz * vx - ux * vz, nz = ux * vy - uy * vx, nl = Math.sqrt(nx * nx + ny * ny + nz * nz) || 1;
+      var light = 0.45 + 0.55 * Math.abs((nx * L[0] + ny * L[1] + nz * L[2]) / nl);
+      [a, b, c].forEach(function (w) {
+        out[o++] = px + w[0] * S * mpu; out[o++] = py - w[1] * S * mpu; out[o++] = pz + w[2] * S;
+        out[o++] = t[3][0] * light; out[o++] = t[3][1] * light; out[o++] = t[3][2] * light; out[o++] = 1;
+      });
+    });
+    return out;
+  }
   var layer = {
     id: 'flight', type: 'custom', renderingMode: '3d',
     onAdd: function (m, gl) {
       this.curtain = compile(gl, CURTAIN_VS, COLOR_FS);
       this.line = compile(gl, LINE_VS, COLOR_FS);
-      this.point = compile(gl, POINT_VS, POINT_FS);
       this.bufCurtain = gl.createBuffer(); this.bufLine = gl.createBuffer();
-      this.bufPole = gl.createBuffer(); this.bufPoint = gl.createBuffer();
+      this.bufPole = gl.createBuffer(); this.bufGlider = gl.createBuffer();
     },
     build: function (gl) {
       var f = flight, n = f.x.length;
@@ -244,18 +300,15 @@
         gl.drawArrays(gl.TRIANGLES, 0, 6);
         unbind(gl, this.line, ['a_a', 'a_b', 'a_ts', 'a_color']);
 
-        // letalo: krog, viden tudi za goro
-        gl.disable(gl.DEPTH_TEST);
-        gl.useProgram(this.point);
-        gl.uniformMatrix4fv(gl.getUniformLocation(this.point, 'u_matrix'), false, u);
-        gl.uniform1f(gl.getUniformLocation(this.point, 'u_size'), 16 * dpr);
-        gl.uniform3fv(gl.getUniformLocation(this.point, 'u_fill'), [0.96, 0.75, 0.13]);
-        gl.uniform3fv(gl.getUniformLocation(this.point, 'u_ring'), [0.12, 0.23, 0.43]);
-        gl.bindBuffer(gl.ARRAY_BUFFER, this.bufPoint); gl.bufferData(gl.ARRAY_BUFFER, new Float32Array([px, py, pz]), gl.DYNAMIC_DRAW);
-        bind(gl, this.point, this.bufPoint, 12, [['a_pos', 3, 0]]);
-        gl.drawArrays(gl.POINTS, 0, 1);
-        unbind(gl, this.point, ['a_pos']);
-        gl.enable(gl.DEPTH_TEST);
+        // jadralno letalo: model iz trikotnikov po kurzu, nagibu in naklonu
+        gl.depthMask(true);
+        gl.useProgram(this.curtain);
+        gl.uniformMatrix4fv(gl.getUniformLocation(this.curtain, 'u_matrix'), false, u);
+        var gv = gliderVertices(plane, px, py, pz);
+        gl.bindBuffer(gl.ARRAY_BUFFER, this.bufGlider); gl.bufferData(gl.ARRAY_BUFFER, gv, gl.DYNAMIC_DRAW);
+        bind(gl, this.curtain, this.bufGlider, 28, [['a_pos', 3, 0], ['a_color', 4, 12]]);
+        gl.drawArrays(gl.TRIANGLES, 0, gv.length / 7);
+        unbind(gl, this.curtain, ['a_pos', 'a_color']);
       } else {
         unbind(gl, this.line, ['a_a', 'a_b', 'a_ts', 'a_color']);
       }
