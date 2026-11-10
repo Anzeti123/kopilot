@@ -5,6 +5,7 @@
  *   {cmd: 'flight', pts: [[lon, lat, višina], ...]}   sled od vzleta do pristanka (višina v m nad morjem)
  *   {cmd: 'pos', p: [lon, lat, višina]}               položaj letala na drsniku
  *   {cmd: 'follow', on: true|false}                   kamera sledi letalu
+ *   {cmd: 'curtain', on: true|false}                  zavesa od sledi do tal
  *   {cmd: 'fit'}                                      pokaži cel let
  * stran → Flutter:  {event: 'ready'} | {event: 'error', message}
  *   (WebView: kanal KopilotMap; splet: parent.postMessage {kpFromMap: ...})
@@ -63,6 +64,7 @@
   var flight = null;   // {x, y, alt: Float64Array, colors: Float32Array, bounds}
   var plane = null;    // [lon, lat, alt]
   var follow = false;
+  var curtain = true;  // zavesa od sledi do tal
   var shift = 0;       // poravnava višine s terenom na vzletu (GPS nad elipsoidom, QNH ...)
   var shiftDone = false;
   var origin = null;   // MercatorCoordinate prve točke (sidrišče za natančnost float32)
@@ -209,17 +211,19 @@
       gl.depthMask(false);
 
       // zavesa
+      if (curtain) {
       gl.useProgram(this.curtain);
       gl.uniformMatrix4fv(gl.getUniformLocation(this.curtain, 'u_matrix'), false, u);
       bind(gl, this.curtain, this.bufCurtain, 28, [['a_pos', 3, 0], ['a_color', 4, 12]]);
       gl.drawArrays(gl.TRIANGLES, 0, this.count);
       unbind(gl, this.curtain, ['a_pos', 'a_color']);
+      }
 
       // sled
       gl.useProgram(this.line);
       gl.uniformMatrix4fv(gl.getUniformLocation(this.line, 'u_matrix'), false, u);
       gl.uniform2fv(gl.getUniformLocation(this.line, 'u_half'), half);
-      gl.uniform1f(gl.getUniformLocation(this.line, 'u_width'), 1.6 * dpr);
+      gl.uniform1f(gl.getUniformLocation(this.line, 'u_width'), (curtain ? 1.6 : 2.2) * dpr);
       bind(gl, this.line, this.bufLine, 48, [['a_a', 3, 0], ['a_b', 3, 12], ['a_ts', 2, 24], ['a_color', 4, 32]]);
       gl.drawArrays(gl.TRIANGLES, 0, this.count);
 
@@ -299,6 +303,7 @@
         if (follow && plane) map.easeTo({ center: [plane[0], plane[1]], zoom: Math.max(map.getZoom(), 12), duration: 600 });
         break;
       case 'fit': fit(600); break;
+      case 'curtain': curtain = !!c.on; map.triggerRepaint(); break;
     }
   }
   window.kp = { cmd: cmd };
