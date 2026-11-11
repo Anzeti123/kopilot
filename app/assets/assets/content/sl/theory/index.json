@@ -1,0 +1,21 @@
+{
+  "subjects": [
+    {
+      "subject": 51,
+      "chapters": [
+        {
+          "id": "51-zavoj",
+          "title": "Zavoj",
+          "pages": [
+            {
+              "id": "51-koordiniran-zavoj",
+              "title": "Koordiniran zavoj",
+              "file": "51/koordiniran_zavoj.md",
+              "lo": ["51.1.7.2.9", "51.6.1.5.3", "81.1.1.2.3"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

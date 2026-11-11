@@ -13,21 +13,21 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "1527020e35d9";
+const VERSION = "36127863704b";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "c1c588e7d6ef0be6"
+    "h": "5697689f32de81db"
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "a805dff6a40d3a4e"
+    "h": "78c193e546a01d0e"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "12de53ee64ea2300"
+    "h": "359b37f542aaa0e6"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -218,6 +218,26 @@ const FILES = [
     "h": "c5fe9c77b158911e"
   },
   {
+    "u": "assets/assets/content/sl/theory/51/img/sile_v_zavoju.png",
+    "h": "4900abcf22a51e95"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/51/koordiniran_zavoj.md",
+    "h": "321745cb08c71085"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/index.json",
+    "h": "3c95b4506b1642ef"
+  },
+  {
+    "u": "assets/assets/fonts/KopilotSymbols-Bold.ttf",
+    "h": "24b52214b1f2e9a3"
+  },
+  {
+    "u": "assets/assets/fonts/KopilotSymbols.ttf",
+    "h": "93364bfac950e585"
+  },
+  {
     "u": "assets/assets/fonts/PlusJakartaSans-Bold.ttf",
     "h": "5f5342ef76862b5b"
   },
@@ -259,7 +279,7 @@ const FILES = [
   },
   {
     "u": "assets/FontManifest.json",
-    "h": "f95a00d96eb1518f"
+    "h": "e2407c7ab6005681"
   },
   {
     "u": "assets/fonts/fallback/Roboto-Regular.ttf",
@@ -267,11 +287,11 @@ const FILES = [
   },
   {
     "u": "assets/fonts/MaterialIcons-Regular.otf",
-    "h": "ce2042169ec2184d"
+    "h": "a901d3ac3ecce0dd"
   },
   {
     "u": "assets/NOTICES",
-    "h": "f75946105cac303f"
+    "h": "26e96da64c73875d"
   },
   {
     "u": "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
@@ -355,7 +375,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "42d08ef684756542"
+    "h": "0a230ea3e9ed7689"
   },
   {
     "u": "manifest.json",
@@ -363,7 +383,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "645700e67772c60b"
+    "h": "096225fd43be3f10"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
