@@ -39,7 +39,7 @@ Standardne besede imajo v radijski zvezi točno določen pomen. Uporabljaj jih n
 
 ## Oddajanje v prazno
 
-Ko misliš, da te postaja ne sliši, ti pa njo morda lahko, oddajaš **v prazno**: začneš s »TRANSMITTING BLIND« in sporočilo oddaš **dvakrat**.
+Kadar dvosmerne zveze ni mogoče vzpostaviti, a je možno, da postaja na tleh tvoja sporočila sprejema, oddajaš **v prazno**: začneš s »TRANSMITTING BLIND« (slepo oddajanje), oddajaš **na frekvenci, ki jo trenutno uporabljaš**, in sporočilo oddaš **dvakrat**.
 
 ## Pogosti izrazi
 
@@ -64,5 +64,6 @@ Ko misliš, da te postaja ne sliši, ti pa njo morda lahko, oddajaš **v prazno*
 | ATIS | samodejno oddajanje letaliških informacij: steza v uporabi, veter, vidnost, oblaki, QNH |
 | VOLMET | oddajanje vremenskih poročil za letala v letu |
 | CAVOK | vidnost vsaj 10 km, ni oblakov pod 5000 ft (ali pod najnižjo sektorsko višino, če je višja), ni CB in TCU, ni pomembnega vremena |
+| CAUTION WAKE TURBULENCE | pozor, vrtinčna sled (za letalom z višjo kategorijo vrtinčne sledi) |
 | HEAVY | letalo v kategoriji vrtinčne sledi HEAVY (136 t ali več) |
 | ARRIVAL / DEPARTURE | prihod / odhod |

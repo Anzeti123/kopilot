@@ -1,6 +1,306 @@
 {
   "subjects": [
     {
+      "subject": 10,
+      "chapters": [
+        {
+          "id": "10-pravo",
+          "title": "Pravo in organizacije",
+          "pages": [
+            {
+              "id": "10-pravo",
+              "title": "Mednarodno in evropsko pravo",
+              "file": "10/01_pravo.md"
+            },
+            {
+              "id": "10-plovnost",
+              "title": "Plovnost, registracija in dokumenti",
+              "file": "10/02_plovnost.md"
+            },
+            {
+              "id": "10-licence",
+              "title": "Licence in zdravniško spričevalo",
+              "file": "10/03_licence.md"
+            }
+          ]
+        },
+        {
+          "id": "10-pravila",
+          "title": "Pravila letenja",
+          "pages": [
+            {
+              "id": "10-pravila",
+              "title": "SERA, višine in prednost",
+              "file": "10/04_pravila.md"
+            },
+            {
+              "id": "10-vmc",
+              "title": "VMC in posebni let VFR",
+              "file": "10/05_vmc.md"
+            },
+            {
+              "id": "10-prestrezanje",
+              "title": "Prestrezanje",
+              "file": "10/06_prestrezanje.md"
+            }
+          ]
+        },
+        {
+          "id": "10-prostor",
+          "title": "Zračni prostor in informacije",
+          "pages": [
+            {
+              "id": "10-zracni-prostor",
+              "title": "Službe in razredi zračnega prostora",
+              "file": "10/07_zracni_prostor.md"
+            },
+            {
+              "id": "10-ais",
+              "title": "AIP, NOTAM in PIB",
+              "file": "10/08_ais.md"
+            }
+          ]
+        },
+        {
+          "id": "10-letalisca",
+          "title": "Letališča",
+          "pages": [
+            {
+              "id": "10-letalisca",
+              "title": "Steze, oznake in oprema",
+              "file": "10/09_letalisca.md"
+            },
+            {
+              "id": "10-signali",
+              "title": "Svetlobni in talni signali",
+              "file": "10/10_signali.md"
+            }
+          ]
+        },
+        {
+          "id": "10-varnost",
+          "title": "Iskanje, reševanje in nesreče",
+          "pages": [
+            {
+              "id": "10-sar",
+              "title": "Iskanje in reševanje",
+              "file": "10/11_sar.md"
+            },
+            {
+              "id": "10-nesrece",
+              "title": "Nesreče in poročanje",
+              "file": "10/12_nesrece.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": 20,
+      "chapters": [
+        {
+          "id": "20-uvod",
+          "title": "Človek v letalstvu",
+          "pages": [
+            {
+              "id": "20-cloveski-faktor",
+              "title": "Človeški faktor",
+              "file": "20/01_cloveski_faktor.md"
+            }
+          ]
+        },
+        {
+          "id": "20-telo",
+          "title": "Telo in višina",
+          "pages": [
+            {
+              "id": "20-atmosfera",
+              "title": "Atmosfera in tlak",
+              "file": "20/02_atmosfera.md"
+            },
+            {
+              "id": "20-hipoksija",
+              "title": "Hipoksija, hiperventilacija in CO",
+              "file": "20/03_hipoksija.md"
+            },
+            {
+              "id": "20-telo",
+              "title": "Kri, živčevje in zdravje",
+              "file": "20/04_telo.md"
+            }
+          ]
+        },
+        {
+          "id": "20-cutila",
+          "title": "Čutila in pospeški",
+          "pages": [
+            {
+              "id": "20-vid",
+              "title": "Vid",
+              "file": "20/05_vid.md"
+            },
+            {
+              "id": "20-ravnotezje",
+              "title": "Sluh, ravnotežje in dezorientacija",
+              "file": "20/06_ravnotezje.md"
+            },
+            {
+              "id": "20-iluzije",
+              "title": "Optične iluzije",
+              "file": "20/07_iluzije.md"
+            },
+            {
+              "id": "20-pospeski",
+              "title": "G-pospeški",
+              "file": "20/08_pospeski.md"
+            }
+          ]
+        },
+        {
+          "id": "20-psihologija",
+          "title": "Psihologija",
+          "pages": [
+            {
+              "id": "20-spomin",
+              "title": "Spomin, pozornost in situacijsko zavedanje",
+              "file": "20/09_spomin.md"
+            },
+            {
+              "id": "20-napake",
+              "title": "Človeške napake",
+              "file": "20/10_napake.md"
+            },
+            {
+              "id": "20-odlocanje",
+              "title": "Odločanje, komunikacija in stališča",
+              "file": "20/11_odlocanje.md"
+            },
+            {
+              "id": "20-stres",
+              "title": "Stres, obremenitev in utrujenost",
+              "file": "20/12_stres.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": 30,
+      "chapters": [
+        {
+          "id": "30-atmosfera",
+          "title": "Atmosfera",
+          "pages": [
+            {
+              "id": "30-atmosfera",
+              "title": "Sestava in plasti",
+              "file": "30/01_atmosfera.md"
+            },
+            {
+              "id": "30-temperatura",
+              "title": "Temperatura in stabilnost",
+              "file": "30/02_temperatura.md"
+            },
+            {
+              "id": "30-tlak",
+              "title": "Tlak, ISA in višinomer",
+              "file": "30/03_tlak_isa.md"
+            }
+          ]
+        },
+        {
+          "id": "30-veter",
+          "title": "Veter",
+          "pages": [
+            {
+              "id": "30-veter",
+              "title": "Veter in cirkulacija",
+              "file": "30/04_veter.md"
+            }
+          ]
+        },
+        {
+          "id": "30-vlaga",
+          "title": "Vlaga, oblaki in megla",
+          "pages": [
+            {
+              "id": "30-vlaga",
+              "title": "Vlaga in rosišče",
+              "file": "30/05_vlaga.md"
+            },
+            {
+              "id": "30-oblaki",
+              "title": "Oblaki in padavine",
+              "file": "30/06_oblaki.md"
+            },
+            {
+              "id": "30-megla",
+              "title": "Megla in vidnost",
+              "file": "30/07_megla.md"
+            }
+          ]
+        },
+        {
+          "id": "30-mase",
+          "title": "Zračne mase in tlačni sistemi",
+          "pages": [
+            {
+              "id": "30-zracne-mase",
+              "title": "Zračne mase",
+              "file": "30/08_zracne_mase.md"
+            },
+            {
+              "id": "30-fronte",
+              "title": "Fronte",
+              "file": "30/09_fronte.md"
+            },
+            {
+              "id": "30-tlacni-sistemi",
+              "title": "Ciklon in anticiklon",
+              "file": "30/10_tlacni_sistemi.md"
+            },
+            {
+              "id": "30-fen",
+              "title": "Fen in gorski valovi",
+              "file": "30/11_fen.md"
+            }
+          ]
+        },
+        {
+          "id": "30-nevarnosti",
+          "title": "Nevarni pojavi",
+          "pages": [
+            {
+              "id": "30-zaledenitev",
+              "title": "Zaledenitev",
+              "file": "30/12_zaledenitev.md"
+            },
+            {
+              "id": "30-turbulenca",
+              "title": "Turbulenca in striženje vetra",
+              "file": "30/13_turbulenca.md"
+            },
+            {
+              "id": "30-nevihte",
+              "title": "Nevihte",
+              "file": "30/14_nevihte.md"
+            }
+          ]
+        },
+        {
+          "id": "30-informacije",
+          "title": "Vremenske informacije",
+          "pages": [
+            {
+              "id": "30-informacije",
+              "title": "Karte, METAR, TAF in SIGMET",
+              "file": "30/15_informacije.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "subject": 40,
       "chapters": [
         {
@@ -104,12 +404,33 @@
               ]
             },
             {
+              "id": "40-kratice",
+              "title": "Kratice",
+              "file": "40/16_kratice.md",
+              "lo": [
+                "40.1.1.1.1",
+                "40.1.1.2.1"
+              ]
+            },
+            {
               "id": "40-ponovitev",
               "title": "Obvezna ponovitev",
               "file": "40/10_ponovitev.md",
               "lo": [
                 "40.1.2.10.3",
                 "40.1.2.10.4"
+              ]
+            },
+            {
+              "id": "40-vreme",
+              "title": "ATIS, vreme in višinomer",
+              "file": "40/17_vreme.md",
+              "lo": [
+                "40.1.1.3.1",
+                "40.1.3.1.2",
+                "40.1.3.2.2",
+                "40.1.3.2.3",
+                "40.1.2.2.7"
               ]
             }
           ]
@@ -175,8 +496,87 @@
       "subject": 51,
       "chapters": [
         {
+          "id": "51-aerodinamika",
+          "title": "Osnove aerodinamike",
+          "pages": [
+            {
+              "id": "51-tlak",
+              "title": "Tlak in Bernoullijeva enačba",
+              "file": "51/01_tlak.md"
+            },
+            {
+              "id": "51-profil",
+              "title": "Aeroprofil in krilo",
+              "file": "51/02_profil.md"
+            },
+            {
+              "id": "51-mejna-plast",
+              "title": "Mejna plast",
+              "file": "51/03_mejna_plast.md"
+            }
+          ]
+        },
+        {
+          "id": "51-vzgon-upor",
+          "title": "Vzgon in upor",
+          "pages": [
+            {
+              "id": "51-vzgon",
+              "title": "Vzgon in vpadni kot",
+              "file": "51/04_vzgon.md",
+              "lo": [
+                "51.1.2.7.1",
+                "51.1.7.1.8",
+                "51.1.7.1.9"
+              ]
+            },
+            {
+              "id": "51-upor",
+              "title": "Upor in talni učinek",
+              "file": "51/05_upor.md"
+            },
+            {
+              "id": "51-drsni-let",
+              "title": "Drsni let in polara",
+              "file": "51/11_drsni_let.md"
+            }
+          ]
+        },
+        {
+          "id": "51-porusitev",
+          "title": "Porušitev vzgona in vrij",
+          "pages": [
+            {
+              "id": "51-porusitev",
+              "title": "Porušitev vzgona",
+              "file": "51/06_porusitev.md"
+            },
+            {
+              "id": "51-vrij",
+              "title": "Vrij in spirala",
+              "file": "51/07_vrij.md"
+            }
+          ]
+        },
+        {
+          "id": "51-krmiljenje",
+          "title": "Krmiljenje in stabilnost",
+          "pages": [
+            {
+              "id": "51-krmila",
+              "title": "Osi in krmila",
+              "file": "51/08_krmila.md"
+            },
+            {
+              "id": "51-stabilnost",
+              "title": "Stabilnost in masno središče",
+              "file": "51/09_stabilnost.md"
+            }
+          ]
+        },
+        {
           "id": "51-zavoj",
-          "title": "Zavoj",
+          "title": "Zavoj in obremenitve",
           "pages": [
             {
               "id": "51-koordiniran-zavoj",
@@ -187,6 +587,239 @@
                 "51.6.1.5.3",
                 "81.1.1.2.3"
               ]
+            },
+            {
+              "id": "51-obremenitve",
+              "title": "Obremenitve in omejitve hitrosti",
+              "file": "51/10_obremenitve.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": 60,
+      "chapters": [
+        {
+          "id": "60-priprava",
+          "title": "Priprava",
+          "pages": [
+            {
+              "id": "60-priprava",
+              "title": "Priprava in predpoletni pregled",
+              "file": "60/01_priprava.md"
+            }
+          ]
+        },
+        {
+          "id": "60-vzlet",
+          "title": "Vzlet",
+          "pages": [
+            {
+              "id": "60-vitel",
+              "title": "Vzlet z vitlom",
+              "file": "60/02_vitel.md"
+            },
+            {
+              "id": "60-aerovlek",
+              "title": "Aerovleka",
+              "file": "60/03_aerovlek.md"
+            }
+          ]
+        },
+        {
+          "id": "60-let",
+          "title": "Let in pristanek",
+          "pages": [
+            {
+              "id": "60-jadranje",
+              "title": "Jadranje in izogibanje trkom",
+              "file": "60/04_jadranje.md"
+            },
+            {
+              "id": "60-pristanek",
+              "title": "Šolski krog, pristanek in striženje vetra",
+              "file": "60/05_pristanek.md"
+            },
+            {
+              "id": "60-izven",
+              "title": "Izvenletališki pristanek",
+              "file": "60/06_izven.md"
+            },
+            {
+              "id": "60-nenormalno",
+              "title": "Nenormalne situacije",
+              "file": "60/07_nenormalno.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": 70,
+      "chapters": [
+        {
+          "id": "70-masa",
+          "title": "Masa in ravnotežje",
+          "pages": [
+            {
+              "id": "70-masa",
+              "title": "Masa in masno središče",
+              "file": "70/01_masa.md"
+            }
+          ]
+        },
+        {
+          "id": "70-zmogljivosti",
+          "title": "Zmogljivosti",
+          "pages": [
+            {
+              "id": "70-zmogljivosti",
+              "title": "Vzlet, pristanek in drsni doseg",
+              "file": "70/02_zmogljivosti.md"
+            }
+          ]
+        },
+        {
+          "id": "70-nacrtovanje",
+          "title": "Načrtovanje leta",
+          "pages": [
+            {
+              "id": "70-nacrtovanje",
+              "title": "Prelet, karta, NOTAM in načrt leta",
+              "file": "70/03_nacrtovanje.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": 80,
+      "chapters": [
+        {
+          "id": "80-konstrukcija",
+          "title": "Konstrukcija",
+          "pages": [
+            {
+              "id": "80-konstrukcija",
+              "title": "Konstrukcija in materiali",
+              "file": "80/01_konstrukcija.md"
+            },
+            {
+              "id": "80-plovnost",
+              "title": "Obremenitve, plovnost in vodni balast",
+              "file": "80/02_plovnost.md"
+            }
+          ]
+        },
+        {
+          "id": "80-krmila",
+          "title": "Krmila",
+          "pages": [
+            {
+              "id": "80-krmila",
+              "title": "Krmila, trimer in ročice",
+              "file": "80/03_krmila.md"
+            }
+          ]
+        },
+        {
+          "id": "80-instrumenti",
+          "title": "Instrumenti",
+          "pages": [
+            {
+              "id": "80-pitot",
+              "title": "Pitot-statični sistem",
+              "file": "80/04_pitot.md"
+            },
+            {
+              "id": "80-visinomer",
+              "title": "Višinomer",
+              "file": "80/05_visinomer.md"
+            },
+            {
+              "id": "80-hitrost",
+              "title": "Merilnik hitrosti",
+              "file": "80/06_hitrost.md"
+            },
+            {
+              "id": "80-variometer",
+              "title": "Variometer",
+              "file": "80/07_variometer.md"
+            },
+            {
+              "id": "80-kompas",
+              "title": "Magnetni kompas",
+              "file": "80/08_kompas.md"
+            }
+          ]
+        },
+        {
+          "id": "80-motor",
+          "title": "Motor",
+          "pages": [
+            {
+              "id": "80-motor",
+              "title": "Motor motornega jadralnega letala",
+              "file": "80/09_motor.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": 90,
+      "chapters": [
+        {
+          "id": "90-osnove",
+          "title": "Zemlja in čas",
+          "pages": [
+            {
+              "id": "90-zemlja",
+              "title": "Zemlja, koordinate in razdalje",
+              "file": "90/01_zemlja.md"
+            },
+            {
+              "id": "90-cas",
+              "title": "Čas in Sonce",
+              "file": "90/02_cas.md"
+            }
+          ]
+        },
+        {
+          "id": "90-smeri-karte",
+          "title": "Smeri in karte",
+          "pages": [
+            {
+              "id": "90-smeri",
+              "title": "Sever, variacija in kurz",
+              "file": "90/03_smeri.md"
+            },
+            {
+              "id": "90-karte",
+              "title": "Projekcije in merilo",
+              "file": "90/04_karte.md"
+            }
+          ]
+        },
+        {
+          "id": "90-let",
+          "title": "Načrtovanje in let",
+          "pages": [
+            {
+              "id": "90-veter",
+              "title": "Veter, potna hitrost in čas",
+              "file": "90/05_veter.md"
+            },
+            {
+              "id": "90-med-letom",
+              "title": "Navigacija med letom",
+              "file": "90/06_med_letom.md"
+            },
+            {
+              "id": "90-gnss",
+              "title": "GNSS",
+              "file": "90/07_gnss.md"
             }
           ]
         }

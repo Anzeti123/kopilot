@@ -5,7 +5,7 @@ Sporočila imajo prednost po vrstnem redu:
 1. **v stiski** (distress, MAYDAY),
 2. **nujna** (urgency, PAN PAN),
 3. za **iskanje smeri** (na primer zahteva za QDM),
-4. o **varnosti leta**,
+4. o **varnosti leta** (sem spadajo tudi sporočila kontrole zračnega prometa),
 5. **meteorološka**,
 6. o **rednosti letenja** (delovanje in vzdrževanje naprav in storitev).
 

@@ -13,7 +13,7 @@ Pri obvezni ponovitvi (read back) pilot ponovi varnostno pomembne dele dovoljenj
 
 ## Česa ne ponoviš
 
-Vetra, prometnih informacij, vremena in nasvetov kontrole ne ponavljaš. Prejem potrdiš s pozivnim znakom. **ROGER in WILCO ne nadomestita obvezne ponovitve.**
+Vetra, prometnih informacij, vremena in nasvetov kontrole ne ponavljaš. Prejem potrdiš z ROGER (razumem) in pozivnim znakom. Tako potrdiš tudi informacijo, kot je »vstopate v zračni prostor D«. **ROGER in WILCO ne nadomestita obvezne ponovitve.**
 
 ## Primeri
 

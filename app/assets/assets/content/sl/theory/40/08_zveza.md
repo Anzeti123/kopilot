@@ -23,7 +23,7 @@ Pozivni znak postaje na tleh je ime kraja in pripona, ki pove, katera služba se
 | INFORMATION | informativna služba letenja (FIS) |
 | RADIO | letalska postaja brez kontrole |
 
-Pri zvezi v slovenščini je TOWER **Stolp**, GROUND pa **Tla**.
+Pri zvezi v slovenščini je TOWER **Stolp**, GROUND **Tla**, INFORMATION pa **Informacije**.
 
 ## Pozivni znak letala
 
@@ -41,6 +41,14 @@ Kontrola lahko pozivni znak skrajša, kadar ni nevarnosti zamenjave. Okrajšava 
 | Adria 375 | se ne krajša |
 
 Okrajšan pozivni znak smeš uporabiti **šele, ko ga je prva uporabila kontrola**.
+
+## Pogosta sporočila pilota
+
+| Sporočilo | Pomen |
+|---|---|
+| READY FOR DEPARTURE | pripravljen za odlet |
+| GOING AROUND | prekinjam pristanek in ponavljam prilet |
+| »S5ABC, N, 2500 ft« | **poročilo o položaju**: pozivni znak, položaj (točka javljanja), višina |
 
 ## Preizkus zveze in razumljivost
 
