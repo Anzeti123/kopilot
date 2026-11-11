@@ -1,6 +1,177 @@
 {
   "subjects": [
     {
+      "subject": 40,
+      "chapters": [
+        {
+          "id": "40-valovi",
+          "title": "Radijski valovi",
+          "pages": [
+            {
+              "id": "40-valovanje",
+              "title": "Elektromagnetno valovanje",
+              "file": "40/01_valovanje.md",
+              "lo": [
+                "40.1.6.1.1"
+              ]
+            },
+            {
+              "id": "40-obmocja",
+              "title": "Frekvenčna območja",
+              "file": "40/02_obmocja.md",
+              "lo": [
+                "40.1.6.1.1"
+              ]
+            },
+            {
+              "id": "40-sirjenje",
+              "title": "Širjenje radijskih valov",
+              "file": "40/03_sirjenje.md",
+              "lo": []
+            }
+          ]
+        },
+        {
+          "id": "40-postaja",
+          "title": "Radijska postaja",
+          "pages": [
+            {
+              "id": "40-vhf-kanali",
+              "title": "Pas VHF in kanali 8,33 kHz",
+              "file": "40/04_vhf_kanali.md",
+              "lo": [
+                "40.1.6.1.3"
+              ]
+            },
+            {
+              "id": "40-postaja",
+              "title": "Postaja, mikrofon in oprema",
+              "file": "40/05_postaja.md",
+              "lo": []
+            }
+          ]
+        },
+        {
+          "id": "40-radiotelefonija",
+          "title": "Radiotelefonija",
+          "pages": [
+            {
+              "id": "40-abeceda",
+              "title": "Letalska abeceda in števila",
+              "file": "40/06_abeceda.md",
+              "lo": []
+            },
+            {
+              "id": "40-stevila",
+              "title": "Oddajanje števil, frekvenc in časa",
+              "file": "40/07_stevila.md",
+              "lo": [
+                "40.1.2.2.3",
+                "40.1.2.2.4",
+                "40.1.2.2.5",
+                "40.1.2.2.7",
+                "40.1.2.3.1",
+                "40.1.2.3.2"
+              ]
+            },
+            {
+              "id": "40-zveza",
+              "title": "Vzpostavitev zveze in pozivni znaki",
+              "file": "40/08_zveza.md",
+              "lo": [
+                "40.1.1.1.1",
+                "40.1.2.6.2",
+                "40.1.2.7.1",
+                "40.1.2.7.3",
+                "40.1.2.7.4",
+                "40.1.2.9.1",
+                "40.1.2.9.2"
+              ]
+            },
+            {
+              "id": "40-izrazi",
+              "title": "Standardne besede in izrazi",
+              "file": "40/09_izrazi.md",
+              "lo": [
+                "40.1.1.2.1",
+                "40.1.2.5.1",
+                "40.1.2.5.2",
+                "40.1.2.5.3",
+                "40.1.2.5.6",
+                "40.1.3.1.2",
+                "40.1.3.2.2",
+                "40.1.3.2.3"
+              ]
+            },
+            {
+              "id": "40-ponovitev",
+              "title": "Obvezna ponovitev",
+              "file": "40/10_ponovitev.md",
+              "lo": [
+                "40.1.2.10.3",
+                "40.1.2.10.4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "40-nujni",
+          "title": "Nujni primeri in transponder",
+          "pages": [
+            {
+              "id": "40-nujni",
+              "title": "Prednost sporočil, MAYDAY in PAN PAN",
+              "file": "40/11_nujni.md",
+              "lo": [
+                "40.1.1.4.1",
+                "40.1.5.1.1",
+                "40.1.5.1.3",
+                "40.1.5.2.1",
+                "40.1.5.2.2",
+                "40.1.5.2.7"
+              ]
+            },
+            {
+              "id": "40-transponder",
+              "title": "Transponder in odpoved zveze",
+              "file": "40/12_transponder.md",
+              "lo": [
+                "40.1.4.1.2",
+                "40.1.4.1.4",
+                "40.1.5.1.4"
+              ]
+            },
+            {
+              "id": "40-prestrezanje",
+              "title": "Prestrezanje",
+              "file": "40/13_prestrezanje.md",
+              "lo": []
+            }
+          ]
+        },
+        {
+          "id": "40-smeri",
+          "title": "Smeri in frekvence",
+          "pages": [
+            {
+              "id": "40-q-kode",
+              "title": "Q-kode za smeri",
+              "file": "40/14_q_kode.md",
+              "lo": [
+                "40.1.1.3.1"
+              ]
+            },
+            {
+              "id": "40-frekvence",
+              "title": "Frekvence v Sloveniji",
+              "file": "40/15_frekvence.md",
+              "lo": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "subject": 51,
       "chapters": [
         {
@@ -11,7 +182,11 @@
               "id": "51-koordiniran-zavoj",
               "title": "Koordiniran zavoj",
               "file": "51/koordiniran_zavoj.md",
-              "lo": ["51.1.7.2.9", "51.6.1.5.3", "81.1.1.2.3"]
+              "lo": [
+                "51.1.7.2.9",
+                "51.6.1.5.3",
+                "81.1.1.2.3"
+              ]
             }
           ]
         }

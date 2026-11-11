@@ -19,7 +19,7 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "9e2df1a3e13d";
+const VERSION = "e876882b3914";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
@@ -29,11 +29,11 @@ const FILES = [
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "f972833c91b8945c"
+    "h": "92165db88c25d949"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "b61ece57f8e26421"
+    "h": "c480c2dc4769cf40"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -224,6 +224,81 @@ const FILES = [
     "h": "c5fe9c77b158911e"
   },
   {
+    "u": "assets/assets/content/sl/theory/40/01_valovanje.md",
+    "h": "0a58a5923bd77d2f"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/02_obmocja.md",
+    "h": "631f0cf2e0399f86"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/03_sirjenje.md",
+    "h": "5396f6f16c550c74"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/04_vhf_kanali.md",
+    "h": "3e541c3c80ebdea8"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/05_postaja.md",
+    "h": "f1b8eb41008d9e2a"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/06_abeceda.md",
+    "h": "7088d21424ffdca0"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/07_stevila.md",
+    "h": "270542c5034a34d2"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/08_zveza.md",
+    "h": "a67dbbd7e8041573"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/09_izrazi.md",
+    "h": "282a37730e3f3771"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/10_ponovitev.md",
+    "h": "960577264b9e9f94"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/11_nujni.md",
+    "h": "666ccd20c3e78c63"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/12_transponder.md",
+    "h": "f6494d37e5c708a9"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/13_prestrezanje.md",
+    "h": "8e65ce39d30676e2"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/14_q_kode.md",
+    "h": "3b4f5dff8dd0bdf0"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/15_frekvence.md",
+    "h": "9b650ff6dd088d78"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/img/kanali.png",
+    "h": "78cc60f3fc56cc92",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/img/sirjenje.png",
+    "h": "259405d98ad0fdf3",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/img/val.png",
+    "h": "b890cd07d937f194",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/51/img/sile_v_zavoju.png",
     "h": "4900abcf22a51e95",
     "l": 1
@@ -234,7 +309,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/index.json",
-    "h": "3c95b4506b1642ef"
+    "h": "ec942bdfbb0d6e19"
   },
   {
     "u": "assets/assets/fonts/KopilotSymbols-Bold.ttf",
@@ -475,7 +550,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "2d579cd2bc88f454"
+    "h": "a3f1bb405eefa1e3"
   },
   {
     "u": "manifest.json",
