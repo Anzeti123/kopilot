@@ -10,10 +10,16 @@
 //   naloži ob zagonu; brez njih se brez povezave ne bi odprla.
 // - Vse zahteve postreže iz predpomnilnika svoje različice, zato se stara in
 //   nova koda nikoli ne pomešata.
+// - Datoteke z oznako l (CanvasKit, 3D pogled, slike teorije, licence) se ne
+//   prenesejo ob namestitvi, ampak ob prvi uporabi. Stran po zagonu sporoči,
+//   katere datoteke je naložila (CACHE_URLS), da se uporabljena različica
+//   CanvasKit shrani, čeprav je prvi zagon tekel še brez service workerja.
+//   Ob novi različici se take datoteke prenesejo znova le, če jih je ta
+//   brskalnik že uporabljal in so se spremenile.
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "36127863704b";
+const VERSION = "9e2df1a3e13d";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
@@ -23,11 +29,11 @@ const FILES = [
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "78c193e546a01d0e"
+    "h": "f972833c91b8945c"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "359b37f542aaa0e6"
+    "h": "b61ece57f8e26421"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -219,11 +225,12 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/51/img/sile_v_zavoju.png",
-    "h": "4900abcf22a51e95"
+    "h": "4900abcf22a51e95",
+    "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/51/koordiniran_zavoj.md",
-    "h": "321745cb08c71085"
+    "h": "d5b188ae00591fd5"
   },
   {
     "u": "assets/assets/content/sl/theory/index.json",
@@ -263,23 +270,27 @@ const FILES = [
   },
   {
     "u": "assets/assets/map3d/igc3d.js",
-    "h": "28efe451df699996"
+    "h": "28efe451df699996",
+    "l": 1
   },
   {
     "u": "assets/assets/map3d/index.html",
-    "h": "40f3b706470b8d65"
+    "h": "40f3b706470b8d65",
+    "l": 1
   },
   {
     "u": "assets/assets/map3d/maplibre-gl.css",
-    "h": "576b085fdd9487a6"
+    "h": "576b085fdd9487a6",
+    "l": 1
   },
   {
     "u": "assets/assets/map3d/maplibre-gl.js",
-    "h": "d01ffd5aefe5fb27"
+    "h": "d01ffd5aefe5fb27",
+    "l": 1
   },
   {
     "u": "assets/FontManifest.json",
-    "h": "e2407c7ab6005681"
+    "h": "f0cb0930d958f024"
   },
   {
     "u": "assets/fonts/fallback/Roboto-Regular.ttf",
@@ -291,7 +302,8 @@ const FILES = [
   },
   {
     "u": "assets/NOTICES",
-    "h": "26e96da64c73875d"
+    "h": "f667b5133a6d3f7d",
+    "l": 1
   },
   {
     "u": "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
@@ -300,6 +312,86 @@ const FILES = [
   {
     "u": "assets/packages/flutter_map/lib/assets/flutter_map_logo.png",
     "h": "6051ae42fb505931"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf",
+    "h": "85f9f2224f9d3049"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf",
+    "h": "ed6f3b5e041d1692"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Regular.ttf",
+    "h": "0ea93868466abdda"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Bold.ttf",
+    "h": "1c74228270fff6b6"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Regular.ttf",
+    "h": "7fb43e3bc460c918"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Bold.ttf",
+    "h": "afba779276abb90d"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-BoldItalic.ttf",
+    "h": "8f7ded0679aabf07"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Italic.ttf",
+    "h": "5d1f693d3abbfe38"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Regular.ttf",
+    "h": "334f933a72d058b6"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-BoldItalic.ttf",
+    "h": "30a340e7be0633c4"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-Italic.ttf",
+    "h": "d8864703a46f8f84"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Bold.ttf",
+    "h": "2e16724cc4634531"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Italic.ttf",
+    "h": "181f761261a61c2a"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Regular.ttf",
+    "h": "b43cecc782fea7c1"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf",
+    "h": "076ecacccedc9537"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size1-Regular.ttf",
+    "h": "55d56f5a9989b750"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size2-Regular.ttf",
+    "h": "7a9f51ca341ba936"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size3-Regular.ttf",
+    "h": "82af052b616478aa"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf",
+    "h": "bb58709dd6babc88"
+  },
+  {
+    "u": "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf",
+    "h": "ef8bbd91d323fef1"
   },
   {
     "u": "assets/shaders/ink_sparkle.frag",
@@ -311,35 +403,43 @@ const FILES = [
   },
   {
     "u": "canvaskit/canvaskit.js",
-    "h": "bb559f6080c7d312"
+    "h": "bb559f6080c7d312",
+    "l": 1
   },
   {
     "u": "canvaskit/canvaskit.wasm",
-    "h": "fbed517a43e82452"
+    "h": "fbed517a43e82452",
+    "l": 1
   },
   {
     "u": "canvaskit/chromium/canvaskit.js",
-    "h": "6018b12bd8ed37e6"
+    "h": "6018b12bd8ed37e6",
+    "l": 1
   },
   {
     "u": "canvaskit/chromium/canvaskit.wasm",
-    "h": "ae8ff1d858140f7b"
+    "h": "ae8ff1d858140f7b",
+    "l": 1
   },
   {
     "u": "canvaskit/webparagraph/canvaskit.js",
-    "h": "3110e3e4d9b7b565"
+    "h": "3110e3e4d9b7b565",
+    "l": 1
   },
   {
     "u": "canvaskit/webparagraph/canvaskit.wasm",
-    "h": "0ce1b05082efdc85"
+    "h": "0ce1b05082efdc85",
+    "l": 1
   },
   {
     "u": "canvaskit/wimp.js",
-    "h": "8fd8a47480c6eb0a"
+    "h": "8fd8a47480c6eb0a",
+    "l": 1
   },
   {
     "u": "canvaskit/wimp.wasm",
-    "h": "e924eaafd801d41e"
+    "h": "e924eaafd801d41e",
+    "l": 1
   },
   {
     "u": "favicon.png",
@@ -371,11 +471,11 @@ const FILES = [
   },
   {
     "u": "index.html",
-    "h": "ab17e046a0d9ee99"
+    "h": "b3655264d6eb9677"
   },
   {
     "u": "main.dart.js",
-    "h": "0a230ea3e9ed7689"
+    "h": "2d579cd2bc88f454"
   },
   {
     "u": "manifest.json",
@@ -399,6 +499,8 @@ const FILES = [
   }
 ];
 const HASHES = '__hashes__';
+// Datoteke, ki se shranijo ob prvi uporabi: pot → zgoščena vsebina.
+const LAZY = new Map(FILES.filter((f) => f.l).map((f) => [f.u, f.h]));
 
 function external(url) {
   return /^https?:\/\//.test(url);
@@ -422,10 +524,11 @@ self.addEventListener('install', (event) => {
       const old = await previousCache();
       await Promise.all(
         FILES.map(async (f) => {
-          if (old.cache && old.hashes[f.u] === f.h) {
-            const hit = await old.cache.match(f.u);
-            if (hit) return cache.put(f.u, hit);
-          }
+          const oldHit = old.cache ? await old.cache.match(f.u) : undefined;
+          if (oldHit && old.hashes[f.u] === f.h) return cache.put(f.u, oldHit);
+          // Datoteka ob prvi uporabi: prenesemo jo le, če jo je ta brskalnik že
+          // uporabljal (sicer bi nova različica brez interneta ne imela CanvasKit).
+          if (f.l && !oldHit) return;
           // cache: 'reload' obide predpomnilnik HTTP, da res dobimo novo različico.
           const req = new Request(f.u, {
             cache: 'reload',
@@ -458,8 +561,40 @@ self.addEventListener('activate', (event) => {
   );
 });
 
+/// Shrani datoteko ob prvi uporabi v predpomnilnik te različice.
+async function cacheLazy(cache, path, res) {
+  if (res && res.ok && LAZY.has(path)) await cache.put(path, res.clone());
+  return res;
+}
+
+/// Pot datoteke glede na mapo aplikacije ali null, če ni z istega izvora.
+function appPath(href) {
+  const url = new URL(href, self.location.href);
+  if (url.origin !== self.location.origin) return null;
+  const scope = new URL(self.registration.scope).pathname;
+  return url.pathname.startsWith(scope) ? url.pathname.slice(scope.length) : null;
+}
+
 self.addEventListener('message', (event) => {
   if (event.data === 'SKIP_WAITING') self.skipWaiting();
+  // Stran sporoči naložene datoteke; manjkajoče datoteke ob prvi uporabi shranimo.
+  if (event.data && event.data.type === 'CACHE_URLS') {
+    event.waitUntil(
+      caches.open(CACHE).then((cache) =>
+        Promise.all(
+          event.data.urls.map(async (href) => {
+            const path = appPath(href);
+            if (!path || !LAZY.has(path) || (await cache.match(path))) return;
+            try {
+              await cacheLazy(cache, path, await fetch(path));
+            } catch (_) {
+              // Brez interneta: poskusimo ob naslednjem zagonu.
+            }
+          }),
+        ),
+      ),
+    );
+  }
 });
 
 self.addEventListener('fetch', (event) => {
@@ -495,6 +630,7 @@ self.addEventListener('fetch', (event) => {
         const shell = await cache.match('index.html');
         if (shell) return shell;
       }
+      if (LAZY.has(path)) return cacheLazy(cache, path, await fetch(req));
       return fetch(req);
     }),
   );

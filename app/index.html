@@ -88,6 +88,17 @@
   </style>
   <script>
     if ('serviceWorker' in navigator) {
+      // Po prvem izrisu sporočimo service workerju, katere datoteke je aplikacija
+      // naložila (npr. različico CanvasKit za ta brskalnik). Shrani jih za delo
+      // brez interneta, tudi če je prvi zagon tekel še brez njega.
+      var firstFrame = new Promise(function (resolve) {
+        window.addEventListener('flutter-first-frame', resolve, { once: true });
+        setTimeout(resolve, 20000);
+      });
+      Promise.all([navigator.serviceWorker.ready, firstFrame]).then(function (r) {
+        var urls = performance.getEntriesByType('resource').map(function (e) { return e.name; });
+        if (r[0].active) r[0].active.postMessage({ type: 'CACHE_URLS', urls: urls });
+      });
       window.addEventListener('load', function () {
         navigator.serviceWorker.register('sw.js').then(function (reg) {
           function offer(worker) {

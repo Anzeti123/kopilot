@@ -4,8 +4,8 @@
 
 Telo, ki se giblje po krožnici, potrebuje silo proti središču kroga – **centripetalno silo**. Letalo je dobi tako, da se nagne. Vzgon je vedno pravokoten na krila, zato se nagne skupaj z letalom in ga lahko razstavimo na dve komponenti:
 
-- **navpično, L·cos φ**, ki nosi težo letala,
-- **vodoravno, L·sin φ**, ki je centripetalna sila in letalo obrača.
+- **navpično**, $L\cos\varphi$, ki nosi težo letala,
+- **vodoravno**, $L\sin\varphi$, ki je centripetalna sila in letalo obrača.
 
 Letalo torej obrača nagnjen vzgon, ne smerno krmilo. Smerno krmilo zavoj samo **usklajuje**. Ob vstopu v nagib ustvari spuščeno krilce na krilu, ki se dviga, več upora in potegne nos v nasprotno smer od zavoja (angl. *adverse yaw*). To odpravimo s sočasnim pritiskom na pedal v smeri zavoja. Pri jadralnih letalih z dolgimi krili je ta učinek zelo izrazit.
 
@@ -18,13 +18,17 @@ V sistemu, ki se vrti skupaj z letalom (tako zavoj občuti pilot), isto opišemo
 
 ## Stopnja obremenitve
 
-Navpična komponenta mora še vedno nositi celotno težo: L·cos φ = W. Zato mora biti vzgon v zavoju **večji** kot v premočrtnem letu. Razmerje med vzgonom in težo je stopnja obremenitve:
+Navpična komponenta mora še vedno nositi celotno težo, $L\cos\varphi = W$. Zato mora biti vzgon v zavoju **večji** kot v premočrtnem letu. Razmerje med vzgonom in težo je stopnja obremenitve:
 
-**n = L / W = 1 / cos φ**
+```enacba
+n = \frac{L}{W} = \frac{1}{\cos\varphi}
+```
 
 Večji vzgon pilot doseže z večjim napadnim kotom (palico povleče k sebi). S tem se letalo približa kritičnemu napadnemu kotu, zato je **hitrost porušitve vzgona v zavoju večja**:
 
-**Vs v zavoju = Vs · √n**
+```enacba
+V_{S,\,\text{zavoj}} = V_S\sqrt{n} = \frac{V_S}{\sqrt{\cos\varphi}}
+```
 
 | Nagib φ | n | Vs v zavoju |
 |---|---|---|
@@ -39,9 +43,17 @@ Strm zavoj pri majhni hitrosti blizu tal (na primer zadnji zavoj pred pristankom
 
 ## Polmer in čas kroga
 
-Polmer koordiniranega zavoja je odvisen samo od hitrosti in nagiba:
+Vodoravna komponenta vzgona je centripetalna sila, navpična nosi težo:
 
-**r = v² / (g · tan φ)**
+```enacba
+L\sin\varphi = \frac{m v^2}{r}, \qquad L\cos\varphi = m g
+```
+
+Ko enačbi delimo, se vzgon in masa pokrajšata. Polmer je odvisen samo od hitrosti in nagiba, čas polnega kroga pa od polmera in hitrosti:
+
+```enacba
+r = \frac{v^2}{g\tan\varphi}, \qquad T = \frac{2\pi r}{v}
+```
 
 Večji nagib in manjša hitrost dasta ožji krog. Pri 90 km/h je polmer pri nagibu 30° približno 110 m (krog traja okoli 28 s), pri nagibu 45° pa le še okoli 64 m (16 s). Zato jadralci v ozkih termikah krožijo z večjim nagibom.
 
