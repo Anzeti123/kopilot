@@ -35,6 +35,64 @@ opis: Oblaki po nadstropjih
 - **Kumulonimbus** je nevihtni oblak.
 - **Altokumulus lenticularis** (lečasti oblak) nastane v gorskem valu.
 
+## Oblaki na fotografijah
+
+```slika
+src: img/foto_ci.jpg
+opis: Cirus (Ci): tanki vlaknati pramenovi iz ledenih kristalov. Foto: GerritR, Wikimedia Commons, CC BY-SA 4.0
+```
+
+```slika
+src: img/foto_cc.jpg
+opis: Cirokumulus (Cc): drobni beli kosmiči brez senc. Foto: GerritR, Wikimedia Commons, CC BY-SA 4.0
+```
+
+```slika
+src: img/foto_cs.jpg
+opis: Cirostratus (Cs): tanka prosojna koprena, pogosto s halom okoli Sonca. Foto: Chrumps, Wikimedia Commons, CC BY 2.5
+```
+
+```slika
+src: img/foto_ac.jpg
+opis: Altokumulus (Ac): kepe in valji v srednjem nadstropju. Foto: GerritR, Wikimedia Commons, CC BY-SA 4.0
+```
+
+```slika
+src: img/foto_as.jpg
+opis: Altostratus (As): siva koprena, Sonce je vidno kot skozi motno steklo. Foto: Couch-scratching-cats, Wikimedia Commons, javna last
+```
+
+```slika
+src: img/foto_ns.jpg
+opis: Nimbostratus (Ns): temna, enotna plast s trajnimi padavinami. Foto: Simon Eugster, Wikimedia Commons, CC BY-SA 3.0
+```
+
+```slika
+src: img/foto_sc.jpg
+opis: Stratokumulus (Sc): nizke kepe in valji s presledki. Foto: History person 2, Wikimedia Commons, CC BY-SA 4.0
+```
+
+```slika
+src: img/foto_st.jpg
+opis: Stratus (St): enotna nizka siva plast, podobna dvignjeni megli. Foto: Simon Eugster, Wikimedia Commons, CC BY-SA 3.0
+```
+
+```slika
+src: img/foto_cu.jpg
+opis: Kumulus (Cu): kopasti oblaki lepega vremena z ravno bazo; pod njimi je termika. Foto: Toby Hudson, Wikimedia Commons, CC BY-SA 3.0
+```
+
+```slika
+src: img/foto_cb.jpg
+opis: Kumulonimbus (Cb): nevihtni oblak z nakovalom na vrhu. Foto: Kamil Nowacki, Wikimedia Commons, CC BY-SA 4.0
+```
+
+```slika
+src: img/foto_len.jpg
+opis: Altokumulus lenticularis: lečasti oblak nad gorami, znak gorskega vala. Foto: Dmitry A. Mottl, Wikimedia Commons, CC BY-SA 4.0
+```
+
+
 ## Oblaki in jadranje
 
 - Vrh kumulusov omeji **plast inverzije**: oblak se pod njo razleze.

@@ -19,7 +19,7 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "5cd5d383ce10";
+const VERSION = "5aabbba0cb3a";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
@@ -29,11 +29,11 @@ const FILES = [
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "8a6c776fb3c64103"
+    "h": "a6c746a064ceb862"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "f15779a349c0b84f"
+    "h": "5aca62dab7932fad"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -322,16 +322,16 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/20/12_stres.md",
-    "h": "b14458c5e5fa6344"
+    "h": "b129c91ce2b1f954"
   },
   {
     "u": "assets/assets/content/sl/theory/20/img/stres.png",
-    "h": "9a33b414f8e86bd6",
+    "h": "7669def9ff660eee",
     "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/30/01_atmosfera.md",
-    "h": "ae1da20cfe332529"
+    "h": "ace284dc181d42a2"
   },
   {
     "u": "assets/assets/content/sl/theory/30/02_temperatura.md",
@@ -351,7 +351,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/30/06_oblaki.md",
-    "h": "da9805e32a4be344"
+    "h": "16aad37fe7595fd9"
   },
   {
     "u": "assets/assets/content/sl/theory/30/07_megla.md",
@@ -391,17 +391,77 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/30/img/fen.png",
-    "h": "9d0a7ed5d96e9924",
+    "h": "14c33e7e3941cfae",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_ac.jpg",
+    "h": "ff67025c8835a09f",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_as.jpg",
+    "h": "a3be8d75a42d59ba",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_cb.jpg",
+    "h": "b8051f74649b920b",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_cc.jpg",
+    "h": "11b82e41f62afcb8",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_ci.jpg",
+    "h": "83cd4f8627a9cb0d",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_cs.jpg",
+    "h": "d75232d7614876f2",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_cu.jpg",
+    "h": "5b8cae55c6bf2f82",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_len.jpg",
+    "h": "462288e8f28b973d",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_ns.jpg",
+    "h": "07372caf6bf84f4e",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_sc.jpg",
+    "h": "090e25d9d0d21aee",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_st.jpg",
+    "h": "c5a23d42f30b1e00",
     "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/30/img/fronte.png",
-    "h": "532b703aae143cf8",
+    "h": "98aaa55db5a6d61f",
     "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/30/img/oblaki.png",
-    "h": "7980f3b750e2e794",
+    "h": "05ff268fa0178f4d",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/plasti.png",
+    "h": "77984172091451f4",
     "l": 1
   },
   {
@@ -543,7 +603,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/51/img/profil.png",
-    "h": "37e3522141a7167d",
+    "h": "edf9887879d78b8e",
     "l": 1
   },
   {
@@ -590,7 +650,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/60/img/vitel.png",
-    "h": "544bc23b840452b9",
+    "h": "c8fb44e7319d55ec",
     "l": 1
   },
   {
@@ -648,7 +708,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/img/krilo.png",
-    "h": "c04e15f1904c4cc8",
+    "h": "1de7ba7ec757293c",
     "l": 1
   },
   {

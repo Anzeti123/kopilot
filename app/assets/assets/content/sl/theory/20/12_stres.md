@@ -8,17 +8,17 @@ Stres vpliva na **pozornost, koncentracijo, odzivnost in spomin**, torej na vse 
 
 ## Stres in zmogljivost
 
-Med vzburjenostjo (stresom) in zmogljivostjo velja **obrnjena črka U** (Yerkes-Dodsonov zakon).
+Med vzbujenostjo (stresom) in zmogljivostjo velja **obrnjena črka U** (Yerkes-Dodsonov zakon).
 
 ```slika
 src: img/stres.png
-opis: Zmogljivost (P) v odvisnosti od vzburjenosti oziroma stresa (A)
+opis: Zmogljivost (P) v odvisnosti od vzbujenosti oziroma stresa (A)
 ```
 
 | Točka | Stanje |
 |---|---|
-| A | premalo vzburjenosti: dolgčas, nepozornost, **podobremenjenost** |
-| **B** | **idealna raven vzburjenosti**: zmogljivost je visoka in pilot ima še rezervo za nepričakovano |
+| A | premalo vzbujenosti: dolgčas, nepozornost, **podobremenjenost** |
+| **B** | **idealna raven vzbujenosti**: zmogljivost je visoka in pilot ima še rezervo za nepričakovano |
 | C | največja zmogljivost, brez rezerve; vsak dodaten stres jo zniža |
 | **D** | **preobremenjenost**: zmogljivost pada, pilot spregleda stvari, napake se kopičijo |
 
