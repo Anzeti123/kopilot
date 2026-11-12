@@ -57,3 +57,28 @@ V banki vprašanj se pojavlja vprašanje o dveh letalih »na poteh, ki se križa
 **Nastavitev višinomera**: pod prehodno nadmorsko višino letimo po **QNH** (nadmorska višina, ALT); nad prehodnim nivojem po **standardnem tlaku 1013,25 hPa** in višino podajamo kot **nivo leta (FL)**. Na nivoju FL 80 je višinomer nastavljen na 1013,25 hPa.
 
 Pod FL 100 je največja hitrost **250 kt IAS** (v prostorih C, D, E, F, G).
+
+## Luči na zrakoplovu
+
+Ponoči in v slabi vidnosti morajo imeti zrakoplovi prižgane **navigacijske luči**:
+
+| Luč | Lega |
+|---|---|
+| **rdeča** | konec **levega** krila |
+| **zelena** | konec **desnega** krila |
+| **bela** | rep |
+
+Iz razporeda luči ugotoviš smer letenja drugega letala: če vidiš rdečo luč na levi in zeleno na desni, letalo leti proti tebi. **Bliskavice** (protitrkalne luči) so bele ali rdeče in jih prižgeš, ko motor deluje ali letalo leti.
+
+## Druga pravila SERA
+
+- **Malomarno ali nepremišljeno upravljanje** zrakoplova, ki ogroža življenje ali premoženje drugih, je prepovedano.
+- **Akrobatsko letenje** je dovoljeno le na način, ki ne ogroža drugih, ne nad gosto naseljenimi kraji in ne v oblakih; potrebuješ ustrezno usposobljenost in letalo.
+- **Odmetavanje predmetov** in razprševanje iz zrakoplova sta dovoljena le pod pogoji, ki jih določi pristojni organ.
+- **Vleka** zrakoplovov in predmetov (transparentov) je dovoljena le v skladu s predpisi.
+- **Letenje v formaciji** je dovoljeno le po dogovoru med piloti, z vodjo formacije in v skladu s pogoji pristojnega organa.
+- Zrakoplov ne sme leteti tako blizu drugega, da bi nastala nevarnost trka.
+
+## Načrt leta
+
+Načrt leta (flight plan) je potreben pri vseh letih IFR, pri **čezmejnih letih**, pri letih v kontroliranem prostoru, kjer je zahtevan, in kadar želiš zagotoviti alarmno službo. Vsebuje oznako zrakoplova, vrsto leta, pot, potovalno hitrost in višino, predvideni čas leta, alternativna letališča in število oseb na krovu. Po pristanku ga je treba **zaključiti**.

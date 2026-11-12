@@ -44,3 +44,30 @@ Med letom ima pilot pri sebi **licenco**, **zdravniško spričevalo** in **osebn
 
 - SPL dovoljuje letenje **brez plačila**. Komercialni privilegij dobi pilot, ki je star najmanj **18 let**, je po izdaji licence opravil **75 ur ali 200 vzletov** kot PIC in uspešno opravil preverjanje z izpraševalcem.
 - Za **nočno letenje VFR** (rating za PPL in LAPL) je med drugim potrebnih najmanj **5 ur letenja ponoči**, od tega **3 ure z inštruktorjem**, vključno z najmanj enournim navigacijskim preletom, in **5 samostojnih vzletov in pristankov** do popolne zaustavitve.
+
+## Usposabljanje za SPL
+
+Usposabljanje poteka v odobreni organizaciji za usposabljanje (ATO) ali deklarirani organizaciji (DTO), kakršna je aeroklub. Najmanjše zahteve za praktični del (Part-SFCL):
+
+- najmanj **15 ur letenja** na jadralnih letalih,
+- od tega najmanj **10 ur z inštruktorjem**,
+- najmanj **2 uri samostojnega letenja** pod nadzorom,
+- najmanj **45 vzletov in pristankov**,
+- en samostojni **prelet najmanj 50 km** ali prelet z inštruktorjem najmanj 100 km.
+
+**Teoretični del** obsega 9 predmetov: letalski predpisi, človeška zmogljivost, meteorologija, komunikacije, načela letenja, operativni postopki, zmogljivosti in načrtovanje leta, poznavanje zrakoplova in navigacija. Izpit je opravljen, ko pri vsakem predmetu doseže kandidat **najmanj 75 %**. Uspešno opravljen teoretični izpit velja omejen čas (navadno 24 mesecev), v katerem moraš opraviti praktični izpit.
+
+**Praktični izpit** opravi kandidat z izpraševalcem FE(S) na jadralnem letalu z načinom vzleta, za katerega se usposablja.
+
+## Privilegiji in dodatne pravice
+
+- **Prevoz potnikov**: po izdaji licence mora pilot opraviti najmanj **10 ur letenja ali 30 vzletov** kot PIC, preden sme voziti potnike.
+- **Načini vzleta**: v licenco so vpisani načini vzleta, za katere je pilot usposobljen. Za nov način potrebuješ dodatno usposabljanje (na primer za vitel ali vozilo najmanj 10 vzletov z inštruktorjem in 5 samostojnih pod nadzorom).
+- **Motorna jadralna letala (TMG)**: dodatno usposabljanje in preverjanje.
+- **Pravice** (ratings): letenje v oblakih, akrobatsko letenje, vleka jadralnih letal in transparentov, inštruktor FI(S).
+
+## Odgovornosti pilota
+
+- Pilot je odgovoren za to, da je **sposoben za let** (zdravje, počitek, brez alkohola in zdravil, ki vplivajo na sposobnost).
+- Pred letom se seznani z vsemi razpoložljivimi informacijami (vreme, NOTAM, zračni prostor, letališča).
+- Vodi **knjižico letenja** z vsemi leti (datum, letalo, način vzleta, čas, mesto vzleta in pristanka).

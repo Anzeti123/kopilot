@@ -18,3 +18,28 @@ Zato ne smeš vzleteti, če je masno središče za dovoljeno zadnjo lego. **Le s
 ## Prečna stabilnost
 
 Pri **V-lomu** krila ima nižje krilo ob bočnem zdrsu večji vpadni kot in več vzgona, zato se letalo samo poravna.
+
+## Statična in dinamična stabilnost
+
+- **Statična stabilnost** pove, kam se letalo začne gibati po motnji: stabilno se začne vračati, nevtralno ostane v novem položaju, nestabilno se oddaljuje.
+- **Dinamična stabilnost** pove, kako se gibanje razvija s časom: nihanje se duši (stabilno), ostaja enako ali se povečuje (nestabilno).
+
+Letalo je lahko statično stabilno in dinamično nestabilno: vrača se, a vsakič preleti ravnovesje bolj.
+
+## Vzdolžna nihanja
+
+| Nihanje | Opis |
+|---|---|
+| **fugoida** | dolgo, počasno nihanje (deset sekund in več): letalo izmenično pospešuje navzdol in upočasnjuje navzgor pri skoraj stalnem vpadnem kotu; pilot ga zlahka popravlja |
+| kratkoperiodično | hitro nihanje vpadnega kota v nekaj sekundah, navadno močno dušeno |
+
+Fugoido opaziš, ko izpustiš palico pri netrimani hitrosti: nos se dviguje in spušča, hitrost niha.
+
+## Prečno-smerna stabilnost
+
+Prečna in smerna stabilnost sta povezani.
+
+- **Smerna stabilnost** (»učinek vetrnice«): smernik obrača nos v smer toka.
+- **Prečna stabilnost**: V-lom in visoko krilo poravnata letalo pri bočnem zdrsu.
+- Če je smerna stabilnost premočna glede na prečno, je letalo **spiralno nestabilno**: nagib se počasi sam povečuje. Večina letal je rahlo spiralno nestabilnih, zato v oblaku brez instrumentov hitro preide v spiralo.
+- Če je prečna premočna glede na smerno, nastane **holandski korak** (dutch roll): izmenično nihanje nagiba in smeri.

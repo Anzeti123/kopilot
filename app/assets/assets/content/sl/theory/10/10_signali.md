@@ -15,7 +15,12 @@ Pilot potrdi prejem signala: v letu podnevi z **zibanjem s krili**, ponoči z dv
 
 ## Signalno območje
 
-**Signalno območje** na letališču vsebuje **talne vizualne signale**, ki zrakoplovom v preletu pokažejo **stanje na letališču** in pravila za pristajanje.
+**Signalno območje** na letališču vsebuje **talne vizualne signale**, ki zrakoplovom v preletu pokažejo **stanje na letališču** in pravila za pristajanje. Je kvadrat z belim robom, navadno ob stolpu ali ob stezi, dobro viden iz zraka.
+
+```slika
+src: img/foto_signalsquare.jpg
+opis: Signalno območje na letališču. Foto: Legion23, Wikimedia Commons, CC0
+```
 
 ```slika
 src: img/talni_signali.png

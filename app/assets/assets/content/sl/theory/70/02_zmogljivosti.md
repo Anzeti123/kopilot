@@ -9,6 +9,20 @@
 | mokra trava, mehka podlaga, visoka trava | vzlet daljši; pristanek na mokri travi daljši zaradi slabšega zaviranja |
 | steza navzgor | vzlet daljši, pristanek krajši |
 
+## Gostotna višina
+
+Zmogljivosti so odvisne od **gostote zraka**, ne od višinomera. Gostotno višino oceniš iz tlačne višine in temperature: približno **120 ft na vsako stopinjo nad ISA**. Na letališču na 1000 ft pri 30 °C (ISA na tej višini je 13 °C, odstopanje +17 °C) je gostotna višina okoli 3000 ft. Letalo vzleta in se vzpenja, kot da bi bilo na 3000 ft.
+
+Visoka temperatura, visoko letališče in visoka vlažnost zmanjšajo moč motorja, potisk propelerja in vzgon: vzletna razdalja se podaljša, vzpenjanje je slabše.
+
+## Diagrami zmogljivosti
+
+Letalni priročnik motornih letal in motornih jadralnih letal vsebuje diagrame ali tabele za vzletno in pristajalno razdaljo. Iz njih z danimi podatki (tlačna višina, temperatura, masa, veter, podlaga) odčitaš potrebno razdaljo. Rezultat velja za novo letalo in izkušenega pilota, zato dodaj varnostno rezervo (pogosto 30 % ali več za travnato in mokro stezo).
+
+- **TORA**: razpoložljiva dolžina steze za vzlet.
+- **TODA**: TORA s prostim pasom (do 15 m višine).
+- **LDA**: razpoložljiva dolžina za pristanek.
+
 ## Gradient in kot
 
 - **Kot spuščanja** (ali vzpenjanja) je **kot med vodoravno ravnino in dejansko potjo leta**, izražen v stopinjah.

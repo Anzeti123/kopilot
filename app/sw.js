@@ -19,7 +19,7 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "5aabbba0cb3a";
+const VERSION = "e58fc32f11c2";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
@@ -29,11 +29,11 @@ const FILES = [
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "a6c746a064ceb862"
+    "h": "ea444fdcefcb8ce0"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "5aca62dab7932fad"
+    "h": "deded86714c070f7"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -233,11 +233,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/10/03_licence.md",
-    "h": "c762450071bbd1ef"
+    "h": "90cdb807523806c9"
   },
   {
     "u": "assets/assets/content/sl/theory/10/04_pravila.md",
-    "h": "31dea4c1a23f325f"
+    "h": "062bf3655d6216f8"
   },
   {
     "u": "assets/assets/content/sl/theory/10/05_vmc.md",
@@ -249,7 +249,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/10/07_zracni_prostor.md",
-    "h": "6bf63a600f1ef274"
+    "h": "68c87fee1f582c17"
   },
   {
     "u": "assets/assets/content/sl/theory/10/08_ais.md",
@@ -257,11 +257,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/10/09_letalisca.md",
-    "h": "e37ed909c17ee1b9"
+    "h": "e55b26763feacb5b"
   },
   {
     "u": "assets/assets/content/sl/theory/10/10_signali.md",
-    "h": "1afebd84ce09e8d0"
+    "h": "f936d089d1119a8a"
   },
   {
     "u": "assets/assets/content/sl/theory/10/11_sar.md",
@@ -270,6 +270,26 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/theory/10/12_nesrece.md",
     "h": "b581ae0cb9db76d1"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/10/img/foto_beacon.jpg",
+    "h": "4a38e1ea9285cb4a",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/10/img/foto_signalsquare.jpg",
+    "h": "954dea83f75fb18d",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/10/img/foto_taxiwaysign.jpg",
+    "h": "3df74f9a92714cd8",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/10/img/foto_windsock.jpg",
+    "h": "d1a207fd08e15dee",
+    "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/10/img/talni_signali.png",
@@ -286,7 +306,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/20/03_hipoksija.md",
-    "h": "39a6910cfefcfb4a"
+    "h": "9802c611bca4f7b9"
   },
   {
     "u": "assets/assets/content/sl/theory/20/04_telo.md",
@@ -294,11 +314,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/20/05_vid.md",
-    "h": "3e7d7a817821bb15"
+    "h": "98fb171a769a826d"
   },
   {
     "u": "assets/assets/content/sl/theory/20/06_ravnotezje.md",
-    "h": "bb7374d1bf983e75"
+    "h": "d76180a44ffb3197"
   },
   {
     "u": "assets/assets/content/sl/theory/20/07_iluzije.md",
@@ -314,15 +334,34 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/20/10_napake.md",
-    "h": "ead043cea686c390"
+    "h": "cdf6149393c67fe9"
   },
   {
     "u": "assets/assets/content/sl/theory/20/11_odlocanje.md",
-    "h": "d9789f1d72d8588e"
+    "h": "ed1f92628e31c39a"
   },
   {
     "u": "assets/assets/content/sl/theory/20/12_stres.md",
     "h": "b129c91ce2b1f954"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/20/13_okolje.md",
+    "h": "2125f32eb139b95e"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/20/img/foto_ear.jpg",
+    "h": "036b00a50b849b72",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/20/img/foto_eye.jpg",
+    "h": "b393a13e2ea6ce4d",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/20/img/foto_swiss.jpg",
+    "h": "b95f35219d53fa1c",
+    "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/20/img/stres.png",
@@ -343,7 +382,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/30/04_veter.md",
-    "h": "005f76a1ed92b241"
+    "h": "6bda08c63d0efda7"
   },
   {
     "u": "assets/assets/content/sl/theory/30/05_vlaga.md",
@@ -355,7 +394,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/30/07_megla.md",
-    "h": "8660cc407158426c"
+    "h": "9c12df65e4bfdc58"
   },
   {
     "u": "assets/assets/content/sl/theory/30/08_zracne_mase.md",
@@ -375,7 +414,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/30/12_zaledenitev.md",
-    "h": "c1adb3e4b4b1599c"
+    "h": "9ff177c5f2ed2c46"
   },
   {
     "u": "assets/assets/content/sl/theory/30/13_turbulenca.md",
@@ -383,11 +422,19 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/30/14_nevihte.md",
-    "h": "75bb4bbb6b29b10f"
+    "h": "e304dac33b3cc3d9"
   },
   {
     "u": "assets/assets/content/sl/theory/30/15_informacije.md",
-    "h": "3d85acd896fb13b3"
+    "h": "44d69902240ebfaf"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/16_termika.md",
+    "h": "8d66dd9e74207809"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/17_skewt.md",
+    "h": "867ce8402f2a9b86"
   },
   {
     "u": "assets/assets/content/sl/theory/30/img/fen.png",
@@ -397,6 +444,11 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/theory/30/img/foto_ac.jpg",
     "h": "ff67025c8835a09f",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_advfog.jpg",
+    "h": "fedd26d31ed1dfed",
     "l": 1
   },
   {
@@ -430,13 +482,48 @@ const FILES = [
     "l": 1
   },
   {
+    "u": "assets/assets/content/sl/theory/30/img/foto_gust.jpg",
+    "h": "b0bf1cea1c884c34",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_hail.jpg",
+    "h": "87ab24e632df2215",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_haze.jpg",
+    "h": "c560071663911fb3",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/30/img/foto_len.jpg",
     "h": "462288e8f28b973d",
     "l": 1
   },
   {
+    "u": "assets/assets/content/sl/theory/30/img/foto_lightning.jpg",
+    "h": "deeac34420d95069",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_mammatus.jpg",
+    "h": "7e4582b12c1f4ebc",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/30/img/foto_ns.jpg",
     "h": "07372caf6bf84f4e",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_radfog.jpg",
+    "h": "f55b3673c2044554",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_satellite.jpg",
+    "h": "7d01161f8031e604",
     "l": 1
   },
   {
@@ -447,6 +534,11 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/theory/30/img/foto_st.jpg",
     "h": "c5a23d42f30b1e00",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/foto_thermal.jpg",
+    "h": "dd8df88799b3fad3",
     "l": 1
   },
   {
@@ -462,6 +554,16 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/theory/30/img/plasti.png",
     "h": "77984172091451f4",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/skewt.png",
+    "h": "c3fca9dfb2af1d91",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/30/img/termika.png",
+    "h": "9fcb41cdc9596bce",
     "l": 1
   },
   {
@@ -482,7 +584,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/40/05_postaja.md",
-    "h": "f1b8eb41008d9e2a"
+    "h": "8b6d615bb9338647"
   },
   {
     "u": "assets/assets/content/sl/theory/40/06_abeceda.md",
@@ -533,6 +635,21 @@ const FILES = [
     "h": "09911d1eb98f449d"
   },
   {
+    "u": "assets/assets/content/sl/theory/40/img/foto_antenna.jpg",
+    "h": "a915d11eb474a410",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/img/foto_headset.jpg",
+    "h": "6242c696be03a413",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/40/img/foto_transponder.jpg",
+    "h": "cb777e531e0faa60",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/40/img/kanali.png",
     "h": "78cc60f3fc56cc92",
     "l": 1
@@ -549,11 +666,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/51/01_tlak.md",
-    "h": "772ee39478b31fbd"
+    "h": "b9b8161b7ab0d26a"
   },
   {
     "u": "assets/assets/content/sl/theory/51/02_profil.md",
-    "h": "1a477e1975633af5"
+    "h": "34aed439cb42ad16"
   },
   {
     "u": "assets/assets/content/sl/theory/51/03_mejna_plast.md",
@@ -561,35 +678,55 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/51/04_vzgon.md",
-    "h": "b4da86dac404afd5"
+    "h": "c35763874422d872"
   },
   {
     "u": "assets/assets/content/sl/theory/51/05_upor.md",
-    "h": "63829da2bf4874bb"
+    "h": "34d2b4449a97fec1"
   },
   {
     "u": "assets/assets/content/sl/theory/51/06_porusitev.md",
-    "h": "a912eb963df6da90"
+    "h": "5ef415282f5ec873"
   },
   {
     "u": "assets/assets/content/sl/theory/51/07_vrij.md",
-    "h": "758c9eac8c16ecdc"
+    "h": "8717257dd23289f2"
   },
   {
     "u": "assets/assets/content/sl/theory/51/08_krmila.md",
-    "h": "d9763a7db3a6ee48"
+    "h": "e5c3f42624e01d80"
   },
   {
     "u": "assets/assets/content/sl/theory/51/09_stabilnost.md",
-    "h": "15a98823e12bbfd0"
+    "h": "1034706d3e666b79"
   },
   {
     "u": "assets/assets/content/sl/theory/51/10_obremenitve.md",
-    "h": "8810d4538b90d3b0"
+    "h": "e8bdf3e7cdc7f26a"
   },
   {
     "u": "assets/assets/content/sl/theory/51/11_drsni_let.md",
-    "h": "1ea2f1801ded57ec"
+    "h": "4d6623b7102d54fa"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/51/img/cl_alfa.png",
+    "h": "e6ad0dedd02890ed",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/51/img/foto_condensation.jpg",
+    "h": "f767629abde3762b",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/51/img/foto_vortex2.jpg",
+    "h": "9ed7af28178e1438",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/51/img/foto_winglet.jpg",
+    "h": "9c29597bad40fbd8",
+    "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/51/img/mejna_plast.png",
@@ -612,36 +749,66 @@ const FILES = [
     "l": 1
   },
   {
+    "u": "assets/assets/content/sl/theory/51/img/upor.png",
+    "h": "cc3e4e9500e2a469",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/51/img/vn.png",
+    "h": "ac59611e4c3709de",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/51/koordiniran_zavoj.md",
     "h": "d5b188ae00591fd5"
   },
   {
     "u": "assets/assets/content/sl/theory/60/01_priprava.md",
-    "h": "c25af423539295fd"
+    "h": "628b37f7ea16cb3d"
   },
   {
     "u": "assets/assets/content/sl/theory/60/02_vitel.md",
-    "h": "330cfd75c63655d9"
+    "h": "c576a1f5305a26ba"
   },
   {
     "u": "assets/assets/content/sl/theory/60/03_aerovlek.md",
-    "h": "4313527678a6bf2e"
+    "h": "28f78e670f9261da"
   },
   {
     "u": "assets/assets/content/sl/theory/60/04_jadranje.md",
-    "h": "3a013d6910899691"
+    "h": "15b353d9dbcac4c1"
   },
   {
     "u": "assets/assets/content/sl/theory/60/05_pristanek.md",
-    "h": "349b53ecde4c29a4"
+    "h": "994e89efba662a05"
   },
   {
     "u": "assets/assets/content/sl/theory/60/06_izven.md",
-    "h": "494dd1d4a0d3e40e"
+    "h": "98d7d3d156e3aca1"
   },
   {
     "u": "assets/assets/content/sl/theory/60/07_nenormalno.md",
-    "h": "5e74e71b8072927b"
+    "h": "1044a86e8582a57e"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/60/img/foto_aerotow.jpg",
+    "h": "b797427fd6274586",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/60/img/foto_ridge.jpg",
+    "h": "7974b14cf7740db0",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/60/img/foto_trailer.jpg",
+    "h": "5c6fdc5c74f19d74",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/60/img/foto_winchlaunch.jpg",
+    "h": "41f8e0003057d4f1",
+    "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/60/img/krog.png",
@@ -655,15 +822,19 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/70/01_masa.md",
-    "h": "907d19096447c29e"
+    "h": "f2e05fe1e4d54339"
   },
   {
     "u": "assets/assets/content/sl/theory/70/02_zmogljivosti.md",
-    "h": "b5f990591ce27c21"
+    "h": "09166eb98bb4c654"
   },
   {
     "u": "assets/assets/content/sl/theory/70/03_nacrtovanje.md",
-    "h": "f2eefa157cf37797"
+    "h": "8f3e89de2c5da9a8"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/70/04_prelet.md",
+    "h": "75ee83699475e585"
   },
   {
     "u": "assets/assets/content/sl/theory/70/img/simboli.png",
@@ -672,39 +843,132 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/01_konstrukcija.md",
-    "h": "d83ea3f3b640690a"
+    "h": "3911db463bbadabe"
   },
   {
     "u": "assets/assets/content/sl/theory/80/02_plovnost.md",
-    "h": "c793795442e47a7e"
+    "h": "d993cb8c9c235e8e"
   },
   {
     "u": "assets/assets/content/sl/theory/80/03_krmila.md",
-    "h": "ca6f80e4b9916ec4"
+    "h": "6d69ec93fd422fc2"
   },
   {
     "u": "assets/assets/content/sl/theory/80/04_pitot.md",
-    "h": "680aa090bbdf2797"
+    "h": "f32738b54c35dc99"
   },
   {
     "u": "assets/assets/content/sl/theory/80/05_visinomer.md",
-    "h": "bbcd1694e8fce87a"
+    "h": "9afdbc7d04e2c1fe"
   },
   {
     "u": "assets/assets/content/sl/theory/80/06_hitrost.md",
-    "h": "9d6fc13ec9816c56"
+    "h": "9aa7c8c86b33fbc5"
   },
   {
     "u": "assets/assets/content/sl/theory/80/07_variometer.md",
-    "h": "6dc61efc8c186482"
+    "h": "c114fe3d7d08a709"
   },
   {
     "u": "assets/assets/content/sl/theory/80/08_kompas.md",
-    "h": "e7a664a3fd439e6f"
+    "h": "e95b69ef45da035b"
   },
   {
     "u": "assets/assets/content/sl/theory/80/09_motor.md",
-    "h": "080b6d070e0ba9f1"
+    "h": "5f672f067d082a9f"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/10_ziroskopi.md",
+    "h": "70cf00fbea729357"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/11_avionika.md",
+    "h": "b4df34d5be04abd1"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_alt.jpg",
+    "h": "5709205754eb61de",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_asi.jpg",
+    "h": "bb08ccf5a31411cc",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_ask21.jpg",
+    "h": "19b66f9be8691a12",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_brake.jpg",
+    "h": "1c4f834ec201d84d",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_compass.jpg",
+    "h": "922d84f14d3b9f84",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_engine.jpg",
+    "h": "1bfae17db988e92e",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_gear.jpg",
+    "h": "b6b5e8cc1f2c5aa3",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_hook.jpg",
+    "h": "d2e05759f7d56e94",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_levers.jpg",
+    "h": "ae8aa31d8981f0ea",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_panel.jpg",
+    "h": "f6a8b0a1d667d45c",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_pitot.jpg",
+    "h": "3ffcacd7e26c36a8",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_ribs.jpg",
+    "h": "45edb3273a4e2e82",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_semimono.jpg",
+    "h": "0a45b8e58a5c48e2",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_static.jpg",
+    "h": "c537733790097903",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_tail.jpg",
+    "h": "0e23416c179fadd0",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_tmg.jpg",
+    "h": "5275a24e14152af1",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_trim.jpg",
+    "h": "cd7463a582224a51",
+    "l": 1
   },
   {
     "u": "assets/assets/content/sl/theory/80/img/krilo.png",
@@ -726,15 +990,15 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/90/03_smeri.md",
-    "h": "b0a1697c19e588c2"
+    "h": "95a11a9d09b687c7"
   },
   {
     "u": "assets/assets/content/sl/theory/90/04_karte.md",
-    "h": "2aeef7df37ae55db"
+    "h": "43becbab240391b6"
   },
   {
     "u": "assets/assets/content/sl/theory/90/05_veter.md",
-    "h": "c8df5a0e619dde1a"
+    "h": "38c8ec695f6ffaf9"
   },
   {
     "u": "assets/assets/content/sl/theory/90/06_med_letom.md",
@@ -745,8 +1009,36 @@ const FILES = [
     "h": "3a4c3ae6b8bfca92"
   },
   {
+    "u": "assets/assets/content/sl/theory/90/08_radionavigacija.md",
+    "h": "96f08c68a563d462"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/90/09_priprava.md",
+    "h": "4af8b30c0618e8ba"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/90/img/foto_e6b.jpg",
+    "h": "7182291096d9fe8c",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/90/img/foto_lambert.jpg",
+    "h": "320145110e27bc88",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/90/img/foto_mercator.jpg",
+    "h": "7f76cbdf06d634d1",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/90/img/foto_meridians.jpg",
+    "h": "3eab0c2889aa75dc",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/index.json",
-    "h": "db354d8e2b0d79c3"
+    "h": "d2c93392bc71cacb"
   },
   {
     "u": "assets/assets/fonts/KopilotSymbols-Bold.ttf",
@@ -987,7 +1279,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "1216a787aab78e1a"
+    "h": "6a6590b0686ab6be"
   },
   {
     "u": "manifest.json",

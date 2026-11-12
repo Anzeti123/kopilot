@@ -31,3 +31,42 @@ Pri komunikaciji pošiljatelj sporočilo zakodira, prejemnik ga odkodira. Razume
 **Mačizem in neranljivost** se pogosto pojavljata **skupaj**.
 
 **Samozadovoljnost** (complacency) je zmanjšana pozornost, ker je vse »pod nadzorom«. Nevarnost raste s **čedalje bolj avtomatizirano pilotsko kabino** in rutino: pilot zaupa napravam in preneha preverjati.
+
+## Ocena sposobnosti pred letom
+
+Pred vsakim letom preveri sebe s kontrolnim seznamom **IMSAFE**:
+
+| Črka | Vprašanje |
+|---|---|
+| **I** (illness) | ali sem bolan? |
+| **M** (medication) | ali jemljem zdravila? |
+| **S** (stress) | ali sem pod stresom? |
+| **A** (alcohol) | ali sem v zadnjih urah pil alkohol? |
+| **F** (fatigue) | ali sem utrujen? |
+| **E** (eating, emotion) | ali sem jedel in pil, ali sem čustveno stabilen? |
+
+## Model odločanja DECIDE
+
+1. **D**etect: zaznaj, da se je nekaj spremenilo.
+2. **E**stimate: oceni, ali je potrebno ukrepati.
+3. **C**hoose: izberi želeni izid.
+4. **I**dentify: določi možne rešitve.
+5. **D**o: izvedi najboljšo.
+6. **E**valuate: preveri učinek in po potrebi ponovi.
+
+## Pritisk, da bi nadaljeval
+
+**Vztrajanje pri načrtu** (plan continuation bias, »get-home-itis«) je nagnjenost, da nadaljujemo prvotni načrt, čeprav razmere kažejo, da bi ga morali spremeniti. Pogost je proti koncu leta, ko je cilj blizu: pilot leti pod slabšajoče se oblake ali predolgo išče termiko namesto izvenletališkega pristanka.
+
+Proti temu pomagajo **osebne meje**, ki jih določiš na tleh (najmanjša višina za odločitev o pristanku, najslabše vreme, najmočnejši veter) in jih v zraku ne spreminjaš.
+
+## Upravljanje tveganja
+
+Pri pripravi leta oceni štiri področja (PAVE):
+
+- **pilot**: izkušnje, sposobnost, nedavne izkušnje,
+- **letalo**: stanje, oprema, zmogljivosti,
+- **okolje**: vreme, teren, zračni prostor, svetloba,
+- **zunanji pritiski**: časovni pritisk, gledalci, obveznosti, pričakovanja drugih.
+
+Če se tveganja seštevajo, let prestavi ali spremeni.

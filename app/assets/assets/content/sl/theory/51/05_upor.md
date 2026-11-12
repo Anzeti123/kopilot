@@ -22,9 +22,44 @@ Pod krilom je višji tlak kot nad njim. **Na koncih kril** zrak teče s spodnje 
 
 **Inducirani upor se z večanjem hitrosti zmanjšuje.** Zmanjšajo ga tudi **zavihki na koncih kril** (winglets).
 
+```slika
+src: img/foto_vortex2.jpg
+opis: Vrtinec na koncu krila, viden z barvnim dimom pri preizkusu NASA. Foto: NASA Langley Research Center, Wikimedia Commons, javna last
+```
+
+```slika
+src: img/foto_winglet.jpg
+opis: Zavihek (winglet) na koncu krila jadralnega letala. Foto: Dg-505, Wikimedia Commons, CC BY 3.0
+```
+
+Vrtinci za letalom so tudi vzrok **brazdne turbulence**: za težkim in počasnim letalom so najmočnejši, spuščajo se in ostanejo v zraku več minut.
+
 ## Celotni upor
 
-Z večanjem hitrosti v vodoravnem letu **inducirani upor pada, parazitni pa raste**. Pri neki hitrosti je njuna vsota **najmanjša**: tam je najboljše razmerje vzgona in upora (najboljši drsni kot).
+Z večanjem hitrosti v vodoravnem letu **inducirani upor pada, parazitni pa raste**. Pri neki hitrosti je njuna vsota **najmanjša**: tam je najboljše razmerje vzgona in upora (najboljši drsni kot). Pri tej hitrosti sta inducirani in parazitni upor enaka.
+
+```slika
+src: img/upor.png
+opis: Parazitni, inducirani in celotni upor v odvisnosti od hitrosti (ponazoritev)
+```
+
+Upor zapišemo podobno kot vzgon:
+
+```enacba
+D = \tfrac{1}{2}\,\rho\, v^2\, S\, c_D, \qquad c_D = c_{D0} + \frac{c_L^2}{\pi\, e\, A}
+```
+
+$c_{D0}$ je koeficient parazitnega upora, drugi člen pa inducirani upor: raste s kvadratom $c_L$ in pada z vitkostjo $A$ ($e$ je faktor oblike, za eliptično krilo 1).
+
+## Kako jadralno letalo zmanjša upor
+
+- velika vitkost (manj induciranega upora),
+- laminarni profili, gladka in čista površina,
+- uvlačljivo podvozje, tesnjenje rež (trakovi) med krilom, krmili in trupom,
+- zaobljeni prehodi med krilom in trupom (manj interference),
+- majhen čelni presek trupa.
+
+Mrčes na vpadnem robu lahko poslabša drsno število za več odstotkov. Tekmovalna letala imajo zato **čistilce mrčesa**.
 
 ## Talni učinek
 

@@ -1,5 +1,10 @@
 ## Uho
 
+```slika
+src: img/foto_ear.jpg
+opis: Zgradba ušesa (angleški napisi): zunanje, srednje in notranje uho s polkrožnimi kanali, polžem in Evstahijevo cevjo (Eustachian tube). Ilustracija: BruceBlaus (Blausen Medical), Wikimedia Commons, CC BY 3.0
+```
+
 | Del | Naloga |
 |---|---|
 | zunanje uho | vodi zvok do bobniča |

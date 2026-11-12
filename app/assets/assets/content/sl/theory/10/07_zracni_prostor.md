@@ -53,3 +53,15 @@ Vrsto omejitve v omejenem območju najdeš v **AIP**.
 | **S** | kodo, tlačno višino in identiteto letala |
 
 Transponder, ki pošilja tlačno višino, je transponder z načinom **C ali S**. Kode v sili: **7500** ugrabitev, **7600** izguba radijske zveze, **7700** nevarnost (nastaviš jo **samoiniciativno**).
+
+## Zračni prostor Slovenije
+
+- Slovenija ima en FIR: **Ljubljana FIR (LJLA)**. FIS izvaja informacijski center Ljubljana Information.
+- Okoli večjih letališč so **kontrolirane cone (CTR)**, nad njimi **kontrolirana območja (TMA)**.
+- Jadralni piloti pogosto letijo v prostoru razreda **G in E**; za prelete so pomembna tudi **začasno rezervirana območja** za jadralno letenje, ki se aktivirajo po potrebi.
+
+Natančne meje, razrede in višine najdeš v **AIP (del ENR 2)** in na **letalski karti VFR**. Struktura se spreminja, zato jo pred letom preveri v veljavni izdaji in v NOTAM.
+
+## Dovoljenje kontrole
+
+Za vstop v prostor razreda C ali D potrebuješ **dovoljenje** pristojne enote ATC. Dovoljenje vsebuje smer, višino in včasih točke, po katerih letiš. Ponovi ga, v dvomu pa vprašaj. Dovoljenje ne odvezuje pilota odgovornosti za ogibanje drugim letalom in za pogoje VMC. Če dovoljenja ne moreš izpolniti, to takoj sporoči.

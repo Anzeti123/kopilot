@@ -127,6 +127,11 @@
               "id": "20-telo",
               "title": "Kri, živčevje in zdravje",
               "file": "20/04_telo.md"
+            },
+            {
+              "id": "20-okolje",
+              "title": "Vročina, mraz, utrujenost in dnevni ritem",
+              "file": "20/13_okolje.md"
             }
           ]
         },
@@ -237,6 +242,16 @@
               "id": "30-megla",
               "title": "Megla in vidnost",
               "file": "30/07_megla.md"
+            },
+            {
+              "id": "30-termika",
+              "title": "Termika, pobočni in valovni vzgornik",
+              "file": "30/16_termika.md"
+            },
+            {
+              "id": "30-skewt",
+              "title": "Sondaža in diagram Skew-T",
+              "file": "30/17_skewt.md"
             }
           ]
         },
@@ -688,6 +703,11 @@
               "id": "70-nacrtovanje",
               "title": "Prelet, karta, NOTAM in načrt leta",
               "file": "70/03_nacrtovanje.md"
+            },
+            {
+              "id": "70-prelet",
+              "title": "Prelet, značke in končni dolet",
+              "file": "70/04_prelet.md"
             }
           ]
         }
@@ -702,23 +722,23 @@
           "pages": [
             {
               "id": "80-konstrukcija",
-              "title": "Konstrukcija in materiali",
+              "title": "Deli letala, konstrukcija in materiali",
               "file": "80/01_konstrukcija.md"
             },
             {
               "id": "80-plovnost",
-              "title": "Obremenitve, plovnost in vodni balast",
+              "title": "Obremenitve, vzdrževanje in vodni balast",
               "file": "80/02_plovnost.md"
             }
           ]
         },
         {
           "id": "80-krmila",
-          "title": "Krmila",
+          "title": "Krmila in kabina",
           "pages": [
             {
               "id": "80-krmila",
-              "title": "Krmila, trimer in ročice",
+              "title": "Krmila, zavore, trimer in ročice",
               "file": "80/03_krmila.md"
             }
           ]
@@ -751,6 +771,16 @@
               "id": "80-kompas",
               "title": "Magnetni kompas",
               "file": "80/08_kompas.md"
+            },
+            {
+              "id": "80-ziroskopi",
+              "title": "Žiroskopski instrumenti",
+              "file": "80/10_ziroskopi.md"
+            },
+            {
+              "id": "80-avionika",
+              "title": "Avionika, elektrika in oprema",
+              "file": "80/11_avionika.md"
             }
           ]
         },
@@ -760,7 +790,7 @@
           "pages": [
             {
               "id": "80-motor",
-              "title": "Motor motornega jadralnega letala",
+              "title": "Motor in njegovi sistemi",
               "file": "80/09_motor.md"
             }
           ]
@@ -807,6 +837,11 @@
           "title": "Načrtovanje in let",
           "pages": [
             {
+              "id": "90-priprava",
+              "title": "Priprava navigacijskega leta",
+              "file": "90/09_priprava.md"
+            },
+            {
               "id": "90-veter",
               "title": "Veter, potna hitrost in čas",
               "file": "90/05_veter.md"
@@ -820,6 +855,11 @@
               "id": "90-gnss",
               "title": "GNSS",
               "file": "90/07_gnss.md"
+            },
+            {
+              "id": "90-radionavigacija",
+              "title": "Radionavigacija",
+              "file": "90/08_radionavigacija.md"
             }
           ]
         }

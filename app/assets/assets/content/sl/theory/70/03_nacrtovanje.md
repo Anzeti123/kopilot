@@ -23,6 +23,10 @@ NOTAM pove začasne omejitve: zaprta območja, prepovedi preleta, dela na letali
 
 Če zrakoplov **ni opremljen in certificiran** za letenje v pogojih zaledenitve, je **prepovedano letenje v območje, v katerem so potrjeni ali napovedani pogoji za zaledenitev**. Če vanj nenamerno prileti, ga mora **nemudoma zapustiti**.
 
+## Gorivo pri motornem letenju
+
+Pri letih VFR podnevi mora imeti letalo dovolj goriva do namembnega letališča in še za **najmanj 30 minut** letenja na normalni potovalni višini (rezerva). Upoštevaj še gorivo za vožnjo po tleh, vzlet, odstopanja od načrta in alternativno letališče. Porabo izračunaš iz časa leta in porabe na uro iz priročnika.
+
 ## Načrt leta
 
 - **Načrt leta je potreben** pri **čezmejnih letih**, pri letih IFR, pri letih v kontroliranem zračnem prostoru, kjer je to zahtevano, in kadar želiš alarmno službo.

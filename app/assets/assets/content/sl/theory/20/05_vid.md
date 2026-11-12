@@ -1,5 +1,10 @@
 ## Zgradba očesa
 
+```slika
+src: img/foto_eye.jpg
+opis: Zgradba očesa (angleški napisi): cornea roženica, lens leča, iris šarenica, pupil zenica, retina mrežnica, macula rumena pega, optic disc slepa pega, optic nerve vidni živec. Ilustracija: BruceBlaus (Blausen Medical), Wikimedia Commons, CC BY 3.0
+```
+
 - **Roženica** in **leča** lomita svetlobo in jo izostrijo na **mrežnico**.
 - Na mrežnici so čutnice: **čepki** v sredini (rumena pega) za ostrino in barve pri dnevni svetlobi, **paličice** na obrobju za gibanje in vid v temi.
 - Kjer vidni živec zapusti oko, ni čutnic: to je **slepa pega**. Z obema očesoma je ne opazimo, z enim pa lahko spregledamo letalo.

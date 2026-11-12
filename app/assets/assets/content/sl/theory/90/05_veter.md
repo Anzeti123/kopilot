@@ -31,6 +31,11 @@ id: trikotnik-vetra
 
 Isto izračunaš z navigacijskim računalom E6B ali z orodjem Trikotnik vetra v aplikaciji.
 
+```slika
+src: img/foto_e6b.jpg
+opis: Navigacijsko računalo E6B: logaritemsko drsno računalo za čas, hitrost, razdaljo, gorivo in pretvorbe enot. Foto: Wikimedia Commons, javna last
+```
+
 ## Čas in razdalja
 
 ```enacba

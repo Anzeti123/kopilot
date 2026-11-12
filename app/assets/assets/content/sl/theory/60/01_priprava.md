@@ -30,3 +30,33 @@ Pregled vpišeš v knjigo jadralnega letala.
 ## Oprema za sile
 
 **Ročaj za odmetavanje pokrova kabine v sili je rdeče barve.** Poznati moraš tudi ročaj za odpenjanje padala in postopek zapuščanja letala.
+
+## Montaža jadralnega letala
+
+Jadralna letala se pogosto montirajo in demontirajo (prevoz v prikolici, hangar). Montaža je kritičen postopek: nepovezano krmilo ali nezavarovan zatič je pogost vzrok smrtnih nesreč.
+
+```slika
+src: img/foto_trailer.jpg
+opis: Prikolica za prevoz demontiranega jadralnega letala. Foto: Pierluigi Renzi, Wikimedia Commons, CC BY-SA 4.0
+```
+
+1. Montažo opravi po **letalnem priročniku**, brez prekinitev. Če te zmotijo, začni preverjanje znova.
+2. Vsak zatič vstavi do konca in ga zavaruj (varovalka, matica z varovalom).
+3. Poveži krmila (krilca, zavore, višinsko krmilo) in preveri vsako spojko.
+4. **Pozitivno preverjanje krmil**: pomočnik drži krmilno površino, ti s komando poskusiš premakniti v obe smeri. Krmilo mora »potisniti« proti pomočniku. Nato preveri polne odklone in smer gibanja.
+5. Prelepi reže s trakom, kjer je to predvideno.
+6. Montažo **preveri še druga oseba** in vpiše v knjigo letala.
+
+## Kontrolni seznam pred vzletom
+
+Pred vsakim vzletom pilot glasno preveri kontrolni seznam za svoje letalo. Vsebuje vsaj:
+
+- **pasove** (zapeti in zategnjeni) in **padalo**,
+- **komande** (prosto gibanje in pravilna smer vseh krmil),
+- **zavore** zaprte in zaklenjene, **zakrilca** in **trimer** v položaju za vzlet,
+- **instrumente** (višinomer nastavljen, radio, FLARM),
+- **pokrov kabine** zaprt in zaklenjen,
+- **vlečno vrv** in kljuko (pravilna kljuka, preizkus odklopa),
+- **prostor za vzlet** (prost zračni prostor in steza, veter) in **načrt za primer pretrga vrvi**.
+
+Kontrolne sezname za letala kluba najdeš v delu Kontrolni seznami v aplikaciji.

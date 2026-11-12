@@ -10,6 +10,11 @@
 - **Izogona** je črta na karti, ki povezuje točke z **enako variacijo**.
 - **Deviacija** (DEV) je **kot med kompasnim in magnetnim severom**, ki ga povzroči letalo.
 
+```slika
+src: img/foto_meridians.jpg
+opis: Magnetni poldnevnik (rdeče) poteka drugače kot geografski poldnevniki; kot med njima je variacija. Ilustracija: Sch, Wikimedia Commons, CC BY-SA 3.0
+```
+
 Variacija se s časom počasi spreminja. Zato včasih **spremenijo oznako steze** (na primer z »06« na »07«), ker se je **spremenila magnetna variacija**.
 
 ## Kurz in smer

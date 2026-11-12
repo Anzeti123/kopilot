@@ -24,3 +24,24 @@ V koordiniranem zavoju je **n večja od 1** in **$V_S$ večja kot pri premočrtn
 | $V_{RA}$ | največja hitrost v turbulentnem zraku |
 
 **Letenje nad $V_{NE}$** lahko povzroči **drhtenje (flater)** krmil in kril ter **mehanske poškodbe kril**, ki lahko razbijejo letalo v nekaj sekundah.
+
+## Diagram obremenitev (V-n)
+
+```slika
+src: img/vn.png
+opis: Diagram obremenitev: dovoljena stopnja obremenitve v odvisnosti od hitrosti (ponazoritev za jadralno letalo kategorije Utility)
+```
+
+- Leva meja je **porušitev vzgona**: pri dani hitrosti krilo ne more ustvariti večjega vzgona, zato večja obremenitev ni mogoča.
+- Zgornja in spodnja meja sta **mejni obremenitvi** strukture (za jadralna letala kategorije Utility +5,3 in −2,65).
+- Desna meja je $V_{NE}$.
+
+**Manevrska hitrost** $V_A$ je presečišče krivulje porušitve z zgornjo mejo:
+
+```enacba
+V_A = V_S \sqrt{n_{max}}
+```
+
+Pod $V_A$ se krilo poruši, preden doseže največjo dovoljeno obremenitev, zato polni odkloni krmil ne poškodujejo strukture. Nad $V_A$ lahko sunkovit poln odklon preseže dovoljeno obremenitev. Pri $V_S$ = 70 km/h in $n_{max}$ = 5,3 je $V_A$ okoli 160 km/h.
+
+Obremenitev zaradi sunka se poveča premosorazmerno s hitrostjo: sunek navpično 10 m/s pri dvakratni hitrosti povzroči dvakratno spremembo obremenitve. Zato ima vsako letalo tudi **hitrost za močno turbulenco** $V_{RA}$.

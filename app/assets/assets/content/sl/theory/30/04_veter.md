@@ -30,3 +30,18 @@ Smer vetra je smer, **iz katere** veter piha. **225/15** je **jugozahodni veter 
 - **Gorski veter** piha **ponoči z gora po pobočju navzdol** (katabatski veter), ker se pobočja ohladijo.
 - **Pobočne vzgornike** ob vetru okrepi **sončno sevanje na privetrni strani**, ker se tam pridruži še termika.
 - Lokalni vetrovi se razvijejo predvsem ob **ploskem tlačnem polju**, ko splošnega vetra skoraj ni.
+
+## Lokalni vetrovi v Sloveniji
+
+- **Burja**: hladen, zelo sunkovit severovzhodni veter, ki se spušča z Dinarskih planot proti morju (Vipavska dolina, Kras, Primorska). Nastane, ko hladen zrak priteka s severovzhoda in se preliva čez gorsko pregrado. Ob burji je zelo močna turbulenca pri tleh in rotorji; letenje v nizkih plasteh je nevarno.
+- **Jugo**: topel, vlažen jugovzhodni veter ob Jadranu pred prihodom ciklona; prinaša oblačnost in padavine, ob Alpah pa lahko povzroči fen na severni strani.
+- **Fen**: v Alpah ob močnem južnem ali severnem vetru (glej Fen in gorski valovi).
+- **Dolinski in gorski veter** v alpskih dolinah; poleti lahko popoldne dolinski veter doseže 20–30 km/h.
+
+## Vetrovni stržen
+
+**Vetrovni stržen** (jet stream) je ozek pas zelo močnega vetra (100 kt in več) blizu tropopavze, nad polarno fronto. Za jadralne lete ni neposredno pomemben, ob njem pa nastaja turbulenca v jasnem in napoveduje premike ciklonov.
+
+## Veter z višino
+
+Nad plastjo trenja veter navadno naraste in se zasuče v desno (na severni polobli). Pri vzletu in pristanku zato veter pri tleh ni enak vetru na višini kroga: računaj na spremembe smeri in hitrosti, posebej ob inverziji.

@@ -32,3 +32,28 @@ Simptomi: glavobol, utrujenost, slabost, rdečica. Ukrep: izklopi grelec, odpri 
 ## Dekompresijska bolezen in potapljanje
 
 Pri hitrem padcu tlaka se dušik, raztopljen v telesu, sprosti v mehurčkih (bolečine v sklepih, mravljinčenje, težave z dihanjem). Po **potapljanju z jeklenko** ne leti vsaj **12 ur**, po globljih potopih z dekompresijo vsaj **24 ur**.
+
+## Čas zavestnega delovanja
+
+| Višina | Čas zavestnega delovanja (v mirovanju, približno) |
+|---|---|
+| FL 180 (5500 m) | 20–30 minut |
+| FL 220 (6700 m) | 5–10 minut |
+| FL 250 (7600 m) | 3–5 minut |
+| FL 300 (9100 m) | 1–2 minuti |
+| FL 350 (10 700 m) | 30–60 sekund |
+
+Pri telesnem naporu, kajenju, utrujenosti in mrazu je čas krajši. Pri hitrem padcu tlaka (dekompresija) se skrajša na polovico.
+
+## Kisik
+
+Za nekomercialne lete veljajo pravila: posadka mora uporabljati dodatni kisik, ko je višina v kabini **nad 10 000 ft več kot 30 minut** in **vedno nad 13 000 ft**. Za jadralna letala preveri veljavna pravila Part-SAO in priporočila proizvajalca kisikovega sistema. Ker je hipoksija zahrbtna, mnogi jadralni piloti uporabljajo kisik že od okoli 3000 m, posebej ponoči ali po napornem dnevu.
+
+| Sistem | Delovanje |
+|---|---|
+| stalni pretok | kisik teče neprekinjeno; preprost, a porabi veliko kisika |
+| impulzni (EDS) | ob vdihu da kratek sunek kisika; zelo varčen |
+| kanila (nosni cevki) | primerna do okoli 18 000 ft |
+| maska | za večje višine |
+
+Pred letom preveri tlak v jeklenki, delovanje regulatorja in masko ali kanilo. Pulzni oksimeter na prstu pokaže nasičenost krvi s kisikom (normalno nad 95 %); pod okoli 90 % je potreben ukrep.

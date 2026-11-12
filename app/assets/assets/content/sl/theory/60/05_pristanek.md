@@ -45,3 +45,27 @@ Pravilo: kar zmanjša čelni veter (ali poveča hrbtnega), letalu vzame hitrost 
 Vrtinci za letalom so najmočnejši za **težkim, počasnim** letalom v čisti konfiguraciji. Od dveh enakih letal z enako maso povzroči močnejšo brazdno turbulenco **tisto, ki leti počasneje**. Vrtinci se spuščajo in ob tleh razlezejo na strani.
 
 Ob rahlem bočnem vetru po odhodu težkega letala ostane **brazdna turbulenca na stezi ali v njeni bližini**. Počakaj vsaj nekaj minut, vzleti pred točko njegove odlepitve ali pristani za točko njegovega pristanka.
+
+## Načrtovanje kroga
+
+Krog načrtuješ tako, da je **kot do točke pristanka** ves čas primeren: ne preblizu (previsok prilet) in ne predaleč (prenizek). Izkušen pilot oceni višino po kotu pogleda na stezo, ne samo po višinomeru, ki pri izvenletališkem pristanku ali na drugem letališču lahko ni nastavljen.
+
+- **Vzporedni del** (veter v hrbet): preveri višino in kot, opravi kontrolni seznam pred pristankom (podvozje, zavore, zakrilca, vodni balast, hitrost).
+- **Baza**: oceni zanos in veter, prilagodi krog.
+- **Končni prilet**: hitrost stabilna, zavore uporabljaš za uravnavanje kota.
+
+## Priletna hitrost
+
+Priletna hitrost je navadno **1,5-kratnik hitrosti porušitve vzgona** ali hitrost iz priročnika (rumen trikotnik na merilniku hitrosti). Ob vetru dodaš **polovico hitrosti vetra** in ves sunek. Pri pristanku s polno obremenjenim letalom ali z balastom je hitrost večja.
+
+**Vetrni gradient**: veter pri tleh je zaradi trenja šibkejši kot na višini. Ko se spuščaš skozi gradient, se čelni veter zmanjšuje in letalo izgublja hitrost. Zato potrebuješ pribitek.
+
+## Pristanek
+
+1. **Končni prilet** s stabilno hitrostjo in zavorami za kot.
+2. **Zravnanje** (izravnava) nekaj metrov nad tlemi: postopoma vlečeš palico, da letalo leti vzporedno s tlemi.
+3. **Lebdenje**: letalo izgublja hitrost, ti počasi dvigaš nos, da ostane tik nad tlemi.
+4. **Dotik** z obema kolesoma hkrati (glavno in repno) pri najmanjši hitrosti.
+5. **Vožnja**: krila drži vodoravno s krilci, smer s smernim krmilom, zavore kolesa po potrebi.
+
+Pristanek je **varen**, ko je hitrost pod nadzorom, ne pa nujno, ko je točka dotika točno na oznaki. Če prilet ni stabilen, ga popravi zgodaj (zavore, drsenje) ali pristani dlje.

@@ -31,3 +31,37 @@ opis: Geometrija aeroprofila in vpadni kot
 ## Center potiska
 
 **Center potiska** je teoretična točka, v kateri **prijemljejo vse aerodinamične sile** na profilu. Pri nesimetričnem profilu se **s povečevanjem vpadnega kota pomika naprej**, dokler ne dosežemo kritičnega vpadnega kota. **Ko se vpadni kot zmanjša, se pomakne nazaj.**
+
+## Vrste profilov
+
+| Profil | Lastnosti | Uporaba |
+|---|---|---|
+| simetrični | brez ukrivljenosti; pri vpadnem kotu 0° ni vzgona | repne površine, akrobatska letala |
+| ukrivljen (nesimetričen) | vzgon že pri 0°; večji največji vzgon | krila večine letal |
+| **laminarni** | največja debelina dlje zadaj, dolg laminarni del; majhen upor v ozkem območju vpadnih kotov | jadralna letala (profili Wortmann, Althaus) |
+
+## Tloris krila
+
+| Oblika | Lastnosti |
+|---|---|
+| pravokotno | preprosta gradnja, vzgon se poruši najprej pri korenu (varno), več induciranega upora |
+| **trapezno** | dober kompromis med induciranim uporom in gradnjo; večina jadralnih letal (pogosto z več lomi) |
+| eliptično | najmanjši inducirani upor (eliptičen razpored vzgona), zahtevna gradnja |
+| puščičasto | pri velikih hitrostih, ne pri jadralnih letalih |
+
+Primeri vitkosti: šolsko jadralno letalo okoli 16, tekmovalno v standardnem razredu okoli 21–24, v odprtem razredu nad 30. Motorno letalo ima vitkost okoli 7–8.
+
+Obremenitev krila jadralnih letal je okoli 25–55 kg/m², z vodnim balastom tudi čez 50 kg/m².
+
+## Zvitje krila
+
+- **Geometrijsko zvitje**: konstrukcijski kot proti koncem krila pada (konci imajo manjši vpadni kot).
+- **Aerodinamično zvitje**: proti koncem se spreminja profil (manj ukrivljen).
+
+Oboje poskrbi, da se vzgon pri velikem vpadnem kotu najprej poruši pri korenu, krilca na koncih pa ostanejo učinkovita.
+
+## Naprave za povečanje vzgona
+
+- **Zakrilca** na zadnjem robu povečajo ukrivljenost in največji vzgon.
+- **Pretočna krilca** (slots) na sprednjem robu vodijo zrak s spodnje strani na zgornjo in zakasnijo odtrganje toka (motorna letala).
+- **Turbulatorji** (cik-cak trak, pihalne odprtine) na jadralnih letalih sprožijo prehod v turbulentno mejno plast na pravem mestu in preprečijo laminarni mehurček, ki povečuje upor.

@@ -31,3 +31,25 @@ Nezaklenjeno podvozje se ob pristanku lahko zloži nesimetrično in letalo zavrt
 | **obe krilci** | krmili s **smernim in višinskim krmilom**; šolski krog na običajni višini, z večjo pozornostjo |
 
 Postopke v sili moraš znati **na pamet**.
+
+## Zapuščanje letala s padalom
+
+Odločitev za skok mora biti hitra, ker je potrebna višina vsaj okoli 200 m (bolje več). Razlogi: trk v zraku, odpoved krmil, požar, izguba nadzora v oblaku.
+
+1. **Odvrzi pokrov** kabine (rdeča ročica).
+2. **Odpni pasove** (ne padala!).
+3. Dvigni se in **skoči čez rob kabine**, proti zadnjemu delu krila (ob vrtenju v smeri navzven).
+4. Odpri padalo s potegom ročice po nekaj sekundah, ko si stran od letala.
+5. Pristani z nogami skupaj, kolena rahlo pokrčena.
+
+Postopek vadi na tleh, da ga v sili opraviš brez razmišljanja.
+
+## Drugi nenormalni primeri
+
+| Situacija | Ukrep |
+|---|---|
+| pokrov kabine se med letom odpre | najprej pilotiraj, hitrost zmanjšaj; pokrov poskusi zapreti le, če je to varno, sicer pristani |
+| izguba radijske zveze | preveri glasnost, frekvenco, priključke in akumulator; v kontroliranem prostoru transponder 7600 in upoštevaj zadnje dovoljenje; nadaljuj let VFR do pristanka |
+| prazen akumulator | izklopi nepotrebne porabnike; let nadaljuj po mehanskih instrumentih |
+| izguba orientacije | uporabi karto in glavne orientacijske točke, obrni proti znanemu območju, po potrebi vprašaj službo FIS |
+| slabo počutje pilota | čim prej pristani; ne nadaljuj leta |
