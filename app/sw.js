@@ -19,7 +19,7 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "71ddd06e4b7b";
+const VERSION = "44b0733a5a07";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
@@ -101,39 +101,39 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/questions/10_air_law.json",
-    "h": "a9dac707a0734f57"
+    "h": "24b36a78eda294f9"
   },
   {
     "u": "assets/assets/content/sl/questions/20_human_performance.json",
-    "h": "9223b672acb188e5"
+    "h": "4217866a095790f3"
   },
   {
     "u": "assets/assets/content/sl/questions/30_meteorology.json",
-    "h": "fd37b128c6cae937"
+    "h": "ec27eddd269baa06"
   },
   {
     "u": "assets/assets/content/sl/questions/40_communication.json",
-    "h": "0faa1d8038ef2a80"
+    "h": "7e4aadf36b39774f"
   },
   {
     "u": "assets/assets/content/sl/questions/51_principles_of_flight_aeroplane.json",
-    "h": "474c145c8adfb344"
+    "h": "e9ec08cec8915fed"
   },
   {
     "u": "assets/assets/content/sl/questions/60_operational_procedures.json",
-    "h": "661e3838dc911031"
+    "h": "b1d7379dd86eff4c"
   },
   {
     "u": "assets/assets/content/sl/questions/70_flight_performance_and_planning.json",
-    "h": "cbc0d4c95fa8d1c7"
+    "h": "cb191ae1c15f424e"
   },
   {
     "u": "assets/assets/content/sl/questions/80_aircraft_general_knowledge.json",
-    "h": "3bc701d7f83c90ad"
+    "h": "1a481b58c77d7a6b"
   },
   {
     "u": "assets/assets/content/sl/questions/90_navigation.json",
-    "h": "050a86af9bf14abc"
+    "h": "f6328d32227e82aa"
   },
   {
     "u": "assets/assets/content/sl/questions/images/E10-200511-00254_alw-020.png",
@@ -1337,7 +1337,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "c928633b6910fb81"
+    "h": "3e0b894b18e9c899"
   },
   {
     "u": "manifest.json",

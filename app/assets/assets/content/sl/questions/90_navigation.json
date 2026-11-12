@@ -16,8 +16,8 @@
       "severni geografski tečaj in južni magnetni tečaj."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zemljina os poteka skozi severni in južni geografski tečaj.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "Zemljina os teče skozi južni geografski tečaj in severni geografski tečaj in je pravokotna na ravnino ekvatorja."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Os vrtenja poteka skozi oba geografska tečaja in je pravokotna na ravnino ekvatorja.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "Elipsoid"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zemlja je na tečajih sploščena, zato jo navigacijski sistemi (WGS-84) opisujejo kot elipsoid.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "Loksodroma preseka vsak poldnevnik pod istim kotom."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Loksodroma seka vse poldnevnike pod enakim kotom, zato po njej letiš s stalnim kurzom.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "vzporednika."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Najkrajša pot med točkama na krogli je lok velikega kroga, ortodroma.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "12800 km."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ena kotna minuta na velikem krogu je 1 NM: 360° × 60 = 21 600 NM.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "Na zemljepisni širini 20.5°S in 20.5°N"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Polarna kroga sta na 66,5° severne in južne širine, torej 23,5° od tečajev.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "10 NM"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ena stopinja zemljepisne širine vzdolž poldnevnika je vedno 60 NM.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "60 NM"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ena stopinja razlike v zemljepisni širini meri vedno 60 NM, ker so vsi poldnevniki veliki krogi.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -214,8 +214,8 @@
       "49°50'27''N"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "240 NM je 4° zemljepisne širine (60 NM na stopinjo): 47°50'27'' + 4° = 51°50'27'' N.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -236,8 +236,8 @@
       "60 NM"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ekvator je velik krog, zato je tam 1° zemljepisne dolžine enak 60 NM.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -258,8 +258,8 @@
       "120 NM"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na ekvatorju meri 1° zemljepisne dolžine 60 NM.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -280,8 +280,8 @@
       "1:20 h"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sonce naredi 15° na uro, torej 4 minute na stopinjo: 20° × 4 min = 80 min = 1:20 h.",
+    "theory": "90-cas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -302,8 +302,8 @@
       "1400 UTC."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Od CEST odšteješ 2 uri: 1600 − 2 = 1400 UTC.",
+    "theory": "90-cas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -324,8 +324,8 @@
       "lokalni srednji čas na neki točki na zemlji."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "UTC je standardni čas v letalstvu, neodvisen od časovnih pas in poletnega časa.",
+    "theory": "90-cas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -346,8 +346,8 @@
       "1600 UTC."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Po podatku v vprašanju (UTC+1) odšteješ 1 uro: 1700 − 1 = 1600 UTC. Pozor: v resnici je CEST UTC+2.",
+    "theory": "90-cas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -368,8 +368,8 @@
       "časovno obdobje pred sončnim vzhodom ali po sončnem zahodu, ko je središče sončeve ploskve 12 stopinj ali manj pod navideznim horizontom."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Civilni mrak traja, dokler je središče sonca največ 6° pod pravim horizontom (pred vzhodom ali po zahodu).",
+    "theory": "90-cas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -390,8 +390,8 @@
       "TC: 137°.\nMH: 139°.\nCH: 125°."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "TC = TH − WCA = 125 − (−12) = 137°. VAR = 2° W (MC 139). MH = 125 + 2 = 127°, CH = MH − DEV(E) = 125°.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -412,8 +412,8 @@
       "MH: 163°.\nMC: 161°."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "TH = 179 − 12 = 167°. Vzhodno variacijo odšteješ: MH = 167 − 4 = 163°, MC = 179 − 4 = 175°.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -434,8 +434,8 @@
       "inklinacija."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kot med pravim in magnetnim severom (oziroma med pravim in magnetnim kurzom) je variacija.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -456,8 +456,8 @@
       "smer od poljubne točke na zemlji proti severnemu magnetnemu tečaju."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pravi kurz je kot med pravim (geografskim) severom in črto kurza.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -478,8 +478,8 @@
       "deviacije."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Izogona povezuje točke z enako variacijo; agona je črta z ničelno variacijo.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -500,8 +500,8 @@
       "Čevelj (ft), palec (in)"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Po ICAO se vodoravne razdalje merijo v navtičnih miljah (NM) in kilometrih (km).",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -522,8 +522,8 @@
       "3000 m."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "1 ft = 0,3048 m, zato je 1000 ft okoli 300 m.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -544,8 +544,8 @@
       "30000 ft."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "5500 m / 0,3048 ≈ 18 000 ft.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -566,8 +566,8 @@
       "Spremenila se je magnetna variacija na lokaciji vzletno-pristajalne steze."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Oznaka steze je magnetna smer, zaokrožena na desetice; ko se variacija spremeni, se lahko spremeni tudi oznaka.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -588,8 +588,8 @@
       "Merilo se povečuje z zemljepisno širino, ortodrome so prikazane kot ravne črte, loksodrome so prikazane kot ukrivljene črte."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Mercatorjeva karta je konformna; merilo raste z zemljepisno širino, loksodrome so ravne, ortodrome ukrivljene.",
+    "theory": "90-karte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -610,8 +610,8 @@
       "Loksodrome: ukrivljene črte, Ortodrome: ukrivljene črte"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na Mercatorjevi karti so loksodrome ravne črte, ortodrome pa krivulje.",
+    "theory": "90-karte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -632,8 +632,8 @@
       "Karta je izdelana v konformni in ekvivalentni projekciji."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Lambertova projekcija je konformna in skoraj ekvidistančna (merilo je skoraj stalno), ortodrome so skoraj ravne; uporablja se za letalske karte.",
+    "theory": "90-karte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -654,8 +654,8 @@
       "1 : 2000000."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "220 NM × 1,852 = 407,4 km = 40 740 000 cm; deljeno s 40,7 cm je to merilo 1 : 1 000 000.",
+    "theory": "90-karte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -676,8 +676,8 @@
       "238°."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zahodno variacijo prišteješ: MC = 245 + 7 = 252°.",
+    "theory": "90-smeri",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -698,8 +698,8 @@
       "1005 UTC."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "GS = 130 − 15 = 115 kt; 210 / 115 = 1,83 h = 1 h 50 min; 0915 + 1:50 = 1105 UTC.",
+    "theory": "90-priprava",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -720,8 +720,8 @@
       "1356 UTC"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "GS = 105 − 12 = 93 kt; 75 / 93 h = 48 min; 1242 + 48 min = 1330 UTC.",
+    "theory": "90-priprava",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -742,8 +742,8 @@
       "1129 UTC."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "100 / 107 h = 56 min; 0933 + 56 min = 1029 UTC.",
+    "theory": "90-priprava",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -764,8 +764,8 @@
       "58 km/h."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "GS = razdalja / čas = 100 km / (56/60 h) ≈ 107 km/h.",
+    "theory": "90-priprava",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -786,8 +786,8 @@
       "1:46 h"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Čas = 236 / 134 = 1,76 h, kar je 1 h 46 min.",
+    "theory": "90-priprava",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -808,8 +808,8 @@
       "693 NM."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "GS = 180 − 25 = 155 kt; 155 × 2,42 h ≈ 375 NM.",
+    "theory": "90-priprava",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -830,8 +830,8 @@
       "6750 ft."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "ISA na 7500 ft je 0 °C, zrak je 9 °C hladnejši. Popravek je okoli 4 ft na 1000 ft na °C: 6500 − okoli 250 = 6250 ft.",
+    "theory": "90-med-letom",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -852,8 +852,8 @@
       "6500 ft."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "ISA na 7000 ft je +1 °C, zrak je 20 °C toplejši. Popravek je okoli +8 % od 6500 ft (≈ +500 ft), torej okoli 7000 ft.",
+    "theory": "90-med-letom",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -874,8 +874,8 @@
       "275°."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Veter piha z leve spredaj (55° od kurza), bočna komponenta je okoli 8 kt; WCA ≈ 8/100 × 60 ≈ 5° levo, prava smer 250°.",
+    "theory": "90-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -896,8 +896,8 @@
       "170 kt."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kot vetra je 50°: čelna komponenta okoli 32 kt, bočna 38 kt (WCA okoli 10°). GS ≈ 220 × cos 10° − 32 ≈ 185 kt.",
+    "theory": "90-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -918,8 +918,8 @@
       "155 kt."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Veter je 50° levo od kurza: čelna komponenta okoli 19 kt, WCA okoli 7°. GS ≈ 180 × cos 7° − 19 ≈ 159 kt.",
+    "theory": "90-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -940,8 +940,8 @@
       "- 7°"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Bočna komponenta je 30 × sin 50° ≈ 23 kt; WCA ≈ 23/180 × 60 ≈ 7°. Veter je z leve, zato popravek v levo (−7°).",
+    "theory": "90-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -962,8 +962,8 @@
       "125 kt."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Veter 090° pri kurzu 270° je čisti hrbtni veter: GS = 100 + 25 = 125 kt.",
+    "theory": "90-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -984,8 +984,8 @@
       "37 Min."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "GS je 125 kt; 100 / 125 = 0,8 h = 48 min.",
+    "theory": "90-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1006,8 +1006,8 @@
       "7° desno."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Veter z leve spredaj (50° od kurza), bočna komponenta okoli 23 kt; WCA ≈ 7° levo.",
+    "theory": "90-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1028,8 +1028,8 @@
       "8° levo"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pravilo 1 : 60: napaka smeri 7/55 × 60 ≈ 8°, kot za zbližanje 7/65 × 60 ≈ 6°; skupaj okoli 14° v levo.",
+    "theory": "90-med-letom",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1050,8 +1050,8 @@
       "9° v desno"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Napaka smeri 4,5/45 × 60 = 6°, kot za zbližanje do cilja še 6°; skupaj 12° v desno.",
+    "theory": "90-med-letom",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1072,8 +1072,8 @@
       "Orientiranje po nebesnih telesih med vizualnim letenjem"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vizualna navigacija je orientiranje po vidnih objektih na tleh s primerjanjem s karto.",
+    "theory": "90-med-letom",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1094,8 +1094,8 @@
       "Daljnovode"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Najboljše orientacijske točke so velike, dolge in nezamenljive: reke, železnice, avtoceste.",
+    "theory": "90-med-letom",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1116,8 +1116,8 @@
       "Nad EDCK"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Odčitane koordinate poiščeš na karti preko mreže vzporednikov in poldnevnikov; položaj 51,83° N, 12,19° E pade nad letališče EDAD.",
+    "theory": "90-gnss",
     "images": [
       "E90-210519-00015_ec-90-001-v1.png"
     ],
@@ -1140,8 +1140,8 @@
       "20°28'00''"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Točki sta na nasprotnih straneh ekvatorja, zato širini sešteješ: 12°53'30'' + 7°34'30'' = 20°28'00''.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1162,8 +1162,8 @@
       "0:30 h"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sonce naredi 1° v 4 minutah: 10° × 4 = 40 min.",
+    "theory": "90-cas",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1184,8 +1184,8 @@
       "0.4 h"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "10° je 40 minut, kar je 0,66 ure.",
+    "theory": "90-cas",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1206,8 +1206,8 @@
       "Na Dunaju sonce vzhaja 4 minute pozneje in zahaja 4 minute prej kot v Salzburgu."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Razlika v dolžini je 3°34' (≈ 3,57°) × 4 min ≈ 14 min. Dunaj je vzhodneje, zato sonce tam vzhaja in zahaja prej.",
+    "theory": "90-cas",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1228,8 +1228,8 @@
       "smer od poljubne točke na zemlji proti severnemu geografskemu tečaju."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Magnetni kurz je kot med magnetnim severom in črto kurza.",
+    "theory": "90-smeri",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1250,8 +1250,8 @@
       "inklinacija."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kot med kompasnim in magnetnim severom je deviacija, napaka zaradi magnetnih polj letala.",
+    "theory": "90-smeri",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1272,8 +1272,8 @@
       "Smer od poljubne točke na zemlji proti severnemu geografskemu tečaju"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kompasni sever je smer, ki jo kaže kompas pod vplivom zemeljskega magnetnega polja in polja letala.",
+    "theory": "90-smeri",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1294,8 +1294,8 @@
       "več kot 300 NM."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vzdolž vzporednika je 1° dolžine dolg 60 NM × cos(širina). Zunaj ekvatorja je 10° vedno manj kot 600 NM.",
+    "theory": "90-zemlja",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1316,8 +1316,8 @@
       "1 : 150000"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "60,745 NM × 1,852 = 112,5 km = 11 250 000 cm; deljeno s 7,5 cm je to merilo 1 : 1 500 000.",
+    "theory": "90-karte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1338,8 +1338,8 @@
       "0 h 50 min"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "GS = 120 + 35 = 155 kt; 185 / 155 = 1,19 h ≈ 1 h 12 min.",
+    "theory": "90-priprava",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1360,8 +1360,8 @@
       "7000 ft."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "ISA na 7000 ft je +1 °C, zrak je 10 °C toplejši; popravek okoli +4 % od 6500 ft (≈ +250 ft) = 6750 ft.",
+    "theory": "90-med-letom",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1382,8 +1382,8 @@
       "6° v levo."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Veter je 30° desno od kurza, bočna komponenta 12 × sin 30° = 6 kt; WCA ≈ 6/120 × 60 = 3° v desno.",
+    "theory": "90-veter",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1404,8 +1404,8 @@
       "158°."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Veter je 35° levo od kurza, bočna komponenta okoli 11,5 kt; WCA ≈ 11,5/90 × 60 ≈ 7° levo, prava smer 158°.",
+    "theory": "90-veter",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1426,8 +1426,8 @@
       "variacija."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kot med pravim kurzom in pravo smerjo je kot popravka zaradi vetra (WCA).",
+    "theory": "90-veter",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1448,8 +1448,8 @@
       "VAR: 004° W. DEV: +002°"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "TH = 183 + 11 = 194°; VAR = TH − MH = −4°, torej 4° W. DEV = MH − CH = 198 − 200 = −2°.",
+    "theory": "90-smeri",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1470,8 +1470,8 @@
       "TH: 172° DEV: +002°"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "TH = TC + WCA = 194°; DEV = MH − CH = −2°.",
+    "theory": "90-smeri",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1492,8 +1492,8 @@
       "TH: 172°. VAR: 004° W"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "TH = 183 + 11 = 194°; MH je 198°, zato je variacija 4° W (zahodno prišteješ).",
+    "theory": "90-smeri",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1514,8 +1514,8 @@
       "Bočni zamik za 6 NM zaradi zanosa za 1° po 10 NM"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pravilo 1 : 60: napaka smeri 1° povzroči po 60 NM odmik okoli 1 NM.",
+    "theory": "90-med-letom",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1536,8 +1536,8 @@
       "Pet"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za 3D položaj (širina, dolžina, višina) in uskladitev ure sprejemnika potrebuješ vsaj štiri satelite.",
+    "theory": "90-gnss",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1558,8 +1558,8 @@
       "Odstopanje črte od sredine kaže odstopanje od poti leta kot kotno razdaljo v stopinjah, pri čemer je polni odklon indikatorja +/- 10°. LETALSKA ZAKONODAJA 1. = c. 22. = a. 43. = b. 2. = c. 23. = a. 44. = c. 3. = a. 24. = a. 45. = a. 4. = a. 25. = a. 46. = c. 5. = a. 26. = a. 47. = c. 6. = d. 27. = a. 48. = d. 7. = c. 28. = a. 49. = b. 8. = a. 29. = a. 50. = a. 9. = c. 30. = d. 51. = b. 10. = a. 31. = c. 52. = a. 11. = b. 32. = a. 53. = c. 12. = a. 33. = d. 54. = b. 13. = a. 34. = d. 55. = c. 14. = a. 35. = a. 56. = c. 15. = a. 36. = d. 57. = c. 16. = a. 37. = a. 58. = c. 17. = b. 38. = c. 59. = a. 18. = a. 39. = b. 60. = d. 19. = b. 40. = a. 61. = d. 20. = a. 41. = a. 62. = a. 21. = a. 42. = a. ČLOVEŠKO DELOVANJE 1. = b. 17. = b. 33. = d. 2. = b. 18. = b. 34. = c. 3. = d. 19. = b. 35. = a. 4. = a. 20. = d. 36. = d. 5. = c. 21. = c. 37. = b. 6. = c. 22. = c. 38. = a. 7. = c. 23. = b. 39. = b. 8. = b. 24. = c. 40. = c. 9. = c. 25. = a. 41. = b. 10. = a. 26. = d. 42. = b. 11. = c. 27. = a. 43. = d. 12. = a. 28. = a. 44. = c. 13. = d. 29. = b. 45. = b. 14. = c. 30. = d. 46. = d. 15. = a. 31. = d. 47. = d. 16. = b. 32. = c. METEOROLOGIJA 1. = a. 24. = d. 47. = a. 2. = b. 25. = d. 48. = b. 3. = a. 26. = a. 49. = c. 4. = c. 27. = c. 50. = a. 5. = d. 28. = b. 51. = a. 6. = d. 29. = a. 52. = c. 7. = b. 30. = a. 53. = b. 8. = c. 31. = b. 54. = c. 9. = a. 32. = a. 55. = b. 10. = a. 33. = a. 56. = a. 11. = c. 34. = d. 57. = a. 12. = a. 35. = d. 58. = c. 13. = c. 36. = c. 59. = a. 14. = d. 37. = d. 60. = b. 15. = a. 38. = a. 61. = a. 16. = d. 39. = b. 62. = a. 17. = c. 40. = c. 63. = c. 18. = c. 41. = d. 64. = c. 19. = a. 42. = b. 65. = d. 20. = d. 43. = c. 66. = d. 21. = a. 44. = a. 67. = b. 22. = b. 45. = d. 68. = a. 23. = c. 46. = c. 69. = c. 70. = a. 88. = c. 106. = a. 71. = c. 89. = b. 107. = a. 72. = a. 90. = a. 108. = b. 73. = d. 91. = a. 109. = c. 74. = a. 92. = d. 110. = a. 75. = d. 93. = b. 111. = a. 76. = b. 94. = b. 112. = d. 77. = c. 95. = d. 113. = a. 78. = d. 96. = a. 114. = b. 79. = a. 97. = b. 115. = c. 80. = a. 98. = d. 116. = d. 81. = d. 99. = a. 117. = c. 82. = d. 100. = d. 118. = a. 83. = a. 101. = a. 119. = d. 84. = c. 102. = b. 120. = b. 85. = c. 103. = a. 121. = b. 86. = b. 104. = d. 87. = c. 105. = b. KOMUNIKACIJA 1. = d. 24. = a. 47. = c. 2. = a. 25. = c. 48. = d. 3. = d. 26. = d. 49. = c. 4. = c. 27. = b. 50. = d. 5. = a. 28. = d. 51. = a. 6. = b. 29. = a. 52. = b. 7. = c. 30. = d. 53. = c. 8. = b. 31. = d. 54. = c. 9. = c. 32. = b. 55. = a. 10. = a. 33. = b. 56. = b. 11. = d. 34. = a. 57. = c. 12. = d. 35. = a. 58. = a. 13. = a. 36. = b. 59. = b. 14. = b. 37. = d. 60. = d. 15. = d. 38. = a. 61. = a. 16. = a. 39. = c. 62. = a. 17. = b. 40. = b. 63. = c. 18. = b. 41. = a. 64. = a. 19. = c. 42. = c. 65. = a. 20. = b. 43. = b. 66. = b. 21. = c. 44. = b. 67. = d. 22. = d. 45. = a. 68. = c. 23. = c. 46. = b. 69. = b. 70. = b. 71. = d. 72. = c. 73. = c. 74. = a. TEORIJA LETENJA 1. = a. 24. = c. 47. = c. 2. = d. 25. = a. 48. = d. 3. = a. 26. = a. 49. = a. 4. = d. 27. = d. 50. = a. 5. = a. 28. = c. 51. = d. 6. = a. 29. = b. 52. = a. 7. = c. 30. = c. 53. = a. 8. = d. 31. = d. 54. = a. 9. = c. 32. = a. 55. = a. 10. = b. 33. = a. 56. = b. 11. = b. 34. = a. 57. = a. 12. = c. 35. = a. 58. = d. 13. = b. 36. = b. 59. = a. 14. = a. 37. = a. 60. = c. 15. = c. 38. = d. 61. = a. 16. = d. 39. = a. 62. = a. 17. = c. 40. = b. 63. = a. 18. = a. 41. = a. 64. = d. 19. = a. 42. = a. 65. = d. 20. = b. 43. = a. 66. = b. 21. = b. 44. = a. 67. = b. 22. = a. 45. = a. 68. = a. 23. = a. 46. = a. 69. = b. 70. = c. 71. = b. 72. = a. 73. = b. 74. = d. 75. = a. 76. = c. 77. = b. 78. = c. 79. = b. 80. = b. 81. = a. 82. = d. 83. = a. 84. = d. 85. = a. 86. = b. 87. = a. 88. = a. OPERATIVNI POSTOPKI 1. = a. 20. = a. 39. = d. 2. = c. 21. = a. 40. = d. 3. = a. 22. = d. 41. = a. 4. = b. 23. = a. 42. = d. 24. = a. 43. = a. 5. = a. 6. = b. 25. = a. 44. = c. 7. = b. 26. = a. 45. = a. 8. = a. 27. = a. 46. = a. 9. = a. 28. = a. 47. = a. 10. = a. 29. = a. 48. = a. 11. = a. 30. = a. 49. = a. 12. = b. 31. = d. 50. = a. 13. = d. 32. = a. 51. = d. 14. = a. 33. = a. 52. = a. 15. = a. 34. = a. 53. = a. 16. = d. 35. = a. 54. = a. 17. = a. 36. = a. 55. = d. 18. = a. 37. = d. 19. = a. 38. = a. ZMOGLJIVOST MED LETOM IN NAČRTOVANJE POLETA 1. = d. 10. = a. 19. = c. 2. = a. 11. = c. 20. = a. 3. = c. 12. = a. 21. = a. 4. = a. 13. = a. 22. = a. 5. = d. 14. = a. 23. = c. 6. = b. 15. = d. 24. = a. 7. = b. 16. = a. 25. = a. 8. = a. 17. = a. 26. = a. 9. = a. 18. = c. 27. = a. SPLOŠNO ZNANJE O ZRAKOPLOVIH 1. = a. 24. = a. 47. = a. 2. = a. 25. = a. 48. = a. 3. = a. 26. = a. 49. = a. 4. = a. 27. = a. 50. = a. 5. = a. 28. = a. 51. = a. 6. = d. 29. = a. 52. = d. 7. = a. 30. = a. 53. = a. 8. = b. 31. = a. 54. = a. 9. = a. 32. = a. 55. = a. 10. = c. 33. = a. 56. = b. 11. = a. 34. = a. 57. = a. 12. = d. 35. = a. 58. = a. 13. = a. 36. = a. 59. = a. 14. = a. 37. = a. 60. = a. 15. = a. 38. = c. 61. = a. 16. = d. 39. = c. 62. = a. 17. = a. 40. = b. 63. = a. 18. = a. 41. = a. 64. = c. 19. = a. 42. = a. 65. = a. 20. = a. 43. = a. 66. = a. 21. = d. 44. = b. 67. = a. 22. = a. 45. = a. 68. = a. 23. = b. 46. = a. 69. = a. 70. = a. 71. = a. 72. = a. 73. = a. NAVIGACIJA 1. = a. 24. = d. 47. = c. 2. = b. 25. = a. 48. = a. 3. = c. 26. = a. 49. = b. 4. = c. 27. = a. 50. = a. 5. = b. 28. = a. 51. = a. 6. = a. 29. = a. 52. = d. 7. = c. 30. = a. 53. = a. 8. = a. 31. = c. 54. = b. 9. = b. 32. = a. 55. = b. 10. = d. 33. = a. 56. = a. 11. = b. 34. = a. 57. = c. 12. = a. 35. = a. 58. = c. 13. = d. 36. = a. 59. = c. 14. = c. 37. = a. 60. = a. 15. = a. 38. = c. 61. = b. 16. = a. 39. = a. 62. = a. 17. = b. 40. = b. 63. = a. 18. = a. 41. = c. 64. = a. 19. = d. 42. = c. 65. = b. 20. = c. 43. = a. 66. = a. 21. = a. 44. = a. 67. = a. 22. = a. 45. = c. 68. = d. 23. = a. 46. = d. 69. = c. 70. = a."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri GNSS odklon igle (CDI) kaže bočno odstopanje od poti v NM. Polni odklon je odvisen od načina (na primer 5 NM na poti, 1 NM v priletu).",
+    "theory": "90-gnss",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }

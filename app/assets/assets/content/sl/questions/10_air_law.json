@@ -16,8 +16,8 @@
       "Z vitlom in aerozaprego"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za vsak način vzleta potrebuješ v zadnjih 24 mesecih najmanj 5 vzletov s tem načinom, za elastiko le 2. Z vitlom (9) in elastiko (2) pogoj izpolnjuješ, z aerovleko (4) ne.",
+    "theory": "10-licence",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "d, f, g"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na mednarodnem letu morajo biti na krovu potrdilo o registraciji, spričevalo o plovnosti, potrdilo o pregledu plovnosti (ARC), knjiga zrakoplova in drugi predpisani dokumenti. EASA Obrazec 1 je potrdilo za rezervni del, ne dokument letala.",
+    "theory": "10-plovnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "AIP"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Trajni podatki o zračnem prostoru, tudi vrsta omejitve v omejenem območju, so objavljeni v zborniku letalskih informacij AIP (del ENR). NOTAM objavlja le začasne spremembe.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "So del zakonodaje EU in so pravno zavezujoči v državah članicah EU."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Predpise EASA sprejme Evropska komisija kot uredbe EU. Uredbe veljajo neposredno in so zavezujoče v vseh državah članicah, brez ratifikacije.",
+    "theory": "10-pravo",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "12 let"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Spričevalo o plovnosti velja neomejeno, dokler je zrakoplov vzdrževan po predpisih. Vsako leto pa mora imeti veljavno potrdilo o pregledu plovnosti (ARC).",
+    "theory": "10-plovnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "Odbor za oblikovanje predpisov o zračnem prostoru"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "ARC (Airworthiness Review Certificate) oziroma PPP je potrdilo o pregledu plovnosti. Velja eno leto in dokazuje, da je bila plovnost zrakoplova pregledana.",
+    "theory": "10-plovnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "v kateri je opravljen pregled plovnosti."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Spričevalo o plovnosti izda država registracije, torej država, v registru katere je zrakoplov vpisan.",
+    "theory": "10-plovnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "Samo na mednarodnih letih."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Državna in registrska oznaka (na primer S5-…) morata biti na zrakoplovu na vsakem letu, ne glede na to, ali je let mednaroden.",
+    "theory": "10-plovnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "24 mesecev"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Licence SPL, LAPL in PPL veljajo neomejeno. Privilegije pa smeš uporabljati le z izpolnjenimi pogoji o nedavnih izkušnjah in veljavnim zdravniškim spričevalom.",
+    "theory": "10-licence",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -214,8 +214,8 @@
       "Najmanj 5 dodatnih ur letenja ponoči, tri izmed njih z inštruktorjem letenja ter najmanj enourni prelet in 5 samostojnih vzletov in pristankov."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za nočno letenje VFR je potrebnih najmanj 5 ur letenja ponoči, od tega 3 ure z inštruktorjem in najmanj enourni prelet, ter 5 samostojnih vzletov in pristankov do popolne zaustavitve.",
+    "theory": "10-licence",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -236,8 +236,8 @@
       "48 mesecev."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zdravniško spričevalo razreda 2 velja do 40. leta 60 mesecev, od 40 do 50 let 24 mesecev, nad 50 let pa le 12 mesecev. Pilot s 62 leti ga mora obnavljati vsako leto.",
+    "theory": "10-licence",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -258,8 +258,8 @@
       "Selektiven radarski višinomer"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "SERA (Standardised European Rules of the Air) so standardizirana evropska pravila letenja, ki veljajo v vseh državah EU in temeljijo na Prilogi 2 ICAO.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -280,8 +280,8 @@
       "Terminalno območje"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "TRA (Temporary Reserved Area) je začasno rezervirano območje. Ko je aktivno, vanj vstopiš le z dovoljenjem.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -302,8 +302,8 @@
       "Pridobiti je potrebno dovoljenje lokalnega letalskega organa."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "RMZ je območje obvezne radijske zveze: ves čas poslušaš frekvenco in, če je mogoče, vzpostaviš zvezo. Dovoljenje za vstop ni potrebno.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -324,8 +324,8 @@
       "Vidnost na tleh najmanj 500 m"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Posebni let VFR je dovoljen v CTR pod VMC z dovoljenjem kontrole, izven oblakov in z vidnim stikom s terenom; vidnost v letu najmanj 1500 m.",
+    "theory": "10-vmc",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -346,8 +346,8 @@
       "Pred letom oddati načrt leta"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "TMZ je območje obvezne rabe transponderja. Pred vstopom vklopiš transponder z načinoma A in C ali z načinom S, da kontrola vidi tvojo kodo in višino.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -368,8 +368,8 @@
       "je izveden v skladu s pravili vizualnega letenja."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vizualni let je let, izveden po pravilih vizualnega letenja (VFR). VMC so vremenske razmere, ki tak let omogočajo, niso pa definicija leta.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -390,8 +390,8 @@
       "Težje letalo mora vzpenjati."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Izpitni odgovor je, da obe letali zavijeta desno. To pravilo velja pri čelnem približevanju; pri pravem križanju poti se umakne letalo, ki ima drugo na svoji desni.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -412,8 +412,8 @@
       "Obe letali morata zaviti desno."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko se poti križata, ima prednost letalo, ki prihaja z desne. Letalo, ki leti z desne proti levi, je drugemu na desni, zato ima prednost.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -434,8 +434,8 @@
       "Vzlet in pristanek na letališču"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod najmanjšo višino smeš leteti le pri vzletu in pristanku ali v sili. Slabo vreme v bližini letališča ni razlog za nižji let; tedaj se pravočasno odločiš za drug pristanek.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -456,8 +456,8 @@
       "1000 m horizontalno, 300 m vertikalno"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V prostorih B, C, D in E (in v F, G nad 3000 ft) mora let VFR ostati 1500 m vodoravno in 1000 ft (300 m) navpično od oblakov.",
+    "theory": "10-vmc",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -478,8 +478,8 @@
       "1500 m"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod 10 000 ft AMSL je najmanjša vidnost za let VFR 5 km. FL 75 je pod to mejo, zato 5000 m.",
+    "theory": "10-vmc",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -500,8 +500,8 @@
       "1500 m"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na ali nad 10 000 ft AMSL (FL 100) je najmanjša vidnost za let VFR 8 km. FL 110 je nad mejo, zato 8000 m.",
+    "theory": "10-vmc",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -522,8 +522,8 @@
       "3000 m"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nad FL 100 je najmanjša vidnost za let VFR 8 km, zato na FL 125 velja 8000 m.",
+    "theory": "10-vmc",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -544,8 +544,8 @@
       "1500 m horizontalno, 1000 m vertikalno"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V prostoru B, kot v C, D in E, je najmanjša oddaljenost od oblakov 1500 m vodoravno in 300 m (1000 ft) navpično.",
+    "theory": "10-vmc",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -566,8 +566,8 @@
       "8 km"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod FL 100 je najmanjša vidnost za let VFR v prostoru C 5 km; od FL 100 navzgor je 8 km.",
+    "theory": "10-vmc",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -588,8 +588,8 @@
       "relativna višina baze najnižjega sloja oblakov, ki prekriva več kot polovico neba pod 20000 čevlji."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Strop oblakov je relativna višina (nad tlemi) baze najnižjega sloja oblakov, ki prekriva več kot polovico neba, pod 20 000 ft.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -610,8 +610,8 @@
       "Pripravite se na varnostni pristanek, vstopili ste v prepovedano območje."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zibanje s krili in nato blag zavoj v levo pomeni »Sledite mi«. Odgovoriš z zibanjem s krili in slediš prestrezniku.",
+    "theory": "10-prestrezanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -632,8 +632,8 @@
       "Pripravite se na varnostni pristanek, vstopili ste v prepovedano območje."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nenaden zavoj za 90° ali več z vzpenjanjem, brez prečkanja tvoje poti, pomeni »Lahko nadaljujete let«.",
+    "theory": "10-prestrezanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -654,8 +654,8 @@
       "1013.25 hPa."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nad prehodnim nivojem se višina podaja kot nivo leta, višinomer pa je nastavljen na standardni tlak 1013,25 hPa. FL 80 je nivo leta.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -676,8 +676,8 @@
       "Omogočiti varno vzpenjanje ali spuščanje v zanki čakanja"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Polkrožno pravilo določa višine po smeri poti: letala, ki letijo drug proti drugemu, so na različnih višinah, zato je manj nevarnosti čelnega trka.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -698,8 +698,8 @@
       "transponder z zmogljivostjo Mode C ali Mode S."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Način A pošilja le kodo. Tlačno višino pošiljata način C in način S.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -720,8 +720,8 @@
       "7600"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Koda 7600 pomeni izgubo radijske zveze. 7700 je nevarnost, 7500 ugrabitev, 7000 splošna koda VFR.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -742,8 +742,8 @@
       "7700"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob nevarnosti (emergency) samoiniciativno nastaviš kodo 7700, tudi brez navodila kontrole.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -764,8 +764,8 @@
       "TWR (letališka kontrola zračnega prometa)\nAPP (priletna kontrola zračnega prometa)\nACC (območna kontrola zračnega prometa)"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kontrolo zračnega prometa (ATC) izvajajo letališka kontrola (TWR), priletna kontrola (APP) in območna kontrola (ACC). FIS, AIS in alarmna služba niso kontrola.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -786,8 +786,8 @@
       "VFR promet se razdvaja le od IFR prometa."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V prostoru E kontrola razdvaja le lete IFR med seboj. Leti VFR se ne razdvajajo od nobenega prometa, zato mora pilot sam gledati ven.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -808,8 +808,8 @@
       "FIS (služba informacij za letenje)\nALR (alarmna služba)"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V FIR sta zagotovljeni služba informacij za letenje (FIS) in alarmna služba (ALR). Kontrola je le v kontroliranih prostorih.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -830,8 +830,8 @@
       "preko radijske zveze."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "FIS je služba, ki jo pilot med letom dobi prek radijske zveze, na primer Ljubljana Information.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -852,8 +852,8 @@
       "Opozorila za letalstvo, zračni prostori in poti ATS, omejena in nevarna območja"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Del GEN zbornika AIP vsebuje splošne podatke: znake na kartah, seznam radionavigacijskih naprav, čase sončnega vzhoda in zahoda ter takse.",
+    "theory": "10-ais",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -874,8 +874,8 @@
       "GEN\nMET\nRAC"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "AIP ima tri dele: GEN (splošno), ENR (na poti) in AD (letališča).",
+    "theory": "10-ais",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -896,8 +896,8 @@
       "Opozorila za letalstvo, zračni prostori in poti ATS, omejena in nevarna območja"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Del AD vsebuje podatke o letališčih: seznam in klasifikacijo letališč z zemljevidi, priletne karte in karte za vožnjo po tleh.",
+    "theory": "10-ais",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -918,8 +918,8 @@
       "13/10/2013 00:00 UTC."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Polje C) je konec veljavnosti v obliki LLMMDDUUmm (UTC): 1305211400 pomeni 21. 5. 2013 ob 14:00 UTC.",
+    "theory": "10-ais",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -940,8 +940,8 @@
       "pravokotno območje na kopenskem letališču, namenjeno vzletanju in pristajanju helikopterjev."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vzletno-pristajalna steza je določeno pravokotno območje na kopenskem letališču, pripravljeno za vzletanje in pristajanje.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -962,8 +962,8 @@
       "Vidnih je nekaj luž"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "WET pomeni, da je površina steze mokra, vendar brez večjih luž. Luže so WATER PATCHES, voda čez večji del površine pa STANDING WATER.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -984,8 +984,8 @@
       "Na vzletno-pristajalni stezi ni vode, ledu in snega"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "WATER PATCHES pomeni, da so na stezi vidne luže.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1006,8 +1006,8 @@
       "Vrnite se za pristanek; sledi mu stalni zeleni signal ob ustreznem času"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rdeči bliski zrakoplovu v letu pomenijo, da letališče ni varno: ne pristajaj.",
+    "theory": "10-signali",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1028,8 +1028,8 @@
       "Prednost dajte drugim zrakoplovom in nadaljujte kroženje"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zeleni bliski zrakoplovu v letu pomenijo »vrnite se za pristanek«; dovoljenje za pristanek (stalna zelena) sledi kasneje.",
+    "theory": "10-signali",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1050,8 +1050,8 @@
       "Letališče ni varno, ne pristajajte"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Stalna zelena luč zrakoplovu v letu pomeni dovoljenje za pristanek.",
+    "theory": "10-signali",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1072,8 +1072,8 @@
       "Vrnite se na začetno točko na letališču"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rdeči bliski zrakoplovu na tleh pomenijo, da mora takoj zapeljati stran od aktivne steze.",
+    "theory": "10-signali",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1094,8 +1094,8 @@
       "T"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smer pristajanja pokaže bel znak T: pristajaš vzporedno z dolgim delom T proti prečki.",
+    "theory": "10-signali",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1116,8 +1116,8 @@
       "Je posebej označeno območje za dvig ali odmet vlečnih predmetov"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Signalno območje vsebuje talne signale, ki zrakoplovom v preletu pokažejo stanje na letališču in pravila za pristajanje.",
+    "theory": "10-signali",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1138,8 +1138,8 @@
       "Zelene"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Oznake steze so bele, oznake voznih stez in stojnih mest pa rumene.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1160,8 +1160,8 @@
       "S te točke je mogoče pričeti vzletni zalet"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vzdolžne proge enakih dimenzij so oznaka praga. Pred pragom se steze ne dotakneš.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1182,8 +1182,8 @@
       "\"24\" in \"25\""
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vzporedni stezi imata enako številko smeri, leva s pripono L, desna z R: 06L in 06R.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1204,8 +1204,8 @@
       "utripajoč svetilnik, nameščen na letališču in namenjen lociranju letališča pilotov zrakoplovov iz zraka."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Letališki svetilnik (ABN) je utripajoč svetilnik na letališču, ki pilotom v zraku pomaga najti letališče.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1226,8 +1226,8 @@
       "2500 m v navedeni smeri dokler ne dosežete točke odhoda na vzletno-pristajalni stezi"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Znak ob križišču pove, koliko steze je od tega mesta še na voljo v označeni smeri, tukaj 2500 m.",
+    "theory": "10-letalisca",
     "images": [
       "E10-200511-00254_alw-020.png"
     ],
@@ -1250,8 +1250,8 @@
       "Dolgotrajnejša prepoved pristajanja."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rdeč kvadrat z rumenim križem (dvema diagonalama) v signalnem območju pomeni prepoved pristajanja, ki bo verjetno trajala dlje.",
+    "theory": "10-signali",
     "images": [
       "E10-200511-00256_alw-010.png"
     ],
@@ -1274,8 +1274,8 @@
       "Odvija se jadralno letenje"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Dvojni bel križ v signalnem območju pomeni, da na letališču poteka jadralno letenje.",
+    "theory": "10-signali",
     "images": [
       "E10-200511-00259_alw-011.png"
     ],
@@ -1298,8 +1298,8 @@
       "Faza alarmiranja"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Faze nevarnosti so INCERFA (negotovost), ALERFA (pripravljenost) in DETRESFA (stiska). DETRESFA pomeni, da je zrakoplov v neposredni nevarnosti ali je že pristal v sili.",
+    "theory": "10-sar",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1320,8 +1320,8 @@
       "Smerno krmilo nekajkrat premakne v obe smeri"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pilot podnevi potrdi, da je talni signal razumel, z zibanjem s krili.",
+    "theory": "10-sar",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1342,8 +1342,8 @@
       "Pripetjaj\nDogodek\nResni dogodek"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri preiskovanju poznamo tri kategorije: incident, resni incident in nesrečo.",
+    "theory": "10-nesrece",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1364,8 +1364,8 @@
       "Pod temi zgradbami lahko letimo, ce so ustrezno oznacene."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod mostovi in podobnimi objekti ne letimo nikoli, ne glede na višino ali označbo.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1386,8 +1386,8 @@
       "Potegnem krmilo za dvig in spremenim višino"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob pobočju ima prednost letalo, ki ima pobočje na desni. Ti imaš hrib na levi, zato se umakneš v desno, stran od pobočja.",
+    "theory": "10-pravila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1408,8 +1408,8 @@
       "Potrjene mednarodne organizacije."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Iskanje in reševanje mora zagotoviti vsaka država; v Sloveniji ga izvajajo civilne in vojaške organizacije skupaj.",
+    "theory": "10-sar",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1430,8 +1430,8 @@
       "Ugotoviti razloge in izdelati varnostna priporočila."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Namen preiskave je ugotoviti vzroke in izdelati varnostna priporočila, da se podobne nesreče ne ponovijo. Preiskava ne išče krivca.",
+    "theory": "10-nesrece",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1452,8 +1452,8 @@
       "Instrumentalne razmere za letenje."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "VMC so vizualne meteorološke razmere: vidnost in oddaljenost od oblakov sta enaki ali večji od predpisanih za let VFR.",
+    "theory": "10-pravila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1474,8 +1474,8 @@
       "10 km"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Meja 10 000 ft (FL 100) že spada k zgornjemu pasu, kjer je najmanjša vidnost 8 km. Izpitni odgovor za »na ali pod FL 100« je zato 8 km.",
+    "theory": "10-vmc",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1496,8 +1496,8 @@
       "Jadralno letalo z največjim kotom nagiba"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smer kroženja v vzgorniku določi letalo, ki je prvo vstopilo vanj; vsa druga krožijo v isti smeri.",
+    "theory": "10-pravila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1518,8 +1518,8 @@
       "Lažje letalo mora vzpenjati."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Izpitni odgovor je, da obe letali zavijeta desno. Pravilo velja za čelno približevanje; pri pravem križanju poti se umakne letalo, ki ima drugo na svoji desni.",
+    "theory": "10-pravila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1540,8 +1540,8 @@
       "AIS (služba letalskih informacij)."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za varno izvedbo leta v smislu razdvajanja skrbi kontrola zračnega prometa (ATC). FIS in alarmna služba le obveščata.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1562,8 +1562,8 @@
       "Z omejitvami, ko je manj zračnega prometa."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V prostor C sme jadralno letalo vstopiti le z dovoljenjem pristojne enote ATC. Transponder sam po sebi ni dovoljenje.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1584,8 +1584,8 @@
       "Območje prepovedi letenja."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Omejeno območje (R) je mogoče preleteti pod določenimi pogoji. Prepovedano območje ni dovoljeno, nevarno pa je dovoljeno, a nevarno.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1606,8 +1606,8 @@
       "Cona upravljanja prevoza."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "TMZ (Transponder Mandatory Zone) je območje obvezne rabe transponderja.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1628,8 +1628,8 @@
       "7000"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob okvari radijske postaje (izguba zveze) samoiniciativno nastaviš kodo 7600.",
+    "theory": "10-zracni-prostor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1650,8 +1650,8 @@
       "pomembne operativne informacije ICAO, pripravljene pred letom."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "PIB je predpoletni bilten: izbor trenutnih pomembnih NOTAM za tvojo pot in letališča, pripravljen pred letom.",
+    "theory": "10-ais",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1672,8 +1672,8 @@
       "srednja vrednost višine manevrskega območja."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nadmorska višina letališča je nadmorska višina najvišje točke pristajalnega območja.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1694,8 +1694,8 @@
       "Kazalnik smeri vetra se postavi na veliki črni podlagi."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vetrno vrečo lahko za lažjo prepoznavnost iz zraka obkroža bel krog.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1716,8 +1716,8 @@
       "Leva steza dobi pripono \"L\", desna steza pa \"R\"."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri vzporednih stezah dobi leva steza pripono L, desna R (srednja C), številka smeri ostane enaka.",
+    "theory": "10-letalisca",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }

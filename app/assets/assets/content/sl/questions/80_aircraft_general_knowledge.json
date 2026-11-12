@@ -16,8 +16,8 @@
       "najtanjšem delu krila."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Debelina profila je največja razdalja med zgornjo in spodnjo stranjo, merjena na najdebelejšem delu.",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "Lupinasta konstrukcija"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Paličasta konstrukcija je ogrodje iz jeklenih cevi, ki nosi vse obremenitve; oplata (platno) ni nosilna.",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "Iz oblog, vzdolžnic in oblikovnih elementov"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Trup lesenih in kovinskih letal je navadno sestavljen iz okvirjev (prečno) in vzdolžnic (vzdolžno).",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "Satasta konstrukcija"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri pollupinasti konstrukciji obremenitve skupaj nosijo okvirji, vzdolžnice in oplata.",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "Krilca in višinsko krmilo"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rep sestavljata horizontalne in vertikalne repne površine (stabilizatorja s krmili).",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "debelih plošč in težkega polnila v jedru."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sendvič sestavljata dve tanki trdni plošči in lahko jedro (pena, satje), ki ju drži narazen.",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "Zaključek krila"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rebra dajejo krilu obliko profila in prenašajo obremenitve oplate na nosilec.",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "težo in potiskom."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Stopnja obremenitve n je razmerje med vzgonom in težo (v vodoravnem letu n = 1).",
+    "theory": "80-plovnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "Dobra oblikovalnost in višja temperaturna obstojnost"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sendvič je lahek, a tog in trden, ker jedro drži plošči narazen in preprečuje uklon.",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -214,8 +214,8 @@
       "Les"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Plastika, ojačana z ogljikovimi vlakni, ima najvišjo trdnost glede na maso.",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -236,8 +236,8 @@
       "če zračna hitrost pade pod določeno vrednost."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nad manevrirno hitrostjo lahko močan sunek ali poln odklon krmila preseže dovoljeno obremenitev in poškoduje konstrukcijo.",
+    "theory": "80-plovnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -258,8 +258,8 @@
       "4, optična os, navidezna os, povešena os, os zla"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Letalo se vrti okrog treh osi: navpične (smer), prečne (naklon) in vzdolžne (nagib).",
+    "theory": "80-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -280,8 +280,8 @@
       "s krilci."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vrtenje okrog vzdolžne osi (nagib) dosežeš s krilci.",
+    "theory": "80-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -302,8 +302,8 @@
       "Primarni: odklon v desno\nSekundarni: nagib v levo"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smerno krmilo v levo obrne nos v levo (primarni učinek). Zunanje krilo zato pospeši in letalo se nagne v levo (sekundarni učinek).",
+    "theory": "80-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -324,8 +324,8 @@
       "Rep zrakoplova povzroči večjo silo navzdol, kar povzroči spust nosu zrakoplova."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Palica nazaj odkloni višinsko krmilo navzgor; rep dobi večjo silo navzdol in nos se dvigne.",
+    "theory": "80-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -346,8 +346,8 @@
       "Predstavljajo rezervni sistem za primarne komande leta."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sekundarne komande (zakrilca, zavore, trim) izboljšajo zmogljivosti in z manjšimi silami na komandah olajšajo delo pilota.",
+    "theory": "80-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -368,8 +368,8 @@
       "Trimer se premakne navzdol, višinsko krmilo se premakne navzgor."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Trim nazaj (nos gor) odkloni trimer navzdol, zračna sila pa potisne višinsko krmilo navzgor.",
+    "theory": "80-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -390,8 +390,8 @@
       "Odvisno od položaja masnega središča"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za trimanje nosu navzgor se trimer odkloni navzdol in potisne višinsko krmilo navzgor.",
+    "theory": "80-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -412,8 +412,8 @@
       "nastavitev kazanja merilnika hitrosti na nič, ko je zrakoplov nepremično na tleh."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pitot-statični sistem meri skupni tlak (Pitotova cev) in statični tlak (statične odprtine) za merilnik hitrosti, višinomer in variometer.",
+    "theory": "80-pitot",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -434,8 +434,8 @@
       "Statični zračni tlak"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pitotova cev je obrnjena v tok in zaznava skupni tlak (statični + dinamični).",
+    "theory": "80-pitot",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -456,8 +456,8 @@
       "višino nad referenčnim tlačnim nivojem 1013,25 hPa."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "QFE je tlak na referenčni točki letališča (navadno pragu steze); višinomer z njim na tleh kaže nič.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -478,8 +478,8 @@
       "Z njo se nastavi referenčni nivo za dekoder višine transponderja."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "S pomožno skalo nastaviš referenčni tlak (QNH, QFE ali 1013,25 hPa), od katerega višinomer meri višino.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -500,8 +500,8 @@
       "Če je pomožna barometrska skala nastavljena na tlak, nižji od dejanskega, je odčitek prevelik. To lahko pomeni, da smo veliko bližje tlem, kot smo nameravali biti."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če nastaviš višji tlak od dejanskega, višinomer kaže preveč; v resnici si nižje in bliže tlem. Pravilo: z visokega v nizko, pazi spodaj.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -522,8 +522,8 @@
       "da je odčitek višine pravilna vrednost, v kolikor je pomožna barometrska skala pravilno nastavljena za temperaturo, ki se razlikuje od standardne."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V hladnem zraku so tlačne ploskve bližje skupaj, zato višinomer kaže več, kot je prava višina.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -544,8 +544,8 @@
       "tlačna višina s popravkom za nestandardno temperaturo."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prava višina je nadmorska višina, popravljena za odstopanje temperature od standardne.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -566,8 +566,8 @@
       "Variometer"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Histereza je zaostajanje elastične membrane višinomera za spremembo tlaka, posebej po hitrih spremembah višine.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -588,8 +588,8 @@
       "statičnega tlaka."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Višinomer meri statični tlak, ki z višino pada.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -610,8 +610,8 @@
       "Merjenje statičnega zračnega tlaka in njegova primerjava z vakuumom."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Variometer primerja trenutni statični tlak s tlakom v posodi, ki se izenačuje skozi kapilaro; razlika kaže hitrost dviganja ali spuščanja.",
+    "theory": "80-variometer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -632,8 +632,8 @@
       "trenutnim dinamičnim tlakom in dinamičnim tlakom v danem prejšnjem trenutku."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Variometer meri razliko med trenutnim statičnim tlakom in tlakom malo pred tem, ki je shranjen v posodi.",
+    "theory": "80-variometer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -654,8 +654,8 @@
       "Statične odprtine merijo skupni zračni tlak, merilnik hitrosti pa ga pretvori v podatek o hitrosti."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Merilnik hitrosti primerja skupni tlak iz Pitotove cevi s statičnim tlakom; razlika je dinamični tlak.",
+    "theory": "80-hitrost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -676,8 +676,8 @@
       "Razliko med standarnim in skupnim tlakom."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "IAS je določena z dinamičnim tlakom, torej z razliko med skupnim in statičnim tlakom.",
+    "theory": "80-hitrost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -698,8 +698,8 @@
       "variacija."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Deviacija je napaka zaradi magnetnih polj samega letala (kovinski deli, elektrika).",
+    "theory": "80-kompas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -720,8 +720,8 @@
       "Zaradi variacije, zavojne napake in napake pospeševanja"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kazanje kompasa motijo deviacija in napaki zaradi inklinacije: zavojna napaka in napaka pospeševanja.",
+    "theory": "80-kompas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -742,8 +742,8 @@
       "Višinomer"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na Pitotovo cev je priključen le merilnik hitrosti.",
+    "theory": "80-pitot",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -764,8 +764,8 @@
       "Merilnik hitrosti, magnetni kompas, indikator zdrsa"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Statični tlak uporabljajo višinomer, variometer in merilnik hitrosti.",
+    "theory": "80-pitot",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -786,8 +786,8 @@
       "240°"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri smereh vzhod in zahod zavojne napake ni, zato zavoj končaš, ko kompas pokaže 270°.",
+    "theory": "80-kompas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -808,8 +808,8 @@
       "ki ga zazna Pitotova cev."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Statični tlak je tlak nemotenega zraka, ki ga letalo s svojo hitrostjo ne spremeni.",
+    "theory": "80-pitot",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -830,8 +830,8 @@
       "180°."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri zavoju proti jugu kompas na severni polobli prehiteva, zato zavoj končaš po prehodu juga, okoli 210°.",
+    "theory": "80-kompas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -852,8 +852,8 @@
       "Od koeficienta vzgona in upora"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Dinamični tlak je q = ½ ρ v²: odvisen je od gostote in kvadrata hitrosti.",
+    "theory": "80-pitot",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -874,8 +874,8 @@
       "Rdečo"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rumeno območje je previdnostno: v njem letiš le v mirnem zraku.",
+    "theory": "80-hitrost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -896,8 +896,8 @@
       "Vrednosti so odvisne od QNH"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri tleh 1 hPa ustreza okoli 8 m (30 ft). Povečanje za 10 hPa pomeni okoli 80 m višje kazanje.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -918,8 +918,8 @@
       "Po končanem vzdrževanju"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Višinomer nastaviš pred vsakim letom in med preletom, ko se QNH spremeni ali vstopiš v drugo območje.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -940,8 +940,8 @@
       "Višino nad srednjim morskim nivojem"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Z nastavljenim QFE višinomer kaže višino nad letališčem.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -962,8 +962,8 @@
       "pride do mehanske preobremenitve."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prevelika izenačevalna posoda ustvari večjo tlačno razliko na kapilari, zato variometer kaže preveč.",
+    "theory": "80-variometer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -984,8 +984,8 @@
       "trenutnim statičnim tlakom in prejšnjim statičnim tlakom."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Variometer meri razliko med trenutnim in malo prej shranjenim statičnim tlakom.",
+    "theory": "80-variometer",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1006,8 +1006,8 @@
       "kot med zemljinimi magnetnimi silnicami in vodoravno ravnino."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Inklinacija je kot med silnicami zemeljskega magnetnega polja in vodoravnico.",
+    "theory": "80-kompas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1028,8 +1028,8 @@
       "Praska na zunanjem sloju barve"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Poškodba nosilnih delov konstrukcije pomeni, da letalo ni več plovno, dokler ga ne pregleda in popravi pooblaščeno osebje.",
+    "theory": "80-plovnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1050,8 +1050,8 @@
       "S povečano indicirano hitrostjo (IAS)"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "IAS upošteva gostoto, zato se porušitev zgodi pri enaki IAS na vseh višinah; prilet izvedeš z nespremenjeno IAS.",
+    "theory": "80-hitrost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1072,8 +1072,8 @@
       "4-valjni, 2-taktni"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Motorna jadralna letala TMG imajo najpogosteje štirivaljne štiritaktne motorje.",
+    "theory": "80-motor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1094,8 +1094,8 @@
       "Odpoved električnega sistema."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vsi trije instrumenti uporabljajo statični tlak, zato hkratna napaka kaže na zamašen statični vod.",
+    "theory": "80-pitot",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1116,8 +1116,8 @@
       "Na merilniku hitrosti, na plošči z instrumenti in v AIP, poglavje ENR."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Največja dovoljena hitrost je v priročniku letala, na tablici v kabini in kot rdeča črta na merilniku hitrosti.",
+    "theory": "80-hitrost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1138,8 +1138,8 @@
       "Pri geografskih polih"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na magnetnem ekvatorju so silnice vodoravne, zato je inklinacija nič.",
+    "theory": "80-kompas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1160,8 +1160,8 @@
       "umetni horizont."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Elektronske naprave ustvarjajo magnetna polja in motijo magnetni kompas (deviacija).",
+    "theory": "80-kompas",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1182,8 +1182,8 @@
       "Točki, v kateri se začne zmanjševati torzijski moment krila."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Torzijska škatla je zaprt presek iz zgornje in spodnje oplate od sprednjega roba do glavnega nosilca; prenaša zvijanje krila.",
+    "theory": "80-konstrukcija",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1204,8 +1204,8 @@
       "Električno prek elektronskega kontrolnega sistema fly-by-wire"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na manjših letalih se krmila upravljajo ročno prek drogov in jeklenih vrvi.",
+    "theory": "80-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1226,8 +1226,8 @@
       "Vsi pomični deli na letalu, ki ga pomagajo krmariti"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Glavne komande so višinsko krmilo, smerno krmilo in krilca.",
+    "theory": "80-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1248,8 +1248,8 @@
       "za zaklepanje krmilnih elementov."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "S trimom izničiš silo na komandah, da je ni treba ves čas zadrževati.",
+    "theory": "80-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1270,8 +1270,8 @@
       "višina nad terenom."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nivo leta je tlačna višina pri nastavitvi 1013,25 hPa, v stotinah čevljev.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1292,8 +1292,8 @@
       "enaka barometrski višini."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V hladnem zraku višinomer kaže več od prave višine; si nižje, kot misliš.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1314,8 +1314,8 @@
       "enaka standardni atmosferi."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V standardni temperaturi in s pravilnim QNH višinomer kaže pravo višino.",
+    "theory": "80-visinomer",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1336,8 +1336,8 @@
       "Hitrost, ki se je ne sme prekoračiti v zavojih z nagibom nad 45°."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rdeča črta je Vne, hitrost, ki je ne smeš prekoračiti v nobenih okoliščinah.",
+    "theory": "80-hitrost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1358,8 +1358,8 @@
       "Previdno z uporabo zakrilc ali zavor, da se izognemo preobremenitvi."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rumeni lok je previdnostno območje: tam letiš le v mirnem zraku, ker bi sunki lahko preobremenili konstrukcijo.",
+    "theory": "80-hitrost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1380,8 +1380,8 @@
       "Pospeševanje zrakoplova"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Napake kompasa ob zavojih in pospeševanju povzroča inklinacija, ker magnetne silnice niso vodoravne.",
+    "theory": "80-kompas",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1402,8 +1402,8 @@
       "270°"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri zavoju proti severu kompas zaostaja, zato zavoj končaš prej, okoli 330°.",
+    "theory": "80-kompas",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1424,8 +1424,8 @@
       "zmanjšanje sekundarnega učinka krilc."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Trim jadralnega letala zmanjša ali odpravi silo na višinskem krmilu.",
+    "theory": "80-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1446,8 +1446,8 @@
       "Največja dovoljena hitrost se poveča."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zakrilca povečajo ukrivljenost profila in največji koeficient vzgona, zato se najmanjša hitrost zmanjša.",
+    "theory": "80-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1468,8 +1468,8 @@
       "manj upora in več vzgona."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zavore zmotijo tok na krilu: upor se poveča, vzgon zmanjša.",
+    "theory": "80-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1490,8 +1490,8 @@
       "aerodinamičnih zavor, za odpenjanje vlečne vrvi in trimerja višinskega krmila."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Barvno označevanje ročic: rdeča za pokrov kabine, modra za zavore, zelena za trim.",
+    "theory": "80-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1512,8 +1512,8 @@
       "jadralnega letala skozi okoliški zrak."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Netto variometer odšteje lastno ponikanje letala in kaže navpično gibanje zračne mase.",
+    "theory": "80-variometer",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1534,8 +1534,8 @@
       "Manj nagiba, manj smernega krmila v smeri zavoja."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nitka v levo v desnem zavoju pomeni zdrs; potrebno je več desnega smernega krmila ali manj nagiba. Stopiš na pedal na strani glave nitke.",
+    "theory": "80-nitka",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1556,8 +1556,8 @@
       "Manj nagiba, manj smernega krmila v smeri zavoja."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nitka v levo v levem zavoju pomeni preveč smernega krmila (zanašanje); zmanjšaš levo smerno krmilo ali povečaš nagib.",
+    "theory": "80-nitka",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1578,8 +1578,8 @@
       "200%"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Najmanjša hitrost raste s korenom mase: √1,4 ≈ 1,18, torej okoli 18 % več.",
+    "theory": "80-hitrost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1600,8 +1600,8 @@
       "Položaj masnega središča se zelo zamakne."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Voda v krilih lahko zmrzne, poškoduje konstrukcijo in zamaši izpust; z balastom ne letiš v temperaturah pod lediščem.",
+    "theory": "80-plovnost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }

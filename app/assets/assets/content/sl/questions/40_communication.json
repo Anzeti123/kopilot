@@ -16,8 +16,8 @@
       "Ko pilot nehote zaide v oblak in želi zaprositi enoto na tleh za pomoč pri navigaciji."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Slepo oddajaš, ko zveze ni mogoče vzpostaviti, ti pa domnevaš, da postaja tvoja sporočila sliši (odpovedal je morda le sprejemnik).",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "VRU"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "VFR (Visual Flight Rules) so pravila vizualnega letenja; IFR so pravila instrumentalnega letenja.",
+    "theory": "40-kratice",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "OST"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "OBST je okrajšava za oviro (obstacle).",
+    "theory": "40-kratice",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "Služba bliskovitih informacij"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "FIS (Flight Information Service) je služba informacij za letenje; daje podatke o prometu, vremenu in aktivnih območjih, ne izdaja pa dovoljenj.",
+    "theory": "40-kratice",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "Radar pretoka informacij"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "FIR (Flight Information Region) je območje informacij za letenje, v katerem delujeta FIS in alarmna služba.",
+    "theory": "40-kratice",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "Od sončnega vzhoda do sončnega zahoda."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "H24 pomeni neprekinjeno delovanje, 24 ur na dan.",
+    "theory": "40-kratice",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "Brez določenega delovnega časa."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "HX pomeni, da služba nima določenega delovnega časa.",
+    "theory": "40-kratice",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "QTE"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "QFE je tlak na višini letališča; z njim višinomer na tleh kaže nič, med letom pa višino nad letališčem.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "Absolutno višino z ozirom na srednjo morsko gladino."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "S QFE višinomer kaže višino glede na tlak na referenčnem letališču, torej višino nad tem letališčem.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -214,8 +214,8 @@
       "Meteorološko sporočilo"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sporočila za vodenje zračnega prometa (dovoljenja, navodila) spadajo med sporočila o varnosti leta. Po prednosti so takoj za sporočili v nevarnosti, v sili in za radiogoniometrijo.",
+    "theory": "40-nujni",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -236,8 +236,8 @@
       "v zvezi z varnostjo zrakoplova, plovila ali drugega vozila ali osebe na vidiku."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nevarnost (MAYDAY) pomeni resno in neposredno nevarnost za zrakoplov ali ljudi, ki zahteva takojšnjo pomoč.",
+    "theory": "40-nujni",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -258,8 +258,8 @@
       "ki jih pošlje pilot ali operator zrakoplova in imajo takojšen pomen za zrakoplov med letom."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sila (PAN PAN) zadeva varnost zrakoplova ali osebe, a ne zahteva takojšnje pomoči.",
+    "theory": "40-nujni",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -280,8 +280,8 @@
       "Hotel Bravo Yuliett Kilo Mikro"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vsako črko oddaš z besedo letalske abecede: H Hotel, B Bravo, Y Yankee, K Kilo, M Mike. Vezaja ne izgovoriš.",
+    "theory": "40-abeceda",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -302,8 +302,8 @@
       "Omega Echo Jankee Victor Kilo"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "O Oscar, E Echo, J Juliett, V Victor, K Kilo; vezaj se ne izgovarja.",
+    "theory": "40-abeceda",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -324,8 +324,8 @@
       "štiri pet tisoč."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Cele stotice in tisočice višine oddaš z besedama »tisoč« in »sto«: štiri tisoč petsto.",
+    "theory": "40-stevila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -346,8 +346,8 @@
       "dvesto petinosemdeset."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smeri oddajaš s posameznimi števkami: dva osem pet.",
+    "theory": "40-stevila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -368,8 +368,8 @@
       "ena ena devet tisoč cela pet nič."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Frekvenco oddaš s števkami in besedo »cela«; končni ničli izpustiš: ena ena devet cela pet.",
+    "theory": "40-stevila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -390,8 +390,8 @@
       "v smer ena dve ure."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Lego prometa podajaš po urnem številčniku: »v smeri dvanajste ure« pomeni naravnost naprej.",
+    "theory": "40-stevila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -412,8 +412,8 @@
       "standardni čas."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V letalstvu se čas vedno podaja v UTC.",
+    "theory": "40-stevila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -434,8 +434,8 @@
       "dva tisoč šeststo dva nič."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Čas praviloma oddaš z minutami; kadar bi lahko prišlo do nesporazuma, pa z uro in minutami, števko za števko: ena šest dva nič.",
+    "theory": "40-stevila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -456,8 +456,8 @@
       "Oddano sporočilo je napačno. Pravilna različica je..."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "»Razumem« (ROGER) pomeni, da si sprejel celotno zadnje sporočilo. Ni odgovor »da« in ne pomeni, da ga boš izvršil.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -478,8 +478,8 @@
       "Sprejel sem celotno tvoje zadnje sporočilo."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "»Dovoljeno« (APPROVED) pomeni, da je zahtevano dovoljeno.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -500,8 +500,8 @@
       "Prosim kakovost slišnosti"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "S »Kako me slišiš?« preveriš slišnost; odgovor je na lestvici od 1 do 5.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -522,8 +522,8 @@
       "Rad bi"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za prehod skozi kontroliran zračni prostor zaprosiš z »Prosim« (REQUEST) in navedeš, kaj želiš.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -544,8 +544,8 @@
       "Tako je"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pritrdilni odgovor je »Da« (AFFIRM), ne »razumem«.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -566,8 +566,8 @@
       "Napačno"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "»Napačno« (NEGATIVE) pomeni ne ali ni pravilno.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -588,8 +588,8 @@
       "Pripravljen na start motorjev"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pripravljenost na vzlet sporočiš z »Pripravljen za odlet« (READY FOR DEPARTURE).",
+    "theory": "40-izrazi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -610,8 +610,8 @@
       "Approach canceled"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prekinitev pristajanja sporočiš z »Going around« (»Grem na ponovni krog«).",
+    "theory": "40-izrazi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -632,8 +632,8 @@
       "Letalske informacije"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Služba informacij za letenje ima pozivni znak »Informacije« (INFORMATION).",
+    "theory": "40-zveza",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -654,8 +654,8 @@
       "Ko skrajšano obliko uporabi postaja na tleh"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pozivni znak zrakoplova smeš skrajšati šele, ko ga je prva skrajšala postaja na tleh.",
+    "theory": "40-zveza",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -676,8 +676,8 @@
       "Uporaba vseh enot klicnega znaka"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri prvem klicu vedno uporabiš celoten pozivni znak.",
+    "theory": "40-zveza",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -698,8 +698,8 @@
       "Prenos je razumljiv od časa do časa."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Slišnost 1 pomeni nerazumljivo.",
+    "theory": "40-zveza",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -720,8 +720,8 @@
       "Prenos je odlično razumljiv."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Slišnost 2 pomeni občasno razumljivo.",
+    "theory": "40-zveza",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -742,8 +742,8 @@
       "Prenos je odlično razumljiv."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Slišnost 3 pomeni razumljivo s težavo.",
+    "theory": "40-zveza",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -764,8 +764,8 @@
       "Prenos je s težavo razumljiv."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Slišnost 5 pomeni odlično razumljivo.",
+    "theory": "40-zveza",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -786,8 +786,8 @@
       "Nadmorska višina"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Podatkov o vetru ni treba ponoviti. Obvezno ponoviš dovoljenja, stezo, nastavitev višinomera, kodo, frekvenco, smer, višino in hitrost.",
+    "theory": "40-ponovitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -808,8 +808,8 @@
       "Nastanitev višinomera"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Podatke o prometu le potrdiš, ni jih treba ponoviti, ker niso navodilo.",
+    "theory": "40-ponovitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -830,8 +830,8 @@
       "DZF po vzletu nadaljuj v smeri steze, vzpenjaj do 2500 čevljev preden zaviješ desno smer 220, veter 090 stopinj, 5 vozljev"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ponoviš vse dele navodila (smer, višino, stezo, dovoljenje za vzlet) in pozivni znak, ne pa podatkov o vetru.",
+    "theory": "40-ponovitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -852,8 +852,8 @@
       "Zračni prostor Delta"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "To je informacija, ne navodilo, zato zadostuje »Razumem« s pozivnim znakom.",
+    "theory": "40-ponovitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -874,8 +874,8 @@
       "3 od 4 osmine"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "FEW pomeni 1–2 osmini pokritosti z oblaki.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -896,8 +896,8 @@
       "5 do 7 osmin"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "SCT pomeni 3–4 osmine pokritosti z oblaki.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -918,8 +918,8 @@
       "Če je večja kot 10 km"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vidnost do 5 km oddajaš v metrih, nad tem v kilometrih.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -940,8 +940,8 @@
       "Če je večja kot 10 km"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vidnost nad 5 km oddajaš v kilometrih.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -962,8 +962,8 @@
       "Navigacijske informacije"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "VOLMET neprekinjeno oddaja meteorološke podatke (METAR, TAF) za več letališč.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -984,8 +984,8 @@
       "AIRMET"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Med preletom dobiš vreme na letališčih na VOLMET.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1006,8 +1006,8 @@
       "7000"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "7600 pomeni izgubo radijske zveze, 7700 nevarnost, 7500 nezakonito vmešavanje.",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1028,8 +1028,8 @@
       "Slepo oddajanje"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Slepo oddajo začneš z besedama »Slepo oddajanje« (TRANSMITTING BLIND).",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1050,8 +1050,8 @@
       "Na frekvenci stolpa"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Slepo oddajaš na frekvenci, ki si jo uporabljal, ker te tam najverjetneje kdo posluša.",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1072,8 +1072,8 @@
       "Enkrat"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Slepo oddano sporočilo ponoviš dvakrat.",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1094,8 +1094,8 @@
       "Ugrabitev"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kodo 7600 nastaviš ob izgubi radijske zveze.",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1116,8 +1116,8 @@
       "Let se nadaljuje nad 5000 čevlji ob upoštevanju pravil VFR ali pa je zračni prostor potrebno zapustiti po najkrajši poti"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob odpovedi zveze v prostoru D upoštevaš zadnje prejeto dovoljenje po pravilih VFR ali prostor zapustiš po najkrajši poti, nastaviš kodo 7600 in pristaneš na primernem letališču.",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1138,8 +1138,8 @@
       "Če gre za odhodno letališče"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Brez zveze smeš v prostor D le, če si dovoljenje za vstop dobil že prej.",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1160,8 +1160,8 @@
       "Na pomoč"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sporočilo v sili začneš s trikratnim »PAN PAN«, sporočilo v nevarnosti s trikratnim »MAYDAY«.",
+    "theory": "40-nujni",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1182,8 +1182,8 @@
       "Na frekvenci službe informacij za letenje (FIS)"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sporočilo v nevarnosti najprej oddaš na frekvenci, ki jo uporabljaš, ker te tam že poslušajo; 121,5 MHz je rezerva.",
+    "theory": "40-nujni",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1204,8 +1204,8 @@
       "Vzrok problema ali opažanja, pomembne informacije za pomoč, namen vodje zrakoplova, podatke o poziciji, smeri in višini"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sporočilo v sili vsebuje: naslovnika, pozivni znak, tip, vzrok, namen pilota, položaj, višino in smer ter druge koristne podatke.",
+    "theory": "40-nujni",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1226,8 +1226,8 @@
       "7000."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nevarnost na transponderju označuješ s kodo 7700.",
+    "theory": "40-transponder",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1248,8 +1248,8 @@
       "VHF"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pas 118,000–136,975 MHz je del pasu VHF (30–300 MHz).",
+    "theory": "40-obmocja",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1270,8 +1270,8 @@
       "123,000 m/s"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Elektromagnetni valovi se širijo s svetlobno hitrostjo, okoli 300 000 km/s.",
+    "theory": "40-valovanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1292,8 +1292,8 @@
       "45 minut."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Oddaja ATIS se navadno osveži vsakih 30 minut (ob spremembah tudi prej), zato velja do naslednje izdaje.",
+    "theory": "40-vreme",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1314,8 +1314,8 @@
       "ABA"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "ABM (abeam) pomeni bočno od, prečno na točko.",
+    "theory": "40-kratice",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1336,8 +1336,8 @@
       "Absolutno višino z ozirom na najvišjo točko znotraj 10 km"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Z QNH višinomer kaže nadmorsko višino, glede na srednjo morsko gladino.",
+    "theory": "40-vreme",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1358,8 +1358,8 @@
       "v zvezi z delovanjem ali vzdrževanjem naprav in storitev, ki so kjučne za varnost in rednost operacij zrakoplovov."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sporočila o poteku leta zadevajo delovanje naprav in storitev, ki so ključne za varnost in rednost letenja (na primer NOTAM, okvara naprav).",
+    "theory": "40-nujni",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1380,8 +1380,8 @@
       "Dovoljeno ti je, kot si zahteval."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "»Popravljam« (CORRECTION) pomeni, da je bila oddaja napačna in sledi pravilna različica.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1402,8 +1402,8 @@
       "S5ABC over \"N\" ob 35"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Poročilo o položaju vsebuje pozivni znak, položaj (javljalno točko) in višino.",
+    "theory": "40-zveza",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1424,8 +1424,8 @@
       "Pazi, vetrovne sledi"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na vrtinčno sled za težjim letalom opozarja fraza »Pozor, vrtinčna sled« (CAUTION WAKE TURBULENCE).",
+    "theory": "40-izrazi",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1446,8 +1446,8 @@
       "Dusseldorf Stolp D-EAZF"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri prvem klicu najprej pokličeš postajo, nato poveš svoj celoten pozivni znak.",
+    "theory": "40-zveza",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1468,8 +1468,8 @@
       "Going around"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ponovni krog sporočiš z »Going around«.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1490,8 +1490,8 @@
       "Kontrola"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kontrola gibanja po tleh ima pozivni znak »Tla« (GROUND).",
+    "theory": "40-zveza",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1512,8 +1512,8 @@
       "Kontrola"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Letališka kontrola ima pozivni znak »Stolp« (TOWER).",
+    "theory": "40-zveza",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1534,8 +1534,8 @@
       "DEF"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Skrajšani znak sestavljajo prvi znak in zadnja dva: D-EAZF postane DZF.",
+    "theory": "40-zveza",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1556,8 +1556,8 @@
       "Bom upošteval"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "»Bom upošteval« (WILCO) pomeni, da si navodilo razumel in ga boš izvršil.",
+    "theory": "40-izrazi",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1578,8 +1578,8 @@
       "Bom upošteval"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kodo transponderja in frekvenco moraš vedno ponoviti, skupaj s pozivnim znakom.",
+    "theory": "40-ponovitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1600,8 +1600,8 @@
       "8 osmin"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "BKN pomeni 5–7 osmin pokritosti; OVC je 8 osmin.",
+    "theory": "40-vreme",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1622,8 +1622,8 @@
       "informacije v zvezi z osebjem na ploščadi, ki nakazujejo na pretečo nevarnost zrakoplovom v pristanku."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sporočilo v sili (PAN PAN) zadeva varnost zrakoplova, plovila, vozila ali osebe, ne zahteva pa takojšnje pomoči.",
+    "theory": "40-nujni",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1644,8 +1644,8 @@
       "Vpliv obale"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "VHF se širi premočrtno (na vidni razdalji), zato je doseg odvisen predvsem od višine oddajnika in sprejemnika.",
+    "theory": "40-sirjenje",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }

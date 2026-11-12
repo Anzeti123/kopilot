@@ -16,8 +16,8 @@
       "Enakomeren, brezobličen oblak NS z rahlim pršenjem ali sneženjem (pozimi)"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prisilni dvig vlažne in labilne zračne mase ob gorah sproži konvekcijo; nastanejo Cb z nevihtami, plohami in morda točo.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "Oblake Ns, ki pokrivajo privetrno stran gorske verige"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Dušena termika pomeni, da srednja ali visoka oblačnost zastira sonce, tla se manj grejejo in termika je šibka.",
+    "theory": "30-termika",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "Iz 21 % dušika,\n78 % kisika,\n1 % žlahtnih plinov in ogljikovega dioksida"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Suh zrak vsebuje okoli 78 % dušika, 21 % kisika in 1 % žlahtnih plinov in CO₂.",
+    "theory": "30-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "1.225 kg"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Gostota zraka po ISA na MSL je 1,225 kg/m³, zato ima kubični meter zraka maso 1,225 kg.",
+    "theory": "30-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "18,000 ft"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tropopavza je po ISA na 11 000 m (okoli 36 000 ft). Tam se konča padanje temperature s 6,5 °C/km.",
+    "theory": "30-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "višina, nad katero začne temperatura padati."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tropopavza je mejna plast med troposfero in stratosfero. Nad njo temperatura ne pada več.",
+    "theory": "30-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "Gpdam"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Evropske letalske meteorološke službe temperaturo navajajo v stopinjah Celzija.",
+    "theory": "30-temperatura",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "1° C / 100 m."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Po ISA temperatura v troposferi pada za 0,65 °C na 100 m (6,5 °C/km ali okoli 2 °C/1000 ft).",
+    "theory": "30-temperatura",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "1013.25 hPa"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na FL 180 (okoli 5500 m) je po ISA tlak približno pol tlaka na morski gladini, torej 500 hPa.",
+    "theory": "30-tlak",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -214,8 +214,8 @@
       "113.25 hPa."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Standardni tlak ISA na srednjem morskem nivoju je 1013,25 hPa.",
+    "theory": "30-tlak",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -236,8 +236,8 @@
       "5,500 ft."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tropopavza je po ISA na 11 km, kar je okoli 36 000 ft.",
+    "theory": "30-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -258,8 +258,8 @@
       "izbranim referenčnim tlačnim nivojem."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Barometrični višinomer meri tlak in kaže višino nad tlačnim nivojem, ki ga nastaviš na pomožni skali (QNH, QFE ali 1013,25).",
+    "theory": "30-tlak",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -280,8 +280,8 @@
       "QFF in primerjamo kazanje z nadmorsko višino letališča."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Z nastavljenim QNH višinomer na tleh kaže nadmorsko višino letališča; razlika do objavljene višine je napaka instrumenta.",
+    "theory": "30-tlak",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -302,8 +302,8 @@
       "pravo višino nad srednjim morskim nivojem."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "QFE je tlak na višini letališča, zato višinomer kaže višino nad letališčem (na tleh 0).",
+    "theory": "30-tlak",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -324,8 +324,8 @@
       "Po opombah v besedilnem delu karte"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Veter piha približno vzporedno z izobarami; gostejše izobare pomenijo večji tlačni gradient in močnejši veter.",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -346,8 +346,8 @@
       "pod kotom 30° na izobare proti nizkemu tlaku."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nad plastjo trenja sta sila tlačnega gradienta in Coriolisova sila v ravnovesju, zato piha geostrofski veter vzporedno z izobarami.",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -368,8 +368,8 @@
       "Obsežna vodna površina"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Trenje je največje nad razgibanim in poraščenim terenom, zato veter tam najbolj oslabi. Nad vodo je trenje najmanjše.",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -390,8 +390,8 @@
       "divergenca."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Konvergenca je zbiranje (stekanje) zračnih tokov; zrak se mora umakniti navzgor.",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -412,8 +412,8 @@
       "subsidenca."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Divergenca je razhajanje zračnih tokov; zrak od zgoraj se spušča (posedanje).",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -434,8 +434,8 @@
       "Dvigajoč zrak in nastajanje oblakov"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri tleh se zrak ob konvergenci nima kam umakniti in se dviga, ohlaja in kondenzira, zato nastajajo oblaki.",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -456,8 +456,8 @@
       "Konvergenca, rezultat pa je sesedanje zraka"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Stekanje zračnih mas je konvergenca, posledica je dviganje zraka.",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -478,8 +478,8 @@
       "Topel ekvatorialni in tropski zrak"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V srednji Evropi se izmenjujeta hladen polarni in topel tropski (subtropski) zrak; njuna meja je polarna fronta.",
+    "theory": "30-zracne-mase",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -500,8 +500,8 @@
       "Pri geografskih polih"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Polarna fronta na srednjih zemljepisnih širinah ločuje hladen polarni in topel subtropski zrak; na njej nastajajo ciklone.",
+    "theory": "30-fronte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -522,8 +522,8 @@
       "stabilnem ozračju, ko obsežna plast zraka prehaja preko gorskega grebena."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Fen nastane v stabilnem zraku, ki ga veter v debeli plasti potiska čez gorski greben; na zavetrni strani se spušča in suhoadiabatno segreva.",
+    "theory": "30-fen",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -544,8 +544,8 @@
       "Turbulenco zaradi inverzije"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod valovanjem na zavetrni strani nastanejo rotorji, ki pri tleh povzročajo močno turbulenco.",
+    "theory": "30-turbulenca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -566,8 +566,8 @@
       "pod plastovitimi oblaki - stratiformis v srednjih plasteh."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod kumulusi se izmenjujejo termični vzgorniki in spuščanja med njimi, zato je tam vedno vsaj šibka turbulenca.",
+    "theory": "30-turbulenca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -588,8 +588,8 @@
       "pod debelo plastjo oblakov na privetrni strani gorske verige."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rotorni oblaki na zavetrni strani gora kažejo močne vrtince, kjer je turbulenca zmerna do močna.",
+    "theory": "30-turbulenca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -610,8 +610,8 @@
       "Tekoče in trdno"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Voda je v atmosferi v vseh treh stanjih: vodna para, kapljice in led (kristali, toča).",
+    "theory": "30-vlaga",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -632,8 +632,8 @@
       "Depresija rosišča se povečuje, relativna vlaga ravno tako."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob segrevanju rosišče ostane enako, temperatura raste. Razlika se veča, relativna vlaga pa pada.",
+    "theory": "30-vlaga",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -654,8 +654,8 @@
       "razlika med dejansko temperaturo zraka in rosiščem."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Depresija rosišča (spread) je razlika med temperaturo zraka in rosiščem. Manjša je, bližje je zrak nasičenju.",
+    "theory": "30-vlaga",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -676,8 +676,8 @@
       "zmanjševanje depresije rosišča in naraščanje relativne vlage."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko se zrak ohlaja, se temperatura približuje rosišču: depresija se zmanjšuje, relativna vlaga raste.",
+    "theory": "30-vlaga",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -698,8 +698,8 @@
       "Spuščanje zraka nad obsežnimi območji"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri kondenzaciji v oblakih se sprosti latentna toplota, ki jo je vodna para prejela pri izhlapevanju, in segreje zrak.",
+    "theory": "30-vlaga",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -720,8 +720,8 @@
       "manjši od navpičnega termičnega gradienta suhe adiabate."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nasičen zrak se pri dviganju ohlaja počasneje, ker ga kondenzacija greje. Zato je nasičena adiabata manjša od suhe.",
+    "theory": "30-vlaga",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -742,8 +742,8 @@
       "2° / 1000 ft."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nenasičen zrak se pri dviganju ohlaja za 1 °C na 100 m (suha adiabata).",
+    "theory": "30-vlaga",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -764,8 +764,8 @@
       "0.6° C / 100 m."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nasičen zrak se ohlaja v povprečju za okoli 0,6 °C na 100 m, odvisno od temperature.",
+    "theory": "30-vlaga",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -786,8 +786,8 @@
       "Na višini, kjer relativna vlaga dvigajočega zraka doseže 0 %."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Baza kumulusa je na višini, kjer se dvigajoči zrak ohladi do svojega rosišča in začne kondenzirati.",
+    "theory": "30-termika",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -808,8 +808,8 @@
       "Na nevihtne oblake in oblake, ki prinašajo plohe"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Oblake osnovno delimo na kopaste (konvektivne, cumulus) in plastovite (stratiformne).",
+    "theory": "30-oblaki",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -830,8 +830,8 @@
       "Altokumulus lenticularis"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V valovanju na zavetrni strani nastajajo lečasti oblaki, altokumulus lenticularis, ki stojijo na mestu.",
+    "theory": "30-fen",
     "images": [
       "E30-200511-00080_met-001.png"
     ],
@@ -854,8 +854,8 @@
       "Cirus"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na sliki je kumulus: kopast oblak z ravno bazo in kipečim vrhom kot cvetača.",
+    "theory": "30-oblaki",
     "images": [
       "E30-200511-00081_met-002.png"
     ],
@@ -878,8 +878,8 @@
       "Stratus"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na sliki so cirusi: tanki, vlaknasti ledeni oblaki na veliki višini.",
+    "theory": "30-oblaki",
     "images": [
       "E30-200511-00083_met-004.png"
     ],
@@ -902,8 +902,8 @@
       "Prisotnost plasti inverzije"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Plast inverzije zavira dviganje zraka, zato se kumulusi ustavijo pod njo in se razlezejo.",
+    "theory": "30-oblaki",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -924,8 +924,8 @@
       "Močan veter, nižanje temperature"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Megla nastane, ko se zrak ohladi do rosišča: majhna depresija rosišča in padajoča temperatura sta glavni znak.",
+    "theory": "30-megla",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -946,8 +946,8 @@
       "Majhna depresija rosišča"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Oblaki ponoči zadržujejo izsevano toploto, tla se manj ohladijo in radiacijska megla ne nastane.",
+    "theory": "30-megla",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -968,8 +968,8 @@
       "Miren veter in močna osončenost"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kapljice morajo v oblaku dovolj dolgo rasti, zato so za padavine potrebni zmerni do močni vzgorniki.",
+    "theory": "30-oblaki",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -990,8 +990,8 @@
       "je plast inverzije."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Močni vzgorniki dolgo zadržujejo kapljice in delce v oblaku, kjer zrastejo v velike kaplje ali točo.",
+    "theory": "30-oblaki",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1012,8 +1012,8 @@
       "Kontinentalna tropska zračna masa"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zrak, ki pozimi pride nad Rusijo, je nastal nad kopnim na visokih širinah: kontinentalna polarna zračna masa, hladna in suha.",
+    "theory": "30-zracne-mase",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1034,8 +1034,8 @@
       "Temperatura pri izvoru in v trenutni regiji"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Značaj zračne mase določata območje nastanka (temperatura, vlaga) in pot, ob kateri se spreminja.",
+    "theory": "30-zracne-mase",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1056,8 +1056,8 @@
       "Destabilizira se zaradi segrevanja zraka v zgornji tropsferi."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Hladen zrak se nad toplimi tlemi segreva od spodaj, kar povečuje temperaturni gradient in labilnost.",
+    "theory": "30-zracne-mase",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1078,8 +1078,8 @@
       "okluzija."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Simbol s trikotniki označuje hladno fronto; trikotniki kažejo smer premikanja.",
+    "theory": "30-fronte",
     "images": [
       "E30-200511-00101_met-005.png"
     ],
@@ -1102,8 +1102,8 @@
       "zgornja fronta."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Simbol s polkrogi označuje toplo fronto.",
+    "theory": "30-fronte",
     "images": [
       "E30-200511-00102_met-005.png"
     ],
@@ -1126,8 +1126,8 @@
       "okluzija."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Izmenjujoči se trikotniki in polkrogi na isti strani označujejo okluzijo.",
+    "theory": "30-fronte",
     "images": [
       "E30-200511-00103_met-005.png"
     ],
@@ -1150,8 +1150,8 @@
       "Na obalnih območjih podnevi veter piha z obale, nastajajo kumulusi, zvečer in ponoči razpad oblakov"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob hladni fronti se topel zrak hitro dvigne: Cb, plohe, nevihte in sunkovit veter. Za njo pride hladnejši zrak z dobro vidljivostjo in posameznimi plohami.",
+    "theory": "30-fronte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1172,8 +1172,8 @@
       "Pozimi proti severozahodu, poleti proti jugozahodu"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ciklona na polarni fronti se premika v smeri toka v toplem sektorju, torej vzporedno z izobarami toplega sektorja.",
+    "theory": "30-fronte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1194,8 +1194,8 @@
       "Padanje tlaka pred toplo fronto, konstanten tlak znotraj toplega sektorja, naraščanje tlaka za hladno fronto"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tlak pred toplo fronto pada, v toplem sektorju je približno konstanten, za hladno fronto pa naraste.",
+    "theory": "30-fronte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1216,8 +1216,8 @@
       "Obračanje vetra v smeri z urinim kazalcem med prehodom tople fronte, obračanje vetra v smeri proti urinemu kazalcu med prehodom hladne fronte"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na severni polobli se veter ob prehodu tople in hladne fronte obrne v smeri urinega kazalca (na primer z jugozahoda na zahod oziroma severozahod).",
+    "theory": "30-fronte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1238,8 +1238,8 @@
       "na srednjih zemljepisnih širinah vzdolž polarne fronte."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pasova subtropskega visokega tlaka sta nad oceani okoli 30° severne in južne širine (na primer azorski anticiklon).",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1260,8 +1260,8 @@
       "Nevihtne linije in nevihte"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V anticiklonu se zrak spušča in nastane inverzija; poleti so le posamezni ploski kumulusi.",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1282,8 +1282,8 @@
       "frontalno vreme."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Hladen zrak v višinah poveča temperaturni gradient in labilnost, zato nastajajo plohe in nevihte.",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1304,8 +1304,8 @@
       "Nastajanje ploh in neviht (Cb)"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V višinski dolini je zgoraj hladen zrak, ozračje je labilno in nastajajo plohe in nevihte.",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1326,8 +1326,8 @@
       "Nestanovitno vreme s prehodom frontalnih linij"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Spuščanje zraka v anticiklonu razkraja oblake; poleti je vreme mirno, le z nekaj kumulusi z visoko bazo.",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1348,8 +1348,8 @@
       "Majhen razmik med izobarami z močnimi prevladujočimi severnimi vetrovi"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Poleti so v anticiklonu izobare redke, zato ni prevladujočega vetra; razvijejo se lokalni vetrovi (pobočni, dolinski).",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1370,8 +1370,8 @@
       "Močne prevladujoče vzhodne vetrove, ki se hitro obračajo v smeri nasproti urinega kazalca"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Redke izobare pomenijo majhen tlačni gradient: šibek, spremenljiv veter in lokalne vetrovne sisteme.",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1392,8 +1392,8 @@
       "Plastovite oblake, zamegljene gore, slabo vidljivost, zmeren do močen dež"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na privetrni strani se zrak dviga in kondenzira: plastovita oblačnost, zakrite gore, slaba vidljivost in dež (zastoj).",
+    "theory": "30-fen",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1414,8 +1414,8 @@
       "Temperature med -20 °C in -40 °C, ledeni kristasli (oblaki Ci)"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zaledenitev nastane, ko podhlajene kapljice zadenejo letalo. Največ jih je v oblakih med 0 °C in −12 °C.",
+    "theory": "30-zaledenitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1436,8 +1436,8 @@
       "-20° do -40° C"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Med 0 °C in −12 °C je v oblakih največ podhlajenih kapljic, zato je tam nevarnost zaledenitve največja.",
+    "theory": "30-zaledenitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1458,8 +1458,8 @@
       "Med preletom pod oblaki Cu s približno štiriosminsko prekritostjo (4/8)"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod močno ploho ali nevihto padajo hladni vzdolniki, ki se ob tleh razlijejo in povzročijo močno striženje vetra.",
+    "theory": "30-turbulenca",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1480,8 +1480,8 @@
       "Topel in suh zrak, močna plast inverzije"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za nevihto so potrebni vlažen zrak, labilno ozračje (pogojna labilnost) in sprožilec dviganja.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1502,8 +1502,8 @@
       "Absolutno stabilno ozračje, visoka temperatura in nizka vlažnost"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vročinske nevihte potrebujejo pogojno labilno ozračje, visoko temperaturo pri tleh in veliko vlage.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1524,8 +1524,8 @@
       "zreli fazi."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V zreli fazi so v oblaku hkrati močni vzgorniki in vzdolniki s padavinami.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1546,8 +1546,8 @@
       "V fazi vzgornikov"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V kumulusni (razvojni) fazi oblak raste in prevladujejo vzgorniki.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1568,8 +1568,8 @@
       "Eksplozija električne opreme v pilotski kabini"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Strela na izpostavljenih delih letala povzroči pregretje in poškodbe (zažge, preluknja, poškoduje elektroniko); pri jadralnih letalih iz kompozita je to lahko usodno.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1590,8 +1590,8 @@
       "v bližini močnih ploh in neviht."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V bližini močnih ploh in neviht padajo vzdolniki do tal (mikroizbruhi) in povzročajo močno striženje vetra.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1612,8 +1612,8 @@
       "Suha motnost (HZ)"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Suha motnost (HZ) so prašni in dimni delci, ki se ne spreminjajo s temperaturo; megla in sumaglica nastajata iz vodnih kapljic.",
+    "theory": "30-megla",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1634,8 +1634,8 @@
       "Na prizemni vremenski karti"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tlačna polja (izobare, ciklone, anticiklone) in fronte so prikazani na prizemni vremenski karti.",
+    "theory": "30-informacije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1656,8 +1656,8 @@
       "Na prognostični karti"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prizemna karta prikazuje tlak, preračunan na MSL, z izobarami, središči ciklonov in anticiklonov ter frontami.",
+    "theory": "30-informacije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1678,8 +1678,8 @@
       "Turbulenco in zaledenitve"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Satelitska slika pokaže oblačnost in s tem lego front ter večjih oblačnih sistemov.",
+    "theory": "30-informacije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1700,8 +1700,8 @@
       "GAFOR"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Radar zazna padavinske delce in prikaže, kje in kako močno pada.",
+    "theory": "30-informacije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1722,8 +1722,8 @@
       "prizemna vremenska karta."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prizemna karta prikazuje izmerjeno razporeditev tlaka na MSL in frontalne sisteme.",
+    "theory": "30-informacije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1744,8 +1744,8 @@
       "SHRA."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "SH pomeni plohe (showers), RA dež; brez + ali − je jakost zmerna: SHRA.",
+    "theory": "30-informacije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1766,8 +1766,8 @@
       "ATIS."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "ATIS je samodejno ponavljajoče se oddajanje vremena in operativnih podatkov letališča.",
+    "theory": "30-informacije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1788,8 +1788,8 @@
       "specifične poti."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "SIGMET opozarja na nevarne pojave na poti in se izdaja za celotno informacijsko področje FIR ali UIR.",
+    "theory": "30-informacije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1810,8 +1810,8 @@
       "v kateri z večanjem višine pada temperatura."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Inverzija je plast, v kateri temperatura z višino narašča namesto pada; je zelo stabilna.",
+    "theory": "30-temperatura",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1832,8 +1832,8 @@
       "Nizek tlačni gradient in zato šibek prevladujoči veter"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Redke izobare pomenijo majhen tlačni gradient in zato šibek prevladujoči veter.",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1854,8 +1854,8 @@
       "Jugozahodni veter s hitrostjo 15 km/h"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prvo število je smer, od koder piha veter (225° je jugozahod), drugo hitrost v vozlih.",
+    "theory": "30-veter",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1876,8 +1876,8 @@
       "od +20° do -40°C"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Temperatura pada s 6,5 °C/km: s +15 °C na MSL do okoli −50 °C na 10 km (−56,5 °C na 11 km).",
+    "theory": "30-temperatura",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1898,8 +1898,8 @@
       "sončno sevanje na zavetrni strani."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če sonce obseva privetrno pobočje, termika okrepi pobočne vzgornike.",
+    "theory": "30-termika",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1920,8 +1920,8 @@
       "300 hPa"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na FL 180 je po ISA tlak okoli 500 hPa, pol tlaka na morski gladini.",
+    "theory": "30-tlak",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1942,8 +1942,8 @@
       "Zmerno vidljivost, močne plohe, turbulence in nevihte"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob hladni fronti so konvektivni oblaki z močnimi plohami, nevihtami in turbulenco; vidljivost je zmerna, v plohah slaba.",
+    "theory": "30-fronte",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1964,8 +1964,8 @@
       "Termosfera."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V troposferi je skoraj vsa vodna para, zato se tam dogaja skoraj vse vreme.",
+    "theory": "30-atmosfera",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1986,8 +1986,8 @@
       "Mejno območje med dvema drugima plastema v atmosferi"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V inverzni plasti temperatura z višino narašča; plast je stabilna in zavira dviganje zraka.",
+    "theory": "30-temperatura",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2008,8 +2008,8 @@
       "Mejno območje med dvema drugima plastema v atmosferi"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V izotermni plasti se temperatura z višino ne spreminja.",
+    "theory": "30-temperatura",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2030,8 +2030,8 @@
       "vetra, ki se krepi in piha v sunkih."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V jasni noči se tla ohladijo z izsevanjem in ohladijo spodnji zrak; nastane prizemna inverzija.",
+    "theory": "30-temperatura",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2052,8 +2052,8 @@
       "Naraščanje temperature, padanje tlaka"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Gostota pada, ko temperatura raste in ko tlak pada (tudi z višino ali vlago).",
+    "theory": "30-tlak",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2074,8 +2074,8 @@
       "Narašča po 2 °C / 1000 ft"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Po ISA temperatura pada s 6,5 °C/km, kar je približno 2 °C na 1000 ft.",
+    "theory": "30-temperatura",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2096,8 +2096,8 @@
       "višino nad srednjim morskim nivojem."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Z nastavljenim QNH višinomer kaže nadmorsko višino (višino nad srednjim morskim nivojem).",
+    "theory": "30-tlak",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2118,8 +2118,8 @@
       "Informacij o linijah front in gibanju front"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Karta LLSWC prikazuje napovedane pojave (oblaki, fronte, zaledenitev, turbulenca, vidljivost), ne pa radarskih slik.",
+    "theory": "30-informacije",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2140,8 +2140,8 @@
       "Operativne informacije, kot sta vzletno-pristajalna steza v uporabi in prehodni nivo"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "ATIS poleg vremena vsebuje operativne podatke letališča: stezo v uporabi, prehodni nivo in posebna obvestila.",
+    "theory": "30-informacije",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2162,8 +2162,8 @@
       "RA."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Znak + v METAR pomeni močno jakost: +RA je močan dež.",
+    "theory": "30-informacije",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2184,8 +2184,8 @@
       "Termalna sila"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Veter povzroča sila tlačnega gradienta, ki potiska zrak od visokega proti nizkemu tlaku. Coriolisova sila in trenje ga nato odklanjata.",
+    "theory": "30-veter",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2206,8 +2206,8 @@
       "Okluzija"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Polarna fronta ločuje hladen polarni zrak od toplega subtropskega in vpliva na vreme nad srednjo Evropo.",
+    "theory": "30-fronte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2228,8 +2228,8 @@
       "Vetru, ki piha podnevi z gora po pobočju navzdol"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ponoči se pobočja ohladijo, hladen zrak polzi navzdol; to je gorski (pobočni) veter.",
+    "theory": "30-veter",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2250,8 +2250,8 @@
       "Rosišče se povečuje, relativna vlaga se zmanjšuje."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob ohlajanju se količina vodne pare ne spremeni, zato rosišče ostane enako; relativna vlaga raste.",
+    "theory": "30-vlaga",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2272,8 +2272,8 @@
       "Turbulenco v bližini kumulonimbusnih oblakov"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Suha (modra) termika je termika brez kumulusov, ker je zrak presuh ali je baza nad inverzijo.",
+    "theory": "30-termika",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2294,8 +2294,8 @@
       "Cirus"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kumulus nastane na vrhu termičnega stebra, zato kaže, kje so vzgorniki.",
+    "theory": "30-termika",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2316,8 +2316,8 @@
       "Alto-."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Visoki oblaki imajo predpono cirro- (cirus, cirostratus, cirokumulus).",
+    "theory": "30-oblaki",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2338,8 +2338,8 @@
       "Kadar vlaga izpareva s toplih, vlažnih tal v hladen zrak."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Advekcijska megla nastane, ko topel vlažen zrak priteče nad hladno podlago in se ohladi do rosišča.",
+    "theory": "30-megla",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2360,8 +2360,8 @@
       "Dolgotrajno sevanje v jasni noči."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Advekcijska megla nastane, ko topel, vlažen zrak priteče nad hladna tla ali morje in se ohladi.",
+    "theory": "30-megla",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2382,8 +2382,8 @@
       "Radiacijska megla"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Orografska megla nastane, ko veter vlažen zrak potiska po pobočju navzgor in se ohladi do rosišča.",
+    "theory": "30-megla",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2404,8 +2404,8 @@
       "Izhlapevanje s toplih, vlažnih tal v zelo hladen zrak."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zrak se ob prisilnem dviganju čez hrib ohladi do rosišča; nastane orografska megla.",
+    "theory": "30-megla",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2426,8 +2426,8 @@
       "Altokumulus"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nimbostratus je debel plastovit oblak, ki prinaša dolgotrajen, enakomeren dež ali sneg.",
+    "theory": "30-oblaki",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2448,8 +2448,8 @@
       "Cirusi, altostratusi in altokumulusi, ki se gostijo, baza oblaka se spušča in dežuje, nimbostratusi"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pred toplo fronto se oblaki gostijo in nižajo: cirusi, cirostratus, altostratus, nato nimbostratus z dolgotrajnim dežjem.",
+    "theory": "30-fronte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2470,8 +2470,8 @@
       "Zmerno do dobro vidljivost, delno oblačnost"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Toplemu sektorju poleti navadno pripadata zmerna do dobra vidljivost in delna oblačnost.",
+    "theory": "30-fronte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2492,8 +2492,8 @@
       "Delno oblačnost, vidljivost več kot 5 km, razvoj tankih kumulusov"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za hladno fronto priteče hladen, čist zrak: dobra vidljivost, labilnost in kumulusi s plohami.",
+    "theory": "30-fronte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2514,8 +2514,8 @@
       "okludirana fronta."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Fronta, ki se skoraj ne premika, ker nobena zračna masa ne izpodriva druge, je stacionarna fronta.",
+    "theory": "30-fronte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2536,8 +2536,8 @@
       "Tlak stalno narašča."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pred hladno fronto tlak pada, po njenem prehodu z dotokom hladnega zraka naraste.",
+    "theory": "30-fronte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2558,8 +2558,8 @@
       "Tlak niha."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Hladen zrak je gostejši, tlak z višino pada hitreje; v višinah nastane območje nizkega tlaka (višinska dolina).",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2580,8 +2580,8 @@
       "Vertikalna razdalja se zmanjšuje, višina se zmanjšuje (nizek tlak)."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V hladnem zraku so tlačne ploskve bližje skupaj in nižje, zato v višini nastane nizek tlak.",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2602,8 +2602,8 @@
       "Zaradi advekcije hladnega zraka v visoko troposfero"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V anticiklonu se zrak spušča in suhoadiabatno segreva; na okoli 1500 m nastane spustna (subsidenčna) inverzija.",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2624,8 +2624,8 @@
       "Nevihtne linije in nevihte"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pozimi se pod inverzijo v anticiklonu zadržujeta hladen, vlažen zrak in visoka megla, veter je šibak.",
+    "theory": "30-tlacni-sistemi",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2646,8 +2646,8 @@
       "Mešani led"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Drobne kapljice zmrznejo takoj ob dotiku in ujamejo zrak; nastane bel, krhek led, ivje.",
+    "theory": "30-zaledenitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2668,8 +2668,8 @@
       "Mešani led"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Velike podhlajene kaplje se pred zmrznitvijo razlijejo po površini; nastane prozoren, trd in težak čisti led.",
+    "theory": "30-zaledenitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2690,8 +2690,8 @@
       "Srednje debel do debel čisti led, ki se nabere na vseh površinah zrakoplova"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod močnim vetrom nad grebenom se v dolini pojavijo rotorji in vrtinci; pri spuščanju je nevarno močno striženje, smer se lahko obrne tudi za 180°.",
+    "theory": "30-turbulenca",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2712,8 +2712,8 @@
       "Jasno nebo, sonce, rahel veter"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V pogojno labilnem ozračju se nasičen zrak dviga naprej: nastanejo stolpičasti kumulusi, posamezne plohe in nevihte.",
+    "theory": "30-skewt",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2734,8 +2734,8 @@
       "Podhlajeni dež"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Hladni vzdolniki se pri tleh razlijejo pred nevihto in tvorijo fronto nevihtnega piša z nenadnim močnim vetrom.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -2756,8 +2756,8 @@
       "Let je priporočljivo načrtovati tako, da letimo pod bazo nevihtnega oblaka."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nevihtna linija, ki se premika proti območju leta, bi zaprla pot ali povratek; najvarnejša odločitev je prestaviti let.",
+    "theory": "30-nevihte",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }

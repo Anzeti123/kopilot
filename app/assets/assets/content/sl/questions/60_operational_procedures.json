@@ -16,8 +16,8 @@
       "meteorološki pojav vetra, ki piha navzdol po alpskih dolinah."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Striženje vetra je sprememba hitrosti ali smeri vetra na kratki razdalji, navpično ali vodoravno.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "Megla"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Močno striženje je najpogosteje povezano z nevihtami (vzdolniki, fronta nevihtnega piša).",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "Med inverzijo."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na meji inverzije se lahko veter nad in pod plastjo zelo razlikuje, zato tam pričakuješ striženje.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "Pot bo višja in IAS večja."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko čelni veter oslabi, letalo izgubi del hitrosti glede na zrak: IAS pade, vzgon se zmanjša in letalo pade pod priletno ravnino.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "Pot bo nižja in IAS večja."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko hrbtni veter oslabi, hitrost glede na zrak začasno naraste: IAS se poveča in letalo se dvigne nad priletno ravnino.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "Izognemo se termično aktivnim območjem, zlasti poleti, ali pa letimo pod njimi."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Striženju se izogneš tako, da ne vzletaš in ne pristajaš med prehodom močnega naliva ali nevihte.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "nadaljevati let, pri čemer si pomaga z navigacijsko podporo, ki mu jo nudi kontrola zračnega prometa."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko vreme pade pod VMC, se vrneš tja, kjer so bili pogoji dobri. Nadaljevanje v slabše vreme je glavni vzrok nesreč VFR.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "Brazdna turbulenca, ki zavija prečno na vzletno-pristajalno stezo."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vrtinci težkega letala se spustijo na stezo; rahel bočni veter enega od njih zadrži na stezi. Počakaj dovolj časa.",
+    "theory": "60-priprava",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "Zorano polje"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Požeto polje (strnišče) je ravno in brez visokih posevkov; dobro je za pristanek, če ni globokih brazd.",
+    "theory": "60-izven",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -214,8 +214,8 @@
       "da bi ohranili varnost leta."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Previdnostni pristanek izvedeš, da ohraniš varnost leta, preden nastane nujno stanje (vreme, gorivo, višina).",
+    "theory": "60-izven",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -236,8 +236,8 @@
       "Polje z zrelim žitom"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rjavo polje z nizkimi posevki je navadno ravno in brez ovir, zato je primerno za izvenletališki pristanek.",
+    "theory": "60-izven",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -258,8 +258,8 @@
       "se prilet izvede po ustaljenih fazah pristanka."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Najpogostejši vzrok neuspešnega izvenletališkega pristanka je prepozna odločitev, ko ni več višine za izbiro polja in krog.",
+    "theory": "60-izven",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -280,8 +280,8 @@
       "s posnemanjem premikov jadralnega letala pred sabo."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V istem vzgorniku krožiš v isti smeri in prilagajaš lego drugim letalom, da jih vedno vidiš.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -302,8 +302,8 @@
       "Močno potegne in odklopi vrv."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če se dvigneš previsoko, lahko vlečnemu letalu dvigneš rep. Previdno uporabiš zavore in se spustiš nazaj v pravilni položaj; če ne gre, odklopiš.",
+    "theory": "60-aerovlek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -324,8 +324,8 @@
       "Preidemo v 180° zavoj in pristanemo v nasprotni smeri vzletno-pristajalne steze ter odklopimo vrv, preden se letalo dotakne tal."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob pretrgu vrvi najprej spustiš nos, da dobiš varno hitrost, nato odklopiš ostanek vrvi in se glede na višino odločiš za pristanek naravnost ali skrajšan krog.",
+    "theory": "60-vitel",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -346,8 +346,8 @@
       "Krilca mora odkloniti v nasprotno smer."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če se krilo dotakne tal ob začetku vleka, grozi zasuk (ground loop); takoj odklopi.",
+    "theory": "60-vitel",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -368,8 +368,8 @@
       "Odkloniti mora zračne zavore."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prekoračitev največje hitrosti vleka ogroža konstrukcijo jadralnega letala, zato takoj odklopi.",
+    "theory": "60-aerovlek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -390,8 +390,8 @@
       "Odkloniti mora zakrilca in se vrniti na normalno višino."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če vlečnega letala ne vidiš, ne veš, kje je vrv in kako se giba, zato takoj odklopi.",
+    "theory": "60-aerovlek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -412,8 +412,8 @@
       "Glede na prevladujoč veter izvede prilet in pristane vzporedno s slemenom z vetrom v čelo."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri pristanku navkreber priletiš s povečano hitrostjo in poravnaš hitro, ker se teren dviga in letalo hitro izgublja hitrost.",
+    "theory": "60-izven",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -434,8 +434,8 @@
       "Modre"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ročaj za odmet pokrova kabine v sili je rdeč.",
+    "theory": "60-nenormalno",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -456,8 +456,8 @@
       "Nadaljuje z vzletom do običajne višine, nato sledi položaju glede na horizont in jakost piša zraka ter izvede let po načrtu."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vleka ne prekinjaj; na običajni višini odklopi in leti po legi glede na horizont in šumu zraka, nato takoj pristani.",
+    "theory": "60-nenormalno",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -478,8 +478,8 @@
       "Uvlečemo podvozje in s povečano hitrostjo pristanemo na trebuh."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Podvozje, ki se ne zaklene, se lahko ob pristanku zloži nepredvidljivo; varneje je pristati na trebuh z uvlečenim podvozjem in minimalno hitrostjo.",
+    "theory": "60-nenormalno",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -500,8 +500,8 @@
       "Prilet izvedemo s povečano hitrostjo brez uporabe zakrilc."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri hrbtnem vetru letiš z normalno IAS, hitrost glede na tla je večja, zato je ravnanje in pristajalna razdalja daljša.",
+    "theory": "60-izven",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -522,8 +522,8 @@
       "hrbtni veter kompenzirati z glisado."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri hrbtnem vetru priletiš z normalno hitrostjo po položni priletni poti; povečanje hitrosti bi še podaljšalo pristanek.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -544,8 +544,8 @@
       "Poveča naj hitrost in se približa slemenu."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V močnem vzdolniku ob pobočju povečaš hitrost in se odmakneš od slemena, da te ne potisne na teren.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -566,8 +566,8 @@
       "Lažji nepritrjeni predmeti v trupu niso nevarni."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Izgubljen predmet lahko zablokira krmila, zato je treba kabino pred naslednjim letom natančno pregledati.",
+    "theory": "60-priprava",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -588,8 +588,8 @@
       "Nagib največ 60°, samo s smernim krmilom jadralno letalo takoj poravnamo v smer steze."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V močnem bočnem vetru zavijaš z največ 30° nagiba, spremljaš hitrost in nitko ter popravljaš smer za zanos.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -610,8 +610,8 @@
       "100 m vzporedno s pragom steze in 50 m po zavoju v končni prilet"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smernice za jadralni krog: na vzporedni stranici 150–200 m, po zavoju v končni prilet okoli 100 m.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -632,8 +632,8 @@
       "Preveriti je treba, ali bo zavoj koordiniran."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pred vsako spremembo smeri pogledaš, ali je zračni prostor v tej smeri prost.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -654,8 +654,8 @@
       "Uporabimo lahko šibki člen manjše nosilnosti, saj bo obremenitev manjša."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "S hrbtnim vetrom je potrebna daljša vožnja, da dosežeš varno hitrost; preden začneš vzpenjanje, spremljaj hitrost.",
+    "theory": "60-vitel",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -676,8 +676,8 @@
       "Pot bo višja in IAS manjša."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko čelni veter okrepi, IAS začasno naraste in letalo se dvigne nad priletno ravnino.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -698,8 +698,8 @@
       "Pot bo višja in IAS manjša."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko hrbtni veter okrepi, IAS pade in letalo se spusti pod priletno ravnino.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -720,8 +720,8 @@
       "Zrakoplov, ki leti na manjši višini."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Počasnejše letalo ima večji vpadni kot in ustvarja močnejše vrtince na koncih kril.",
+    "theory": "60-priprava",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -742,8 +742,8 @@
       "nenadna izguba vidljivosti."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V sneženju lahko vidljivost pade skoraj na nič v nekaj sekundah, kar je največja nevarnost za let VFR.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -764,8 +764,8 @@
       "Prepovedano je leteti nad nacionalnimi parki."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nad grebeni in v zavetrju je turbulenca, zato letiš z nekoliko večjo hitrostjo in z rezervo višine.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -786,8 +786,8 @@
       "Ščitijo vitel pred nadletom jadralnega letala."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Šibki člen se strga pred dovoljeno obremenitvijo in tako ščiti jadralno letalo pred preobremenitvijo.",
+    "theory": "60-vitel",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -808,8 +808,8 @@
       "To predstavlja izjemno veliko obremenitev za strukturo jadralnega letala."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če kljuka odpne vrv zaradi obremenitve, je bila konstrukcija izjemno obremenjena; to je treba prijaviti in letalo pregledati.",
+    "theory": "60-vitel",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -830,8 +830,8 @@
       "imelo tendenco zavijanja vstran."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kljuka pod trupom (na težišču) daje v aerovleku nagnjenost k dviganju nosu, zato jo moraš zadrževati.",
+    "theory": "60-aerovlek",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -852,8 +852,8 @@
       "Pri 150 m ali več, kadar pristanek naravnost naprej v primeru pretrganja vrvi ni več mogoč."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na polni naklon preideš šele na okoli 50 m višine in ob varni hitrosti, da imaš ob pretrgu dovolj rezerve.",
+    "theory": "60-vitel",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -874,8 +874,8 @@
       "Opazuje drugo vrv in če je potrebno, odklopi vrv po vzletu."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če je druga vrv preblizu, bi se lahko zapletla v letalo; odklopi in obvesti kontrolo.",
+    "theory": "60-vitel",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -896,8 +896,8 @@
       "Energično potisne višinsko krmilo in takoj odklopi vrv."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob nenadni izgubi vleka v strmem vzpenjanju hitrost hitro pada; odločno potisni palico in odklopi.",
+    "theory": "60-vitel",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -918,8 +918,8 @@
       "Jadralno letalo povrnemo nazaj v položaj, tako da uporabljamo smer in nagib ter izvlečemo zakrilca, da zmanjšamo hitrost."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V zavoju moraš imeti enak nagib kot vlečno letalo, da letiš po istem krogu; nazaj v lego te spravi smerno krmilo.",
+    "theory": "60-aerovlek",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -940,8 +940,8 @@
       "Izvede normalen prilet in odklopi vrv takoj po stiku s tlemi."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Visečo vrv odvržeš na varni višini nad praznim terenom ali letališčem, da se ne zatakne ob ovire pri pristanku.",
+    "theory": "60-aerovlek",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -962,8 +962,8 @@
       "Zmanjša hitrost na minimum in zapusti območje termičnega dviganja v zavoju z majhnim nagibom."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod razvijajočim se Cb te lahko posrka v oblak. Izvleci zavore in z največjo dovoljeno hitrostjo zapusti dviganje.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -984,8 +984,8 @@
       "Povečamo hitrost, da se v krogu premaknemo na nasprotno stran."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko pospešiš, se v krogu premakneš na nasprotno stran od letala za sabo in ga lahko spet vidiš.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1006,8 +1006,8 @@
       "Ko doseže kot nagiba, zmanjša smer z nasprotnim pedalom."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V ostrem zavoju se hitrost porušitve poveča, zato ga začneš s povečano hitrostjo.",
+    "theory": "60-jadranje",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1028,8 +1028,8 @@
       "Ob prvih znakih hipoksije mora začeti spuščati z največjo dovoljeno hitrostjo."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na 6000 m je čas zavestnega delovanja brez kisika le nekaj minut; spusti se čim hitreje, z zavorami in največjo dovoljeno hitrostjo.",
+    "theory": "60-nenormalno",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1050,8 +1050,8 @@
       "Prilet izvedemo s povečano hitrostjo, izogibamo se uporabi zračnih zavor."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri sunkovitem vetru priletiš s povečano hitrostjo (pribitek za sunke) in odločno popravljaš lego.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1072,8 +1072,8 @@
       "Z najboljšo drsno hitrostjo s pribitkom za vzdolnik in veter"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V vzdolniku letiš z najboljšo drsno hitrostjo s pribitkom za vzdolnik in veter, da izgubiš čim manj višine.",
+    "theory": "60-pristanek",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1094,8 +1094,8 @@
       "Z nosom v veter, rep na tleh in obtežen."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V močnem vetru privetrno krilo položiš na tla, ga obtežiš in blokiraš smerno krmilo.",
+    "theory": "60-priprava",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1116,8 +1116,8 @@
       "Tako da se navkljub načrtovanemu letu odločimo za izvenletališki pristanek."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko se bližaš višini kroga, se odločiš za izvenletališki pristanek, tudi če to pomeni opustitev načrtovanega leta.",
+    "theory": "60-izven",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1138,8 +1138,8 @@
       "Preberemo vremensko poročilo za letalce."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smer vetra pri tleh razbereš iz dima, zastav, vetrnic, valovanja posevkov ali vode.",
+    "theory": "60-izven",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1160,8 +1160,8 @@
       "Prilet izvedemo s povečano hitrostjo in po možnosti ne uporabimo kolesnih zavor."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na grobi površini pristaneš z najmanjšo hitrostjo in palico vlečeš do konca, da je udarna energija čim manjša.",
+    "theory": "60-izven",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1182,8 +1182,8 @@
       "Prečno po bregu navzdol"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na pobočju pristaneš v hrib, ker naklon hitro ustavi letalo.",
+    "theory": "60-izven",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1204,8 +1204,8 @@
       "Pristanem brez podvozja, previdno in z minimalno hitrostjo."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tik pred pristankom ne izvajaj posegov; pristani brez podvozja, previdno in z minimalno hitrostjo.",
+    "theory": "60-nenormalno",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }

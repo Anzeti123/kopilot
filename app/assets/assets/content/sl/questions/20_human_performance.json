@@ -16,8 +16,8 @@
       "vremenskih vplivov."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Okoli 70–80 % letalskih nesreč je povezanih s človeškim faktorjem (presoja, odločanje, napake), ne s tehnično okvaro ali vremenom samim.",
+    "theory": "20-cloveski-faktor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "kritičnega sosledja napak."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Model švicarskega sira razlaga, kako se napake v več obrambnih plasteh poravnajo v verigo in povzročijo nesrečo.",
+    "theory": "20-napake",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "21 %"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Delež kisika je na vseh višinah enak, okoli 21 %. Z višino pada tlak in s tem delni tlak kisika, ne delež.",
+    "theory": "20-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "18000 ft"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tlak se razpolovi na okoli 18 000 ft (5500 m), kjer je okoli 500 hPa.",
+    "theory": "20-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "21 %"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zrak je 78 % dušika, 21 % kisika in okoli 1 % drugih plinov (argon, CO₂ …).",
+    "theory": "20-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "nezdrave prehrane."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ogljikov monoksid nastaja pri nepopolnem zgorevanju; vir sta izpušni plini in kajenje. CO se veže na hemoglobin in zmanjša prenos kisika.",
+    "theory": "20-hipoksija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "Motnje zavesti"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Cianoza (pomodrelost ustnic in nohtov) je znak hipoksije. Pri hiperventilaciji so značilni mravljinčenje, krči in vrtoglavica.",
+    "theory": "20-hipoksija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "Bolečine v kolenskih sklepih in stopalih"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pomodrelost ustnic in nohtov (cianoza) kaže, da kri prenaša premalo kisika, kar je značilno za hipoksijo.",
+    "theory": "20-hipoksija",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "10000 čevljev"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Telo se na nižji tlak začne opazno odzivati (hitrejše dihanje in utrip) od okoli 7000 ft.",
+    "theory": "20-atmosfera",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -214,8 +214,8 @@
       "Izogibamo se pogovoru in povečamo zračno hitrost."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nelagodje potnika je navadno začetek morske bolezni: pomagata svež zrak oziroma primerna temperatura v kabini in miren let s čim manj nagibanja.",
+    "theory": "20-ravnotezje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -236,8 +236,8 @@
       "Avtomatsko živčevje"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Avtonomno (vegetativno) živčevje samodejno uravnava dihanje, prebavo, srčni utrip in krvni tlak.",
+    "theory": "20-telo",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -258,8 +258,8 @@
       "Napačno branje instrumentov, ki je posledica gledanja pod kotom"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Napaka paralakse nastane, ko instrument bereš pod kotom: kazalec se zdi zamaknjen glede na skalo.",
+    "theory": "20-vid",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -280,8 +280,8 @@
       "Biti morajo iz nezlomljivega materiala."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Polarizirana stekla skrijejo odseve, po katerih opaziš drugo letalo, zatemnijo zaslone in v pokrovu kabine pokažejo moteče vzorce.",
+    "theory": "20-vid",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -302,8 +302,8 @@
       "notranje uho."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Evstahijeva cev povezuje srednje uho z žrelom in nosno votlino ter izenačuje tlak v srednjem ušesu.",
+    "theory": "20-ravnotezje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -324,8 +324,8 @@
       "Če so vsa okna povsem zaprta."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če je Evstahijeva cev zamašena (prehlad), zrak ne more v srednje uho in tlaka ni mogoče izenačiti, posebej pri spuščanju.",
+    "theory": "20-ravnotezje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -346,8 +346,8 @@
       "da smo v zavoju v nasprotno smer."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ravnotežni organ zazna le spremembe. Po dolgem zavoju se tekočina v kanalih ustali; ko poravnaš krila, imaš občutek zavoja v nasprotno smer.",
+    "theory": "20-ravnotezje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -368,8 +368,8 @@
       "Da leti previsoko."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Steza z naklonom navzgor je videti daljša in strmejša, zato se pilotu zdi, da leti previsoko, in se spusti prenizko.",
+    "theory": "20-iluzije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -390,8 +390,8 @@
       "med spuščanjem."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Premik glave med zavojem vzdraži več polkrožnih kanalov hkrati (Coriolisov učinek) in povzroči močno vrtoglavico.",
+    "theory": "20-ravnotezje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -412,8 +412,8 @@
       "utrujenosti."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri pozitivnem G-pospešku kri odteka iz glave; najprej se pojavi siva koprena, nato tunelski vid in črna koprena.",
+    "theory": "20-pospeski",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -434,8 +434,8 @@
       "barvne slepote."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Oko sliko zazna pravilno, možgani pa jo razložijo po pričakovanju in izkušnjah. Zato iluzije nastanejo pri tolmačenju.",
+    "theory": "20-iluzije",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -456,8 +456,8 @@
       "0.3 odstotka."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Alkohol v krvi pada povprečno za 0,01 % (0,1 promila) na uro. Tega ni mogoče pospešiti.",
+    "theory": "20-telo",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -478,8 +478,8 @@
       "Pomanjkanje spanca"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prevelika telesna masa je glavni dejavnik tveganja za sladkorno bolezen tipa 2, pa tudi za bolezni srca in ožilja.",
+    "theory": "20-telo",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -500,8 +500,8 @@
       "10 do 20 sekund lahko hrani 7 (±2) podatkov."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kratkoročni spomin hrani podatke 10–20 sekund in jih zmore okoli 7 ± 2. Zato navodila kontrole takoj zapišeš ali ponoviš.",
+    "theory": "20-spomin",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -522,8 +522,8 @@
       "35 do 50 sekund"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kratkoročni (delovni) spomin hrani podatke okoli 10–20 sekund, če jih ne ponavljamo.",
+    "theory": "20-spomin",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -544,8 +544,8 @@
       "Napaka, ki takoj učinkuje na komande."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Latentna napaka (na primer slaba zasnova ali napaka pri vzdrževanju) ostane v sistemu dolgo neodkrita in se pokaže šele z drugo napako.",
+    "theory": "20-napake",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -566,8 +566,8 @@
       "situacijsko zavedanje."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Situacijsko zavedanje je stalno spremljanje stanja v letu: kje si, kaj počne letalo, kakšno je vreme in promet ter kaj sledi.",
+    "theory": "20-spomin",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -588,8 +588,8 @@
       "Z uporabo radijske frazeologije"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pošiljatelj in prejemnik se razumeta, če uporabljata isti kod. Pri radijski zvezi to zagotovi standardna frazeologija.",
+    "theory": "20-odlocanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -610,8 +610,8 @@
       "Med letom za preverjanje, ker smo takrat bolj živčni."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V skupini se odgovornost porazdeli in nihče noče biti previden, zato ljudje sprejmejo večje tveganje kot sami (skupinska dinamika).",
+    "theory": "20-napake",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -632,8 +632,8 @@
       "Neranljivost in samozanemarjanje"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Mačizem (dokazovanje) in neranljivost (»meni se ne more zgoditi«) se pogosto pojavljata skupaj in vodita v nepotrebno tveganje.",
+    "theory": "20-odlocanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -654,8 +654,8 @@
       "S hitro obupanostjo v kompleksnih in kritičnih situacijah"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Mačizem se kaže v nevarnih manevrih, s katerimi pilot želi narediti vtis na druge.",
+    "theory": "20-odlocanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -676,8 +676,8 @@
       "Pravilna uporaba kontrolnih seznamov"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pristranskost potrditve: vidimo tisto, kar pričakujemo, in spregledamo znake, da ni tako. Preverjanje in kontrolni seznami napake zmanjšujejo.",
+    "theory": "20-napake",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -698,8 +698,8 @@
       "Ekstrovertiran - nestabilen"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Najboljša kombinacija je ekstrovertiran (odprt za komunikacijo) in čustveno stabilen (miren pod pritiskom) pilot.",
+    "theory": "20-odlocanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -720,8 +720,8 @@
       "velikega odstotka napak tehničnih sistemov."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Samozadovoljnost je zmanjšana pozornost, ker »vse dela samo«. Tveganje raste z avtomatizacijo in rutino, ko pilot preneha preverjati.",
+    "theory": "20-odlocanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -742,8 +742,8 @@
       "V točki C"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Idealna raven vzbujenosti je pred vrhom krivulje (točka B): zmogljivost je visoka, pilot pa ima še rezervo za nepričakovano.",
+    "theory": "20-stres",
     "images": [
       "E20-200511-00093_hpl-002.png"
     ],
@@ -766,8 +766,8 @@
       "V točki D"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na desni strani krivulje (točka D) je vzbujenost prevelika: zmogljivost pada, pilot je preobremenjen.",
+    "theory": "20-stres",
     "images": [
       "E20-200511-00096_hpl-002.png"
     ],
@@ -790,8 +790,8 @@
       "1"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Stres vpliva na vse štiri: pozornost, koncentracijo, odzivnost in spomin.",
+    "theory": "20-stres",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -812,8 +812,8 @@
       "Takoj rešim problem, če ne gre, pa pogledam v operativni priročnik."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vrstni red je vedno: pilotiraj, navigiraj, komuniciraj. Najprej poskrbiš za stabilno letalo, nato rešuješ problem in ves čas pilotiraš.",
+    "theory": "20-odlocanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -834,8 +834,8 @@
       "0.1 %"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Dušik je glavna sestavina zraka, okoli 78 %.",
+    "theory": "20-atmosfera",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -856,8 +856,8 @@
       "Uravnavanje sladkorja v krvi."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Rdeče krvničke (eritrociti) s hemoglobinom prenašajo kisik.",
+    "theory": "20-telo",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -878,8 +878,8 @@
       "22000 čevljev"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Do okoli 12 000 ft telo nižji tlak še nadomesti s hitrejšim dihanjem in utripom; nad tem tega ne zmore več v celoti.",
+    "theory": "20-atmosfera",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -900,8 +900,8 @@
       "Uravnavanje sladkorja v krvi."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Krvne ploščice (trombociti) skrbijo za strjevanje krvi.",
+    "theory": "20-telo",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -922,8 +922,8 @@
       "Uravnavanje sladkorja v krvi."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Bele krvničke (levkociti) branijo telo pred okužbami.",
+    "theory": "20-telo",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -944,8 +944,8 @@
       "Kapilare arterij."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za strjevanje krvi skrbijo krvne ploščice (trombociti).",
+    "theory": "20-telo",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -966,8 +966,8 @@
       "Na olfaktorno zaznavanje (voh)."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Hipoksija najprej in najbolj prizadene vid, posebej nočni vid, ker je mrežnica zelo občutljiva na pomanjkanje kisika.",
+    "theory": "20-hipoksija",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -988,8 +988,8 @@
       "Potapljanje."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Darovanje krvi, kajenje in menstruacija zmanjšajo zmožnost prenosa kisika. Potapljanje je dejavnik tveganja za dekompresijsko bolezen, ne za hipoksijo.",
+    "theory": "20-hipoksija",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1010,8 +1010,8 @@
       "Izpuščaj med dekompresijsko boleznijo"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri negativnem G-pospešku kri pritiska v glavo; nastane rdeča koprena (red-out).",
+    "theory": "20-pospeski",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1032,8 +1032,8 @@
       "Turbulenca med horizontalnim letom."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Morsko bolezen povzroči neskladje med vidom in ravnotežnim organom (turbulenca, zavoji, premiki glave). Mirni premočrtni let je ne povzroča.",
+    "theory": "20-ravnotezje",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1054,8 +1054,8 @@
       "Pilot ima občutek, da je v priletu prepočasen, in zato poveča hitrost nad običajno priletno hitrost."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri stezi z naklonom navzgor ima pilot občutek, da leti previsoko, zato zniža prilet pod pravilno priletno ravnino.",
+    "theory": "20-iluzije",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1076,8 +1076,8 @@
       "Koherenca."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Refleks je nehoten in vedno enak odziv organizma na draženje receptorja.",
+    "theory": "20-telo",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1098,8 +1098,8 @@
       "Usposabljanje in izkušnje na pojav stresa ne vplivajo."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Stres nastane predvsem, ko se zdi, da za problem ni rešitve ali da zahteve presegajo naše zmožnosti. Na stres se vsak odziva drugače.",
+    "theory": "20-stres",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }

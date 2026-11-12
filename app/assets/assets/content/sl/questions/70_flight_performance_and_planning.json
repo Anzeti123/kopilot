@@ -16,8 +16,8 @@
       "ni dovoljena in je zelo nevarna."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prekoračitev največje mase ni dovoljena: poveča hitrost porušitve, obremenitve konstrukcije in poslabša zmogljivosti.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "na podlagi podatkov, ki jih priskrbi proizvajalec zrakoplova."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Masa praznega letala in lega njegovega masnega središča se določita s tehtanjem.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "drugo ime za nevtralno točko."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Masno središče je točka, v kateri si mislimo zbrano celotno maso letala.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "razdaljo od referenčne linije do položaja neke mase."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V masnem središču je prijemališče sile teže.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "seštevek mase in ročice."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Moment je zmnožek mase in ročice.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "točko, iz katere na telo deluje sila težnosti."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ročica je razdalja od referenčne linije do masnega središča posamezne mase.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "masnim središčem dane mase in skrajno zadnjo lego masnega središča."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ročica je vodoravna razdalja med masnim središčem mase in referenčno linijo.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "v potrdilu o plovnosti."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Mase, ročice in meje masnega središča so v poglavju o masi in ravnotežju v priročniku letala.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "Masa in ravnotežje"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Osnovna masa praznega letala je v poglavju »Masa in ravnotežje« priročnika.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -214,8 +214,8 @@
       "147.5 in."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Lego masnega središča dobiš tako, da sešteješ vse momente (masa × ročica) in jih deliš s skupno maso.",
+    "theory": "70-masa",
     "images": [
       "E70-200511-00066_pfp-052e.png"
     ],
@@ -238,8 +238,8 @@
       "74 kg"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Avgas ima gostoto okoli 0,72 kg/l: 102 l × 0,72 ≈ 74 kg.",
+    "theory": "70-masa",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -260,8 +260,8 @@
       "4"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V diagram vneseš skupno maso 725 kg in moment 650; presečišče obeh vrednosti pokaže lego masnega središča.",
+    "theory": "70-masa",
     "images": [
       "E70-200511-00074_pfp-004.png"
     ],
@@ -284,8 +284,8 @@
       "Velika tlačna višina"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Čelni veter zmanjša hitrost glede na tla in s tem pristajalno razdaljo.",
+    "theory": "70-zmogljivosti",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -306,8 +306,8 @@
       "je letenje v območje, v katerem so potrjeni ali napovedani pogoji za nastanek zaledenitev, dovoljeno, samo če je poskrbljeno, da zrakoplov vseeno lahko deluje brez poslabšanja zmogljivosti."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Letalo brez certifikata za zaledenitev ne sme leteti v znane ali napovedane pogoje zaledenitve; če vanje zaide, jih mora takoj zapustiti.",
+    "theory": "70-zmogljivosti",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -328,8 +328,8 @@
       "kot med vodoravno ravnino in dejansko potjo leta, izražen v odstotkih [%]."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kot spuščanja je kot med vodoravnico in dejansko potjo leta v stopinjah.",
+    "theory": "70-zmogljivosti",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -350,8 +350,8 @@
       "Do višine 9500 ft nad tlemi"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V NOTAM-u vrstici F) in G) podajata spodnjo in zgornjo mejo omejitve; zgornjo mejo razbereš v G).",
+    "theory": "70-nacrtovanje",
     "images": [
       "E70-200511-00170_pfp-024.png"
     ],
@@ -374,8 +374,8 @@
       "Posredovanje poročil o nevarnosti"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za lete čez državno mejo je obvezen načrt leta.",
+    "theory": "70-nacrtovanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -396,8 +396,8 @@
       "Službi za iskanje in reševanje (SAR)."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Med letom načrt leta vložiš po radiu pri službi informacij za letenje (FIS).",
+    "theory": "70-nacrtovanje",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -418,8 +418,8 @@
       "D"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Po ICAO je skupina ovir označena z dvema (ali več) simboloma ovire; osvetljene imajo dodane žarke.",
+    "theory": "70-nacrtovanje",
     "images": [
       "E70-200511-00240_pfp-061.png"
     ],
@@ -442,8 +442,8 @@
       "D"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Po ICAO je točka z znano nadmorsko višino (kota) označena s piko in številom višine.",
+    "theory": "70-nacrtovanje",
     "images": [
       "E70-200511-00245_pfp-063.png"
     ],
@@ -466,8 +466,8 @@
       "Trimati zrakoplov na nos."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Če je največja dovoljena obremenitev presežena, jo moraš zmanjšati; leteti s preobremenjenim letalom ni dovoljeno.",
+    "theory": "70-masa",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -488,8 +488,8 @@
       "desno od dovoljene skrajne zadnje lege masnega središča."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Masno središče mora biti med skrajno sprednjo in skrajno zadnjo dovoljeno lego.",
+    "theory": "70-masa",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -510,8 +510,8 @@
       "da zrakoplov med spustom ne preseže največje dovoljene zračne hitrosti."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Masno središče v dovoljenih mejah zagotavlja stabilnost in vodljivost letala.",
+    "theory": "70-masa",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -532,8 +532,8 @@
       "Natovoriti balastno utež do najmanjše dovoljene mase."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pod najmanjšo maso v kabini (lahek pilot) je masno središče preveč zadaj; dodati moraš balastne uteži.",
+    "theory": "70-masa",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -554,8 +554,8 @@
       "nevtralno točko."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Teža deluje navpično skozi masno središče.",
+    "theory": "70-masa",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -576,8 +576,8 @@
       "razpon."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Razdalja med masnim središčem neke mase in referenčno linijo je ročica.",
+    "theory": "70-masa",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -598,8 +598,8 @@
       "81 NM"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Drsno razmerje 1 : 30 pomeni 30 m naprej na vsak meter višine: 1500 m × 30 = 45 km.",
+    "theory": "70-zmogljivosti",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -620,8 +620,8 @@
       "Večja masa zrakoplova, tanek aeroprofil, prelepljene reže med krilom in trupom"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Drsno razmerje izboljšajo čista površina, pravilna hitrost, uvlečeno podvozje in prelepljene reže, ker zmanjšajo upor.",
+    "theory": "70-zmogljivosti",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -642,8 +642,8 @@
       "Avtocest, železniških tirov in kanalov."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na preletu se izogibaš območjem brez možnosti pristanka: mokrim tlom, vodi in močvirjem.",
+    "theory": "70-prelet",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -664,8 +664,8 @@
       "McCreadyjev obroč nastavimo na 2 m/s, priporočeno hitrost lahko odčitamo na McCreadyjevem obroču poleg seštevka trenutne hitrosti spuščanja pri pričakovani hitrosti vzpenjanja (5 m/s)"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Obroč McCready nastaviš na pričakovano dviganje v naslednjem vzgorniku (2 m/s). Hitrost odčitaš ob trenutnem kazanju variometra.",
+    "theory": "70-prelet",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }

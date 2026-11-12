@@ -16,8 +16,8 @@
       "Vsota vseh sil deluje v smeri zračnega toka."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V ustaljenem drsnem letu je rezultanta vzgona in upora (skupna aerodinamična sila) enaka in nasprotna sili teže.",
+    "theory": "51-drsni-let",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -38,8 +38,8 @@
       "Polno odklonimo smerno krmilo v smeri višjega krila."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smerno krmilo v stran višjega krila prepreči vrtenje, popuščanje višinskega krmila zmanjša vpadni kot, da krilo spet nosi in hitrost naraste.",
+    "theory": "51-vrij",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -60,8 +60,8 @@
       "povečanje razmerja med vzgonom in uporom ter boljši drsni kot."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nad Vne grozi flater, nenadzorovano nihanje kril in krmil, ki lahko v sekundah poškoduje ali uniči konstrukcijo.",
+    "theory": "51-obremenitve",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -82,8 +82,8 @@
       "Položaj za dovoljeno skrajno zadnjo lego masnega središča."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Bolj kot je masno središče zadaj, manjša je vzdolžna stabilnost. Na skrajni zadnji legi je letalo najmanj stabilno in najtežje izvleči iz vrija.",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -104,8 +104,8 @@
       "samo v smeri toka."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Statični tlak miruječega plina deluje enako v vse smeri.",
+    "theory": "51-tlak",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -126,8 +126,8 @@
       "dinamični tlak = skupni tlak + statični tlak."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Po Bernoulliju je vsota statičnega in dinamičnega tlaka vzdolž tokovnice stalna: skupni tlak = dinamični + statični.",
+    "theory": "51-tlak",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -148,8 +148,8 @@
       "konstanten upor pri katerikoli hitrosti."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vsako telo v zračnem toku ustvarja upor; vzgon pa le, če je tok okrog njega nesimetričen.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -170,8 +170,8 @@
       "sila teže in aerodinamične sile."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Center potiska je točka, v kateri si mislimo prijemališče rezultante vseh aerodinamičnih sil na profilu.",
+    "theory": "51-profil",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -192,8 +192,8 @@
       "linijo tetive."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na skici številka 2 označuje tetivo, ravno daljico od vstopnega do izstopnega roba profila.",
+    "theory": "51-profil",
     "images": [
       "E51-200511-00020_pfa-010.png"
     ],
@@ -216,8 +216,8 @@
       "vitkost."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vitkost je razmerje med razpetino in srednjo globino krila (oziroma b²/S). Večja vitkost pomeni manjši inducirani upor.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -238,8 +238,8 @@
       "Center potiska"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Točka 1 na vstopnem robu je zajezna točka, kjer se tok razdeli in je hitrost nič.",
+    "theory": "51-mejna-plast",
     "images": [
       "E51-200511-00031_pfa-009.png"
     ],
@@ -262,8 +262,8 @@
       "Na zgornji strani profila se ustvarja nizek tlak, na spodnji strani pa višji tlak."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri pozitivnem vpadnem kotu tok nad profilom pospeši, zato je tam tlak nižji; spodaj je tlak višji. Razlika ustvarja vzgon.",
+    "theory": "51-vzgon",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -284,8 +284,8 @@
       "konstrukcijski kot."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kot med tetivo in smerjo nemotenega zračnega toka je vpadni kot.",
+    "theory": "51-profil",
     "images": [
       "E51-200511-00041_pfa-003.png"
     ],
@@ -308,8 +308,8 @@
       "Strukturno je krilo bolj utrjeno proti upogibu."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zvitje zmanjša vpadni kot na koncih kril; ti se porušijo zadnji, zato krilca pri velikih vpadnih kotih delujejo čim dlje.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -330,8 +330,8 @@
       "Vpadni kot je med letom ves čas enak."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ko vpadni kot preseže kritičnega, se tok odtrga in vzgon se poruši.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -352,8 +352,8 @@
       "Zmanjša se s faktorjem 2."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Parazitni upor raste s kvadratom hitrosti: dvakrat večja hitrost pomeni štirikrat večji upor.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -374,8 +374,8 @@
       "zadnjem robu krila."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na koncih krila zrak teče s spodnje strani (višji tlak) na zgornjo (nižji tlak) in tvori vrtince.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -396,8 +396,8 @@
       "Konci kril"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Inducirani upor nastaja zaradi vrtincev na koncih kril.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -418,8 +418,8 @@
       "glavni upor."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tlačni upor, upor trenja in upor interference sestavljajo parazitni upor, ki ni povezan z ustvarjanjem vzgona.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -440,8 +440,8 @@
       "Parazitni upor se zmanjšuje, inducirani upor prav tako."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Z večanjem hitrosti parazitni upor raste (s kvadratom hitrosti), inducirani pa pada, ker je potreben manjši vpadni kot.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -462,8 +462,8 @@
       "Inducirani upor se ne spreminja."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri manjši hitrosti je za enak vzgon potreben večji vpadni kot, zato inducirani upor naraste.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -484,8 +484,8 @@
       "Inducirani upor ima maksimalno vrednost pri določeni hitrosti in se zmanjšuje tako pri večjih kot pri manjših hitrostih."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Inducirani upor je obratno sorazmeren s kvadratom hitrosti, zato pri večji hitrosti pada.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -506,8 +506,8 @@
       "Upor zaradi oblike, upor zaradi trenja, upor zaradi interference"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Skupni upor je vsota induciranega in parazitnega upora.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -528,8 +528,8 @@
       "Vzgon se zmanjša, upor pa poveča."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri odtrganju toka se vzgon zmanjša, upor pa močno naraste.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -550,8 +550,8 @@
       "da povečamo nagib in zmanjšamo hitrost."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri porušitvi vzgona popustiš palico, zmanjšaš vpadni kot in pridobiš hitrost.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -572,8 +572,8 @@
       "Manjša višina"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Manjša masa zahteva manj vzgona, zato je hitrost porušitve nižja. Kritični vpadni kot se ne spremeni.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -594,8 +594,8 @@
       "Med izravnavo morajo biti krilca odklonjena v nasprotno smer vrtenja."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Med izvlekom iz vrija držiš krilca v nevtrali. Odklon krilca bi na krilu povečal vpadni kot in vrij lahko poglobil.",
+    "theory": "51-vrij",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -616,8 +616,8 @@
       "zajezno točko in centrom potiska."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Laminarna mejna plast sega od zajezne točke do mesta prehoda v turbulentno.",
+    "theory": "51-mejna-plast",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -638,8 +638,8 @@
       "Laminarno plast pri sprednjem delu krila, turbulentno mejno plast pri zadnjem delu krila."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na sprednjem delu profila je laminarna mejna plast, za mestom prehoda turbulentna.",
+    "theory": "51-mejna-plast",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -660,8 +660,8 @@
       "Vertikalne repne površine"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V-lom krila zagotavlja prečno stabilnost: ob nagibu nižje krilo dobi večji vpadni kot in letalo se izravna.",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -682,8 +682,8 @@
       "Prečna stabilnost z V-lomom krila"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Skica prikazuje V-lom krila, ki zagotavlja prečno stabilnost (okrog vzdolžne osi).",
+    "theory": "51-stabilnost",
     "images": [
       "E51-200511-00098_pfa-006.png"
     ],
@@ -706,8 +706,8 @@
       "Prečne osi"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vzdolžna stabilnost je stabilnost v naklonu, okrog prečne osi.",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -728,8 +728,8 @@
       "Navpične osi"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Lega masnega središča vzdolž trupa vpliva predvsem na stabilnost okrog prečne osi (vzdolžno stabilnost).",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -750,8 +750,8 @@
       "se poveča, če je masno središče pomaknjeno naprej."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kritični vpadni kot je lastnost profila in se z maso ne spreminja; spremeni se le hitrost porušitve.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -772,8 +772,8 @@
       "Stabiliziranju letala okrog navpične osi."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Horizontalni rep stabilizira letalo okrog prečne osi in z višinskim krmilom omogoča krmiljenje v naklonu.",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -794,8 +794,8 @@
       "osi višinskega krmila."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Višinsko krmilo obrača letalo okrog prečne osi (v naklonu).",
+    "theory": "51-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -816,8 +816,8 @@
       "nos letala dvigne."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smerno krmilo odklonjeno v levo potisne rep v desno, zato se nos obrne v levo.",
+    "theory": "51-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -838,8 +838,8 @@
       "Upor navzdol odklonjenega krilca je manjši in manjši je sekundarni učinek krilc."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri diferencialnih krilcih se krilce navzgor odkloni bolj kot krilce navzdol; zmanjša se upor spuščenega krilca in s tem sekundarni učinek.",
+    "theory": "51-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -860,8 +860,8 @@
       "S polnim odklonom krilc"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sekundarni učinek krilc zmanjšajo diferencialna krilca.",
+    "theory": "51-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -882,8 +882,8 @@
       "zmanjša krmilne površine."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Aerodinamično uravnoteženje (del krmila pred osjo vrtenja) zmanjša silo, potrebno za odklon krmila.",
+    "theory": "51-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -904,8 +904,8 @@
       "Upor ulomljeno z maso"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Obremenitev krila je masa letala, deljena s površino krila (kg/m²).",
+    "theory": "51-obremenitve",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -926,8 +926,8 @@
       "n je večja od 1, Vs je manjša kot pri premočrtnem vodoravnem letu."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V zavoju je stopnja obremenitve n > 1, zato je hitrost porušitve večja: Vs v zavoju = Vs × √n.",
+    "theory": "51-koordiniran-zavoj",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -948,8 +948,8 @@
       "Skupna sila je rezultanta sile težnosti in centripetalne sile."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V zavoju je treba povečati vzgon, da uravnoteži težo in centrifugalno silo, zato povečaš vpadni kot oziroma hitrost.",
+    "theory": "51-koordiniran-zavoj",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -970,8 +970,8 @@
       "Motor in propeler sta nameščena fiksno na trupu."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Uvlečljiv motor s propelerjem v trupu ima v jadralnem letu najmanj upora.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -992,8 +992,8 @@
       "Ko uporabimo krilca, se nos zrakoplova obrne v nasprotno smer, ker navzgor odklonjeno krilce ustvarja večji upor."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Krilce navzdol ustvarja večji vzgon in upor, zato se nos obrne stran od smeri nagiba. To je sekundarni učinek krilc.",
+    "theory": "51-krmila",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1014,8 +1014,8 @@
       "Zmanjšanje vzgona in povečanje induciranega upora blizu tal."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Blizu tal so vrtinci na koncih kril omejeni, inducirani upor se zmanjša in vzgon poveča; letalo nad tlemi plava.",
+    "theory": "51-upor",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
   },
@@ -1036,8 +1036,8 @@
       "krilom in trupom letala."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vpadni kot je kot med tetivo profila in smerjo nemotenega zračnega toka.",
+    "theory": "51-profil",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1058,8 +1058,8 @@
       "debelino."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Številka 3 označuje skeletnico, srednjico med zgornjo in spodnjo stranjo profila.",
+    "theory": "51-profil",
     "images": [
       "E51-200511-00020_pfa-010.png"
     ],
@@ -1082,8 +1082,8 @@
       "Pomakne se na konce krila."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri nesimetričnem profilu se center potiska z večanjem vpadnega kota pomika naprej, do kritičnega kota.",
+    "theory": "51-profil",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1104,8 +1104,8 @@
       "Center potiska se pomakne nazaj."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Z manjšanjem vpadnega kota se center potiska nesimetričnega profila pomika nazaj.",
+    "theory": "51-profil",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1126,8 +1126,8 @@
       "Manj upora in manj vzgona"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Ob enaki masi mora biti vzgon enak, debelejši profil pa ima večji upor.",
+    "theory": "51-upor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1148,8 +1148,8 @@
       "Razmerje med najmanjšo hitrostjo spuščanja in najboljšim drsnim letom"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Polara profila prikazuje koeficient vzgona cA v odvisnosti od koeficienta upora cD pri različnih vpadnih kotih.",
+    "theory": "51-drsni-let",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1170,8 +1170,8 @@
       "laminarno obtekanje zaradi vrtinčne sledi na koncih krila."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Izenačevanje tlakov na koncih kril ustvarja vrtince in s tem inducirani upor.",
+    "theory": "51-upor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1192,8 +1192,8 @@
       "Majhen koeficient vzgona"
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kratko in globoko krilo (majhna vitkost) ima močnejše vrtince na koncih in večji inducirani upor.",
+    "theory": "51-upor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1214,8 +1214,8 @@
       "Dvojno trapezno krilo"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Eliptična razporeditev vzgona po razpetini da najmanjši inducirani upor.",
+    "theory": "51-upor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1236,8 +1236,8 @@
       "Povečanju učinkovitosti vitkosti."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Zavihki (wingleti) na koncih kril zmanjšajo vrtince in s tem inducirani upor.",
+    "theory": "51-upor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1258,8 +1258,8 @@
       "Pri korenih kril"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Upor interference nastaja na stikih delov, predvsem na korenih kril ob trupu.",
+    "theory": "51-upor",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1280,8 +1280,8 @@
       "Center potiska"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Točka 3 označuje mesto prehoda, kjer laminarna mejna plast preide v turbulentno.",
+    "theory": "51-mejna-plast",
     "images": [
       "E51-200511-00031_pfa-009.png"
     ],
@@ -1304,8 +1304,8 @@
       "Center potiska"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Točka 4 je točka separacije, kjer se mejna plast odtrga od površine.",
+    "theory": "51-mejna-plast",
     "images": [
       "E51-200511-00031_pfa-009.png"
     ],
@@ -1328,8 +1328,8 @@
       "Prevelik vpadni kot lahko povzroči eksponentno povečanje vzgona."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Prevelik vpadni kot povzroči odtrganje mejne plasti in izgubo vzgona.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1350,8 +1350,8 @@
       "se spreminja z večanjem mase."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Kritični vpadni kot ni odvisen od mase; od mase je odvisna le hitrost porušitve.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1372,8 +1372,8 @@
       "V-oblika."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Spreminjanje vgradnega kota vzdolž razpetine (manjši na koncih) je geometrijsko zvitje krila.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1394,8 +1394,8 @@
       "Zelo umazanega jadralnega letala."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Tresenje palice je posledica odtrganega toka, ki zadeva rep; je opozorilo pred porušitvijo vzgona pri premajhni hitrosti.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1416,8 +1416,8 @@
       "Krilce v desno, rahlo potisnemo višinsko krmilo, pridobimo nekaj hitrosti, vsa smerna krmila v nevtralo."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Blizu porušitve najprej zmanjšaš vpadni kot in pridobiš hitrost; krilo poravnaš previdno, smerno krmilo pa nevtraliziraš.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1438,8 +1438,8 @@
       "Krilca v nevtralo, smerno krmilo močno v smer nižjega krila."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vrij preprečiš tako, da popustiš višinsko krmilo in s smernim krmilom v stran višjega krila ustaviš vrtenje.",
+    "theory": "51-vrij",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1460,8 +1460,8 @@
       "Vrij: porušitev vzgona na zunanjem krilu, hitrost se hitro povečuje, Spirala: obtekanje na obeh krilih, stalna hitrost"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V vriju je notranje krilo porušeno in hitrost ostaja nizka in stalna. V spirali krili nosita, hitrost pa hitro narašča.",
+    "theory": "51-vrij",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1482,8 +1482,8 @@
       "zmanjša in upor poveča."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Pri porušitvi se vzgon zmanjša, upor pa poveča.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1504,8 +1504,8 @@
       "med letom skozi termično turbulenco pilot jadralnega letala ne bo poškodovan."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Nepritrjen balast se lahko premakne, zablokira krmila ali premakne masno središče izven dovoljenih meja.",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1526,8 +1526,8 @@
       "Zmanjšanje hitrosti, pri kateri pride do porušitve vzgona"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Led pokvari obliko profila in poveča maso, zato se vzgon poruši pri večji hitrosti.",
+    "theory": "51-porusitev",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1548,8 +1548,8 @@
       "Laminarna mejna plast ustvarja vzgon, turbulentna mejna plast pa ustvarja upor."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Turbulentna mejna plast ima več energije in se dlje drži ukrivljene površine, zato se pozneje odtrga.",
+    "theory": "51-mejna-plast",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1570,8 +1570,8 @@
       "zakrilca."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Okrog prečne osi letalo stabilizira horizontalni stabilizator.",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1592,8 +1592,8 @@
       "Položaj masnega središča lahko ugotovimo samo med letom."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Masno središče je v dovoljenih mejah le ob pravilni razporeditvi obremenitve (pilot, balast, prtljaga).",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1614,8 +1614,8 @@
       "Ker morda ne bo mogoče kompenzirati povečanega momenta, ki potiska nos navzdol."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Za zadnjo dovoljeno lego je letalo vzdolžno nestabilno; višinsko krmilo morda ne bo zadoščalo za nadzor.",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1636,8 +1636,8 @@
       "Odklon diferencialnih krilc"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smerno stabilnost zagotavlja vertikalni rep: ob zdrsu dobi vpadni kot in obrne nos nazaj v tok.",
+    "theory": "51-stabilnost",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1658,8 +1658,8 @@
       "naklon."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vrtenje okrog navpične osi je smer (zanašanje, yaw).",
+    "theory": "51-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1680,8 +1680,8 @@
       "porušitev vzgona."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Vrtenje okrog prečne osi je naklon (pitch).",
+    "theory": "51-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1702,8 +1702,8 @@
       "osi smernega krmila."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Smerno krmilo vrti letalo okrog navpične osi.",
+    "theory": "51-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1724,8 +1724,8 @@
       "Nagne se v desno, nos se obrne v levo."
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Desno krilce navzgor in levo navzdol nagneta letalo v desno; večji upor levega krila obrne nos v levo (sekundarni učinek).",
+    "theory": "51-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1746,8 +1746,8 @@
       "poveča hitrost spuščanja."
     ],
     "correct": 2,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Diferencialna krilca zmanjšajo sekundarni učinek krilc.",
+    "theory": "51-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1768,8 +1768,8 @@
       "T-rep"
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Aerodinamično uravnoteženje krmila zmanjša sile na komandah.",
+    "theory": "51-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1790,8 +1790,8 @@
       "Z njim trimamo komande do te mere, da krmilo popolnoma razbremenimo."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Statično (masno) uravnoteženje premakne težišče krmila na os vrtenja in prepreči flater.",
+    "theory": "51-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1812,8 +1812,8 @@
       "Položaj z nosom navzdol"
     ],
     "correct": 3,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Trimer navzgor potisne višinsko krmilo navzdol, kar spusti nos; indikator kaže položaj z nosom navzdol.",
+    "theory": "51-krmila",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1834,8 +1834,8 @@
       "Manjša gostota zraka"
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Sunek navzgor nenadoma poveča vpadni kot in vzgon, s tem pa stopnjo obremenitve.",
+    "theory": "51-obremenitve",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1856,8 +1856,8 @@
       "manjši kot med spuščanjem."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "V vzpenjanju je hitrost manjša, zato je za enak vzgon potreben večji vpadni kot; v premočrtnem letu je ta kot manjši.",
+    "theory": "51-vzgon",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1878,8 +1878,8 @@
       "Najboljši drsni kot se zmanjša, najboljša drsna hitrost ravno tako."
     ],
     "correct": 0,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Balast ne spremeni najboljšega drsnega števila, poveča pa hitrost, pri kateri ga dosežeš.",
+    "theory": "51-drsni-let",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1900,8 +1900,8 @@
       "V tej točki pravimo, da prijemljejo vse aerodinamične sile."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Na zajezni točki se tokovnice razdelijo nad in pod profil.",
+    "theory": "51-mejna-plast",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1922,8 +1922,8 @@
       "Center potiska se pomakne navzgor."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Z večanjem vpadnega kota se zajezna točka pomakne nižje na spodnjo stran vstopnega roba.",
+    "theory": "51-mejna-plast",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   },
@@ -1944,8 +1944,8 @@
       "mesto prehoda."
     ],
     "correct": 1,
-    "explanation": "",
-    "theory": "",
+    "explanation": "Točka, v kateri si mislimo prijemališče vseh aerodinamičnih sil, je center potiska.",
+    "theory": "51-profil",
     "images": [],
     "source": "Katalog izpitnih vprašanj, AK letalska šola Celje (2025)"
   }
