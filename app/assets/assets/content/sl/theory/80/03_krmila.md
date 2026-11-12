@@ -95,11 +95,6 @@ opis: Vlečna kljuka v nosu jadralnega letala. Foto: Martin Kaiser, Wikimedia Co
 - **Kljuka pri masnem središču** (pred kolesom) se uporablja za vitel: letalo se lahko strmo dvigne. Pri aerovleki z njo ima letalo tendenco dviganja nosu.
 - Kljuka za vitel ima **samodejni odklop**, ki sprosti vrv, ko je ta nazaj pod velikim kotom (ko letalo preleti vitel).
 
-## Vrvica (indikator zdrsa)
+## Nitka
 
-Vrvica na pokrovu kabine kaže, ali leti letalo koordinirano: v koordiniranem letu kaže naravnost nazaj. Popravek: pritisni pedal **nasprotno** od smeri, kamor kaže prosti konec vrvice (»stopi na glavo vrvice«).
-
-| Zavoj | Vrvica kaže | Popravek |
-|---|---|---|
-| **desni** | **v levo** | **manj nagiba, več smernega krmila v smeri zavoja** (desno) |
-| **levi** | **v levo** | **več nagiba, manj smernega krmila v smeri zavoja** |
+Nitka na pokrovu kabine kaže, ali leti letalo koordinirano. Podrobneje je razložena na strani Nitka, kroglica in G-meter.

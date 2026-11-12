@@ -773,6 +773,11 @@
               "file": "80/08_kompas.md"
             },
             {
+              "id": "80-nitka",
+              "title": "Nitka, kroglica in G-meter",
+              "file": "80/12_nitka_gmeter.md"
+            },
+            {
               "id": "80-ziroskopi",
               "title": "Žiroskopski instrumenti",
               "file": "80/10_ziroskopi.md"

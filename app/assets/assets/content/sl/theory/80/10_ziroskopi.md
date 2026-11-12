@@ -1,5 +1,10 @@
 Žiroskopski instrumenti so obvezni za letenje v oblakih in ponoči. Jadralna letala jih imajo redko, motorna pa skoraj vedno. Na zaslonih sodobnih letal jih nadomeščajo elektronski sistemi AHRS z mikroelektromehanskimi (MEMS) žiroskopi in pospeškometri.
 
+```slika
+src: img/foto_sixpack.jpg
+opis: Osnovni šest instrumentov motornega letala: zgoraj merilnik hitrosti, umetni horizont in višinomer, spodaj koordinator zavoja s kroglico, žiroskopski kompas in variometer. Foto: Meggar at English Wikipedia, Wikimedia Commons, CC BY-SA 3.0
+```
+
 ## Lastnosti žiroskopa
 
 Žiroskop je hitro vrteča se vrtavka. Ima dve lastnosti:
@@ -22,4 +27,4 @@ Umetni horizont (indikator položaja) prikazuje **nagib in naklon** letala glede
 - **Kazalnik zavoja** (ali koordinator zavoja) kaže **hitrost zavoja**. Oznaka »standardni zavoj« (rate one) pomeni **3° na sekundo**: poln krog v 2 minutah.
 - **Kroglica** (inklinometer) v ukrivljeni cevki kaže **zdrs**: v koordiniranem letu je na sredini. Ko je kroglica na eni strani, pritisneš pedal na tisti strani (»stopi na kroglico«).
 
-Kroglica deluje obratno kot vrvica na pokrovu jadralnega letala: kroglica gre v smer zdrsa, vrvica pa kaže stran od smeri, kamor letalo drsi. Pri vrvici pritisneš pedal nasprotno od konca vrvice, pri kroglici na strani kroglice.
+Kroglica deluje obratno kot nitka na pokrovu jadralnega letala: kroglica gre v smer zdrsa, nitka pa kaže stran od smeri, kamor letalo drsi. Pri nitki pritisneš pedal nasprotno od konca nitke, pri kroglici na strani kroglice.

@@ -9,13 +9,33 @@ Višinomer je aneroidni barometer. **Merjenje višine temelji na spremembi stati
 
 Višinomer ima lahko en, dva ali tri kazalce (stotice, tisočice in deset tisočice) ali bobenček s številkami. Jadralni višinomeri so pogosto metrski.
 
-**Pomožna barometrska skala** (Kollsmanovo okence) nastavi, od katerega tlačnega nivoja višinomer meri: srednji morski nivo (QNH), letališče (QFE) ali standardni tlak 1013,25 hPa. Z gumbom zasučeš skalo in kazalce hkrati.
+## Pomožna barometrska skala
 
-| Nastavitev | Kaže na tleh | Kaže med letom |
+```slika
+src: img/visinomer.png
+opis: Metrski višinomer: okence s pomožno skalo (nastavljeno 1013 hPa), gumb za nastavitev in kazalca, ki kažeta 1350 m
+```
+
+Višinomer meri tlak, višino pa izračuna glede na **referenčni tlak**, pri katerem pokaže nič. Ta tlak nastaviš na **pomožni barometrski skali** (Kollsmanovo okence): majhno okence na številčnici, v katerem je vidna skala v hektopaskalih (hPa, pri starejših ameriških instrumentih v palcih živega srebra, inHg).
+
+**Kako nastaviš**: z **gumbom** ob strani višinomera vrtiš skalo v okencu. Hkrati se premikata tudi kazalca:
+
+- ko **nastavljeni tlak povečaš**, višinomer pokaže **več** (okoli 8 m oziroma 27–30 ft za vsak hPa),
+- ko ga **zmanjšaš**, pokaže **manj**.
+
+Sprememba s 1000 na 1010 hPa poveča kazanje za okoli 80 m.
+
+**Kaj nastaviš**:
+
+| V okence nastaviš | Kdaj | Višinomer kaže |
 |---|---|---|
-| QNH | nadmorsko višino letališča | nadmorsko višino |
-| **QFE** | nič | **višino nad letališčem** |
-| 1013,25 hPa | tlačno višino letališča | **nivo leta = tlačna višina** |
+| **QFE** letališča | šolski krog, lokalno letenje | **0 na tleh**, v zraku višino nad letališčem |
+| **QNH** | prelet, letenje po karti, zračni prostor | **nadmorsko višino letališča na tleh**, v zraku nadmorsko višino |
+| **1013,25 hPa** (standard) | nad prehodno nadmorsko višino, nivoji leta | tlačno višino, nivo leta |
+
+V praksi: na tleh pred vzletom z gumbom zasučeš kazalca na **nič** (če letiš s QFE) ali na **nadmorsko višino letališča** (QNH). Vrednost v okencu je takrat QFE ali QNH. Če se nastavljeni QNH in uradni QNH (iz ATIS ali od kontrole) razlikujeta za več kot nekaj hPa, je višinomer morda v okvari.
+
+Med letom QNH sproti posodabljaš: kontrola ali FIS ga sporočita, na preletu se spreminja s tlačnim poljem. Pri nekaterih jadralnih višinomerih je pomožna skala omejena (na primer 950–1050 hPa); na visokem letališču QFE morda ne gre nastaviti, zato tam letiš s QNH.
 
 **QFE** je zračni tlak na referenčni točki letališča, **običajno na pragu steze**.
 

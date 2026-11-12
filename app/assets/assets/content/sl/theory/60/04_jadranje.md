@@ -11,6 +11,49 @@ Jadranje je izraba energije vzgornikov: **termičnih**, **pobočnih** in **valov
 - Če **nedaleč za tabo** leti drugo jadralno letalo, **povečaj hitrost**, da se v krogu premakneš **na nasprotno stran**.
 - Ko se pod velikim kumulusom, ki se razvija v nevihto, **hitro približuješ bazi oblaka**: **izvleci zračne zavore** (v mejah hitrosti) in **z največjo dovoljeno hitrostjo zapusti območje dviganja**. Nikoli ne leti v oblak brez usposobljenosti.
 
+## Hitrost med vzgorniki (McCready)
+
+Na preletu jadralni pilot izmenično **kroži v termiki** (pridobiva višino) in **leti med vzgorniki** (izgublja višino in pridobiva razdaljo). Vprašanje je, kako hitro leteti med vzgorniki:
+
+- **počasi** (pri najboljšem drsenju): izgubiš malo višine, a porabiš veliko časa,
+- **hitro**: prideš hitreje do naslednje termike, a izgubiš več višine, ki jo moraš nato v termiki spet pridobiti.
+
+Paul **MacCready** (pogosto pisano McCready) je leta 1954 pokazal, da obstaja hitrost, pri kateri je **povprečna potovalna hitrost največja**. Odvisna je od **dviganja, ki ga pričakuješ v naslednjem vzgorniku**: čim močnejša je termika, tem hitreje se splača leteti, ker izgubljeno višino hitro nadoknadiš.
+
+### Kako jo določiš s polaro
+
+Na polari (hitrost padanja v odvisnosti od hitrosti leta) narišeš premico iz točke na navpični osi, ki ustreza **pričakovanemu dviganju** (nad ničlo), in jo položiš tako, da se polare **dotakne**. Hitrost v dotikališču je optimalna hitrost med vzgorniki.
+
+- Pri pričakovanem dviganju **0** se premica začne v izhodišču: to je **hitrost najboljšega drsenja**.
+- Pri pričakovanem dviganju 2 m/s je optimalna hitrost precej večja.
+- Če med letom letiš skozi **vzdolnik**, se optimalna hitrost še poveča (prečkaj ga hitro); v **dviganju** brez kroženja se zmanjša.
+
+```interaktivno
+id: polara
+```
+
+### McCreadyjev obroč
+
+Na mehanskem variometru je **vrtljiv obroč** s skalo hitrosti. Postopek:
+
+1. Indeks (puščico) obroča zasučeš na **pričakovano dviganje** v naslednji termiki (na primer 2 m/s).
+2. Med letom med vzgorniki odčitaš hitrost na obroču **ob kazalcu variometra**.
+3. Leti s to hitrostjo; ko variometer pokaže močnejše padanje (vzdolnik), obroč pokaže večjo hitrost, v dviganju manjšo.
+
+Obroč je narejen za polaro določenega letala in maso; z vodnim balastom potrebuješ drug obroč ali popravek. Navigacijski računalniki namesto obroča pokažejo **zahtevano hitrost** (speed to fly) in jo sporočajo z zvokom: pilot sledi zvoku in leti »kot delfin«, počasneje v dviganju in hitreje v padanju, pogosto brez kroženja pod oblačnimi cestami.
+
+### Nastavitev McCready v praksi
+
+| Razmere | Nastavitev MC |
+|---|---|
+| močna termika, dovolj višine, dobro vreme naprej | pričakovano povprečno dviganje (na primer 2–3 m/s) |
+| šibka termika, slabšanje vremena | nizka (0,5–1 m/s) |
+| **nizko nad terenom**, iskanje polja, končni dolet z malo rezerve | **0**: najboljše drsenje, največji doseg |
+
+Previsoka nastavitev pomeni hiter let, a več izgubljene višine; če naslednji vzgornik ni tako močan, kot si pričakoval, lahko pristaneš izven letališča. Zato izkušeni piloti nastavijo MC nekoliko nižje od pričakovanega dviganja, ko se razmere slabšajo ali ko so nizko.
+
+V čelnem vetru leti nekoliko hitreje, v hrbtnem nekoliko počasneje od hitrosti po McCreadyju.
+
 ## Pobočno jadranje
 
 ```slika

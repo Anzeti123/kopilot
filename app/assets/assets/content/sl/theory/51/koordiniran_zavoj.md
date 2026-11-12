@@ -1,4 +1,4 @@
-**Koordiniran zavoj** je zavoj brez drsenja in zanašanja: vzdolžna os letala ves čas sledi tirnici leta, zrak pa priteka naravnost od spredaj. Vrvica na kabini je na sredini, kroglica v libeli prav tako.
+**Koordiniran zavoj** je zavoj brez drsenja in zanašanja: vzdolžna os letala ves čas sledi tirnici leta, zrak pa priteka naravnost od spredaj. Nitka na kabini je na sredini, kroglica v libeli prav tako.
 
 ## Zakaj se letalo obrne
 
@@ -68,7 +68,7 @@ id: nagib
 - **Drsenje**: premalo smernega krmila za dani nagib. Letalo drsi proti notranjosti zavoja, kroglica je na **notranji** strani.
 - **Zanašanje**: preveč smernega krmila. Rep zanaša navzven, kroglica je na **zunanji** strani.
 
-Popravek s kroglico: **stopi na kroglico** – pritisni pedal na tisti strani, kamor je odklonjena. Z vrvico je obratno: pritisni pedal na nasprotni strani od tiste, kamor kaže prosti konec vrvice.
+Popravek s kroglico: **stopi na kroglico** – pritisni pedal na tisti strani, kamor je odklonjena. Z nitko je obratno: pritisni pedal na nasprotni strani od tiste, kamor kaže prosti konec nitke.
 
 ```opomba
 Zanašanje je nevarnejše od drsenja. Notranje krilo je v zanašanju počasnejše in na večjem napadnem kotu, zato se lahko vzgon na njem poruši prvi – letalo preide v vrij v smeri zavoja. Nosu nikoli ne potiskaj okoli zavoja s smernim krmilom.

@@ -25,7 +25,7 @@ Ko višina pade pod vnaprej določeno varno vrednost, takoj nadaljuj z bazo in k
 
 ## Bočni veter
 
-Pri močnem bočnem vetru izvedeš **četrti zavoj** (v končni prilet) z **največ 30° nagiba**, pozorno spremljaš **hitrost in nitko** (vrvico) in **popravljaš smer zaradi zanosa**. V končnem priletu letiš z nosom malo proti vetru ali s spuščenim krilom proti vetru.
+Pri močnem bočnem vetru izvedeš **četrti zavoj** (v končni prilet) z **največ 30° nagiba**, pozorno spremljaš **hitrost in nitko** in **popravljaš smer zaradi zanosa**. V končnem priletu letiš z nosom malo proti vetru ali s spuščenim krilom proti vetru.
 
 ## Striženje vetra
 

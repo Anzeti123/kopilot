@@ -19,7 +19,7 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "e58fc32f11c2";
+const VERSION = "b44a34fb2b69";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
@@ -29,11 +29,11 @@ const FILES = [
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "ea444fdcefcb8ce0"
+    "h": "c4346c33ae5c8e1f"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "deded86714c070f7"
+    "h": "136c5e05bcf7462b"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -760,7 +760,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/51/koordiniran_zavoj.md",
-    "h": "d5b188ae00591fd5"
+    "h": "742b569ad757e045"
   },
   {
     "u": "assets/assets/content/sl/theory/60/01_priprava.md",
@@ -776,11 +776,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/60/04_jadranje.md",
-    "h": "15b353d9dbcac4c1"
+    "h": "df71ad640099a046"
   },
   {
     "u": "assets/assets/content/sl/theory/60/05_pristanek.md",
-    "h": "994e89efba662a05"
+    "h": "d30c3c63a9ff88b8"
   },
   {
     "u": "assets/assets/content/sl/theory/60/06_izven.md",
@@ -851,7 +851,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/03_krmila.md",
-    "h": "6d69ec93fd422fc2"
+    "h": "dd84d040e0ade404"
   },
   {
     "u": "assets/assets/content/sl/theory/80/04_pitot.md",
@@ -859,7 +859,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/05_visinomer.md",
-    "h": "9afdbc7d04e2c1fe"
+    "h": "572fdb4024939110"
   },
   {
     "u": "assets/assets/content/sl/theory/80/06_hitrost.md",
@@ -867,7 +867,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/07_variometer.md",
-    "h": "c114fe3d7d08a709"
+    "h": "7395e0b9e8fa0ba0"
   },
   {
     "u": "assets/assets/content/sl/theory/80/08_kompas.md",
@@ -879,11 +879,15 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/10_ziroskopi.md",
-    "h": "70cf00fbea729357"
+    "h": "e93a47f6e1d8db7d"
   },
   {
     "u": "assets/assets/content/sl/theory/80/11_avionika.md",
-    "h": "b4df34d5be04abd1"
+    "h": "61268545af435284"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/12_nitka_gmeter.md",
+    "h": "d0c1b2c3958c8cdb"
   },
   {
     "u": "assets/assets/content/sl/theory/80/img/foto_alt.jpg",
@@ -913,6 +917,11 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/theory/80/img/foto_engine.jpg",
     "h": "1bfae17db988e92e",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_flarm.jpg",
+    "h": "9393349b1a3e424e",
     "l": 1
   },
   {
@@ -951,6 +960,11 @@ const FILES = [
     "l": 1
   },
   {
+    "u": "assets/assets/content/sl/theory/80/img/foto_sixpack.jpg",
+    "h": "0e8d5f28d603e1e0",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/80/img/foto_static.jpg",
     "h": "c537733790097903",
     "l": 1
@@ -971,13 +985,38 @@ const FILES = [
     "l": 1
   },
   {
+    "u": "assets/assets/content/sl/theory/80/img/foto_vario.jpg",
+    "h": "82b9063d4a3d2d4a",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_vario_te.jpg",
+    "h": "e5a3097840b6c3bb",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/gmeter.png",
+    "h": "5a560162b36f677f",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/80/img/krilo.png",
     "h": "1de7ba7ec757293c",
     "l": 1
   },
   {
+    "u": "assets/assets/content/sl/theory/80/img/nitka.png",
+    "h": "4c04562a8bd9cfc0",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/80/img/pitot.png",
     "h": "72974b132995fb9c",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/visinomer.png",
+    "h": "3ae3f34fac6bf412",
     "l": 1
   },
   {
@@ -1038,7 +1077,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/index.json",
-    "h": "d2c93392bc71cacb"
+    "h": "bff6a112985a4bff"
   },
   {
     "u": "assets/assets/fonts/KopilotSymbols-Bold.ttf",
@@ -1279,7 +1318,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "6a6590b0686ab6be"
+    "h": "c928633b6910fb81"
   },
   {
     "u": "manifest.json",
