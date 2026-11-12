@@ -5,6 +5,11 @@ src: img/foto_sixpack.jpg
 opis: Osnovni šest instrumentov motornega letala: zgoraj merilnik hitrosti, umetni horizont in višinomer, spodaj koordinator zavoja s kroglico, žiroskopski kompas in variometer. Foto: Meggar at English Wikipedia, Wikimedia Commons, CC BY-SA 3.0
 ```
 
+```slika
+src: img/foto_efis.jpg
+opis: Stekleni kokpit: žiroskopske instrumente nadomeščajo zasloni, ki podatke dobijo iz elektronskega sistema AHRS. Foto: H. Michael Miley, Wikimedia Commons, CC BY-SA 2.0
+```
+
 ## Lastnosti žiroskopa
 
 Žiroskop je hitro vrteča se vrtavka. Ima dve lastnosti:

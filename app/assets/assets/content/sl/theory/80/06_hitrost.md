@@ -1,8 +1,8 @@
 ## Delovanje
 
 ```slika
-src: img/foto_asi.jpg
-opis: Merilnik hitrosti z barvnimi oznakami (motorno letalo, skala v vozlih). Ilustracija: US Government (FAA), Wikimedia Commons, javna last
+src: img/foto_asi_real.jpg
+opis: Merilnik hitrosti jadralnega letala (skala v vozlih): začne se levo spodaj, gre v smeri urinega kazalca in se nad 100 kt zavije proti sredini; zelen in rumen lok, rdeča črta in rumen trikotnik. Vir: gliding.world (BGA)
 ```
 
 Merilnik hitrosti **meri skupni tlak in ga primerja s statičnim tlakom**. V ohišju je doza, v katero priteka skupni tlak iz Pitotove cevi, okoli nje pa je statični tlak. Doza se razteza sorazmerno z **razliko med skupnim in statičnim tlakom** (dinamični tlak). To potrebuje za določitev **IAS**.
@@ -27,12 +27,43 @@ Pri jadralnih letalih z velikimi višinami (val) se $V_{NE}$ z višino **zmanjš
 
 ## Barvne oznake
 
-| Oznaka | Pomen |
+Barvne oznake na merilniku hitrosti so **omejitve letala**, prenesene na številčnico, da jih pilot vidi med letom brez branja priročnika. Vse veljajo za IAS.
+
+### Jadralno letalo (CS-22)
+
+```slika
+src: img/hitrost.png
+opis: Barvne oznake na merilniku hitrosti jadralnega letala (ponazoritev, vrednosti niso za konkretno letalo)
+```
+
+| Oznaka | Od – do | Pomen |
+|---|---|---|
+| **bel lok** (če ima letalo zakrilca) | od $V_{S0}$ do $V_{FE}$ | območje, v katerem smeš uporabljati zakrilca v pristajalnem položaju |
+| **zelen lok** | od $1{,}1\,V_{S1}$ do $V_{RA}$ | **normalno območje**: letiš v turbulenci in s polnimi odkloni krmil (do manevrske hitrosti) |
+| **rumen lok** | od $V_{RA}$ do $V_{NE}$ | **opozorilno območje**: letenje **samo v mirnem zraku brez sunkov**, krmila odklanjaš le malo (priročniki pogosto dovolijo pri $V_{NE}$ največ tretjino hoda) |
+| **rdeča črta** | $V_{NE}$ | hitrost, **ki se je ne sme prekoračiti, ne glede na okoliščine** (flater, preobremenitev) |
+| **rumen trikotnik** | ena hitrost | **najmanjša priporočena priletna hitrost** pri največji masi brez vodnega balasta |
+| modra črta (motorna jadralna letala) | $V_Y$ | hitrost najboljšega vzpenjanja z motorjem |
+
+$V_{S1}$ je hitrost porušitve vzgona pri največji masi, $V_{S0}$ v pristajalni konfiguraciji, $V_{FE}$ največja hitrost z izvlečenimi zakrilci, $V_{RA}$ pa največja hitrost v **močni turbulenci** (rough air).
+
+### Motorno letalo (CS-23)
+
+| Oznaka | Od – do |
 |---|---|
-| bel lok | območje uporabe zakrilc |
-| zelen lok | normalno območje |
-| **rumen lok** | **opozorilno območje**: letenje **samo v mirnem zraku brez sunkov**, da se izogneš preobremenitvi |
-| **rdeča črta** | $V_{NE}$: hitrost, **ki se je ne sme prekoračiti, ne glede na okoliščine** |
-| rumen trikotnik | priporočena najmanjša priletna hitrost (jadralna letala) |
+| bel lok | $V_{S0}$ do $V_{FE}$ (zakrilca) |
+| zelen lok | $V_{S1}$ do $V_{NO}$ (največja potovalna hitrost za normalno uporabo) |
+| rumen lok | $V_{NO}$ do $V_{NE}$ (samo v mirnem zraku) |
+| rdeča črta | $V_{NE}$ |
+
+### Hitrosti, ki niso označene na instrumentu
+
+Na tablici v kabini in v priročniku so še:
+
+- **$V_A$**: manevrska hitrost (polni odkloni krmil),
+- **$V_T$**: največja hitrost v **aerovleki**,
+- **$V_W$**: največja hitrost pri **vzletu z vitlom**,
+- največja hitrost za izvlek podvozja in zavor (pri nekaterih letalih),
+- tabela zmanjšanja $V_{NE}$ z višino.
 
 Podatke o največji dovoljeni hitrosti najdeš **v letalnem priročniku, na plošči z instrumenti in na merilniku hitrosti**.

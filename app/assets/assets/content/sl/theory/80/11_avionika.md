@@ -17,20 +17,7 @@ Obvezni instrumenti jadralnega letala za let VFR podnevi so **merilnik hitrosti,
 | **ELT** | oddajnik v sili, ki se ob udarcu samodejno vklopi in oddaja na 406 MHz in 121,5 MHz |
 | kisikov sistem | jeklenka, reducirni ventil in maska ali kanila za letenje na velikih višinah |
 
-## FLARM
-
-```slika
-src: img/foto_flarm.jpg
-opis: Zgodnja naprava FLARM na armaturni plošči jadralnega letala. Foto: Piet Barber, Wikimedia Commons, CC BY 3.0
-```
-
-**FLARM** je naprava za opozarjanje na nevarnost trka, razvita za jadralna letala. Vsaka naprava iz GNSS izračuna svoj položaj, hitrost in **predvideno pot** za naslednjih nekaj sekund ter jih po radiu oddaja drugim napravam. Iz prejetih podatkov izračuna, ali se poti sekata, in opozori:
-
-- z zvokom in svetlečimi diodami pokaže **smer** (ura) in **višino** (nad, pod) nevarnega letala,
-- opozorilo ima več stopenj glede na čas do morebitnega trka; najnujnejše se oglasi le nekaj sekund pred njim,
-- pogosto opozarja tudi na **ovire** (žičnice, daljnovode) iz podatkovne baze.
-
-Omejitve: FLARM vidi samo letala z združljivo napravo. Novejše naprave (PowerFLARM) sprejemajo tudi signale transponderjev in ADS-B, a ne vseh. Opozorila nikoli niso nadomestilo za gledanje ven.
+Navigacijski računalnik, logger, FLARM, transponder in ADS-B so podrobneje opisani na strani Navigacijski računalnik, FLARM, transponder in ADS-B.
 
 ## Električni sistem
 

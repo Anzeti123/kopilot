@@ -19,7 +19,7 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "b44a34fb2b69";
+const VERSION = "71ddd06e4b7b";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
@@ -29,11 +29,11 @@ const FILES = [
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "c4346c33ae5c8e1f"
+    "h": "dec80eb8f9f0ddd9"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "136c5e05bcf7462b"
+    "h": "d876a1b5c3e4b920"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -863,11 +863,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/06_hitrost.md",
-    "h": "9aa7c8c86b33fbc5"
+    "h": "39bd2954ca66fc73"
   },
   {
     "u": "assets/assets/content/sl/theory/80/07_variometer.md",
-    "h": "7395e0b9e8fa0ba0"
+    "h": "16e335106c2e4928"
   },
   {
     "u": "assets/assets/content/sl/theory/80/08_kompas.md",
@@ -879,15 +879,19 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/10_ziroskopi.md",
-    "h": "e93a47f6e1d8db7d"
+    "h": "a3fc6e4602e712d8"
   },
   {
     "u": "assets/assets/content/sl/theory/80/11_avionika.md",
-    "h": "61268545af435284"
+    "h": "54ecc1b786605bd1"
   },
   {
     "u": "assets/assets/content/sl/theory/80/12_nitka_gmeter.md",
     "h": "d0c1b2c3958c8cdb"
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/13_elektronika.md",
+    "h": "ee1f3c7c074f9eaa"
   },
   {
     "u": "assets/assets/content/sl/theory/80/img/foto_alt.jpg",
@@ -895,8 +899,8 @@ const FILES = [
     "l": 1
   },
   {
-    "u": "assets/assets/content/sl/theory/80/img/foto_asi.jpg",
-    "h": "bb08ccf5a31411cc",
+    "u": "assets/assets/content/sl/theory/80/img/foto_asi_real.jpg",
+    "h": "c5792fa9bd602582",
     "l": 1
   },
   {
@@ -915,13 +919,18 @@ const FILES = [
     "l": 1
   },
   {
+    "u": "assets/assets/content/sl/theory/80/img/foto_efis.jpg",
+    "h": "1cdc83c79ce78f39",
+    "l": 1
+  },
+  {
     "u": "assets/assets/content/sl/theory/80/img/foto_engine.jpg",
     "h": "1bfae17db988e92e",
     "l": 1
   },
   {
-    "u": "assets/assets/content/sl/theory/80/img/foto_flarm.jpg",
-    "h": "9393349b1a3e424e",
+    "u": "assets/assets/content/sl/theory/80/img/foto_flarm2.jpg",
+    "h": "36fc5a61a8f0d817",
     "l": 1
   },
   {
@@ -937,6 +946,11 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/theory/80/img/foto_levers.jpg",
     "h": "ae8aa31d8981f0ea",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/foto_navpanel.jpg",
+    "h": "0ba2bdfbf7dbef41",
     "l": 1
   },
   {
@@ -997,6 +1011,11 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/theory/80/img/gmeter.png",
     "h": "5a560162b36f677f",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/theory/80/img/hitrost.png",
+    "h": "680f05ecfbd5e3f1",
     "l": 1
   },
   {
@@ -1077,7 +1096,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/index.json",
-    "h": "bff6a112985a4bff"
+    "h": "7d5dc3b567f36ea2"
   },
   {
     "u": "assets/assets/fonts/KopilotSymbols-Bold.ttf",

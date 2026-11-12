@@ -43,4 +43,4 @@ opis: Variometer s kompenzacijo skupne energije: izenačevalna posoda (capacity 
 
 - **McCreadyjev obroč** ali računalnik pove optimalno hitrost leta med vzgorniki (glej predmet Zmogljivosti).
 - **Integrator** pokaže povprečno dviganje zadnjih 20–30 sekund, kar je pri kroženju bolj uporabno kot trenutno kazanje.
-- **Navigacijski računalnik** (na primer LX, XCSoar, Oudie) združi variometer, GNSS, polaro in karto: pokaže potrebno višino do cilja, veter in termične podatke.
+- **Navigacijski računalnik** združi variometer, GNSS, polaro in karto: pokaže potrebno višino do cilja, veter in termične podatke.

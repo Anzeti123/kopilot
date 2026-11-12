@@ -786,6 +786,11 @@
               "id": "80-avionika",
               "title": "Avionika, elektrika in oprema",
               "file": "80/11_avionika.md"
+            },
+            {
+              "id": "80-elektronika",
+              "title": "Navigacijski računalnik, FLARM, transponder in ADS-B",
+              "file": "80/13_elektronika.md"
             }
           ]
         },
