@@ -32,6 +32,10 @@ src: img/foto_condensation.jpg
 opis: Nad krilom lovca se je zaradi nizkega tlaka vlaga v zraku kondenzirala v oblak: vidno območje podtlaka na zgornji strani. Foto: Bill Abbott, Wikimedia Commons, CC BY-SA 2.0
 ```
 
+```interaktivno
+id: profil
+```
+
 ## Viskoznost in Reynoldsovo število
 
 Zrak je **viskozen** (lepljiv): ob površini se ustavi, nad njo pa se hitrost postopno povečuje (mejna plast). **Reynoldsovo število** pove razmerje med vztrajnostnimi in viskoznimi silami:

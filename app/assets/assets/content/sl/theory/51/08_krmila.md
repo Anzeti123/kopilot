@@ -20,6 +20,12 @@ Krilce, ki se odkloni navzdol, poveča vzgon in **upor** na svojem krilu. Ko se 
 
 **Diferencialna krilca** se navzgor odklonijo več kot navzdol. **Upor navzdol odklonjenega krilca je manjši**, zato je **sekundarni učinek manjši**. Ostanek odpraviš s sočasnim pritiskom na smerno krmilo.
 
+**Sekundarni učinek smernega krmila**: ko smerno krmilo zasuka nos, je zunanje krilo hitrejše od notranjega in ima več vzgona, zato se letalo z zakasnitvijo **nagne v smer zavijanja**.
+
+```interaktivno
+id: krilca
+```
+
 ## Uravnoteženje krmil
 
 - **Aerodinamično uravnoteženje** (del krmila pred osjo vrtenja, servo jezički) **zmanjša sile na komandah**.
@@ -28,6 +34,10 @@ Krilce, ki se odkloni navzdol, poveča vzgon in **upor** na svojem krilu. Ko se 
 ## Trimer
 
 Trimer odstrani silo na palici pri želeni hitrosti. Ko je **trimer na višinskem krmilu odklonjen navzgor**, potisne višinsko krmilo navzdol: indikator trimerja kaže **položaj z nosom navzdol** (večja hitrost).
+
+```interaktivno
+id: trimer
+```
 
 ## Učinkovitost krmil
 

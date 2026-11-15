@@ -21,6 +21,11 @@ opis: Suha motnost nad dolino: oddaljeni hribi izginjajo v sivi meglici. Foto: K
 src: img/foto_radfog.jpg
 opis: Radiacijska megla zjutraj v dolini. Foto: Kreuzschnabel, Wikimedia Commons, CC BY-SA 3.0
 ```
+
+```interaktivno
+id: megla
+```
+
 - **Advekcijska megla** nastane, ko se **topel, vlažen zrak pomika nad hladno površje** (hladna tla ali morje). Lahko nastane podnevi in ob vetru.
 
 ```slika

@@ -35,6 +35,10 @@ Kroglica in nitka kažeta isto stanje, le popravek se bere različno: pri krogli
 
 V motornih letalih je kroglica del **koordinatorja zavoja** ali kazalnika zavoja in drsenja (glej Žiroskopski instrumenti).
 
+```interaktivno
+id: nitka-kroglica
+```
+
 ## G-meter
 
 ```slika

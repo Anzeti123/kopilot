@@ -19,13 +19,13 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "44b0733a5a07";
+const VERSION = "f4d77c36c1a2";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "5697689f32de81db"
+    "h": "532eac6956411b2c"
   },
   {
     "u": "assets/AssetManifest.bin",
@@ -45,15 +45,15 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/manual/aircraft.json",
-    "h": "9009f69c9aed65d8"
+    "h": "29025ae228ad9149"
   },
   {
     "u": "assets/assets/content/sl/manual/airfields.json",
-    "h": "9c78c7f470cb6c70"
+    "h": "900e662f232116b0"
   },
   {
     "u": "assets/assets/content/sl/manual/checklists.json",
-    "h": "7af89f334c102e65"
+    "h": "bb9b19906ca0bb56"
   },
   {
     "u": "assets/assets/content/sl/manual/circuit_route.png",
@@ -61,11 +61,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/manual/glossary.json",
-    "h": "0b6503de3cf9427b"
+    "h": "bc3abeeecadb3468"
   },
   {
     "u": "assets/assets/content/sl/manual/mnemonics.json",
-    "h": "ef546c9f50c82199"
+    "h": "901436acc883c97c"
   },
   {
     "u": "assets/assets/content/sl/manual/preflight_route.png",
@@ -73,11 +73,11 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/manual/procedures.json",
-    "h": "224653c87cc479f7"
+    "h": "148f85ec1b0c2a8f"
   },
   {
     "u": "assets/assets/content/sl/manual/radio_conversations.json",
-    "h": "435758351ddb7a37"
+    "h": "3d092fa0e25f5c80"
   },
   {
     "u": "assets/assets/content/sl/manual/signals.json",
@@ -101,39 +101,39 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/questions/10_air_law.json",
-    "h": "24b36a78eda294f9"
+    "h": "2332f972054ae8c0"
   },
   {
     "u": "assets/assets/content/sl/questions/20_human_performance.json",
-    "h": "4217866a095790f3"
+    "h": "e7ddfb07ffb44923"
   },
   {
     "u": "assets/assets/content/sl/questions/30_meteorology.json",
-    "h": "ec27eddd269baa06"
+    "h": "e510c08088390e96"
   },
   {
     "u": "assets/assets/content/sl/questions/40_communication.json",
-    "h": "7e4aadf36b39774f"
+    "h": "c86df1c2bb0d7258"
   },
   {
     "u": "assets/assets/content/sl/questions/51_principles_of_flight_aeroplane.json",
-    "h": "e9ec08cec8915fed"
+    "h": "ab6fa4dc70e4313d"
   },
   {
     "u": "assets/assets/content/sl/questions/60_operational_procedures.json",
-    "h": "b1d7379dd86eff4c"
+    "h": "1faac67afae07d24"
   },
   {
     "u": "assets/assets/content/sl/questions/70_flight_performance_and_planning.json",
-    "h": "cb191ae1c15f424e"
+    "h": "8d8165820e2d04ce"
   },
   {
     "u": "assets/assets/content/sl/questions/80_aircraft_general_knowledge.json",
-    "h": "1a481b58c77d7a6b"
+    "h": "4ea358e31b33bd57"
   },
   {
     "u": "assets/assets/content/sl/questions/90_navigation.json",
-    "h": "f6328d32227e82aa"
+    "h": "1564f860d9e8184d"
   },
   {
     "u": "assets/assets/content/sl/questions/images/E10-200511-00254_alw-020.png",
@@ -225,51 +225,51 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/10/01_pravo.md",
-    "h": "76f7d56d5ad1c257"
+    "h": "f10f9078f1aece17"
   },
   {
     "u": "assets/assets/content/sl/theory/10/02_plovnost.md",
-    "h": "7d77655ebd8ff97e"
+    "h": "e2df387047101e62"
   },
   {
     "u": "assets/assets/content/sl/theory/10/03_licence.md",
-    "h": "90cdb807523806c9"
+    "h": "d38bba33e949f1ba"
   },
   {
     "u": "assets/assets/content/sl/theory/10/04_pravila.md",
-    "h": "062bf3655d6216f8"
+    "h": "5fd085a245ffb0ff"
   },
   {
     "u": "assets/assets/content/sl/theory/10/05_vmc.md",
-    "h": "92ef058f0dabc5c1"
+    "h": "f50c1ba469f454a1"
   },
   {
     "u": "assets/assets/content/sl/theory/10/06_prestrezanje.md",
-    "h": "6282263eae179f25"
+    "h": "116fd083a0727304"
   },
   {
     "u": "assets/assets/content/sl/theory/10/07_zracni_prostor.md",
-    "h": "68c87fee1f582c17"
+    "h": "ebcb46fd724edc12"
   },
   {
     "u": "assets/assets/content/sl/theory/10/08_ais.md",
-    "h": "62d568a9d9ccc404"
+    "h": "279cb88db24c997c"
   },
   {
     "u": "assets/assets/content/sl/theory/10/09_letalisca.md",
-    "h": "e55b26763feacb5b"
+    "h": "a8ddbf2171d4a027"
   },
   {
     "u": "assets/assets/content/sl/theory/10/10_signali.md",
-    "h": "f936d089d1119a8a"
+    "h": "9ae12db9cf306ab7"
   },
   {
     "u": "assets/assets/content/sl/theory/10/11_sar.md",
-    "h": "0e9746407fff4808"
+    "h": "f872b3727be521e8"
   },
   {
     "u": "assets/assets/content/sl/theory/10/12_nesrece.md",
-    "h": "b581ae0cb9db76d1"
+    "h": "9de9e753e5db143a"
   },
   {
     "u": "assets/assets/content/sl/theory/10/img/foto_beacon.jpg",
@@ -298,55 +298,55 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/20/01_cloveski_faktor.md",
-    "h": "9a60ab756d03cfce"
+    "h": "cc9436979e867b8a"
   },
   {
     "u": "assets/assets/content/sl/theory/20/02_atmosfera.md",
-    "h": "93c49ead38e6bf8e"
+    "h": "7d363547641fa96f"
   },
   {
     "u": "assets/assets/content/sl/theory/20/03_hipoksija.md",
-    "h": "9802c611bca4f7b9"
+    "h": "d347f735da316941"
   },
   {
     "u": "assets/assets/content/sl/theory/20/04_telo.md",
-    "h": "34907ab9ac89c0e4"
+    "h": "e3efea5b87042055"
   },
   {
     "u": "assets/assets/content/sl/theory/20/05_vid.md",
-    "h": "98fb171a769a826d"
+    "h": "52fc69d09fcc1f55"
   },
   {
     "u": "assets/assets/content/sl/theory/20/06_ravnotezje.md",
-    "h": "d76180a44ffb3197"
+    "h": "d82b1f9627fc3332"
   },
   {
     "u": "assets/assets/content/sl/theory/20/07_iluzije.md",
-    "h": "90c08b167eeda9c2"
+    "h": "ac53017e4bdf4a0b"
   },
   {
     "u": "assets/assets/content/sl/theory/20/08_pospeski.md",
-    "h": "8885e6b8a59f448b"
+    "h": "397fb61f20bf0f14"
   },
   {
     "u": "assets/assets/content/sl/theory/20/09_spomin.md",
-    "h": "c7df16f98f57a11b"
+    "h": "7d417991f81789b4"
   },
   {
     "u": "assets/assets/content/sl/theory/20/10_napake.md",
-    "h": "cdf6149393c67fe9"
+    "h": "0049aaba7b7cf857"
   },
   {
     "u": "assets/assets/content/sl/theory/20/11_odlocanje.md",
-    "h": "ed1f92628e31c39a"
+    "h": "8a916d42eea102d8"
   },
   {
     "u": "assets/assets/content/sl/theory/20/12_stres.md",
-    "h": "b129c91ce2b1f954"
+    "h": "1096e6492b8515e0"
   },
   {
     "u": "assets/assets/content/sl/theory/20/13_okolje.md",
-    "h": "2125f32eb139b95e"
+    "h": "d4db2c680f6b0e72"
   },
   {
     "u": "assets/assets/content/sl/theory/20/img/foto_ear.jpg",
@@ -370,71 +370,71 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/30/01_atmosfera.md",
-    "h": "ace284dc181d42a2"
+    "h": "afef7bcd3a2498a4"
   },
   {
     "u": "assets/assets/content/sl/theory/30/02_temperatura.md",
-    "h": "dd923de482a298f2"
+    "h": "5d631eb688f319ec"
   },
   {
     "u": "assets/assets/content/sl/theory/30/03_tlak_isa.md",
-    "h": "096c517be46deaea"
+    "h": "74fa2dba2a6b36ac"
   },
   {
     "u": "assets/assets/content/sl/theory/30/04_veter.md",
-    "h": "6bda08c63d0efda7"
+    "h": "2747af8a7d6776f2"
   },
   {
     "u": "assets/assets/content/sl/theory/30/05_vlaga.md",
-    "h": "e576931a0ed0848d"
+    "h": "2147690b04f1a4c4"
   },
   {
     "u": "assets/assets/content/sl/theory/30/06_oblaki.md",
-    "h": "16aad37fe7595fd9"
+    "h": "1202ff11f662524d"
   },
   {
     "u": "assets/assets/content/sl/theory/30/07_megla.md",
-    "h": "9c12df65e4bfdc58"
+    "h": "46d9190c1bf5ff7d"
   },
   {
     "u": "assets/assets/content/sl/theory/30/08_zracne_mase.md",
-    "h": "2c6ee2113cef386c"
+    "h": "277421f32666bcef"
   },
   {
     "u": "assets/assets/content/sl/theory/30/09_fronte.md",
-    "h": "3387b4040a67cdbb"
+    "h": "ecd81090fa20cae3"
   },
   {
     "u": "assets/assets/content/sl/theory/30/10_tlacni_sistemi.md",
-    "h": "0be6a62560b02d03"
+    "h": "73a8aaae5b77d0a2"
   },
   {
     "u": "assets/assets/content/sl/theory/30/11_fen.md",
-    "h": "f102546b4e4ff236"
+    "h": "077d0dac80817e5f"
   },
   {
     "u": "assets/assets/content/sl/theory/30/12_zaledenitev.md",
-    "h": "9ff177c5f2ed2c46"
+    "h": "9dc38e026980b42f"
   },
   {
     "u": "assets/assets/content/sl/theory/30/13_turbulenca.md",
-    "h": "de1c106349b4d271"
+    "h": "171b0fe1aef9bd21"
   },
   {
     "u": "assets/assets/content/sl/theory/30/14_nevihte.md",
-    "h": "e304dac33b3cc3d9"
+    "h": "63ba927539ce9309"
   },
   {
     "u": "assets/assets/content/sl/theory/30/15_informacije.md",
-    "h": "44d69902240ebfaf"
+    "h": "9f4af8b58714dfa0"
   },
   {
     "u": "assets/assets/content/sl/theory/30/16_termika.md",
-    "h": "8d66dd9e74207809"
+    "h": "1325906e41f9dfb5"
   },
   {
     "u": "assets/assets/content/sl/theory/30/17_skewt.md",
-    "h": "867ce8402f2a9b86"
+    "h": "fcc8e2a622d0c1b4"
   },
   {
     "u": "assets/assets/content/sl/theory/30/img/fen.png",
@@ -568,71 +568,71 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/40/01_valovanje.md",
-    "h": "0a58a5923bd77d2f"
+    "h": "4e3814f887560d60"
   },
   {
     "u": "assets/assets/content/sl/theory/40/02_obmocja.md",
-    "h": "631f0cf2e0399f86"
+    "h": "619e49bb8a419255"
   },
   {
     "u": "assets/assets/content/sl/theory/40/03_sirjenje.md",
-    "h": "5396f6f16c550c74"
+    "h": "174288f5ef2ae02c"
   },
   {
     "u": "assets/assets/content/sl/theory/40/04_vhf_kanali.md",
-    "h": "3e541c3c80ebdea8"
+    "h": "a4545746a0dc21fb"
   },
   {
     "u": "assets/assets/content/sl/theory/40/05_postaja.md",
-    "h": "8b6d615bb9338647"
+    "h": "5abb64c7fc659598"
   },
   {
     "u": "assets/assets/content/sl/theory/40/06_abeceda.md",
-    "h": "7088d21424ffdca0"
+    "h": "541fb54c38c15189"
   },
   {
     "u": "assets/assets/content/sl/theory/40/07_stevila.md",
-    "h": "270542c5034a34d2"
+    "h": "0d01b7c08487ea37"
   },
   {
     "u": "assets/assets/content/sl/theory/40/08_zveza.md",
-    "h": "41448bad03bbbca4"
+    "h": "073dd2d06eaa606d"
   },
   {
     "u": "assets/assets/content/sl/theory/40/09_izrazi.md",
-    "h": "e986527612f3bad1"
+    "h": "7627776073287bf0"
   },
   {
     "u": "assets/assets/content/sl/theory/40/10_ponovitev.md",
-    "h": "22ffff03baa27f7f"
+    "h": "b2a4cfdcc499c043"
   },
   {
     "u": "assets/assets/content/sl/theory/40/11_nujni.md",
-    "h": "b425bfb625d47b1b"
+    "h": "4fb4cafa6bb0f884"
   },
   {
     "u": "assets/assets/content/sl/theory/40/12_transponder.md",
-    "h": "934ce06b36dc3199"
+    "h": "ac8de8a79fef48c8"
   },
   {
     "u": "assets/assets/content/sl/theory/40/13_prestrezanje.md",
-    "h": "8e65ce39d30676e2"
+    "h": "022a5a377fbbd622"
   },
   {
     "u": "assets/assets/content/sl/theory/40/14_q_kode.md",
-    "h": "3b4f5dff8dd0bdf0"
+    "h": "2a1d00b1a0689681"
   },
   {
     "u": "assets/assets/content/sl/theory/40/15_frekvence.md",
-    "h": "9b650ff6dd088d78"
+    "h": "139a03737d523704"
   },
   {
     "u": "assets/assets/content/sl/theory/40/16_kratice.md",
-    "h": "83476c123f1a3370"
+    "h": "636bd73ec5cfb61a"
   },
   {
     "u": "assets/assets/content/sl/theory/40/17_vreme.md",
-    "h": "09911d1eb98f449d"
+    "h": "497b7526920ce85e"
   },
   {
     "u": "assets/assets/content/sl/theory/40/img/foto_antenna.jpg",
@@ -666,47 +666,47 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/51/01_tlak.md",
-    "h": "b9b8161b7ab0d26a"
+    "h": "bd22d59c96b4c255"
   },
   {
     "u": "assets/assets/content/sl/theory/51/02_profil.md",
-    "h": "34aed439cb42ad16"
+    "h": "74dc83d97fa1c0bf"
   },
   {
     "u": "assets/assets/content/sl/theory/51/03_mejna_plast.md",
-    "h": "7cc7b65130a5cf3f"
+    "h": "c96a3e9fc0c78aef"
   },
   {
     "u": "assets/assets/content/sl/theory/51/04_vzgon.md",
-    "h": "c35763874422d872"
+    "h": "e0e1ae073e949e71"
   },
   {
     "u": "assets/assets/content/sl/theory/51/05_upor.md",
-    "h": "34d2b4449a97fec1"
+    "h": "ee2983e19fa6d668"
   },
   {
     "u": "assets/assets/content/sl/theory/51/06_porusitev.md",
-    "h": "5ef415282f5ec873"
+    "h": "65902c878a14a6be"
   },
   {
     "u": "assets/assets/content/sl/theory/51/07_vrij.md",
-    "h": "8717257dd23289f2"
+    "h": "2bf1ea28d73caa31"
   },
   {
     "u": "assets/assets/content/sl/theory/51/08_krmila.md",
-    "h": "e5c3f42624e01d80"
+    "h": "e313186944bbb58b"
   },
   {
     "u": "assets/assets/content/sl/theory/51/09_stabilnost.md",
-    "h": "1034706d3e666b79"
+    "h": "bcf4746ddb4b3044"
   },
   {
     "u": "assets/assets/content/sl/theory/51/10_obremenitve.md",
-    "h": "e8bdf3e7cdc7f26a"
+    "h": "8ccee91e3aa8e14c"
   },
   {
     "u": "assets/assets/content/sl/theory/51/11_drsni_let.md",
-    "h": "4d6623b7102d54fa"
+    "h": "f056fe675e5df9f8"
   },
   {
     "u": "assets/assets/content/sl/theory/51/img/cl_alfa.png",
@@ -760,35 +760,35 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/51/koordiniran_zavoj.md",
-    "h": "742b569ad757e045"
+    "h": "b5ad5625363e381d"
   },
   {
     "u": "assets/assets/content/sl/theory/60/01_priprava.md",
-    "h": "628b37f7ea16cb3d"
+    "h": "79812a5c7818806f"
   },
   {
     "u": "assets/assets/content/sl/theory/60/02_vitel.md",
-    "h": "c576a1f5305a26ba"
+    "h": "cb4a604066bc8b20"
   },
   {
     "u": "assets/assets/content/sl/theory/60/03_aerovlek.md",
-    "h": "28f78e670f9261da"
+    "h": "da89e441b5518e80"
   },
   {
     "u": "assets/assets/content/sl/theory/60/04_jadranje.md",
-    "h": "df71ad640099a046"
+    "h": "19c06f13ab9cd9aa"
   },
   {
     "u": "assets/assets/content/sl/theory/60/05_pristanek.md",
-    "h": "d30c3c63a9ff88b8"
+    "h": "91d677b55286fbf6"
   },
   {
     "u": "assets/assets/content/sl/theory/60/06_izven.md",
-    "h": "98d7d3d156e3aca1"
+    "h": "73342d9ba00d3102"
   },
   {
     "u": "assets/assets/content/sl/theory/60/07_nenormalno.md",
-    "h": "1044a86e8582a57e"
+    "h": "f496a6519bb2f3f2"
   },
   {
     "u": "assets/assets/content/sl/theory/60/img/foto_aerotow.jpg",
@@ -822,19 +822,19 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/70/01_masa.md",
-    "h": "f2e05fe1e4d54339"
+    "h": "06741f03dbb6c8ef"
   },
   {
     "u": "assets/assets/content/sl/theory/70/02_zmogljivosti.md",
-    "h": "09166eb98bb4c654"
+    "h": "3434463b00998c52"
   },
   {
     "u": "assets/assets/content/sl/theory/70/03_nacrtovanje.md",
-    "h": "8f3e89de2c5da9a8"
+    "h": "100ee9d2e47d0bbd"
   },
   {
     "u": "assets/assets/content/sl/theory/70/04_prelet.md",
-    "h": "75ee83699475e585"
+    "h": "73ad4cf843a94df1"
   },
   {
     "u": "assets/assets/content/sl/theory/70/img/simboli.png",
@@ -843,55 +843,55 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/80/01_konstrukcija.md",
-    "h": "3911db463bbadabe"
+    "h": "ea57e7e80bd67e12"
   },
   {
     "u": "assets/assets/content/sl/theory/80/02_plovnost.md",
-    "h": "d993cb8c9c235e8e"
+    "h": "f1bd6ea9bc0ae71d"
   },
   {
     "u": "assets/assets/content/sl/theory/80/03_krmila.md",
-    "h": "dd84d040e0ade404"
+    "h": "ddeebb4fd44018e7"
   },
   {
     "u": "assets/assets/content/sl/theory/80/04_pitot.md",
-    "h": "f32738b54c35dc99"
+    "h": "276f095f23bf1a32"
   },
   {
     "u": "assets/assets/content/sl/theory/80/05_visinomer.md",
-    "h": "572fdb4024939110"
+    "h": "2603d1df1718479d"
   },
   {
     "u": "assets/assets/content/sl/theory/80/06_hitrost.md",
-    "h": "39bd2954ca66fc73"
+    "h": "6a02f08e780e5f18"
   },
   {
     "u": "assets/assets/content/sl/theory/80/07_variometer.md",
-    "h": "16e335106c2e4928"
+    "h": "5ea3dc58115ded2f"
   },
   {
     "u": "assets/assets/content/sl/theory/80/08_kompas.md",
-    "h": "e95b69ef45da035b"
+    "h": "84ca40a38a1ac96a"
   },
   {
     "u": "assets/assets/content/sl/theory/80/09_motor.md",
-    "h": "5f672f067d082a9f"
+    "h": "9c0ecc09dba0e3ba"
   },
   {
     "u": "assets/assets/content/sl/theory/80/10_ziroskopi.md",
-    "h": "a3fc6e4602e712d8"
+    "h": "fed5dcc890da257e"
   },
   {
     "u": "assets/assets/content/sl/theory/80/11_avionika.md",
-    "h": "54ecc1b786605bd1"
+    "h": "3f8c4b4b973e2bb3"
   },
   {
     "u": "assets/assets/content/sl/theory/80/12_nitka_gmeter.md",
-    "h": "d0c1b2c3958c8cdb"
+    "h": "2bfe9d0e18f89924"
   },
   {
     "u": "assets/assets/content/sl/theory/80/13_elektronika.md",
-    "h": "ee1f3c7c074f9eaa"
+    "h": "959cce6eda09557d"
   },
   {
     "u": "assets/assets/content/sl/theory/80/img/foto_alt.jpg",
@@ -1040,39 +1040,39 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/90/01_zemlja.md",
-    "h": "af73905835c766ab"
+    "h": "f1fb53486571e7a8"
   },
   {
     "u": "assets/assets/content/sl/theory/90/02_cas.md",
-    "h": "293c2966a3a40fad"
+    "h": "373858d51362687e"
   },
   {
     "u": "assets/assets/content/sl/theory/90/03_smeri.md",
-    "h": "95a11a9d09b687c7"
+    "h": "0d3c3735c175b3c1"
   },
   {
     "u": "assets/assets/content/sl/theory/90/04_karte.md",
-    "h": "43becbab240391b6"
+    "h": "0214ac5fb3615282"
   },
   {
     "u": "assets/assets/content/sl/theory/90/05_veter.md",
-    "h": "38c8ec695f6ffaf9"
+    "h": "20d995f169b321b9"
   },
   {
     "u": "assets/assets/content/sl/theory/90/06_med_letom.md",
-    "h": "ef16aae5428b7613"
+    "h": "1d47208cf55d8faa"
   },
   {
     "u": "assets/assets/content/sl/theory/90/07_gnss.md",
-    "h": "3a4c3ae6b8bfca92"
+    "h": "1ac23e60d9f23fdd"
   },
   {
     "u": "assets/assets/content/sl/theory/90/08_radionavigacija.md",
-    "h": "96f08c68a563d462"
+    "h": "92002bc033448f07"
   },
   {
     "u": "assets/assets/content/sl/theory/90/09_priprava.md",
-    "h": "4af8b30c0618e8ba"
+    "h": "5422d127d468de52"
   },
   {
     "u": "assets/assets/content/sl/theory/90/img/foto_e6b.jpg",
@@ -1096,7 +1096,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/theory/index.json",
-    "h": "7d5dc3b567f36ea2"
+    "h": "85ad7f200df44fd6"
   },
   {
     "u": "assets/assets/fonts/KopilotSymbols-Bold.ttf",
@@ -1132,12 +1132,12 @@ const FILES = [
   },
   {
     "u": "assets/assets/map3d/igc3d.js",
-    "h": "28efe451df699996",
+    "h": "25744ece43fbf6cd",
     "l": 1
   },
   {
     "u": "assets/assets/map3d/index.html",
-    "h": "40f3b706470b8d65",
+    "h": "46f7fd7b849af786",
     "l": 1
   },
   {
@@ -1160,7 +1160,7 @@ const FILES = [
   },
   {
     "u": "assets/fonts/MaterialIcons-Regular.otf",
-    "h": "a901d3ac3ecce0dd"
+    "h": "a8e0d4a3f21441e5"
   },
   {
     "u": "assets/NOTICES",
@@ -1313,7 +1313,7 @@ const FILES = [
   },
   {
     "u": "flutter_bootstrap.js",
-    "h": "b6fe47d17d7dd4bf"
+    "h": "57044a03dc8ce81c"
   },
   {
     "u": "icons/Icon-192.png",
@@ -1333,19 +1333,19 @@ const FILES = [
   },
   {
     "u": "index.html",
-    "h": "b3655264d6eb9677"
+    "h": "a092d71317bc8ae8"
   },
   {
     "u": "main.dart.js",
-    "h": "3e0b894b18e9c899"
+    "h": "1d05c425fe0be757"
   },
   {
     "u": "manifest.json",
-    "h": "d82d4055d1053794"
+    "h": "c49bec27365e0fa2"
   },
   {
     "u": "version.json",
-    "h": "096225fd43be3f10"
+    "h": "689cdff86d498e68"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",

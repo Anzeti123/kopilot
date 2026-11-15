@@ -35,3 +35,7 @@ Hladna fronta je hitrejša od tople in jo dohiti. Topel zrak je dvignjen s tal: 
 - Ciklon se navadno giblje **vzporedno z izobarami toplega sektorja**.
 - Tlak: **pada pred toplo fronto, je konstanten v toplem sektorju, narašča za hladno fronto**.
 - Veter se v srednji Evropi ob **prehodu tople fronte in ob prehodu hladne fronte obrne v smeri urinega kazalca** (npr. z jugovzhodnika na jugozahodnik in nato na severozahodnik).
+
+```interaktivno
+id: fronte
+```

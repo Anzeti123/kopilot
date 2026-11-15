@@ -33,3 +33,7 @@ Dvignjen zrak primerjamo z okolico:
 - **stabilno** ozračje: dvignjeni zrak je hladnejši od okolice in se vrne nazaj; plastoviti oblaki, slaba vidnost, malo turbulence,
 - **labilno** ozračje: dvignjeni zrak je toplejši od okolice in se dviga naprej; kopasti oblaki, plohe, dobra vidnost, termika,
 - **pogojno labilno**: gradient je med suho in nasičeno adiabato. Suh zrak je stabilen, ko pa se nasiči (oblak), postane labilen. Nastanejo **stolpičasti kumulusi, posamezne plohe ali nevihte**.
+
+```interaktivno
+id: stabilnost
+```

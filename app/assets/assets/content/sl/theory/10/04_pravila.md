@@ -27,6 +27,10 @@ Najmanjšo višino smeš kršiti le, kadar je to potrebno za vzlet in pristanek 
 - **Pristajanje**: zrakoplov, ki pristaja, ima prednost pred zrakoplovi v zraku in na tleh. Od dveh, ki pristajata, ima prednost **nižji**.
 - **Zrakoplov v sili** ima prednost pred vsemi.
 
+```interaktivno
+id: prednost
+```
+
 Prednost po vrsti zrakoplova (ko se poti križajo):
 
 | Se umakne | Komu |

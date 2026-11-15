@@ -12,6 +12,10 @@ Kadar veter potiska zrak čez gorsko verigo, je razplet odvisen od stabilnosti:
 - Na **privetrni** strani se zrak dviga, ohlaja in izloča vlago: **plastoviti oblaki, zamegljene gore, slaba vidnost, zmeren do močan dež**. Na grebenu leži fenski zid (kapa oblaka).
 - Na **zavetrni** strani se zrak spušča in segreva po suhi adiabati: **topel, suh, sunkovit veter**, jasno nebo.
 
+```interaktivno
+id: fen
+```
+
 ## Gorski valovi
 
 ```slika

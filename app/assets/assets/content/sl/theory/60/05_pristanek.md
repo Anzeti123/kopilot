@@ -40,6 +40,10 @@ Pri močnem bočnem vetru izvedeš **četrti zavoj** (v končni prilet) z **najv
 
 Pravilo: kar zmanjša čelni veter (ali poveča hrbtnega), letalu vzame hitrost in ga potisne pod priletno pot. Striženju se izogneš tako, da **ne vzletaš in ne pristajaš med prehodom močnega naliva ali nevihte**.
 
+```interaktivno
+id: strizenje
+```
+
 ## Brazdna turbulenca
 
 Vrtinci za letalom so najmočnejši za **težkim, počasnim** letalom v čisti konfiguraciji. Od dveh enakih letal z enako maso povzroči močnejšo brazdno turbulenco **tisto, ki leti počasneje**. Vrtinci se spuščajo in ob tleh razlezejo na strani.

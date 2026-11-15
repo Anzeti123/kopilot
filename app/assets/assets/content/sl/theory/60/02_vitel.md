@@ -25,6 +25,10 @@ opis: Faze vzleta z vitlom
 
 **Šibek hrbtni veter**: vožnja do vzleta bo trajala dlje, posebej skrbno spremljaj hitrost.
 
+```interaktivno
+id: vitel
+```
+
 ## Signali na startu
 
 | Signal | Pomen |

@@ -16,6 +16,10 @@ Za nastanek nevihte so potrebni:
 | **zrela** | **močni vzgorniki in vzdolniki hkrati**, padavine, strele, toča, nevihtni piš |
 | razpadajoča | prevladujejo vzdolniki, oblak se razleze (nakovalo) |
 
+```interaktivno
+id: nevihta
+```
+
 ## Vrste neviht
 
 | Vrsta | Značilnosti |

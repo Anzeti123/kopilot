@@ -19,6 +19,10 @@ opis: Štirivaljni bokserski motor Rotax 912. Foto: Greg Goebel, Wikimedia Commo
 
 En cikel traja dva obrata ročične gredi.
 
+```interaktivno
+id: motor
+```
+
 ## Sistemi motorja
 
 | Sistem | Kaj vsebuje |

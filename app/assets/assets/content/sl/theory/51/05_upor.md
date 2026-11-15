@@ -51,6 +51,10 @@ D = \tfrac{1}{2}\,\rho\, v^2\, S\, c_D, \qquad c_D = c_{D0} + \frac{c_L^2}{\pi\,
 
 $c_{D0}$ je koeficient parazitnega upora, drugi člen pa inducirani upor: raste s kvadratom $c_L$ in pada z vitkostjo $A$ ($e$ je faktor oblike, za eliptično krilo 1).
 
+```interaktivno
+id: upor
+```
+
 ## Kako jadralno letalo zmanjša upor
 
 - velika vitkost (manj induciranega upora),

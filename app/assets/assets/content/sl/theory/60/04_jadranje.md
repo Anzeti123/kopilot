@@ -68,6 +68,10 @@ opis: Jadralno letalo pri pobočnem jadranju ob gozdnatem grebenu. Foto: Dhaluza
 - Če priletiš v **močan vzdolnik**: **povečaj hitrost in se usmeri stran od slemena**.
 - Nikoli ne dopusti, da te veter odnese čez greben v turbulentni vzdolnik za njim.
 
+```interaktivno
+id: pobocje
+```
+
 ## Valovno jadranje in velike višine
 
 - Pri **preletu gorskih grebenov** računaj s **turbulenco** in **nekoliko povečaj hitrost**.
@@ -85,6 +89,10 @@ opis: Jadralno letalo pri pobočnem jadranju ob gozdnatem grebenu. Foto: Dhaluza
 - Kroži z nagibom 30–45° pri hitrosti malo nad najmanjšo hitrostjo padanja (nagib poveča hitrost porušitve vzgona).
 - **Centriranje**: ko je na delu kroga dviganje močnejše, kroženje na tisti strani raztegni (za nekaj sekund zmanjšaj nagib), nato znova zavij. Postopek ponavljaj, dokler ni dviganje enakomerno.
 - Ko dviganje oslabi, zapusti termiko v smeri naslednjega cilja s primerno hitrostjo (McCready).
+
+```interaktivno
+id: centriranje
+```
 
 ## Več letal v vzgorniku
 

@@ -39,6 +39,10 @@ opis: Variometer s kompenzacijo skupne energije: izenačevalna posoda (capacity 
 - **Variometer neto energije** (netto) med drsnim letom kaže **vertikalno hitrost zračne mase**: odšteje še lastno padanje letala po polari. Pove, ali je zrak sam po sebi v dviganju.
 - **Relativni** variometer (super netto) pokaže, kako hitro bi se letalo dvigalo, če bi tu začel krožiti.
 
+```interaktivno
+id: variometer
+```
+
 ## Pomožne naprave
 
 - **McCreadyjev obroč** ali računalnik pove optimalno hitrost leta med vzgorniki (glej predmet Zmogljivosti).

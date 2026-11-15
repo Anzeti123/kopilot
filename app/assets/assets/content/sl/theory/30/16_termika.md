@@ -50,6 +50,10 @@ Meteorologi stanje ozračja prikažejo s **sondažo** (izmerjenim navpičnim pro
 
 Velike nevarnosti pod kumulusi so **izsesavanje v oblak** pri močni termiki in hitro razvijajoče se plohe.
 
+```interaktivno
+id: kumulus
+```
+
 ## Suha termika
 
 Če je zrak presuh, termika ne doseže rosišča: oblakov ni (**modra termika**). Iskanje je težje, pomagajo znaki na tleh (prah, dim), ptice in druga letala.
