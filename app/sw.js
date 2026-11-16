@@ -19,13 +19,13 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "f4d77c36c1a2";
+const VERSION = "8da2190821b1";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "532eac6956411b2c"
+    "h": "582235e6be3cb382"
   },
   {
     "u": "assets/AssetManifest.bin",
@@ -1160,7 +1160,7 @@ const FILES = [
   },
   {
     "u": "assets/fonts/MaterialIcons-Regular.otf",
-    "h": "a8e0d4a3f21441e5"
+    "h": "e8d61dba4010eebf"
   },
   {
     "u": "assets/NOTICES",
@@ -1337,7 +1337,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "1d05c425fe0be757"
+    "h": "ab62fdc7ec97e4db"
   },
   {
     "u": "manifest.json",
@@ -1345,7 +1345,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "689cdff86d498e68"
+    "h": "e892f2b3149f2d5e"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
