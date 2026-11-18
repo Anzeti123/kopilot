@@ -1,0 +1,238 @@
+[
+  {
+    "id": "fire",
+    "title": "Požar ali dim v kabini",
+    "kind": "emergency",
+    "licences": ["SPL", "PPL"],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Ugotovi vir: elektrika ali motor.",
+        "detail": "Pri jadralnem letalu brez motorja je najverjetnejši vir električna napeljava ali akumulator (instrumenti, radijska postaja). Pri motornem jadralnem letalu požar v motornem prostoru pokaže tudi opozorilna lučka (ASK 21 Mi: rdeča utripajoča dioda na instrumentni plošči). Ne izgubljaj časa z iskanjem: dim v kabini je dovolj za ukrepanje."
+      },
+      {
+        "title": "Izklopi vir: glavno stikalo OFF, pri motorju gorivo zaprto in vžig OFF.",
+        "detail": "Električni požar: izklopi glavno stikalo (akumulator) in porabnike. S tem odstraniš vir vžiga, razen če gori sam akumulator. Motorno jadralno letalo (ASK 21 Mi, priročnik 3.8): ventil goriva ZAPRI, pri izvlečenem propelerju polni plin, dokler se motor ne ustavi, vžig OFF, propeler po možnosti uvleci (zaprta vrata motornega prostora zmanjšajo dovod zraka), glavno stikalo pogonskega sklopa OFF. Natančen postopek za tvoje letalo je v priročniku za letenje, poglavje 3."
+      },
+      {
+        "title": "Pristani takoj, na najbližji primerni površini.",
+        "detail": "Požar je razlog za takojšen pristanek: ne poskušaj doseči oddaljenega letališča. Z bočnim drsenjem lahko plamen in dim odmakneš od kabine. Dim gorečih kompozitov je strupen; FAA navaja, da lahko v skrajnem primeru med letom odvržeš pokrov kabine."
+      },
+      {
+        "title": "Če se požar širi in je višina zadostna: zapusti letalo.",
+        "detail": "Kadar ogenj ogroža konstrukcijo ali pilota in je višina dovolj velika, je skok s padalom lahko varnejši od pristanka. Najprej odvrzi pokrov kabine, šele nato odpni pasove (ne padala). Odrini se od letala in pazi na krilo in rep."
+      },
+      {
+        "title": "Po pristanku ustavi, izstopi in se umakni proti vetru.",
+        "detail": "Letalo čim prej ustavi, odpni pasove in izstopi. Umakni se proti vetru, stran od dima in goriva. Gasi z gasilnim aparatom ali odejo samo, če je to varno."
+      }
+    ],
+    "source": "FAA Glider Flying Handbook (FAA-H-8083-13B), poglavje 8 (In-flight Fire); Flight Manual ASK 21 Mi (izdaja 01.12.2007), oddelka 3.3 in 3.8. V gradivu AK Celje »Operativni postopki in načrtovanje letenja« postopek ni opisan.",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "aerotow-break",
+    "title": "Predčasno strganje vrvi v aerovleku",
+    "kind": "emergency",
+    "licences": ["SPL"],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Spusti nos in vzpostavi hitrost prileta.",
+        "detail": "Ob strganju vrvi jadralno letalo hitro izgublja hitrost, posebej v vzpenjanju za vlečnim letalom. Takoj ga prevedi v normalen drsni let in drži hitrost prileta."
+      },
+      {
+        "title": "Dvakrat potegni ročico za odklop.",
+        "detail": "Odvrzi ostanek vrvi, ki visi z nosu jadralnega letala, da se pri pristanku ne zaplete v ovire."
+      },
+      {
+        "title": "Oceni višino in izberi pristanek.",
+        "detail": "Odločitev je odvisna od višine in od prostora pred teboj. Orientacijske meje po FAA: tik nad tlemi in z dovolj steze pred seboj pristani naravnost na stezo in zaviraj s kolesom. Nizko in brez dovolj steze pristani naravnost naprej na najboljšo površino, smer popravljaj le z blagimi zavoji. Nad približno 60 m (200 ft) je mogoč obrat za 180° v veter in pristanek s hrbtnim vetrom. Nad približno 250 m (800 ft) je več možnosti: druga steza, skrajšan šolski krog ali zunanji pristanek. Nad višino šolskega kroga se vrni proti letališču in se vključi v krog."
+      },
+      {
+        "title": "Nizko ne zavijaj strmo: varen pristanek je pomembnejši od steze.",
+        "detail": "Strm zavoj na majhni višini je najnevarnejši del strganja: med 60 nesrečami po prekinjenem vzletu v Veliki Britaniji od leta 1974 je bila edina smrtna posledica vrija po vračanju na letališče. Pristanek s hrbtnim vetrom je položnejši in z večjo hitrostjo glede na tla, zato uporabi zračne zavore in kolesno zavoro."
+      },
+      {
+        "title": "Odločitvene višine določi pred vzletom.",
+        "detail": "Pred vsakim vzletom preveri veter in si za svoje letališče določi, kje boš pristal v posamezni fazi vzleta. Višine uskladi z inštruktorjem in lokalnimi navodili: vrednosti zgoraj so orientacijske."
+      }
+    ],
+    "source": "AK Celje, »Operativni postopki in načrtovanje letenja« (2025), Izredni postopki; FAA Glider Flying Handbook (FAA-H-8083-13B), poglavje 8 (Towline Break or Premature Release); BGA, zloženka »Safe Aerotowing« (statistika nesreč pri aerovleku od 1974).",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "tug-failure-takeoff",
+    "title": "Izguba moči vlečnega letala med vzletom",
+    "kind": "emergency",
+    "licences": ["SPL"],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Takoj odklopi.",
+        "detail": "Vlečno letalo brez moči se hitro ustavlja. Jadralno letalo ga dohiti, vrv ohlapne in se lahko zaplete v kolo ali krilo. Zato ves zalet drži levo roko na ročici za odklop in ob izgubi moči takoj dvakrat potegni."
+      },
+      {
+        "title": "Izogni se vlečnemu letalu.",
+        "detail": "Ne sledi vlečnemu letalu. Smer rahlo spremeni vstran od njega, da ga ne dohitiš (FAA navaja zavoj v desno)."
+      },
+      {
+        "title": "Na tleh zaviraj, v zraku pristani naravnost naprej.",
+        "detail": "Če si še na tleh, zaviraj s kolesom in drži smer. Če si že v zraku na majhni višini, pristani naravnost naprej na stezo ali površino pred seboj, po potrebi z zračnimi zavorami. Ne zavijaj na majhni višini."
+      }
+    ],
+    "source": "AK Celje, »Operativni postopki in načrtovanje letenja« (2025), Izredni postopki; Jadralno letalstvo (LZS, 1995), Tehnika pilotiranja, str. 359; FAA Glider Flying Handbook (FAA-H-8083-13B), poglavje 8.",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "tug-failure-flight",
+    "title": "Izguba moči vlečnega letala med letom",
+    "kind": "emergency",
+    "licences": ["SPL"],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Odklopi na znak vlečnega pilota ali ob vidni izgubi moči.",
+        "detail": "Znak za odklop je hitro mahanje s krilci vlečnega letala. Upoštevaj ga ne glede na višino (npr. ob odpovedi motorja), vendar ga ne zamenjaj z običajnimi popravki nagiba v nemirnem zraku. Dvakrat potegni ročico in preveri, da je vrv res odpadla."
+      },
+      {
+        "title": "Umakni se vlečnemu letalu in ga ne spremljaj navzdol.",
+        "detail": "Po odklopu zavij stran od vlečnega letala, ki bo iskalo prostor za pristanek. Ne sledi mu."
+      },
+      {
+        "title": "Oceni višino: vrnitev, skrajšan krog ali zunanji pristanek.",
+        "detail": "Z dovolj višine se vrni proti letališču in prilagodi šolski krog. Če letališča ne dosežeš, izberi zunanji pristanek: šolski krog prilagodi terenu, najmanjša višina kroga je 150 m, najmanjša višina za zavoj 50 m. Orientacijske višine so pri postopku Predčasno strganje vrvi v aerovleku."
+      }
+    ],
+    "source": "AK Celje, »Operativni postopki in načrtovanje letenja« (2025), Izredni postopki in Izvenletališki pristanek; Jadralno letalstvo (LZS, 1995), Tehnika pilotiranja, str. 359; FAA Glider Flying Handbook (FAA-H-8083-13B), poglavje 8.",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "winch-break",
+    "title": "Strganje pletenice pri vzletu z vitlom",
+    "kind": "emergency",
+    "licences": ["SPL"],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Takoj spusti nos v normalen drsni let.",
+        "detail": "Ob nenadni izgubi vlečne sile takoj popusti palico in jo energično, a ne pregrobo, potisni naprej. V strmem vzpenjanju hitrost hitro pada, zato zamuda vodi v prevlek. Nosa ne spuščaj pregrobo, da ne dohitiš padala na koncu vrvi. Pred naslednjim ukrepom preveri ustaljeno lego in hitrost na merilniku."
+      },
+      {
+        "title": "Dvakrat potegni ročico za odklop.",
+        "detail": "Tudi če je vrv odpadla sama, dvakrat potegni ročico, da se prepričaš, da ostanek vrvi ne visi na kljuki."
+      },
+      {
+        "title": "Do 100 m: polne zračne zavore in pristanek naravnost naprej.",
+        "detail": "Do višine 100 m takoj izvleci polne zračne zavore in pristani naravnost naprej. Po potrebi pristani v vogal letališča ali na podaljšek steze."
+      },
+      {
+        "title": "Nad 100 m: skrajšan šolski krog in pristanek na startno mesto.",
+        "detail": "Nad 100 m je najbolj varno izvesti skrajšan šolski krog. Krog prilagodi višini in vetru, zavoje leti koordinirano in z dovolj hitrosti."
+      },
+      {
+        "title": "Kapljasti zavoj samo izkušen pilot, pri šibkem vetru.",
+        "detail": "Kadar je steza za pristanek naravnost prekratka, višina pa premajhna za skrajšan krog, lahko izkušen pilot spremeni smer za 180° s kapljastim zavojem: nekaj časa leti naravnost, zavije od vetra, leti še približno 150 m, nato zavije v veter do smeri startnega mesta, izvleče zavore in pristane s hrbtnim vetrom. Samo pri šibkem vetru in kadar na letališču ni drugega prometa. V vsakem primeru je varen pristanek pomembnejši od predpisanega šolskega kroga."
+      },
+      {
+        "title": "Prenizka ali previsoka hitrost vleke: popusti palico in odklopi.",
+        "detail": "Če je hitrost vleke prevelika ali premajhna (najpogosteje okvara motorja vitla), popusti palico, da pride nos pod horizont, dvakrat potegni ročico, oceni višino in se odloči za pristanek kot zgoraj. Pred tem preveri, da se niso odprle zračne zavore, kar je podobno kot šibka vleka."
+      }
+    ],
+    "source": "AK Celje, »Operativni postopki in načrtovanje letenja« (2025), Izredni postopki; Jadralno letalstvo (LZS, 1995), Tehnika pilotiranja, »Prekinitev vzletanja na vitel«, str. 333–334; Flight Manual ASK 21 Mi (2007), 4.5.2; FAA Glider Flying Handbook (FAA-H-8083-13B), poglavje 8.",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "elevator-failure",
+    "title": "Odpoved višinskega krmila",
+    "kind": "emergency",
+    "licences": ["SPL", "PPL"],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Preveri, ali ni odpovedal le trimer.",
+        "detail": "Najprej mirno oceni, kaj se dogaja. Odpovedan ali razklenjen trimer je že bil zamenjan za odpoved višinskega krmila. Odpoved višinskega krmila je najbolj neželena odpoved krmil."
+      },
+      {
+        "title": "Med zaletom ali tik po vzletu: odklopi in pristani.",
+        "detail": "Če težavo opaziš na začetku zaleta, takoj odklopi in zaviraj. Tik nad tlemi v vodoravni legi odklopi in pristani naravnost naprej."
+      },
+      {
+        "title": "Krmili naklon s trimerjem: zelo počasni in blagi premiki.",
+        "detail": "Če rep ostane in je odpovedala samo krmilna povezava, poskusi letalo krmiliti s trimerjem. Premiki naj bodo zelo počasni in blagi. Pomagaš si lahko tudi z zavorami in nagibom."
+      },
+      {
+        "title": "Prilet daljši in hitrejši, z blagim prehodom.",
+        "detail": "Dolet na letališče naj bo daljši in hitrejši z blagim prihodom, ker ravnanja pred pristankom morda ne boš mogel izvesti."
+      },
+      {
+        "title": "Letalo ni krmiljivo ali rep je odpadel: zapusti letalo.",
+        "detail": "Če letala s trimerjem ni mogoče krmiliti ali je odpadla celotna repna površina, ga zapusti po predpisanem postopku. Če je višina zadostna in je čas, ga pred skokom usmeri nad nenaseljeno območje."
+      }
+    ],
+    "source": "AK Celje, »Operativni postopki in načrtovanje letenja« (2025), Odpoved krmil – višinsko krmilo; BGA Instructors Manual, poglavje 2 (Emergency Procedures, 2026); FAA Glider Flying Handbook (FAA-H-8083-13B), poglavje 8.",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "rudder-failure",
+    "title": "Odpoved smernega krmila",
+    "kind": "emergency",
+    "licences": ["SPL", "PPL"],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Preveri, ali se nista zataknili pedali.",
+        "detail": "Če letalo zavija po smeri ali smerno krmilo ne deluje, najprej preveri pedala. Če se nista zataknili, je težava v povezavi med pedali in krmilom ali pa je krmilo zataknjeno oziroma odpadlo. Pri težavi s smerjo na začetku zaleta vzlet takoj prekini."
+      },
+      {
+        "title": "Zavijaj s krilci in višinskim krmilom.",
+        "detail": "Najprej s krilci postavi nagib, nato z višinskim krmilom izvedi zavoj. Let bo nekoordiniran, vendar lahko varno pristaneš."
+      },
+      {
+        "title": "Šolski krog višje, 3. in 4. zavoj 100–200 m kasneje.",
+        "detail": "V šolski krog pojdi malo višje in 3. ter 4. zavoj izvedi kasneje (100–200 m). Prilet naj bo daljši in višji, ker je poravnava s smerjo steze težja."
+      },
+      {
+        "title": "Zataknjeno krmilo: krog vsaj s 350 m, prilet s krajše razdalje.",
+        "detail": "Če je krmilo zataknjeno v eno smer, letalo bočno drsi in ima velik upor, zato je drsno razmerje precej manjše. V šolski krog pojdi precej višje (vsaj s 350 m), dolet pa naredi s krajše razdalje. Z zračnimi zavorami v doletu malo počakaj, da vidiš, kako letalo propada, nato jih prilagodi."
+      },
+      {
+        "title": "V smeri steze leti brez nagibanja in pristani.",
+        "detail": "Ko si v smeri steze, poskušaj leteti brez nagibanja, vzdržuj smer in pristani kot običajno."
+      }
+    ],
+    "source": "AK Celje, »Operativni postopki in načrtovanje letenja« (2025), Odpoved krmil – smerno krmilo; FAA Glider Flying Handbook (FAA-H-8083-13B), poglavje 8.",
+    "checked": "",
+    "reviewedBy": ""
+  },
+  {
+    "id": "aileron-failure",
+    "title": "Odpoved krilc",
+    "kind": "emergency",
+    "licences": ["SPL", "PPL"],
+    "aircraft": "",
+    "steps": [
+      {
+        "title": "Eno krilce: nagib izravnaj s palico v nasprotno smer.",
+        "detail": "Odpovedano krilce ustvarja več upora, letalo pa se nagiba na stran, kjer je krilce odklonjeno navzdol. Nagib izravnaj z odklonom palice v nasprotno smer. Krmiljenje je običajno lažje pri malo večji hitrosti."
+      },
+      {
+        "title": "Obe krilci: nagib krmili s smernim krmilom.",
+        "detail": "Če odpovesta obe krilci, letalo krmariš s smernim in višinskim krmilom. Nagibe spreminjaj blago in drži hitrost z dovolj rezerve nad prevlekom."
+      },
+      {
+        "title": "Šolski krog na običajni višini, z večjo pozornostjo.",
+        "detail": "Šolski krog izvedi na predvideni višini, vendar z večjo pozornostjo pri krmarjenju. Letalo lahko varno pristane."
+      }
+    ],
+    "source": "AK Celje, »Operativni postopki in načrtovanje letenja« (2025), Odpoved krmil – odpoved krilc; FAA Glider Flying Handbook (FAA-H-8083-13B), poglavje 8.",
+    "checked": "",
+    "reviewedBy": ""
+  }
+]

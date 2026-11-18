@@ -1,0 +1,92 @@
+{
+  "ask21mi": {
+    "src": "assets/content/sl/manual/aircraft/ask21mi.jpg",
+    "caption": "Schleicher ASK 21 brez motorja. ASK 21 Mi ima za kabino še uvlačljiv motor s propelerjem.",
+    "author": "Tony Hisgett from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:ASK-21_Glider_1_(53787100709).jpg",
+    "modified": ""
+  },
+  "dg101g": {
+    "src": "assets/content/sl/manual/aircraft/dg101g.jpg",
+    "caption": "Glaser-Dirks DG-100. DG-101G je njegova izpeljanka.",
+    "author": "Livno1950",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:DG100.jpg",
+    "modified": ""
+  },
+  "dg300elan": {
+    "src": "assets/content/sl/manual/aircraft/dg300elan.jpg",
+    "caption": "DG-300 D-0996",
+    "author": "Carsten Karge",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:DG-300_D-0996_Feurs.jpg",
+    "modified": ""
+  },
+  "duodiscus": {
+    "src": "assets/content/sl/manual/aircraft/duodiscus.jpg",
+    "caption": "Duo Discus x",
+    "author": "Merom",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "url": "https://commons.wikimedia.org/wiki/File:Duo_Discus_x.jpg",
+    "modified": ""
+  },
+  "discus2c": {
+    "src": "assets/content/sl/manual/aircraft/discus2c.jpg",
+    "caption": "Discus-2c D-9833",
+    "author": "André Gerwing",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Schempp-Hirth_Discus_2c_(D-9833)_2016-06-03_Andre_Gerwing_Collection_ID_015543.jpg",
+    "modified": "obrezano"
+  },
+  "arcusm": {
+    "src": "assets/content/sl/manual/aircraft/arcusm.jpg",
+    "caption": "Arcus T s pomožnim motorjem. Arcus M ima samovzletni motor.",
+    "author": "Tobias Kemmerer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Arcus_T.jpg",
+    "modified": ""
+  },
+  "pa38": {
+    "src": "assets/content/sl/manual/aircraft/pa38.jpg",
+    "caption": "Piper PA-38-112 Tomahawk VH-CFR",
+    "author": "Robert Frola",
+    "license": "GFDL",
+    "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+    "url": "https://commons.wikimedia.org/wiki/File:VH-CFR_Piper_PA-38-112_Tomahawk_Arena_Aviation_(7112113395).jpg",
+    "modified": ""
+  },
+  "c172": {
+    "src": "assets/content/sl/manual/aircraft/c172.jpg",
+    "caption": "Cessna 172 Skyhawk N61967",
+    "author": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Cessna_172_Skyhawk.jpg",
+    "modified": ""
+  },
+  "pa18": {
+    "src": "assets/content/sl/manual/aircraft/pa18.jpg",
+    "caption": "Piper PA-18 Super Cub D-EAER",
+    "author": "Felix König",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Piper_PA-18_Super_Cub_L%C3%B6chgau_2012.JPG",
+    "modified": ""
+  },
+  "pa25": {
+    "src": "assets/content/sl/manual/aircraft/pa25.jpg",
+    "caption": "Piper PA-25 Pawnee HB-PFN",
+    "author": "Gzzz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Piper_PA-25_Pawnee_HB-PFN.jpg",
+    "modified": ""
+  }
+}
