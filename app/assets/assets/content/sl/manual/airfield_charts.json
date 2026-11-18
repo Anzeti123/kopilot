@@ -1,0 +1,199 @@
+{
+ "ljaj": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljaj_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJAJ AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljaj_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJAJ AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljbl": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljbl_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJBL AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljbl_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJBL AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljbo": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljbo_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJBO AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljbo_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJBO AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljcl": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljcl_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJCL AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljcl_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJCL AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljdi": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljdi_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJDI AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljdi_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJDI AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljms": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljms_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJMS AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljms_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJMS AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljnm": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljnm_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJNM AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljnm_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJNM AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljpo": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljpo_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJPO AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljpo_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJPO AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljpt": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljpt_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJPT AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljpt_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJPT AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljsg": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljsg_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJSG AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljsg_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJSG AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljsk": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljsk_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJSK AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljsk_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJSK AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljso": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljso_1.png",
+   "title": "Karta za letenje VFR",
+   "source": "AIP Slovenija, LJSO AD 4.24-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljso_2.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJSO AD 4.24-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljce": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljce_1.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJCE AD 2.24.13-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljce_2.png",
+   "title": "Letališka karta ICAO",
+   "source": "AIP Slovenija, LJCE AD 2.24.01-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljlj": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljlj_1.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJLJ AD 2.24.13-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljlj_2.png",
+   "title": "Letališka karta ICAO",
+   "source": "AIP Slovenija, LJLJ AD 2.24.01-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljmb": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljmb_1.png",
+   "title": "Letališka karta VFR",
+   "source": "AIP Slovenija, LJMB AD 2.24.13-3, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljmb_2.png",
+   "title": "Letališka karta ICAO",
+   "source": "AIP Slovenija, LJMB AD 2.24.01-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ],
+ "ljpz": [
+  {
+   "src": "assets/content/sl/manual/airfields/ljpz_1.png",
+   "title": "Letališka karta VFR (med obratovanjem TWR/APP)",
+   "source": "AIP Slovenija, LJPZ AD 2.24.13-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljpz_2.png",
+   "title": "Letališka karta VFR (zunaj obratovanja TWR/APP)",
+   "source": "AIP Slovenija, LJPZ AD 2.24.13-5, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  },
+  {
+   "src": "assets/content/sl/manual/airfields/ljpz_3.png",
+   "title": "Letališka karta ICAO",
+   "source": "AIP Slovenija, LJPZ AD 2.24.01-1, eAIP veljaven od 4. 11. 2026, © Slovenia Control d.o.o. Objavljeno z dovoljenjem."
+  }
+ ]
+}

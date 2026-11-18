@@ -19,21 +19,21 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "e21c6e252fb1";
+const VERSION = "3a75b18efd62";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
   {
     "u": ".last_build_id",
-    "h": "19b428634a65c2b5"
+    "h": "f63284d367f3d96a"
   },
   {
     "u": "assets/AssetManifest.bin",
-    "h": "1b4cd69a2fab0201"
+    "h": "e4b2fef4101f8c82"
   },
   {
     "u": "assets/AssetManifest.bin.json",
-    "h": "6a350d49263e8049"
+    "h": "c0950c1fa978ed0f"
   },
   {
     "u": "assets/assets/branding/logo_symbol.png",
@@ -100,6 +100,175 @@ const FILES = [
   {
     "u": "assets/assets/content/sl/manual/aircraft_photos.json",
     "h": "e6143794ccfa9990"
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfield_charts.json",
+    "h": "d478b5a390031abd"
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljaj_1.png",
+    "h": "542d616cbc4d8d8f",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljaj_2.png",
+    "h": "b2032c824fcb7651",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljbl_1.png",
+    "h": "e6be94e8316310f3",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljbl_2.png",
+    "h": "15d7a625e41730bc",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljbo_1.png",
+    "h": "f8b765b872f38780",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljbo_2.png",
+    "h": "f407852492c850c4",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljce_1.png",
+    "h": "2a73af2c2f236598",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljce_2.png",
+    "h": "2fba8eeb542365a2",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljcl_1.png",
+    "h": "9b83381884394b37",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljcl_2.png",
+    "h": "1a97c695ae8a5ff5",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljdi_1.png",
+    "h": "e066e0147a16b45f",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljdi_2.png",
+    "h": "612ad48874d97dea",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljlj_1.png",
+    "h": "dbf0c1a40c6ba037",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljlj_2.png",
+    "h": "d604a3381fdf4aac",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljmb_1.png",
+    "h": "2a35b27cc562eda5",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljmb_2.png",
+    "h": "8fad3bb73d79bb8a",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljms_1.png",
+    "h": "6151a934b9730682",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljms_2.png",
+    "h": "ece155fa31f9e5f2",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljnm_1.png",
+    "h": "983b68f01d0374c6",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljnm_2.png",
+    "h": "e23113ce04fd3610",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljpo_1.png",
+    "h": "9aadae143c103def",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljpo_2.png",
+    "h": "415918c52a3e9114",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljpt_1.png",
+    "h": "080e824833224e26",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljpt_2.png",
+    "h": "005c9b3ddaddabc6",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljpz_1.png",
+    "h": "191f31235259af6d",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljpz_2.png",
+    "h": "a7cba9419c2853a8",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljpz_3.png",
+    "h": "5fc14c08af6c553b",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljsg_1.png",
+    "h": "968a1827412e8c43",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljsg_2.png",
+    "h": "20890d531523ee41",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljsk_1.png",
+    "h": "d0009fab3f168cfe",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljsk_2.png",
+    "h": "56103c0debdfc313",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljso_1.png",
+    "h": "cc3e1fa97a005c22",
+    "l": 1
+  },
+  {
+    "u": "assets/assets/content/sl/manual/airfields/ljso_2.png",
+    "h": "83f1901c1dfddf12",
+    "l": 1
   },
   {
     "u": "assets/assets/content/sl/manual/airfields.json",
@@ -1209,11 +1378,6 @@ const FILES = [
     "l": 1
   },
   {
-    "u": "assets/assets/private/vac/README.txt",
-    "h": "e658716073a6589c",
-    "l": 1
-  },
-  {
     "u": "assets/FontManifest.json",
     "h": "f0cb0930d958f024"
   },
@@ -1400,7 +1564,7 @@ const FILES = [
   },
   {
     "u": "main.dart.js",
-    "h": "688720ddbda04e43"
+    "h": "c2e8ec83d4d3ce6d"
   },
   {
     "u": "manifest.json",
@@ -1408,7 +1572,7 @@ const FILES = [
   },
   {
     "u": "version.json",
-    "h": "810c48c6edf1aa6e"
+    "h": "925e9570ea9965ef"
   },
   {
     "u": "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js",
