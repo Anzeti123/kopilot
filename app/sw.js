@@ -19,7 +19,7 @@
 // - Nova različica se namesti v ozadju in počaka. Aktivira se, ko uporabnik
 //   pritisne »Osveži« ali ko so vsa okna aplikacije zaprta.
 
-const VERSION = "8b495b8c025d";
+const VERSION = "4675e9dd2f4d";
 const CACHE = 'kopilot-' + VERSION;
 // [{ u: pot ali polni URL, h: zgoščena vsebina }]
 const FILES = [
@@ -328,7 +328,7 @@ const FILES = [
   },
   {
     "u": "assets/assets/content/sl/questions/10_air_law.json",
-    "h": "24b36a78eda294f9"
+    "h": "203acb8cd498dce9"
   },
   {
     "u": "assets/assets/content/sl/questions/20_human_performance.json",

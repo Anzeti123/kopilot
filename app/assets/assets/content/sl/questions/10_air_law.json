@@ -1094,7 +1094,7 @@
       "T"
     ],
     "correct": 3,
-    "explanation": "Smer pristajanja pokaže bel znak T: pristajaš vzporedno z dolgim delom T proti prečki.",
+    "explanation": "Smer pristajanja pokaže znak T: pristajaš vzporedno z dolgim delom T proti prečki.",
     "theory": "10-signali",
     "images": [],
     "source": "ECQB-PPL (Aircademy)"
